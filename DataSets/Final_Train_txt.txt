@@ -1,4 +1,4 @@
-Edad,Sexo,Especialidad,Pacientes,Casos,Puntuación
+Edad,Sexo,Especialidad,Pacientes,Casos,Puntuacion
 43,H,Ayurveda,100,259,100%
 60,H,ENT Specialist,350,257,98%
 46,H,Ayurveda,300,325,
