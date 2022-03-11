@@ -1,0 +1,5962 @@
+Edad,Sexo,Especialidad,Pacientes,Casos,Puntuación
+43,H,Ayurveda,100,259,100%
+60,H,ENT Specialist,350,257,98%
+46,H,Ayurveda,300,325,
+58,H,Ayurveda,250,557,
+63,H,Ayurveda,250,539,100%
+49,H,Homeopath,100,86,
+55,H,Dentist,200,328,
+68,H,General Medicine,200,352,99%
+68,H,Dentist,100,411,
+44,H,ENT Specialist,100,153,
+34,H,Ayurveda,700,53,
+33,H,Dentist,100,492,
+30,H,Dentist,200,48,98%
+52,H,ENT Specialist,350,44,
+62,H,General Medicine,500,350,
+58,H,ENT Specialist,200,348,
+35,H,Homeopath,100,535,
+36,H,ENT Specialist,300,492,
+46,H,General Medicine,400,456,79%
+51,H,Dentist,150,504,100%
+57,H,ENT Specialist,100,509,100%
+41,H,General Medicine,500,232,
+42,H,General Medicine,200,88,
+38,H,Dermatologists,100,514,
+51,H,Dentist,100,485,
+30,H,General Medicine,100,597,
+61,H,General Medicine,500,580,100%
+52,H,Dentist,250,331,95%
+51,H,Dermatologists,100,424,
+49,H,Dermatologists,500,460,97%
+48,H,Dentist,500,165,97%
+59,H,ENT Specialist,500,294,
+38,H,General Medicine,100,79,94%
+46,H,Ayurveda,500,471,88%
+64,H,Dentist,300,406,
+40,H,Dentist,400,308,100%
+66,H,Homeopath,250,297,
+66,H,ENT Specialist,300,467,90%
+34,H,General Medicine,100,509,80%
+43,H,Dentist,100,583,
+33,H,Homeopath,250,55,100%
+43,H,Ayurveda,500,201,100%
+49,H,Ayurveda,500,495,100%
+38,H,Homeopath,300,214,
+66,H,Dermatologists,500,585,99%
+37,H,Dentist,500,397,
+51,H,General Medicine,200,78,100%
+34,H,Dermatologists,200,584,
+46,H,Dentist,400,153,93%
+66,H,General Medicine,200,237,
+57,H,Ayurveda,100,492,
+69,H,Dermatologists,150,549,
+50,H,Dentist,650,61,
+66,H,Ayurveda,100,299,100%
+43,H,ENT Specialist,300,59,100%
+68,H,Dentist,600,126,36%
+68,H,Dermatologists,200,79,100%
+65,H,General Medicine,400,467,97%
+39,H,General Medicine,500,378,
+34,H,General Medicine,500,406,99%
+59,H,Dentist,500,155,
+68,H,Dentist,200,10,99%
+64,H,Homeopath,200,398,98%
+33,H,Homeopath,150,507,
+70,H,Homeopath,200,458,
+64,H,Dentist,200,330,100%
+45,H,Dermatologists,500,37,100%
+61,H,Homeopath,500,306,78%
+36,H,ENT Specialist,150,316,
+35,H,Dentist,500,21,99%
+38,H,ENT Specialist,300,16,93%
+59,H,Homeopath,300,480,
+32,H,General Medicine,100,359,
+57,H,Dermatologists,100,112,
+30,H,General Medicine,350,246,87%
+55,H,Dentist,500,397,93%
+52,H,Dentist,100,523,
+33,H,Dermatologists,300,204,98%
+49,H,Dentist,600,547,97%
+48,H,General Medicine,200,537,
+45,H,Dentist,100,284,
+41,H,Ayurveda,250,351,
+30,H,Dermatologists,50,380,
+42,H,Dentist,100,382,99%
+50,H,General Medicine,200,217,100%
+52,H,Dentist,150,577,
+38,H,Dermatologists,500,531,99%
+32,H,Dermatologists,700,43,
+35,H,General Medicine,250,273,94%
+31,H,Ayurveda,50,472,
+56,H,Dermatologists,50,396,
+53,H,Ayurveda,100,527,
+33,H,Dentist,250,535,
+42,H,Dentist,200,15,100%
+69,H,Homeopath,500,538,100%
+47,H,Dermatologists,500,71,100%
+30,H,Dermatologists,700,337,97%
+36,H,Ayurveda,200,511,
+55,H,Dentist,100,426,
+34,H,Homeopath,200,134,98%
+55,H,Dentist,500,180,
+58,H,Dentist,200,556,100%
+46,H,Dentist,200,50,99%
+53,H,Dentist,100,439,100%
+38,H,General Medicine,300,440,98%
+69,H,ENT Specialist,100,412,
+35,H,Dentist,350,393,90%
+55,H,Ayurveda,300,309,
+42,H,Dentist,300,133,100%
+62,H,General Medicine,250,343,
+66,H,Ayurveda,100,197,
+50,H,Dermatologists,100,545,96%
+47,H,Dentist,500,333,90%
+33,H,Dentist,200,502,100%
+46,H,General Medicine,250,542,100%
+66,H,Dentist,500,589,
+53,H,Dermatologists,200,457,
+37,H,Dentist,100,131,95%
+56,H,Ayurveda,250,302,
+54,H,Ayurveda,500,435,
+67,H,Homeopath,150,371,
+54,H,Homeopath,100,592,
+50,H,Homeopath,500,311,
+65,H,ENT Specialist,200,18,82%
+33,H,Dermatologists,200,541,
+60,H,General Medicine,600,118,95%
+36,H,Dentist,300,207,
+61,H,General Medicine,300,9,100%
+50,H,ENT Specialist,800,349,
+42,H,Dermatologists,300,562,
+53,H,Dermatologists,100,328,90%
+46,H,Dentist,800,243,
+40,H,Homeopath,200,555,98%
+49,H,Dermatologists,350,499,100%
+48,H,General Medicine,100,258,
+36,H,Dermatologists,200,532,
+38,H,Dermatologists,300,169,
+54,H,General Medicine,500,131,89%
+53,H,General Medicine,400,421,89%
+58,H,ENT Specialist,100,200,100%
+49,H,General Medicine,500,279,74%
+50,H,ENT Specialist,750,17,96%
+49,H,ENT Specialist,800,289,86%
+66,H,Homeopath,200,316,100%
+34,H,ENT Specialist,250,577,
+30,H,Dermatologists,300,283,100%
+66,H,ENT Specialist,800,386,89%
+31,H,General Medicine,300,433,
+64,H,Dentist,150,20,
+42,H,Homeopath,400,224,92%
+55,H,Dentist,100,9,99%
+65,H,Ayurveda,300,38,100%
+59,H,Homeopath,200,124,100%
+52,H,Ayurveda,100,402,
+61,H,Homeopath,300,192,
+61,H,ENT Specialist,500,244,100%
+33,H,Dentist,500,176,95%
+45,H,Dentist,200,473,
+35,H,ENT Specialist,300,14,100%
+55,H,General Medicine,100,94,100%
+68,H,Dentist,600,46,95%
+36,H,Ayurveda,100,4,94%
+48,H,Dentist,300,281,
+35,H,Dermatologists,150,447,99%
+60,H,Dermatologists,400,240,80%
+44,H,Dentist,500,290,96%
+34,H,Dentist,300,243,
+70,H,Ayurveda,200,339,
+48,H,General Medicine,100,60,
+55,H,General Medicine,400,318,95%
+59,H,Homeopath,200,147,83%
+64,H,Ayurveda,200,483,100%
+60,H,ENT Specialist,300,109,
+34,H,Dentist,100,419,96%
+37,H,Homeopath,200,378,93%
+41,H,Dentist,500,16,100%
+38,H,General Medicine,100,1,98%
+61,H,Dermatologists,300,186,88%
+55,H,Ayurveda,400,598,76%
+41,H,General Medicine,300,161,
+44,H,Ayurveda,500,539,
+52,H,Homeopath,150,65,
+56,H,General Medicine,600,285,
+47,H,General Medicine,100,48,92%
+47,H,Dentist,100,179,85%
+43,H,Dentist,100,598,
+48,H,Dermatologists,100,205,100%
+62,H,ENT Specialist,300,552,
+51,H,Dermatologists,800,204,92%
+45,H,General Medicine,500,503,
+47,H,Dentist,250,266,
+37,H,Homeopath,200,52,95%
+31,H,Dermatologists,500,304,
+52,H,Ayurveda,500,332,
+67,H,ENT Specialist,300,475,
+58,H,Dermatologists,600,246,95%
+60,H,Dentist,450,327,96%
+65,H,Homeopath,300,273,
+57,H,Ayurveda,400,561,
+45,H,Ayurveda,100,150,
+55,H,Ayurveda,250,409,
+45,H,ENT Specialist,250,405,
+55,H,Ayurveda,700,309,
+46,H,ENT Specialist,150,255,
+48,H,Dentist,300,447,97%
+38,H,Dentist,500,493,
+66,H,Dermatologists,80,382,98%
+59,H,General Medicine,300,571,
+51,H,General Medicine,50,75,
+46,H,Dentist,100,557,56%
+69,H,Dentist,100,186,96%
+56,H,Dermatologists,200,201,
+58,H,ENT Specialist,500,462,97%
+37,H,Ayurveda,100,304,
+69,H,Homeopath,50,82,
+56,H,Dermatologists,450,177,
+43,H,Homeopath,300,475,80%
+45,H,General Medicine,250,488,
+51,H,Homeopath,100,342,
+49,H,Dentist,100,407,100%
+63,H,ENT Specialist,200,206,99%
+54,H,Dermatologists,300,566,93%
+58,H,Dentist,800,425,100%
+36,H,Homeopath,100,345,
+60,H,General Medicine,100,499,
+37,H,Homeopath,400,482,99%
+45,H,Dentist,700,246,
+66,H,General Medicine,100,435,
+60,H,Homeopath,100,135,
+40,H,Dentist,600,51,
+68,H,Homeopath,200,21,
+37,H,Homeopath,200,266,
+48,H,Ayurveda,100,42,
+45,H,ENT Specialist,200,534,
+47,H,Dentist,500,140,
+65,H,General Medicine,200,261,95%
+32,H,ENT Specialist,500,262,
+59,H,Dermatologists,800,242,98%
+49,H,Dermatologists,400,73,
+50,H,Dentist,500,507,94%
+58,H,General Medicine,200,269,98%
+51,H,Dentist,600,580,
+61,H,General Medicine,500,291,97%
+57,H,General Medicine,500,181,
+45,H,Dentist,100,453,
+42,H,Homeopath,200,199,99%
+40,H,ENT Specialist,100,240,97%
+47,H,Ayurveda,500,125,99%
+58,H,Homeopath,250,388,100%
+66,H,Homeopath,200,278,
+42,H,ENT Specialist,60,13,
+65,H,General Medicine,500,297,
+46,H,Dermatologists,100,83,80%
+67,H,General Medicine,600,48,94%
+31,H,Dentist,200,448,
+52,H,Homeopath,300,259,
+35,H,ENT Specialist,350,151,
+70,H,General Medicine,100,290,
+30,H,Homeopath,400,157,93%
+47,H,ENT Specialist,300,578,100%
+33,H,General Medicine,300,487,
+62,H,ENT Specialist,400,134,98%
+36,H,General Medicine,600,127,
+55,H,ENT Specialist,300,594,100%
+34,H,Dermatologists,300,133,
+50,H,Dentist,500,438,100%
+51,H,General Medicine,200,314,99%
+46,H,Dermatologists,500,3,93%
+37,H,Dentist,200,394,100%
+68,H,Homeopath,200,490,97%
+49,H,Dentist,300,594,100%
+67,H,ENT Specialist,550,527,
+61,H,Homeopath,550,413,91%
+41,H,Dentist,500,347,
+60,H,Dermatologists,200,120,99%
+31,H,Dermatologists,900,434,
+61,H,Homeopath,500,170,96%
+63,H,Dermatologists,100,285,
+42,H,Homeopath,700,488,
+45,H,Dentist,150,475,96%
+66,H,ENT Specialist,200,209,100%
+67,H,ENT Specialist,700,94,
+43,H,General Medicine,300,542,93%
+48,H,General Medicine,150,479,
+51,H,General Medicine,150,139,100%
+51,H,Homeopath,400,120,94%
+45,H,Ayurveda,300,165,
+44,H,Dermatologists,150,323,
+44,H,General Medicine,500,587,97%
+34,H,Dentist,100,476,
+63,H,Dentist,200,352,
+52,H,ENT Specialist,500,578,94%
+57,H,General Medicine,200,439,
+32,H,Ayurveda,950,20,100%
+43,H,Dermatologists,500,505,
+70,H,Dentist,750,175,
+31,H,Dentist,200,512,100%
+64,H,Dermatologists,100,503,
+59,H,Homeopath,200,477,
+63,H,Dermatologists,250,69,
+54,H,Ayurveda,500,316,97%
+48,H,Ayurveda,300,426,
+62,H,Ayurveda,100,284,99%
+52,H,General Medicine,100,366,
+32,H,Ayurveda,300,485,
+41,H,General Medicine,300,593,
+60,H,Dentist,300,95,
+56,H,Homeopath,350,405,100%
+69,H,ENT Specialist,200,484,
+53,H,Dentist,600,332,56%
+37,H,General Medicine,200,422,95%
+60,H,Ayurveda,400,221,
+30,H,Homeopath,100,2,
+62,H,Ayurveda,450,488,
+53,H,ENT Specialist,400,176,
+45,H,Dentist,600,523,
+52,H,Homeopath,100,133,
+37,H,General Medicine,200,265,
+64,H,ENT Specialist,200,514,
+68,H,Homeopath,100,371,
+64,H,General Medicine,150,374,
+54,H,Dermatologists,700,422,95%
+47,H,Dentist,150,298,
+70,H,Ayurveda,200,327,100%
+45,H,General Medicine,600,224,95%
+49,H,Homeopath,200,468,
+61,H,General Medicine,500,51,
+50,H,Dentist,300,334,92%
+59,H,ENT Specialist,200,536,100%
+36,H,Dermatologists,400,319,
+56,H,General Medicine,800,569,88%
+66,H,ENT Specialist,400,330,
+47,H,Dermatologists,300,119,
+69,H,Homeopath,400,354,68%
+31,H,Dermatologists,200,563,100%
+32,H,General Medicine,250,458,
+70,H,ENT Specialist,350,106,
+43,H,Dentist,300,261,
+63,H,Homeopath,600,261,99%
+38,H,Dentist,300,126,100%
+31,H,ENT Specialist,200,215,
+31,H,Ayurveda,400,221,
+70,H,Homeopath,400,258,
+34,H,General Medicine,350,247,
+32,H,ENT Specialist,150,189,
+30,H,Dermatologists,500,201,94%
+44,H,General Medicine,600,327,91%
+58,H,Ayurveda,200,547,
+62,H,Dermatologists,300,480,
+62,H,Dermatologists,350,543,98%
+54,H,Dentist,100,443,96%
+69,H,Dermatologists,100,586,
+39,H,General Medicine,300,165,
+70,H,General Medicine,500,292,
+31,H,Dentist,400,361,
+37,H,Homeopath,500,498,99%
+70,H,Ayurveda,60,190,
+30,H,Ayurveda,400,451,
+41,H,Homeopath,100,509,
+50,H,Dentist,300,169,
+51,H,Dermatologists,100,20,
+32,H,Dentist,100,224,
+38,H,Dentist,200,290,96%
+61,H,Dentist,100,9,
+31,H,Dermatologists,300,44,100%
+34,H,Homeopath,200,289,
+59,H,Dermatologists,300,459,100%
+67,H,ENT Specialist,300,538,98%
+68,H,General Medicine,500,470,
+43,H,Dermatologists,100,215,
+63,H,Dentist,400,455,
+44,H,ENT Specialist,200,121,97%
+31,H,Ayurveda,100,210,
+32,H,Ayurveda,100,176,
+63,H,Ayurveda,300,251,96%
+56,H,General Medicine,100,364,
+70,H,ENT Specialist,100,249,
+47,H,Ayurveda,400,531,60%
+52,H,Dentist,300,227,
+67,H,ENT Specialist,100,551,
+33,H,Ayurveda,100,1,
+69,H,Homeopath,150,260,
+52,H,Dentist,500,0,
+30,H,Homeopath,100,166,
+48,H,Dermatologists,600,13,100%
+64,H,Dermatologists,100,456,
+30,H,Dentist,600,119,
+37,H,General Medicine,500,413,
+70,H,General Medicine,100,90,88%
+48,H,General Medicine,100,87,
+34,H,General Medicine,100,518,
+41,H,General Medicine,100,388,
+49,H,ENT Specialist,100,430,
+46,H,Dermatologists,500,178,85%
+59,H,Ayurveda,200,324,
+33,H,Dermatologists,100,424,
+42,H,General Medicine,600,122,
+63,H,Ayurveda,400,280,100%
+68,H,Dentist,250,527,
+41,H,Ayurveda,150,269,98%
+48,H,Dentist,500,252,100%
+38,H,Dentist,500,214,98%
+64,H,Homeopath,200,29,
+30,H,Ayurveda,500,227,
+50,H,General Medicine,200,520,
+42,H,Dermatologists,430,70,100%
+34,H,Homeopath,600,129,96%
+68,H,Ayurveda,100,68,
+56,H,Dentist,80,177,
+38,H,Dentist,100,86,
+46,H,ENT Specialist,200,516,93%
+39,H,Dentist,100,124,
+56,H,Dentist,500,297,98%
+51,H,ENT Specialist,150,402,96%
+54,H,Dermatologists,150,373,83%
+56,H,Ayurveda,100,450,85%
+58,H,Dermatologists,100,198,
+68,H,General Medicine,100,561,100%
+47,H,Dermatologists,700,391,
+66,H,General Medicine,800,130,100%
+46,H,Homeopath,100,475,
+51,H,Dentist,50,154,
+47,H,Dermatologists,200,40,100%
+63,H,General Medicine,250,381,
+44,H,General Medicine,100,328,
+51,H,Ayurveda,500,74,85%
+51,H,General Medicine,250,266,100%
+70,H,Dermatologists,100,84,
+59,H,General Medicine,400,446,97%
+49,H,Dentist,600,545,93%
+30,H,Dermatologists,200,367,
+42,H,General Medicine,500,45,100%
+59,H,Dermatologists,300,340,97%
+47,H,Dentist,600,58,97%
+45,H,Dentist,300,420,96%
+63,H,Ayurveda,300,426,97%
+65,H,General Medicine,300,309,100%
+49,H,ENT Specialist,100,311,
+51,H,Dermatologists,300,207,
+62,H,Dentist,350,213,
+32,H,General Medicine,500,569,100%
+68,H,Dentist,150,232,
+54,H,Ayurveda,200,279,90%
+57,H,Homeopath,300,256,
+42,H,ENT Specialist,700,330,
+31,H,General Medicine,350,317,99%
+42,H,Homeopath,250,167,
+70,H,Dentist,100,240,
+35,H,General Medicine,300,518,100%
+56,H,General Medicine,400,106,
+51,H,General Medicine,500,325,100%
+68,H,Dentist,400,418,98%
+47,H,General Medicine,100,477,
+48,H,General Medicine,500,317,
+62,H,Ayurveda,100,163,
+38,H,General Medicine,150,378,88%
+50,H,Dentist,600,265,100%
+55,H,Dentist,500,217,96%
+62,H,ENT Specialist,400,532,75%
+55,H,Dentist,300,69,
+50,H,ENT Specialist,100,9,95%
+30,H,General Medicine,250,311,
+44,H,General Medicine,150,211,
+47,H,General Medicine,500,323,100%
+52,H,Dermatologists,50,212,
+31,H,Dentist,100,386,69%
+32,H,Dentist,250,297,98%
+48,H,Dentist,200,196,97%
+68,H,General Medicine,100,306,
+70,H,General Medicine,300,541,
+33,H,Dermatologists,400,397,
+53,H,Dermatologists,200,192,92%
+64,H,Dentist,500,399,93%
+68,H,Homeopath,250,172,
+48,H,Ayurveda,100,515,
+35,H,Homeopath,300,428,
+65,H,Dentist,200,500,
+43,H,Dermatologists,300,477,99%
+47,H,Ayurveda,100,212,95%
+58,H,General Medicine,200,404,
+60,H,Ayurveda,250,292,
+37,H,ENT Specialist,350,242,
+54,H,Dermatologists,300,98,
+69,H,Dentist,300,292,
+53,H,Ayurveda,200,261,
+43,H,Homeopath,200,452,
+31,H,Homeopath,250,211,
+56,H,Homeopath,500,387,94%
+42,H,Homeopath,200,568,100%
+31,H,General Medicine,100,414,98%
+55,H,Dentist,400,22,
+30,H,General Medicine,100,477,94%
+64,H,Dentist,100,327,
+42,H,Homeopath,100,508,97%
+37,H,Dentist,100,309,
+51,H,Dentist,250,501,
+55,H,ENT Specialist,300,315,100%
+48,H,Ayurveda,550,108,
+50,H,Dentist,100,249,
+36,H,Homeopath,100,108,
+47,H,General Medicine,50,56,
+41,H,Dermatologists,200,243,
+58,H,ENT Specialist,100,151,
+69,H,ENT Specialist,250,44,
+31,H,General Medicine,450,416,
+50,H,Dentist,400,545,100%
+41,H,Dermatologists,500,305,
+48,H,Dermatologists,500,334,100%
+33,H,Ayurveda,100,352,95%
+69,H,Dentist,300,455,
+43,H,General Medicine,250,525,
+58,H,Homeopath,100,438,
+40,H,Homeopath,100,184,97%
+56,H,Ayurveda,300,125,
+30,H,General Medicine,400,428,
+67,H,Dentist,100,358,
+60,H,Homeopath,200,159,
+54,H,General Medicine,500,440,
+40,H,Dentist,100,469,
+34,H,ENT Specialist,100,123,
+38,H,Dentist,500,482,
+49,H,Homeopath,200,252,
+60,H,Homeopath,100,239,
+41,H,ENT Specialist,100,157,
+33,H,General Medicine,100,273,
+38,H,Dermatologists,250,389,
+59,H,Dentist,400,500,
+35,H,General Medicine,200,258,97%
+53,H,ENT Specialist,300,227,
+54,H,Dermatologists,600,41,93%
+51,H,Dentist,500,419,
+66,H,Dentist,300,553,100%
+47,H,General Medicine,500,494,95%
+61,H,General Medicine,300,511,93%
+37,H,ENT Specialist,150,321,
+32,H,Dermatologists,250,495,
+50,H,Dermatologists,500,234,
+67,H,Dentist,700,503,80%
+41,H,ENT Specialist,100,330,99%
+58,H,Homeopath,350,139,
+51,H,Dentist,450,534,
+33,H,Dentist,100,270,100%
+42,H,Ayurveda,200,555,98%
+55,H,Dermatologists,300,174,
+45,H,Dentist,400,122,96%
+69,H,Ayurveda,200,165,98%
+41,H,Dermatologists,500,363,100%
+47,H,ENT Specialist,150,86,
+55,H,Ayurveda,700,242,98%
+36,H,General Medicine,100,432,96%
+60,H,Homeopath,100,104,
+48,H,Dentist,500,234,
+52,H,Ayurveda,450,573,97%
+63,H,Dermatologists,500,468,
+54,H,Dentist,400,43,95%
+40,H,ENT Specialist,100,124,
+67,H,General Medicine,350,175,
+40,H,General Medicine,600,452,94%
+69,H,Dentist,800,460,
+45,H,Dermatologists,200,165,92%
+54,H,General Medicine,100,402,100%
+68,H,ENT Specialist,100,24,
+35,H,Ayurveda,300,99,95%
+49,H,Dermatologists,100,131,
+70,H,General Medicine,300,116,
+53,H,Dermatologists,100,163,
+46,H,Ayurveda,400,130,
+69,H,Dermatologists,500,418,
+70,H,Homeopath,500,10,99%
+47,H,ENT Specialist,450,8,
+45,H,Dentist,150,394,
+44,H,Homeopath,300,162,100%
+48,H,Homeopath,300,296,
+35,H,Dermatologists,250,59,93%
+55,H,Homeopath,600,497,96%
+39,H,Dentist,300,165,
+55,H,General Medicine,300,21,
+69,H,Dentist,200,61,
+30,H,ENT Specialist,200,93,
+65,H,ENT Specialist,800,181,92%
+34,H,Dentist,600,143,
+70,H,Dentist,150,384,
+59,H,Homeopath,100,581,
+30,H,General Medicine,300,459,
+41,H,General Medicine,500,399,
+41,H,Dentist,250,321,73%
+48,H,Dentist,100,65,
+69,H,ENT Specialist,300,366,94%
+64,H,ENT Specialist,800,166,
+67,H,General Medicine,400,97,
+65,H,General Medicine,200,357,67%
+61,H,Dentist,500,35,100%
+47,H,Ayurveda,100,277,98%
+65,H,Dentist,200,290,
+33,H,Dermatologists,100,167,100%
+68,H,General Medicine,500,502,
+56,H,General Medicine,500,479,
+41,H,General Medicine,400,83,96%
+40,H,Dermatologists,100,81,
+31,H,Ayurveda,100,243,
+45,H,Dermatologists,300,509,
+44,H,Homeopath,400,26,100%
+35,H,Dentist,100,303,
+41,H,Dentist,200,459,
+35,H,Dermatologists,300,337,96%
+65,H,General Medicine,100,561,
+37,H,Ayurveda,250,576,
+36,H,General Medicine,250,55,
+64,H,Dentist,350,183,
+40,H,Dentist,300,341,100%
+32,H,General Medicine,100,73,
+40,H,Homeopath,100,341,
+47,H,Ayurveda,300,480,
+39,H,ENT Specialist,200,437,
+64,H,Dentist,50,413,
+65,H,Dermatologists,500,275,
+30,H,Dentist,700,226,89%
+61,H,Dermatologists,200,116,98%
+40,H,Homeopath,350,273,96%
+61,H,Homeopath,200,8,
+46,H,Dermatologists,500,463,
+68,H,General Medicine,500,371,
+57,H,Dermatologists,500,381,
+31,H,Dentist,250,536,
+66,H,Dentist,200,250,98%
+41,H,Dentist,200,402,
+39,H,Homeopath,200,552,
+48,H,ENT Specialist,500,270,97%
+51,H,Homeopath,500,336,99%
+60,H,Dentist,200,295,99%
+46,H,General Medicine,500,524,100%
+39,H,Dermatologists,300,274,
+57,H,Dentist,500,100,77%
+51,H,Ayurveda,400,378,98%
+44,H,General Medicine,250,593,
+36,H,Dentist,130,575,
+51,H,Ayurveda,350,128,96%
+36,H,Dentist,100,178,96%
+57,H,General Medicine,200,214,
+35,H,Ayurveda,800,469,82%
+42,H,ENT Specialist,100,441,
+35,H,Dentist,300,578,
+39,H,Dentist,500,277,
+65,H,General Medicine,200,37,100%
+44,H,Ayurveda,800,470,95%
+70,H,Dentist,500,263,95%
+36,H,Dermatologists,200,460,
+57,H,Dermatologists,250,10,
+65,H,ENT Specialist,500,298,100%
+65,H,General Medicine,500,390,
+37,H,Ayurveda,300,248,98%
+56,H,Homeopath,500,144,98%
+61,H,Dermatologists,750,380,98%
+55,H,ENT Specialist,500,552,
+34,H,Dermatologists,200,475,
+55,H,ENT Specialist,250,435,97%
+61,H,ENT Specialist,150,544,
+70,H,General Medicine,500,92,
+66,H,Dentist,700,369,98%
+67,H,ENT Specialist,200,460,
+58,H,Dermatologists,400,421,99%
+37,H,Dentist,300,137,96%
+35,H,Homeopath,100,79,100%
+48,H,Ayurveda,300,229,
+33,H,Dentist,500,319,100%
+59,H,Ayurveda,200,306,99%
+42,H,Dermatologists,200,434,
+63,H,Dentist,350,245,91%
+59,H,Ayurveda,200,76,98%
+34,H,Dentist,300,450,
+44,H,Ayurveda,800,500,100%
+45,H,General Medicine,300,230,98%
+49,H,Homeopath,100,258,
+31,H,Homeopath,100,523,
+41,H,Ayurveda,250,196,97%
+46,H,Ayurveda,200,87,
+63,H,Dentist,300,446,98%
+68,H,Dentist,200,574,98%
+40,H,Dentist,800,521,96%
+68,H,Dermatologists,100,344,100%
+47,H,Ayurveda,250,529,100%
+35,H,Homeopath,300,350,
+67,H,Homeopath,500,42,85%
+37,H,General Medicine,300,139,97%
+35,H,Ayurveda,200,57,
+40,H,Dentist,350,394,
+43,H,Ayurveda,100,233,
+32,H,General Medicine,300,399,
+66,H,General Medicine,500,337,
+33,H,General Medicine,100,199,
+40,H,Homeopath,700,71,98%
+68,H,Dermatologists,300,518,
+58,H,ENT Specialist,500,273,33%
+57,H,Dentist,300,564,
+56,H,Homeopath,100,486,100%
+45,H,Dermatologists,200,123,
+64,H,Dermatologists,400,598,85%
+64,H,Dentist,700,489,93%
+49,H,Ayurveda,150,63,100%
+36,H,Dentist,100,404,
+66,H,Dentist,200,196,99%
+70,H,Ayurveda,300,41,98%
+41,H,General Medicine,400,268,
+58,H,Dentist,200,50,
+39,H,Dermatologists,300,374,
+43,H,General Medicine,400,100,88%
+54,H,General Medicine,450,575,
+31,H,Ayurveda,100,55,97%
+45,H,Dentist,100,499,
+55,H,General Medicine,400,404,98%
+57,H,General Medicine,100,590,80%
+46,H,Dentist,150,390,
+42,H,Homeopath,250,400,98%
+36,H,Dentist,100,24,98%
+57,H,Ayurveda,200,589,
+33,H,General Medicine,200,528,98%
+57,H,Dentist,200,248,
+58,H,Ayurveda,150,451,
+50,H,Dermatologists,200,3,100%
+32,H,Dentist,150,576,
+40,H,Dermatologists,300,224,99%
+57,H,Dermatologists,100,107,89%
+45,H,Ayurveda,300,438,88%
+54,H,Dermatologists,500,294,
+30,H,Dentist,100,502,
+34,H,General Medicine,200,593,99%
+60,H,General Medicine,500,90,
+43,H,General Medicine,750,266,95%
+44,H,Dermatologists,100,159,
+40,H,Dentist,750,152,
+67,H,ENT Specialist,300,416,100%
+44,H,Dentist,150,537,55%
+69,H,Dermatologists,250,158,
+70,H,ENT Specialist,750,18,95%
+41,H,Ayurveda,300,206,90%
+58,H,Ayurveda,50,249,
+53,H,General Medicine,200,136,
+31,H,Dentist,500,399,88%
+48,H,Ayurveda,200,231,
+63,H,Homeopath,300,351,
+57,H,ENT Specialist,300,439,
+59,H,ENT Specialist,150,518,
+47,H,Dentist,400,491,80%
+49,H,Dentist,300,448,100%
+46,H,Dentist,200,161,99%
+46,H,General Medicine,400,536,95%
+70,H,Dentist,80,313,
+67,H,Dermatologists,300,88,96%
+46,H,Dentist,500,454,91%
+37,H,Homeopath,150,152,95%
+67,H,ENT Specialist,400,545,
+39,H,Dentist,200,263,
+34,H,General Medicine,300,476,91%
+32,H,Homeopath,300,292,
+51,H,Dermatologists,200,476,98%
+58,H,General Medicine,400,300,97%
+60,H,Dentist,600,462,96%
+62,H,Homeopath,200,567,98%
+30,H,Homeopath,800,512,100%
+39,H,Dentist,500,312,100%
+69,H,Homeopath,100,419,96%
+48,H,Dentist,300,386,
+53,H,Dermatologists,200,366,93%
+62,H,Homeopath,500,72,99%
+32,H,Dentist,300,439,97%
+58,H,Ayurveda,150,109,97%
+54,H,Dentist,300,516,
+35,H,Dermatologists,100,120,97%
+41,H,Homeopath,600,197,94%
+55,H,General Medicine,200,563,
+61,H,Homeopath,100,7,
+49,H,General Medicine,100,479,
+60,H,Homeopath,800,15,
+50,H,General Medicine,250,350,
+65,H,Dentist,400,412,
+55,H,ENT Specialist,200,110,97%
+50,H,ENT Specialist,400,572,
+62,H,Homeopath,630,223,
+68,H,ENT Specialist,150,513,
+31,H,Homeopath,100,304,
+48,H,Ayurveda,100,342,
+57,H,Ayurveda,250,338,
+41,H,General Medicine,500,430,100%
+34,H,Homeopath,600,40,
+53,H,Ayurveda,499,286,
+35,H,Homeopath,100,131,
+41,H,General Medicine,300,177,94%
+38,H,General Medicine,500,159,71%
+50,H,General Medicine,260,164,71%
+37,H,Homeopath,300,71,91%
+48,H,Homeopath,300,470,
+48,H,Dentist,450,313,
+48,H,General Medicine,100,210,97%
+45,H,General Medicine,500,467,96%
+30,H,Homeopath,250,373,
+53,H,Homeopath,300,562,
+45,H,General Medicine,100,318,
+63,H,Dermatologists,100,415,
+44,H,General Medicine,600,70,97%
+67,H,General Medicine,150,487,
+70,H,Dermatologists,100,130,
+60,H,Dentist,500,188,
+50,H,ENT Specialist,300,499,99%
+58,H,Dermatologists,300,141,93%
+39,H,Homeopath,300,357,
+55,H,Dermatologists,500,99,93%
+32,H,Dentist,500,358,84%
+51,H,Dentist,300,196,100%
+47,H,Ayurveda,300,436,98%
+46,H,General Medicine,400,467,
+45,H,ENT Specialist,200,102,79%
+30,H,Homeopath,200,463,92%
+46,H,Homeopath,200,146,
+47,H,General Medicine,250,112,100%
+64,H,General Medicine,400,153,
+43,H,General Medicine,150,229,74%
+45,H,Ayurveda,70,49,
+61,H,Dentist,500,578,
+61,H,Dentist,100,90,
+51,H,Dermatologists,200,349,99%
+63,H,General Medicine,700,389,99%
+44,H,General Medicine,100,376,
+58,H,Ayurveda,200,593,
+34,H,Homeopath,150,216,
+56,H,Homeopath,600,293,
+37,H,Ayurveda,600,202,
+43,H,Dentist,200,46,98%
+59,H,Dentist,200,229,97%
+66,H,ENT Specialist,300,380,98%
+49,H,Dentist,400,334,
+57,H,Dentist,200,537,97%
+34,H,Dermatologists,200,20,97%
+34,H,Dentist,300,177,
+48,H,Dermatologists,350,321,100%
+56,H,Dentist,650,495,89%
+59,H,Dermatologists,150,575,91%
+53,H,General Medicine,250,91,84%
+46,H,Dentist,750,284,99%
+55,H,Ayurveda,500,305,98%
+69,H,General Medicine,200,503,
+38,H,General Medicine,200,322,
+56,H,ENT Specialist,100,113,
+31,H,General Medicine,300,281,93%
+70,H,Ayurveda,100,329,
+62,H,Dermatologists,350,538,100%
+64,H,Dentist,800,299,100%
+66,H,Ayurveda,100,359,
+67,H,Dermatologists,100,8,
+41,H,General Medicine,400,363,
+50,H,Ayurveda,400,389,98%
+52,H,Dermatologists,100,347,
+57,H,Ayurveda,400,195,79%
+32,H,Homeopath,300,229,
+40,H,General Medicine,100,402,100%
+54,H,ENT Specialist,300,151,83%
+57,H,ENT Specialist,300,209,100%
+46,H,Homeopath,350,219,95%
+64,H,ENT Specialist,200,236,
+68,H,Ayurveda,400,77,
+39,H,ENT Specialist,100,154,
+49,H,Homeopath,450,188,
+30,H,General Medicine,500,164,
+50,H,Dentist,200,598,83%
+60,H,General Medicine,250,148,
+47,H,Dentist,400,561,93%
+36,H,Dentist,500,294,97%
+64,H,ENT Specialist,250,272,
+45,H,Dentist,100,437,
+61,H,ENT Specialist,100,457,
+33,H,General Medicine,400,125,
+69,H,Dentist,200,438,
+44,H,ENT Specialist,800,136,95%
+47,H,ENT Specialist,800,66,
+36,H,ENT Specialist,400,171,
+52,H,Dentist,700,292,91%
+45,H,Homeopath,300,419,100%
+34,H,Dermatologists,300,565,
+57,H,General Medicine,100,482,98%
+55,H,Homeopath,500,197,
+66,H,Homeopath,100,86,
+49,H,Homeopath,500,417,
+41,H,Dermatologists,500,492,
+40,H,General Medicine,600,327,100%
+36,H,Dermatologists,100,107,
+31,H,Dermatologists,300,104,
+69,H,ENT Specialist,500,72,
+57,H,Dentist,300,234,100%
+52,H,Dentist,250,178,
+45,H,Dermatologists,250,45,
+32,H,General Medicine,300,572,96%
+45,H,Dentist,100,391,
+35,H,General Medicine,500,570,97%
+30,H,Homeopath,100,510,
+46,H,Homeopath,350,505,
+44,H,Dentist,400,318,
+70,H,Dermatologists,200,26,
+51,H,Dentist,500,218,80%
+70,H,General Medicine,500,303,
+35,H,Homeopath,250,466,
+47,H,Dentist,300,184,
+56,H,ENT Specialist,250,396,
+56,H,General Medicine,300,148,
+51,H,Homeopath,200,322,
+50,H,Dentist,400,557,
+34,H,Dermatologists,100,203,
+53,H,ENT Specialist,100,213,99%
+63,H,Ayurveda,300,528,91%
+42,H,Dermatologists,200,235,
+44,H,Ayurveda,500,224,
+60,H,Dermatologists,400,143,
+39,H,Homeopath,700,64,
+54,H,ENT Specialist,500,120,45%
+32,H,Dermatologists,500,15,99%
+39,H,Dermatologists,100,19,97%
+59,H,Dentist,750,160,100%
+61,H,Dermatologists,250,147,
+58,H,Homeopath,300,462,
+52,H,ENT Specialist,150,559,
+47,H,Dermatologists,400,479,77%
+37,H,ENT Specialist,250,169,
+37,H,Dermatologists,100,43,
+63,H,Dentist,800,249,96%
+50,H,Ayurveda,100,130,100%
+39,H,Homeopath,500,452,92%
+56,H,Ayurveda,100,216,
+34,H,Dermatologists,300,101,
+67,H,Dentist,500,371,
+63,H,Dentist,200,304,
+41,H,Ayurveda,100,215,
+35,H,Dentist,500,75,97%
+53,H,Dermatologists,300,596,96%
+53,H,Homeopath,100,290,100%
+59,H,Dentist,200,163,
+63,H,Dentist,100,155,98%
+32,H,Dermatologists,200,371,94%
+47,H,Dentist,200,227,96%
+60,H,Dentist,200,153,98%
+62,H,ENT Specialist,300,81,100%
+31,H,Dentist,100,563,
+31,H,Dermatologists,100,190,96%
+46,H,Dentist,300,27,100%
+50,H,Dermatologists,200,166,
+54,H,Dentist,400,352,
+46,H,Ayurveda,300,565,100%
+68,H,Ayurveda,150,357,
+57,H,Homeopath,200,115,
+43,H,General Medicine,100,264,
+54,H,Dentist,500,335,94%
+50,H,General Medicine,300,234,100%
+49,H,Ayurveda,600,323,
+46,H,Homeopath,300,595,
+54,H,ENT Specialist,500,134,
+55,H,Dentist,250,66,
+43,H,General Medicine,200,345,
+54,H,Dentist,200,590,
+31,H,Dentist,100,67,97%
+46,H,General Medicine,300,526,100%
+64,H,Dermatologists,400,381,
+48,H,General Medicine,700,370,96%
+35,H,ENT Specialist,100,39,94%
+31,H,General Medicine,500,573,90%
+48,H,Ayurveda,500,227,90%
+69,H,General Medicine,100,376,
+57,H,Dentist,100,424,
+58,H,Homeopath,200,314,100%
+61,H,Dermatologists,200,571,
+47,H,Dermatologists,300,339,
+41,H,General Medicine,500,572,
+62,H,General Medicine,400,404,77%
+49,H,Dermatologists,200,571,
+44,H,Dermatologists,500,449,88%
+37,H,Dentist,100,57,92%
+40,H,General Medicine,100,248,98%
+61,H,ENT Specialist,100,130,100%
+49,H,Homeopath,600,380,
+45,H,General Medicine,200,448,
+64,H,Dentist,100,87,
+40,H,Dentist,200,587,99%
+54,H,Dermatologists,200,172,97%
+65,H,Dentist,550,463,63%
+33,H,Homeopath,100,271,93%
+52,H,Dermatologists,450,391,
+34,H,ENT Specialist,500,150,95%
+40,H,Dermatologists,300,594,90%
+55,H,Ayurveda,600,442,94%
+42,H,Dentist,200,13,100%
+33,H,ENT Specialist,100,403,92%
+39,H,Dentist,900,593,93%
+53,H,Homeopath,100,567,
+69,H,General Medicine,500,454,
+32,H,Dentist,250,438,72%
+64,H,Homeopath,200,131,
+47,H,Dentist,100,222,100%
+46,H,Ayurveda,500,511,95%
+45,H,General Medicine,300,327,
+35,H,Homeopath,300,397,
+56,H,Homeopath,100,354,
+67,H,General Medicine,500,479,
+44,H,General Medicine,750,102,74%
+50,H,Ayurveda,150,439,
+43,H,Dentist,250,229,
+50,H,Dermatologists,100,137,
+42,H,Ayurveda,100,523,
+38,H,ENT Specialist,500,194,
+59,H,Homeopath,100,314,
+57,H,Homeopath,400,224,
+41,H,Dermatologists,50,318,
+49,H,Homeopath,300,105,100%
+35,H,General Medicine,200,157,
+40,H,ENT Specialist,250,146,
+48,H,Dentist,100,362,88%
+54,H,Homeopath,300,279,99%
+32,H,Homeopath,200,265,100%
+32,H,Homeopath,600,123,
+60,H,General Medicine,800,168,100%
+70,H,Dermatologists,50,29,
+59,H,ENT Specialist,500,412,79%
+60,H,General Medicine,100,372,86%
+61,H,Dermatologists,350,431,60%
+70,H,General Medicine,500,136,97%
+51,H,Homeopath,200,364,
+36,H,ENT Specialist,500,404,
+67,H,General Medicine,400,434,93%
+61,H,Homeopath,600,285,
+60,H,Dentist,100,68,
+54,H,Ayurveda,100,185,
+32,H,Dermatologists,100,207,
+58,H,Ayurveda,800,351,100%
+35,H,General Medicine,350,169,100%
+52,H,ENT Specialist,550,433,
+37,H,Dermatologists,400,238,
+39,H,Ayurveda,400,64,
+43,H,Ayurveda,100,212,
+59,H,ENT Specialist,300,185,
+32,H,Dentist,600,300,
+44,H,Dermatologists,100,67,
+52,H,Dentist,700,273,97%
+57,H,Dentist,300,502,98%
+58,H,ENT Specialist,100,273,
+66,H,Dermatologists,100,325,
+33,H,Dentist,300,37,94%
+43,H,General Medicine,100,565,96%
+54,H,Dentist,600,549,
+60,H,Dentist,200,197,94%
+52,H,Dentist,200,52,
+49,H,Homeopath,100,104,
+40,H,Dentist,300,301,
+59,H,Homeopath,100,20,100%
+32,H,Homeopath,400,144,80%
+55,H,Dermatologists,300,158,100%
+65,H,Dentist,700,431,94%
+35,H,Dentist,500,180,95%
+55,H,Dentist,100,295,96%
+59,H,Dermatologists,500,236,100%
+56,H,Homeopath,500,178,95%
+49,H,Dentist,200,357,
+44,H,Ayurveda,500,259,98%
+38,H,Ayurveda,50,268,
+31,H,General Medicine,300,52,100%
+40,H,General Medicine,300,54,
+70,H,Homeopath,200,495,
+54,H,Dentist,200,174,98%
+52,H,General Medicine,150,366,98%
+69,H,Homeopath,300,348,
+64,H,Dermatologists,100,351,
+36,H,Homeopath,400,311,93%
+50,H,ENT Specialist,150,498,
+69,H,Ayurveda,500,530,100%
+35,H,General Medicine,200,300,
+53,H,General Medicine,200,47,97%
+68,H,General Medicine,500,295,95%
+70,H,Dentist,350,507,
+59,H,Dermatologists,100,7,
+54,H,Dermatologists,500,548,
+41,H,Dentist,100,294,100%
+37,H,General Medicine,100,396,
+56,H,General Medicine,750,118,92%
+41,H,Dentist,100,4,
+53,H,Dentist,500,555,100%
+43,H,Ayurveda,100,372,
+30,H,Homeopath,200,310,
+56,H,Ayurveda,300,158,
+42,H,Dermatologists,80,274,
+45,H,Dentist,100,470,
+57,H,Ayurveda,200,116,
+30,H,Dentist,60,335,
+40,H,Homeopath,100,535,100%
+39,H,Dermatologists,100,392,
+59,H,Dermatologists,500,468,99%
+68,H,Ayurveda,600,328,97%
+38,H,Ayurveda,200,126,
+41,H,Dentist,100,306,
+59,H,Dentist,300,198,99%
+42,H,General Medicine,100,413,93%
+32,H,Dermatologists,300,124,
+51,H,General Medicine,500,267,
+39,H,Dentist,600,135,
+56,H,ENT Specialist,200,131,100%
+45,H,ENT Specialist,100,53,
+51,H,General Medicine,300,163,
+34,H,Ayurveda,200,137,
+55,H,Dentist,100,589,100%
+47,H,Homeopath,200,369,
+65,H,Homeopath,150,286,
+64,H,Ayurveda,250,251,
+48,H,Ayurveda,100,230,
+59,H,Dentist,200,163,
+43,H,ENT Specialist,200,256,99%
+62,H,Dentist,500,189,
+31,H,General Medicine,200,25,
+48,H,General Medicine,100,116,
+47,H,General Medicine,400,162,
+35,H,Homeopath,400,160,
+52,H,Ayurveda,500,386,
+55,H,Dentist,500,7,96%
+51,H,General Medicine,200,73,100%
+40,H,Homeopath,800,310,
+67,H,ENT Specialist,200,296,100%
+67,H,Dentist,350,232,
+39,H,Dermatologists,100,498,100%
+64,H,Homeopath,400,595,87%
+39,H,ENT Specialist,100,305,100%
+68,H,Dentist,400,580,
+46,H,Ayurveda,700,410,100%
+51,H,Dentist,100,309,
+64,H,Dermatologists,100,546,
+41,H,Dentist,300,223,
+59,H,General Medicine,200,510,
+62,H,Dermatologists,100,7,
+47,H,Ayurveda,500,251,
+50,H,Homeopath,200,364,
+32,H,Homeopath,100,590,
+49,H,General Medicine,300,381,97%
+44,H,General Medicine,200,223,
+34,H,ENT Specialist,250,533,97%
+45,H,Dentist,100,571,
+36,H,General Medicine,100,161,
+59,H,Homeopath,200,178,
+68,H,General Medicine,200,484,
+30,H,Homeopath,300,226,
+63,H,ENT Specialist,300,314,
+68,H,Dermatologists,100,178,
+56,H,Dentist,300,347,88%
+58,H,General Medicine,500,400,
+57,H,General Medicine,80,249,
+63,H,Homeopath,300,516,
+35,H,Homeopath,500,331,
+34,H,ENT Specialist,100,50,
+65,H,Dermatologists,500,68,
+47,H,Dermatologists,800,435,81%
+41,H,Dentist,100,510,100%
+36,H,ENT Specialist,100,487,
+46,H,Dermatologists,700,243,
+53,H,Homeopath,100,479,100%
+36,H,Dermatologists,200,262,
+39,H,Homeopath,400,288,
+35,H,Dentist,250,319,
+39,H,Dentist,200,208,100%
+34,H,General Medicine,100,515,
+36,H,General Medicine,200,327,
+51,H,Ayurveda,100,456,
+31,H,General Medicine,200,492,96%
+40,H,Dentist,300,300,
+56,H,General Medicine,200,182,100%
+63,H,ENT Specialist,100,467,
+70,H,Dentist,300,97,
+53,H,Dermatologists,100,80,96%
+57,H,Dermatologists,700,169,97%
+70,H,Dermatologists,100,68,94%
+34,H,Dermatologists,300,446,96%
+30,H,ENT Specialist,100,56,56%
+66,H,Homeopath,500,167,90%
+51,H,Homeopath,150,540,
+39,H,Dentist,100,124,
+56,H,Dermatologists,100,211,
+64,H,ENT Specialist,700,121,
+38,H,Dentist,100,593,100%
+38,H,ENT Specialist,100,92,97%
+58,H,General Medicine,300,108,94%
+47,H,Dermatologists,400,137,96%
+43,H,Dermatologists,400,10,93%
+60,H,General Medicine,200,86,
+46,H,Ayurveda,100,452,
+62,H,Ayurveda,500,130,81%
+47,H,Dermatologists,200,114,
+67,H,ENT Specialist,300,143,
+47,H,ENT Specialist,600,122,
+66,H,Ayurveda,100,448,
+62,H,ENT Specialist,300,188,
+34,H,ENT Specialist,400,390,100%
+56,H,ENT Specialist,350,41,
+52,H,Dermatologists,400,516,94%
+35,H,Homeopath,500,311,94%
+32,H,Dermatologists,500,580,97%
+36,H,Dermatologists,450,387,
+49,H,Ayurveda,200,404,80%
+31,H,Homeopath,100,457,
+42,H,General Medicine,800,480,
+30,H,Dentist,300,597,
+45,H,ENT Specialist,200,170,98%
+35,H,Dentist,400,386,98%
+31,H,Dermatologists,100,478,
+51,H,Ayurveda,250,488,95%
+66,H,Homeopath,200,369,100%
+64,H,Ayurveda,150,222,
+40,H,Ayurveda,100,164,
+35,H,General Medicine,150,368,
+66,H,Dentist,200,71,
+53,H,Ayurveda,300,487,99%
+51,H,Dermatologists,100,139,91%
+60,H,ENT Specialist,100,280,
+41,H,General Medicine,400,434,
+65,H,Dentist,400,130,100%
+49,H,General Medicine,200,525,
+64,H,Dentist,700,522,
+63,H,Dermatologists,300,399,96%
+49,H,Ayurveda,100,168,
+34,H,General Medicine,400,577,
+46,H,Dentist,700,558,
+34,H,Dentist,100,17,95%
+58,H,Dentist,200,30,
+53,H,Dentist,200,132,100%
+35,H,Dermatologists,200,62,100%
+44,H,Ayurveda,500,153,94%
+70,H,Dentist,200,193,
+61,H,Dermatologists,100,186,97%
+39,H,Dentist,200,91,
+54,H,Dermatologists,300,385,
+62,H,Dermatologists,350,182,100%
+56,H,Homeopath,600,272,99%
+62,H,Dermatologists,750,98,
+42,H,General Medicine,100,562,98%
+59,H,Dentist,600,167,95%
+36,H,General Medicine,150,561,100%
+42,H,General Medicine,500,84,97%
+66,H,ENT Specialist,200,245,
+42,H,General Medicine,400,565,
+58,H,Dentist,100,498,
+46,H,General Medicine,300,573,100%
+60,H,ENT Specialist,200,374,
+39,H,Dentist,100,229,62%
+55,H,Dentist,200,456,99%
+36,H,Dermatologists,150,568,
+47,H,General Medicine,200,300,100%
+48,H,General Medicine,100,491,
+63,H,Dermatologists,300,512,
+33,H,General Medicine,400,286,
+49,H,General Medicine,100,179,
+45,H,General Medicine,500,353,86%
+37,H,General Medicine,500,421,92%
+66,H,Homeopath,600,539,90%
+59,H,Dermatologists,450,599,
+34,H,General Medicine,500,301,
+30,H,ENT Specialist,500,569,94%
+40,H,General Medicine,400,576,
+36,H,Dentist,200,304,
+56,H,Homeopath,400,558,98%
+66,H,Dentist,150,396,
+38,H,ENT Specialist,150,74,
+66,H,Dentist,400,208,92%
+48,H,Dermatologists,500,524,97%
+67,H,General Medicine,300,478,96%
+67,H,ENT Specialist,500,209,
+47,H,Ayurveda,200,598,
+69,H,Dermatologists,100,102,97%
+70,H,Ayurveda,700,363,97%
+38,H,Dentist,200,260,
+37,H,General Medicine,250,377,
+50,H,Ayurveda,300,134,100%
+35,H,Dermatologists,100,318,
+54,H,Ayurveda,300,29,
+42,H,Dentist,150,378,96%
+50,H,Dentist,100,532,98%
+37,H,Ayurveda,100,562,100%
+57,H,ENT Specialist,100,260,
+53,H,Dentist,250,589,96%
+67,H,Ayurveda,100,304,
+50,H,General Medicine,200,451,
+53,H,Homeopath,300,61,
+70,H,Dentist,500,440,96%
+61,H,Dentist,350,173,
+67,H,ENT Specialist,500,256,97%
+36,H,General Medicine,700,206,
+48,H,Ayurveda,400,576,82%
+41,H,Dentist,300,13,
+53,H,Dentist,500,472,98%
+36,H,General Medicine,200,239,100%
+54,H,Dentist,200,586,
+57,H,Dentist,200,91,99%
+70,H,Dentist,100,428,99%
+62,H,Ayurveda,100,338,
+41,H,Dentist,500,97,
+30,H,ENT Specialist,300,28,
+56,H,Ayurveda,300,101,
+69,H,Ayurveda,350,296,
+41,H,Dentist,100,43,
+63,H,Ayurveda,500,282,
+31,H,ENT Specialist,100,294,82%
+61,H,Dentist,500,238,
+60,H,General Medicine,100,201,95%
+33,H,Dentist,300,140,93%
+31,H,Homeopath,100,288,100%
+66,H,ENT Specialist,350,391,
+40,H,Dentist,500,149,57%
+61,H,Ayurveda,150,506,100%
+70,H,Homeopath,50,314,
+67,H,Homeopath,250,508,
+62,H,Ayurveda,200,529,
+55,H,Dentist,200,59,
+30,H,General Medicine,150,348,
+64,H,Homeopath,350,413,93%
+68,H,Dentist,250,592,
+52,H,Dermatologists,100,188,97%
+61,H,General Medicine,700,262,94%
+45,H,General Medicine,900,406,100%
+53,H,Ayurveda,500,560,
+31,H,Dentist,10,456,
+51,H,Dentist,200,132,99%
+33,H,Dermatologists,100,295,98%
+70,H,Dentist,200,154,86%
+58,H,General Medicine,200,410,100%
+36,H,ENT Specialist,700,185,97%
+44,H,ENT Specialist,500,353,
+58,H,Homeopath,500,188,100%
+65,H,Dermatologists,300,499,
+47,H,Dentist,500,569,99%
+30,H,Dermatologists,200,327,95%
+45,H,General Medicine,300,302,97%
+65,H,Dentist,100,579,96%
+50,H,Dentist,100,447,
+56,H,General Medicine,100,328,
+55,H,ENT Specialist,100,360,
+58,H,Ayurveda,300,127,
+48,H,Dermatologists,200,348,100%
+54,H,General Medicine,200,274,89%
+60,H,General Medicine,550,432,
+64,H,Dentist,700,46,
+45,H,Dermatologists,500,263,91%
+57,H,Homeopath,500,245,95%
+59,H,Homeopath,300,282,96%
+59,H,ENT Specialist,150,415,
+40,H,Homeopath,600,344,
+61,H,Dentist,200,26,
+52,H,Dentist,200,284,94%
+32,H,ENT Specialist,300,478,100%
+51,H,ENT Specialist,700,231,94%
+33,H,Dentist,100,149,
+42,H,General Medicine,100,411,99%
+63,H,ENT Specialist,300,165,
+30,H,Dermatologists,700,58,
+49,H,ENT Specialist,600,136,98%
+65,H,Dentist,300,485,
+62,H,Dermatologists,100,437,95%
+69,H,Homeopath,500,122,100%
+39,H,Dermatologists,500,591,94%
+50,H,Homeopath,400,229,98%
+53,H,ENT Specialist,200,10,
+70,H,Dermatologists,600,61,
+62,H,Dentist,500,125,98%
+37,H,Dentist,400,599,99%
+61,H,Dentist,200,262,95%
+69,H,Ayurveda,500,141,98%
+30,H,Ayurveda,150,197,
+64,H,Dentist,350,197,
+69,H,Dentist,200,489,
+55,H,Ayurveda,300,536,
+50,H,Ayurveda,100,387,
+37,H,Homeopath,100,131,
+46,H,Dermatologists,100,296,
+55,H,Dentist,400,514,92%
+39,H,Dermatologists,100,112,
+41,H,Dentist,250,142,
+48,H,Dermatologists,300,468,96%
+64,H,ENT Specialist,300,490,100%
+32,H,ENT Specialist,300,451,
+66,H,Homeopath,550,58,95%
+62,H,ENT Specialist,600,443,
+32,H,Homeopath,650,221,
+61,H,Ayurveda,100,103,
+48,H,Ayurveda,200,225,
+55,H,ENT Specialist,400,289,
+70,H,Homeopath,500,74,
+57,H,Dermatologists,800,197,100%
+45,H,Dermatologists,100,437,94%
+36,H,General Medicine,400,547,
+69,H,Dermatologists,300,516,
+38,H,General Medicine,700,113,99%
+54,H,Dermatologists,400,168,
+40,H,Dentist,100,380,97%
+59,H,General Medicine,500,225,100%
+44,H,General Medicine,500,400,100%
+56,H,Dermatologists,100,481,
+70,H,General Medicine,800,485,77%
+57,H,Dentist,300,352,
+60,H,Ayurveda,100,321,97%
+50,H,Dermatologists,70,332,
+58,H,Homeopath,300,136,96%
+50,H,Ayurveda,100,267,96%
+63,H,Dermatologists,300,131,
+61,H,Dentist,800,96,93%
+38,H,ENT Specialist,100,258,
+44,H,Dentist,600,152,93%
+59,H,Ayurveda,300,365,100%
+64,H,ENT Specialist,300,25,
+58,H,Ayurveda,500,185,
+31,H,Dermatologists,300,474,99%
+31,H,General Medicine,100,534,95%
+54,H,Dentist,200,279,
+37,H,Homeopath,500,580,98%
+45,H,Ayurveda,400,520,
+42,H,General Medicine,350,47,99%
+65,H,Dentist,300,186,
+53,H,General Medicine,200,593,97%
+63,H,Ayurveda,300,465,
+53,H,Dentist,299,130,
+54,H,ENT Specialist,200,323,
+57,H,Homeopath,400,311,83%
+45,H,Dermatologists,600,296,95%
+54,H,General Medicine,100,110,93%
+48,H,ENT Specialist,800,430,
+50,H,General Medicine,500,335,
+43,H,Ayurveda,300,582,
+31,H,Dermatologists,500,398,
+40,H,Ayurveda,100,524,96%
+63,H,Dermatologists,200,129,
+55,H,General Medicine,750,444,77%
+32,H,Dermatologists,600,484,
+70,H,Ayurveda,100,528,
+40,H,Ayurveda,100,443,100%
+44,H,Dentist,100,525,
+30,H,Dentist,100,153,
+58,H,General Medicine,300,360,98%
+58,H,Dermatologists,100,320,
+58,H,Ayurveda,100,369,77%
+37,H,Dentist,150,168,100%
+46,H,Dentist,300,23,
+40,H,General Medicine,200,501,88%
+37,H,General Medicine,600,358,79%
+38,H,Dentist,200,441,100%
+36,H,Homeopath,500,584,96%
+44,H,Homeopath,400,538,
+60,H,General Medicine,300,491,
+31,H,Dentist,300,372,
+66,H,ENT Specialist,100,26,98%
+42,H,Dermatologists,300,133,60%
+69,H,General Medicine,550,117,97%
+64,H,General Medicine,200,80,
+68,H,General Medicine,500,237,100%
+31,H,Ayurveda,350,135,
+36,H,Dentist,500,496,
+32,H,General Medicine,500,539,96%
+66,H,General Medicine,70,224,
+34,H,Homeopath,150,100,
+40,H,Ayurveda,150,475,
+48,H,Homeopath,200,124,
+35,H,General Medicine,250,248,100%
+44,H,ENT Specialist,350,66,
+41,H,Dermatologists,300,440,
+64,H,Dentist,250,595,98%
+59,H,Ayurveda,200,340,
+65,H,General Medicine,70,130,
+58,H,Dentist,100,98,
+36,H,Dermatologists,200,42,100%
+58,H,Ayurveda,400,508,91%
+70,H,ENT Specialist,100,37,
+47,H,Homeopath,100,383,
+38,H,Homeopath,550,475,100%
+63,H,General Medicine,200,347,
+48,H,General Medicine,150,44,
+52,H,Dentist,400,91,
+40,H,Homeopath,100,97,
+54,H,Ayurveda,100,463,
+46,H,Homeopath,100,207,
+39,H,Dentist,150,456,
+48,H,ENT Specialist,200,525,98%
+53,H,ENT Specialist,300,502,74%
+51,H,Dermatologists,300,440,
+67,H,General Medicine,500,580,97%
+65,H,Dermatologists,350,401,90%
+56,H,Dermatologists,600,112,99%
+48,H,Dentist,500,305,
+48,H,Ayurveda,100,548,99%
+30,H,Dermatologists,200,232,
+41,H,Ayurveda,250,154,100%
+53,H,General Medicine,300,172,
+51,H,ENT Specialist,50,337,
+60,H,Dentist,500,196,
+63,H,Homeopath,100,199,
+54,H,ENT Specialist,200,315,
+57,H,Dermatologists,400,495,
+52,H,ENT Specialist,100,183,89%
+35,H,Dentist,500,586,
+69,H,Dentist,400,440,97%
+32,H,Ayurveda,100,160,
+59,H,Dermatologists,400,23,96%
+65,H,Dentist,500,11,95%
+52,H,Dentist,100,105,
+51,H,Ayurveda,100,524,
+53,H,Ayurveda,250,160,
+49,H,Dermatologists,100,25,
+42,H,Dermatologists,500,178,
+70,H,Dermatologists,200,423,
+70,H,Dermatologists,500,138,100%
+46,H,Ayurveda,300,267,93%
+65,H,General Medicine,100,44,
+39,H,General Medicine,100,391,
+63,H,Homeopath,500,289,
+43,H,General Medicine,200,122,94%
+39,H,Ayurveda,300,105,97%
+66,H,ENT Specialist,200,284,
+34,H,Dentist,500,32,
+53,H,Ayurveda,200,329,100%
+43,H,Dermatologists,100,550,
+59,H,General Medicine,700,291,100%
+48,H,General Medicine,700,137,98%
+55,H,General Medicine,400,408,98%
+63,H,Dermatologists,300,355,
+48,H,General Medicine,700,570,
+59,H,General Medicine,300,570,99%
+45,H,Ayurveda,300,311,96%
+41,H,Homeopath,200,421,
+53,H,Ayurveda,200,2,
+66,H,Ayurveda,300,112,
+31,H,Homeopath,400,42,
+33,H,General Medicine,100,466,
+34,H,Dentist,200,335,
+58,H,Dentist,100,22,
+46,H,ENT Specialist,200,458,98%
+64,H,Dermatologists,100,332,
+54,H,Homeopath,400,98,98%
+57,H,Ayurveda,350,472,100%
+43,H,General Medicine,500,444,100%
+33,H,Ayurveda,500,46,100%
+38,H,Dermatologists,200,17,
+42,H,ENT Specialist,400,430,98%
+38,H,ENT Specialist,350,566,
+42,H,Dentist,800,365,
+65,H,Homeopath,200,38,100%
+38,H,Ayurveda,200,401,
+47,H,Dentist,150,516,93%
+61,H,Dentist,200,525,98%
+46,H,Dermatologists,300,540,
+38,H,Homeopath,200,180,100%
+30,H,General Medicine,500,453,
+44,H,Homeopath,550,455,
+53,H,Dermatologists,500,97,100%
+43,H,General Medicine,500,98,97%
+55,H,Ayurveda,500,304,91%
+32,H,Dentist,100,100,
+62,H,Dentist,100,541,100%
+36,H,Dermatologists,250,373,
+69,H,Dermatologists,300,432,96%
+33,H,ENT Specialist,100,260,
+65,H,Dermatologists,350,21,
+44,H,Homeopath,500,233,
+69,H,General Medicine,450,66,
+59,H,Dermatologists,500,237,
+57,H,General Medicine,400,92,
+61,H,Dentist,100,306,
+68,H,Dermatologists,200,156,
+47,H,Dermatologists,500,328,
+53,H,Dermatologists,300,155,100%
+36,H,Dentist,500,70,98%
+41,H,Homeopath,800,155,
+55,H,Dermatologists,100,556,94%
+30,H,ENT Specialist,100,424,
+46,H,Ayurveda,500,484,100%
+32,H,Dermatologists,500,305,
+55,H,General Medicine,100,440,95%
+48,H,Homeopath,500,98,
+64,H,Homeopath,200,27,
+53,H,Ayurveda,100,145,
+40,H,Dentist,100,128,
+40,H,General Medicine,300,550,95%
+43,H,Dentist,450,503,97%
+60,H,Dentist,500,383,
+51,H,ENT Specialist,100,589,96%
+32,H,Ayurveda,200,523,
+41,H,Homeopath,50,337,
+43,H,Ayurveda,400,115,98%
+58,H,Dentist,100,559,
+64,H,General Medicine,100,375,100%
+54,H,Dermatologists,200,391,
+54,H,General Medicine,500,285,
+47,H,Dentist,100,114,
+32,H,General Medicine,500,200,
+64,H,Dermatologists,350,377,93%
+63,H,Dermatologists,100,525,
+50,H,Ayurveda,100,454,
+47,H,General Medicine,500,521,
+66,H,Homeopath,100,89,
+41,H,Dermatologists,450,503,
+59,H,Homeopath,300,160,79%
+59,H,Dermatologists,500,446,99%
+60,H,Dentist,500,281,69%
+64,H,Homeopath,300,333,99%
+36,H,Dentist,400,148,
+54,H,Dentist,500,117,100%
+42,H,Dermatologists,500,393,
+62,H,General Medicine,700,540,96%
+67,H,General Medicine,500,487,
+45,H,Dentist,100,31,
+56,H,Homeopath,200,138,97%
+50,H,Homeopath,200,159,
+65,H,ENT Specialist,500,423,
+48,H,Homeopath,150,129,
+65,H,Dentist,400,71,
+34,H,General Medicine,200,310,
+52,H,Ayurveda,250,398,
+52,H,Homeopath,100,97,
+54,H,Dermatologists,300,173,
+69,H,Dermatologists,250,368,
+44,H,Homeopath,800,112,96%
+53,H,General Medicine,500,103,90%
+33,H,Homeopath,300,112,72%
+37,H,Dentist,100,71,
+47,H,Ayurveda,100,241,
+69,H,Homeopath,50,159,
+57,H,General Medicine,150,318,
+62,H,General Medicine,200,493,
+38,H,Dermatologists,100,327,
+43,H,Ayurveda,100,329,100%
+32,H,Dentist,500,82,98%
+47,H,Ayurveda,100,556,
+68,H,Dentist,200,85,
+37,H,Ayurveda,250,542,
+36,H,Dentist,350,129,
+69,H,Ayurveda,300,528,99%
+55,H,General Medicine,250,85,
+53,H,Ayurveda,100,364,98%
+36,H,Dermatologists,100,334,
+62,H,Ayurveda,900,388,
+51,H,Dentist,300,579,
+53,H,General Medicine,100,406,
+51,H,Dermatologists,100,535,
+35,H,Dentist,500,262,79%
+50,H,Ayurveda,300,208,100%
+37,H,General Medicine,500,244,
+38,H,Dermatologists,500,279,
+31,H,ENT Specialist,250,32,
+42,H,Ayurveda,100,343,
+66,H,Ayurveda,150,57,
+44,H,General Medicine,300,50,
+59,H,General Medicine,200,56,100%
+32,H,General Medicine,700,315,
+47,H,Dermatologists,200,497,100%
+45,H,General Medicine,700,327,
+38,H,ENT Specialist,200,334,98%
+33,H,Ayurveda,100,99,76%
+40,H,Dentist,50,142,
+65,H,Dentist,100,204,
+56,H,ENT Specialist,100,373,100%
+36,H,Dentist,700,378,95%
+33,H,Dermatologists,500,50,
+34,H,ENT Specialist,250,508,100%
+55,H,ENT Specialist,200,319,
+49,H,General Medicine,600,542,
+32,H,Homeopath,800,363,
+47,H,Dentist,700,547,
+49,H,Dentist,150,131,
+49,H,General Medicine,300,480,100%
+63,H,Ayurveda,600,78,90%
+67,H,General Medicine,500,365,100%
+30,H,Dentist,300,560,
+31,H,Dentist,150,520,
+65,H,Dentist,200,574,100%
+50,H,Dentist,300,174,
+58,H,Ayurveda,200,403,99%
+55,H,General Medicine,100,407,97%
+45,H,ENT Specialist,550,170,100%
+52,H,ENT Specialist,800,111,
+58,H,Homeopath,100,69,
+36,H,Homeopath,300,555,100%
+51,H,Dermatologists,300,69,100%
+66,H,Dentist,100,36,95%
+49,H,Dentist,100,134,100%
+51,H,Dermatologists,100,111,98%
+59,H,ENT Specialist,200,388,
+61,H,Homeopath,400,329,
+37,H,Dentist,100,204,100%
+49,H,General Medicine,200,512,100%
+45,H,Dentist,100,156,
+43,H,General Medicine,100,171,100%
+70,H,General Medicine,100,569,
+63,H,Homeopath,300,525,
+44,H,Ayurveda,200,524,100%
+55,H,General Medicine,300,329,
+62,H,Ayurveda,300,40,
+34,H,Homeopath,100,317,
+51,H,General Medicine,350,423,
+33,H,General Medicine,600,489,
+55,H,Dentist,100,416,
+65,H,Dentist,500,573,100%
+53,H,Ayurveda,300,516,
+37,H,General Medicine,200,168,
+69,H,General Medicine,100,285,91%
+49,H,Dentist,300,285,
+33,H,ENT Specialist,300,462,82%
+59,H,ENT Specialist,500,199,
+42,H,Dentist,300,213,91%
+45,H,General Medicine,200,182,97%
+40,H,General Medicine,100,191,
+69,H,General Medicine,300,431,92%
+46,H,General Medicine,300,63,81%
+32,H,ENT Specialist,300,569,100%
+46,H,Dentist,400,300,
+69,H,Dentist,100,332,99%
+41,H,ENT Specialist,300,99,100%
+58,H,Dentist,800,502,
+54,H,Ayurveda,300,520,97%
+33,H,Homeopath,200,2,
+64,H,Homeopath,250,386,
+51,H,Dermatologists,300,557,
+64,H,Homeopath,700,227,100%
+44,H,ENT Specialist,70,447,
+49,H,Ayurveda,300,434,
+54,H,ENT Specialist,200,384,
+57,H,General Medicine,500,538,60%
+64,H,Dentist,200,179,
+48,H,Ayurveda,200,2,100%
+49,H,Dentist,100,74,
+56,H,Homeopath,200,306,95%
+49,H,Dentist,500,155,
+52,H,Dermatologists,100,39,99%
+45,H,Homeopath,700,598,96%
+59,H,Dentist,50,548,
+33,H,Homeopath,300,499,98%
+46,H,Dermatologists,500,446,
+35,H,Dentist,100,422,97%
+43,H,Dermatologists,100,593,
+60,H,Homeopath,500,394,93%
+50,H,Dermatologists,300,385,
+69,H,Dentist,400,154,100%
+49,H,Dermatologists,250,482,99%
+69,H,Dentist,100,491,
+59,H,Dentist,400,431,100%
+64,H,General Medicine,100,262,100%
+47,H,Homeopath,300,318,93%
+42,H,Ayurveda,100,260,
+62,H,Dentist,300,137,
+54,H,ENT Specialist,500,16,96%
+33,H,Ayurveda,300,13,77%
+50,H,Dermatologists,100,92,
+58,H,Dentist,400,137,79%
+65,H,General Medicine,200,513,91%
+67,H,Dermatologists,250,283,
+33,H,General Medicine,400,217,94%
+67,H,ENT Specialist,650,340,67%
+39,H,ENT Specialist,200,244,
+48,H,ENT Specialist,400,375,
+39,H,General Medicine,300,315,100%
+36,H,Dentist,100,42,
+70,H,General Medicine,300,475,98%
+56,H,Dermatologists,200,267,
+47,H,Dermatologists,100,407,
+52,H,General Medicine,500,538,96%
+65,H,Ayurveda,150,488,
+33,H,Dentist,200,105,
+36,H,General Medicine,500,550,
+51,H,Ayurveda,300,577,87%
+67,H,Dentist,100,299,
+60,H,Homeopath,200,218,99%
+69,H,General Medicine,300,411,100%
+51,H,Dentist,500,0,
+37,H,Dermatologists,300,330,100%
+46,H,Ayurveda,500,261,
+42,H,Dermatologists,750,13,96%
+62,H,Dermatologists,500,401,
+64,H,Ayurveda,700,450,91%
+52,H,Dermatologists,200,0,
+61,H,Homeopath,400,498,96%
+48,H,Dentist,130,331,
+55,H,Ayurveda,400,213,100%
+68,H,Homeopath,500,221,100%
+37,H,General Medicine,250,565,
+55,H,Dermatologists,200,291,
+66,H,Ayurveda,500,19,
+58,H,General Medicine,500,168,88%
+52,H,Ayurveda,100,38,57%
+68,H,ENT Specialist,100,521,
+69,H,General Medicine,650,149,95%
+61,H,General Medicine,500,169,
+50,H,Dentist,500,144,
+62,H,Dermatologists,300,503,99%
+54,H,ENT Specialist,300,208,
+50,H,General Medicine,300,222,
+36,H,Dentist,500,466,
+53,H,Dentist,200,274,100%
+53,H,Ayurveda,200,267,
+41,H,Homeopath,100,139,
+43,H,Ayurveda,100,413,100%
+57,H,Dentist,600,573,
+63,H,General Medicine,150,168,
+53,H,Dermatologists,200,455,84%
+60,H,Ayurveda,500,283,
+32,H,ENT Specialist,200,506,
+40,H,Dentist,700,525,72%
+48,H,Dentist,300,430,100%
+47,H,Ayurveda,150,49,
+42,H,Dentist,100,482,
+47,H,Dermatologists,300,370,98%
+45,H,Dermatologists,400,114,
+44,H,Homeopath,800,591,85%
+48,H,Dentist,100,471,
+31,H,Dermatologists,200,131,99%
+61,H,General Medicine,100,184,
+31,H,Dentist,200,403,
+35,H,Ayurveda,250,494,92%
+39,H,Dermatologists,500,115,96%
+63,H,ENT Specialist,400,444,
+58,H,Dentist,200,3,
+58,H,ENT Specialist,200,232,100%
+63,H,Dermatologists,200,370,
+70,H,Homeopath,400,363,95%
+54,H,General Medicine,500,383,99%
+36,H,Homeopath,230,421,
+59,H,General Medicine,100,179,
+60,H,Homeopath,500,441,99%
+61,H,General Medicine,150,295,
+51,H,ENT Specialist,400,121,99%
+49,H,Dentist,500,77,98%
+40,H,Homeopath,400,4,90%
+39,H,Homeopath,300,392,100%
+31,H,ENT Specialist,400,410,91%
+59,H,Dentist,200,258,
+32,H,Homeopath,200,71,95%
+32,H,Dermatologists,150,465,
+34,H,Dentist,100,141,
+38,H,Dentist,200,400,
+62,H,Dentist,100,130,98%
+61,H,General Medicine,400,195,91%
+58,H,Dentist,380,375,82%
+61,H,Dermatologists,200,285,92%
+32,H,Homeopath,100,260,
+41,H,Homeopath,500,418,
+47,H,ENT Specialist,500,419,
+62,H,ENT Specialist,400,226,
+67,H,General Medicine,250,165,
+46,H,General Medicine,100,207,
+65,H,Homeopath,100,116,94%
+69,H,Dentist,50,258,100%
+33,H,General Medicine,600,577,
+50,H,Dermatologists,100,70,
+50,H,Dermatologists,100,1,
+31,H,Dermatologists,400,120,89%
+63,H,Dermatologists,400,9,
+62,H,General Medicine,300,449,
+68,H,Dentist,700,347,80%
+67,H,Dermatologists,150,257,95%
+69,H,ENT Specialist,300,209,
+46,H,Dermatologists,300,26,
+52,H,General Medicine,500,23,
+30,H,Dentist,350,347,73%
+38,H,ENT Specialist,200,584,
+61,H,Dentist,500,184,
+33,H,Homeopath,500,255,100%
+64,H,General Medicine,200,473,
+58,H,Dentist,600,29,
+62,H,Ayurveda,100,206,100%
+53,H,ENT Specialist,50,400,
+65,H,General Medicine,100,153,93%
+59,H,Ayurveda,100,366,
+46,H,Homeopath,300,521,97%
+32,H,Dentist,100,14,100%
+44,H,General Medicine,100,426,
+45,H,Dermatologists,100,107,
+49,H,General Medicine,100,321,100%
+57,H,Dermatologists,600,431,
+34,H,Dentist,100,572,98%
+63,H,Dermatologists,100,436,
+55,H,ENT Specialist,500,8,90%
+55,H,Homeopath,450,293,
+34,H,General Medicine,200,448,
+70,H,General Medicine,300,489,
+52,H,Dentist,700,258,100%
+69,H,Dermatologists,200,268,97%
+42,H,ENT Specialist,100,507,
+58,H,Ayurveda,400,250,73%
+61,H,Dermatologists,150,276,
+32,H,Dentist,100,386,
+36,H,Dermatologists,200,223,97%
+39,H,General Medicine,100,173,
+47,H,Dermatologists,300,443,
+54,H,ENT Specialist,100,77,95%
+59,H,General Medicine,100,12,91%
+69,H,Dermatologists,100,122,
+41,H,General Medicine,100,460,99%
+62,H,General Medicine,600,121,
+58,H,Homeopath,200,579,
+63,H,Ayurveda,500,502,99%
+34,H,General Medicine,500,22,
+47,H,General Medicine,700,510,
+53,H,Homeopath,700,260,
+53,H,Dentist,300,161,99%
+35,H,Ayurveda,100,577,96%
+68,H,Dermatologists,500,116,
+66,H,Dentist,250,560,100%
+38,H,Dentist,100,156,100%
+41,H,Dentist,100,271,94%
+70,H,Dermatologists,200,341,100%
+44,H,Homeopath,500,251,
+34,H,ENT Specialist,500,566,
+38,H,Homeopath,700,568,
+52,H,ENT Specialist,500,336,
+46,H,Ayurveda,100,17,
+57,H,Ayurveda,150,26,
+30,H,Ayurveda,200,483,
+63,H,Homeopath,500,113,85%
+50,H,Dentist,500,306,
+33,H,Ayurveda,100,149,
+51,H,ENT Specialist,50,593,
+64,H,General Medicine,600,5,97%
+64,H,Homeopath,400,201,92%
+64,H,Homeopath,100,526,98%
+68,H,Ayurveda,100,24,
+69,H,Ayurveda,500,42,
+58,H,Dermatologists,200,462,
+35,H,Ayurveda,500,454,91%
+57,H,Homeopath,100,16,
+33,H,Dentist,500,258,92%
+54,H,Dentist,200,322,
+34,H,Homeopath,500,113,100%
+30,H,Dentist,100,67,91%
+42,H,General Medicine,200,377,100%
+33,H,General Medicine,600,202,
+53,H,ENT Specialist,250,2,
+37,H,Homeopath,400,290,
+64,H,General Medicine,100,273,
+47,H,Dermatologists,200,387,
+42,H,Dentist,100,546,98%
+58,H,General Medicine,5,394,
+51,H,Ayurveda,800,323,
+63,H,Homeopath,50,424,
+36,H,Dermatologists,500,264,
+30,H,Dentist,100,114,97%
+68,H,General Medicine,500,598,99%
+64,H,Dermatologists,600,175,
+57,H,Dentist,500,67,79%
+49,H,Dermatologists,250,285,
+40,H,Dentist,250,245,
+33,H,Dentist,100,419,97%
+51,H,Ayurveda,500,153,
+32,H,Dermatologists,100,142,98%
+63,H,Homeopath,300,544,99%
+35,H,General Medicine,50,484,
+54,H,Dermatologists,250,3,94%
+62,H,General Medicine,500,53,98%
+32,H,Ayurveda,600,60,99%
+48,H,General Medicine,100,567,
+42,H,Dentist,600,242,
+30,H,Dentist,800,179,94%
+57,H,Dentist,200,559,98%
+57,H,ENT Specialist,100,552,
+63,H,General Medicine,400,502,93%
+66,H,Dentist,250,188,
+45,H,Dermatologists,100,311,
+43,H,Dentist,500,140,92%
+38,H,General Medicine,300,483,98%
+67,H,ENT Specialist,500,28,
+34,H,General Medicine,200,223,
+66,H,Dentist,300,412,
+52,H,Dermatologists,100,485,100%
+57,H,Ayurveda,600,98,97%
+38,H,General Medicine,200,519,
+45,H,ENT Specialist,100,92,
+38,H,Dermatologists,300,507,97%
+65,H,Dentist,100,427,
+32,H,Ayurveda,100,547,
+61,H,Ayurveda,100,502,
+59,H,Ayurveda,200,51,
+37,H,ENT Specialist,250,153,93%
+39,H,ENT Specialist,600,97,
+57,H,Dermatologists,500,495,
+32,H,Dentist,600,247,94%
+58,H,Dentist,200,168,
+40,H,Homeopath,150,405,97%
+38,H,Dermatologists,100,355,
+46,H,ENT Specialist,700,500,98%
+30,H,ENT Specialist,500,12,
+40,H,Homeopath,300,94,99%
+57,H,General Medicine,500,66,
+32,H,Ayurveda,400,59,
+47,H,Dermatologists,200,331,
+67,H,Homeopath,100,204,97%
+64,H,ENT Specialist,100,462,100%
+65,H,General Medicine,100,566,84%
+38,H,ENT Specialist,600,558,
+40,H,Homeopath,800,164,96%
+64,H,Ayurveda,500,185,
+41,H,Dermatologists,250,374,
+45,H,Homeopath,100,501,90%
+32,H,Ayurveda,250,429,
+46,H,General Medicine,150,353,100%
+40,H,Dentist,100,452,92%
+52,H,Homeopath,500,316,100%
+30,H,Ayurveda,250,528,99%
+53,H,General Medicine,350,380,
+37,H,Dentist,300,230,
+45,H,Dermatologists,500,235,90%
+65,H,Dermatologists,100,46,95%
+50,H,General Medicine,100,362,
+51,H,Dermatologists,600,592,
+37,H,Homeopath,200,206,88%
+44,H,Homeopath,400,72,
+69,H,Ayurveda,100,304,
+38,H,Dentist,400,505,
+60,H,ENT Specialist,100,218,
+62,H,General Medicine,100,517,
+58,H,Dentist,800,87,95%
+60,H,General Medicine,500,344,
+54,H,Homeopath,500,34,
+41,H,Dentist,100,108,
+61,H,Dentist,150,151,
+39,H,Dentist,150,304,98%
+63,H,General Medicine,400,506,97%
+68,H,Ayurveda,400,283,95%
+31,H,Homeopath,100,121,
+56,H,Dermatologists,400,431,100%
+70,H,Dentist,800,445,95%
+52,H,Dentist,100,583,99%
+43,H,Dermatologists,300,392,98%
+60,H,General Medicine,500,517,
+45,H,General Medicine,500,61,88%
+34,H,Homeopath,200,248,
+66,H,Dermatologists,300,39,
+55,H,General Medicine,500,54,98%
+43,H,ENT Specialist,400,185,
+59,H,General Medicine,400,169,94%
+37,H,Homeopath,300,404,
+34,H,Homeopath,400,521,98%
+68,H,Dermatologists,350,282,
+57,H,Dentist,400,516,
+39,H,Dentist,500,213,
+33,H,General Medicine,300,382,96%
+34,H,Dentist,450,99,94%
+53,H,Ayurveda,300,212,97%
+60,H,Ayurveda,100,166,100%
+65,H,Dentist,300,3,
+33,H,Homeopath,200,380,97%
+32,H,Dermatologists,300,483,
+41,H,Homeopath,350,469,93%
+32,H,Dermatologists,200,427,
+69,H,General Medicine,300,174,
+53,H,General Medicine,200,294,
+33,H,ENT Specialist,100,480,
+45,H,General Medicine,300,38,
+62,H,General Medicine,100,522,
+43,H,Dentist,750,291,89%
+67,H,General Medicine,200,38,100%
+38,H,General Medicine,400,542,80%
+44,H,General Medicine,70,493,
+59,H,Dentist,500,390,
+56,H,Dentist,250,48,
+51,H,General Medicine,300,508,98%
+62,H,Homeopath,300,305,
+59,H,Dermatologists,150,107,
+49,H,Dermatologists,300,108,
+60,H,Dentist,700,308,91%
+60,H,Dentist,250,380,90%
+53,H,General Medicine,100,142,
+33,H,Dentist,350,533,
+45,H,General Medicine,250,269,99%
+45,H,General Medicine,100,266,
+66,H,Dentist,200,195,
+57,H,Dermatologists,300,426,99%
+57,H,Dentist,400,88,96%
+40,H,Homeopath,100,338,
+60,H,Dentist,300,335,100%
+42,H,Dermatologists,100,191,100%
+62,H,General Medicine,100,237,97%
+69,H,ENT Specialist,150,352,
+67,H,Homeopath,100,62,
+32,H,ENT Specialist,300,284,
+53,H,Dermatologists,250,27,86%
+49,H,Dentist,300,63,96%
+53,H,Dermatologists,100,207,100%
+48,H,Dermatologists,800,532,100%
+31,H,Dermatologists,500,147,
+55,H,Dentist,100,531,
+61,H,General Medicine,400,327,100%
+64,H,General Medicine,800,105,98%
+59,H,Homeopath,300,189,100%
+36,H,Homeopath,100,364,
+68,H,General Medicine,250,115,
+66,H,Homeopath,100,482,
+52,H,Homeopath,500,311,
+52,H,Dentist,400,594,100%
+34,H,Homeopath,100,177,
+43,H,ENT Specialist,100,544,
+42,H,Ayurveda,300,269,57%
+32,H,Dermatologists,400,137,
+50,H,Ayurveda,250,299,95%
+65,H,Dermatologists,300,176,
+65,H,Ayurveda,500,105,96%
+42,H,Dentist,70,410,
+31,H,Homeopath,500,534,96%
+37,H,Dentist,800,228,
+54,H,General Medicine,200,140,
+69,H,Homeopath,100,220,98%
+54,H,General Medicine,100,193,
+59,H,ENT Specialist,400,396,96%
+64,H,Dentist,700,14,
+43,H,Dermatologists,800,172,98%
+66,H,Homeopath,500,439,98%
+57,H,Dermatologists,300,176,
+36,H,Dentist,200,194,100%
+33,H,Ayurveda,250,445,
+39,H,Dermatologists,500,171,
+38,H,General Medicine,400,216,96%
+56,H,ENT Specialist,300,449,
+32,H,General Medicine,700,395,
+52,H,General Medicine,500,407,
+47,H,Dermatologists,100,174,
+58,H,Dermatologists,500,334,88%
+39,H,Ayurveda,750,420,97%
+51,H,ENT Specialist,150,290,
+30,H,Homeopath,280,462,
+47,H,ENT Specialist,400,390,
+63,H,Homeopath,500,105,85%
+60,H,Homeopath,500,578,100%
+47,H,Dentist,300,337,99%
+58,H,Dentist,100,217,99%
+47,H,Ayurveda,300,290,
+32,H,Dentist,200,117,
+37,H,Dentist,500,308,100%
+30,H,Dermatologists,500,21,100%
+70,H,Dermatologists,500,82,99%
+30,H,Dermatologists,500,466,100%
+33,H,Ayurveda,800,321,89%
+65,H,General Medicine,200,462,
+47,H,Dentist,200,368,
+55,H,Dermatologists,200,276,99%
+51,H,Homeopath,250,429,
+31,H,Dermatologists,500,206,100%
+48,H,Ayurveda,500,132,
+69,H,Dermatologists,500,574,88%
+62,H,Dentist,150,219,
+69,H,ENT Specialist,200,250,100%
+60,H,ENT Specialist,100,20,85%
+52,H,Ayurveda,500,426,92%
+68,H,Dermatologists,100,534,
+52,H,ENT Specialist,700,401,100%
+33,H,Ayurveda,600,154,96%
+33,H,Homeopath,500,527,100%
+64,H,Homeopath,300,600,
+64,H,Homeopath,300,382,
+49,H,General Medicine,300,48,
+50,H,ENT Specialist,100,484,
+52,H,Homeopath,500,2,89%
+30,H,Dentist,200,435,97%
+32,H,Ayurveda,700,99,96%
+56,H,Dentist,500,340,
+62,H,Homeopath,500,520,100%
+64,H,General Medicine,250,15,
+50,H,Dentist,350,176,
+61,H,Ayurveda,500,94,100%
+67,H,Dermatologists,100,304,
+57,H,Dentist,800,191,99%
+63,H,Dentist,500,252,99%
+41,H,Dermatologists,200,418,
+38,H,General Medicine,500,190,98%
+51,H,Dentist,650,94,73%
+60,H,Dentist,100,166,
+43,H,General Medicine,300,81,100%
+67,H,General Medicine,600,547,
+56,H,Dermatologists,900,277,100%
+59,H,Ayurveda,100,294,
+32,H,Dermatologists,100,165,
+37,H,Dentist,100,174,
+50,H,ENT Specialist,250,532,
+47,H,Dermatologists,200,336,
+65,H,General Medicine,450,582,100%
+40,H,General Medicine,500,248,
+34,H,Dentist,100,218,
+41,H,Dentist,200,375,
+45,H,Dermatologists,300,423,
+55,H,Dermatologists,500,25,
+49,H,Dermatologists,300,66,91%
+47,H,General Medicine,100,57,
+54,H,Dermatologists,150,427,
+30,H,Dentist,600,136,
+36,H,Dentist,200,405,93%
+58,H,ENT Specialist,200,343,
+68,H,Ayurveda,300,540,
+41,H,General Medicine,800,250,
+39,H,Dentist,150,8,
+49,H,Homeopath,400,331,99%
+60,H,Homeopath,150,271,
+57,H,Dermatologists,200,375,
+60,H,Ayurveda,50,111,
+48,H,Dermatologists,250,331,
+39,H,ENT Specialist,400,462,96%
+37,H,Dermatologists,200,147,
+35,H,Homeopath,300,401,97%
+54,H,General Medicine,500,559,
+35,H,ENT Specialist,250,89,100%
+52,H,Homeopath,700,379,99%
+70,H,ENT Specialist,200,96,
+40,H,ENT Specialist,200,600,80%
+56,H,Dermatologists,600,44,
+69,H,Dentist,250,166,
+39,H,General Medicine,100,90,98%
+69,H,General Medicine,200,544,
+68,H,Homeopath,200,282,
+59,H,ENT Specialist,800,348,97%
+41,H,Ayurveda,500,467,86%
+60,H,Dentist,200,313,
+52,H,ENT Specialist,100,73,99%
+66,H,Dermatologists,100,374,96%
+60,H,General Medicine,300,312,90%
+30,H,General Medicine,100,247,
+42,H,Dermatologists,150,544,
+40,H,Dermatologists,800,403,
+38,H,Ayurveda,200,554,
+68,H,Homeopath,500,541,
+46,H,General Medicine,700,279,
+30,H,ENT Specialist,500,335,100%
+31,H,Dentist,350,525,
+64,H,Ayurveda,300,116,
+60,H,Homeopath,500,261,
+61,H,General Medicine,300,487,
+57,H,Dermatologists,100,366,
+48,H,Dermatologists,100,160,100%
+41,H,General Medicine,400,177,
+45,H,Dentist,100,490,
+42,H,Ayurveda,100,116,
+34,H,Dentist,200,97,
+46,H,Dentist,150,213,98%
+65,H,Dentist,200,353,100%
+51,H,Dermatologists,300,298,98%
+51,H,ENT Specialist,300,32,99%
+45,H,General Medicine,300,107,97%
+41,H,Dentist,250,188,100%
+70,H,Dentist,300,499,100%
+51,H,Dentist,100,238,
+67,H,Dermatologists,500,322,98%
+35,H,Dermatologists,500,134,82%
+44,H,Homeopath,400,511,91%
+43,H,General Medicine,500,139,
+61,H,Dentist,300,140,92%
+35,H,ENT Specialist,200,68,96%
+52,H,Dentist,800,588,
+32,H,Dentist,400,216,100%
+41,H,Dermatologists,100,315,95%
+45,H,Dentist,300,526,98%
+63,H,Ayurveda,100,69,100%
+36,H,Homeopath,200,139,100%
+64,H,Homeopath,200,328,
+46,H,ENT Specialist,40,482,
+30,H,Dermatologists,300,149,
+68,H,General Medicine,100,201,
+58,H,ENT Specialist,50,348,
+44,H,Dentist,900,524,95%
+47,H,Dentist,150,582,90%
+69,H,General Medicine,100,8,98%
+44,H,General Medicine,150,498,93%
+51,H,Dentist,500,227,
+48,H,Dermatologists,150,274,95%
+69,H,Dermatologists,750,30,94%
+47,H,Dermatologists,300,181,95%
+45,H,Dentist,600,538,
+66,H,General Medicine,200,419,96%
+68,H,General Medicine,200,34,
+39,H,ENT Specialist,100,27,
+53,H,General Medicine,600,508,
+52,H,Dentist,250,483,
+53,H,Homeopath,500,208,
+34,H,Dermatologists,500,488,95%
+57,H,Dermatologists,500,131,
+53,H,ENT Specialist,300,2,
+40,H,General Medicine,400,500,98%
+32,H,Dermatologists,200,532,
+60,H,Dermatologists,500,412,84%
+36,H,Dentist,100,180,86%
+36,H,ENT Specialist,100,120,96%
+32,H,Homeopath,700,454,89%
+66,H,General Medicine,300,568,
+36,H,Dentist,400,278,67%
+43,H,General Medicine,150,472,100%
+67,H,General Medicine,600,345,100%
+58,H,Ayurveda,100,497,
+45,H,Dentist,150,506,
+65,H,Dermatologists,200,470,88%
+64,H,ENT Specialist,300,74,
+32,H,General Medicine,250,285,
+38,H,Dermatologists,800,24,100%
+35,H,General Medicine,250,347,
+65,H,ENT Specialist,300,375,
+35,H,Dentist,500,27,89%
+53,H,Homeopath,250,129,
+52,H,General Medicine,250,56,
+57,H,General Medicine,500,506,96%
+54,H,Dentist,250,134,
+68,H,Homeopath,500,94,
+42,H,General Medicine,500,408,98%
+47,H,Dermatologists,500,553,94%
+57,H,General Medicine,400,379,88%
+39,H,General Medicine,300,364,
+44,H,ENT Specialist,100,111,
+39,H,Ayurveda,500,433,
+61,H,ENT Specialist,150,424,
+59,H,Dermatologists,100,550,
+58,H,Dentist,400,579,100%
+30,H,Dentist,300,264,100%
+51,H,Homeopath,200,455,
+30,H,Homeopath,150,524,
+52,H,Ayurveda,150,534,92%
+34,H,ENT Specialist,200,555,
+46,H,ENT Specialist,200,557,
+58,H,Dentist,500,493,77%
+43,H,Dermatologists,100,496,
+41,H,Dentist,600,148,98%
+62,H,Homeopath,300,180,95%
+55,H,Dermatologists,200,340,100%
+59,H,Homeopath,400,118,
+53,H,Homeopath,800,64,
+56,H,Ayurveda,100,193,
+59,H,Ayurveda,500,244,
+49,H,Dentist,100,406,
+51,H,Dermatologists,200,237,
+44,H,General Medicine,450,68,99%
+56,H,Dentist,500,319,
+45,H,ENT Specialist,200,441,95%
+32,H,Ayurveda,400,113,67%
+49,H,Dermatologists,500,380,97%
+41,H,Homeopath,500,565,100%
+63,H,General Medicine,450,72,
+57,H,Dermatologists,300,498,
+49,H,Dermatologists,100,185,
+67,H,Homeopath,400,128,91%
+52,H,Homeopath,450,518,100%
+48,H,General Medicine,500,109,100%
+67,H,Dentist,400,591,98%
+30,H,Dentist,200,457,
+51,H,Ayurveda,300,8,100%
+62,H,ENT Specialist,100,586,
+58,H,Ayurveda,200,90,
+31,H,Dentist,500,284,90%
+44,H,Ayurveda,200,529,100%
+45,H,Ayurveda,100,177,
+32,H,ENT Specialist,300,404,
+45,H,ENT Specialist,150,526,
+58,H,Dermatologists,500,429,
+69,H,Homeopath,500,259,96%
+42,H,Dermatologists,300,239,
+46,H,General Medicine,400,576,
+55,H,Dentist,400,466,
+67,H,ENT Specialist,300,452,100%
+63,H,Dermatologists,450,515,82%
+64,H,Ayurveda,300,76,100%
+33,H,General Medicine,150,300,
+39,H,General Medicine,100,279,96%
+63,H,Homeopath,250,524,
+46,H,General Medicine,500,541,
+35,H,Ayurveda,250,7,
+34,H,ENT Specialist,100,219,
+52,H,Dermatologists,800,445,
+43,H,Dentist,200,2,
+58,H,Dentist,200,424,100%
+32,H,Dermatologists,300,511,96%
+32,H,General Medicine,500,68,100%
+69,H,Ayurveda,350,123,96%
+33,H,Ayurveda,300,57,
+36,H,Dermatologists,100,12,
+64,H,General Medicine,100,77,
+33,H,ENT Specialist,250,498,
+43,H,Dentist,100,94,
+64,H,Ayurveda,200,486,
+52,H,Dentist,100,517,
+52,H,Homeopath,500,156,98%
+66,H,Dentist,450,258,
+34,H,Homeopath,200,481,100%
+45,H,General Medicine,800,257,
+35,H,Dentist,400,121,96%
+41,H,Dentist,300,57,100%
+45,H,General Medicine,100,122,
+36,H,Ayurveda,300,371,
+34,H,ENT Specialist,100,470,
+36,H,Dentist,350,551,
+64,H,ENT Specialist,100,483,100%
+42,H,Homeopath,800,140,94%
+31,H,Dentist,100,367,93%
+43,H,Dentist,500,538,
+69,H,Homeopath,200,459,95%
+58,H,Dentist,300,165,
+60,H,Dermatologists,200,95,99%
+36,H,General Medicine,500,487,96%
+51,H,General Medicine,100,277,100%
+45,H,General Medicine,400,351,
+60,H,Homeopath,200,262,
+31,H,General Medicine,200,14,92%
+45,H,Dentist,750,99,55%
+53,H,Homeopath,250,559,
+49,H,Dermatologists,900,415,100%
+35,H,Dermatologists,300,35,93%
+56,H,General Medicine,100,277,98%
+62,H,ENT Specialist,250,155,
+35,H,Dentist,200,410,
+54,H,ENT Specialist,100,551,90%
+64,H,Dentist,600,381,
+64,H,General Medicine,200,406,95%
+37,H,Dentist,100,76,
+52,H,Dentist,500,46,100%
+38,H,Dermatologists,100,194,88%
+56,H,Dentist,300,477,
+67,H,Dentist,500,413,100%
+43,H,Dentist,800,353,99%
+37,H,Ayurveda,300,256,
+63,H,ENT Specialist,300,467,
+36,H,Dermatologists,500,83,
+54,H,Dermatologists,300,69,97%
+44,H,ENT Specialist,400,270,94%
+39,H,Ayurveda,500,545,82%
+46,H,Dentist,250,126,
+35,H,ENT Specialist,100,354,
+51,H,ENT Specialist,500,40,99%
+42,H,Homeopath,400,442,
+38,H,Ayurveda,100,136,100%
+47,H,Dentist,200,518,
+36,H,Dentist,300,528,100%
+57,H,Ayurveda,150,184,
+56,H,Homeopath,500,337,
+60,H,ENT Specialist,300,479,
+54,H,ENT Specialist,300,17,93%
+66,H,ENT Specialist,400,565,
+46,H,General Medicine,700,87,84%
+57,H,Dermatologists,100,10,
+43,H,Homeopath,500,309,93%
+33,H,Ayurveda,900,493,
+61,H,Dentist,100,489,
+66,H,Homeopath,200,397,
+40,H,Dentist,100,404,
+32,H,General Medicine,250,288,
+53,H,Homeopath,350,82,88%
+70,H,Dentist,300,480,
+65,H,General Medicine,200,166,
+50,H,Dermatologists,250,559,
+32,H,Homeopath,100,464,
+61,H,General Medicine,100,565,
+30,H,General Medicine,600,434,
+41,H,General Medicine,400,196,
+35,H,Dermatologists,150,203,
+57,H,General Medicine,500,589,97%
+66,H,Dermatologists,500,318,
+32,H,Dentist,700,533,95%
+70,H,Dentist,100,301,100%
+53,H,ENT Specialist,250,145,
+34,H,Dentist,500,451,
+70,H,Homeopath,100,577,97%
+44,H,Dentist,300,332,
+61,H,General Medicine,200,336,97%
+40,H,Homeopath,350,47,97%
+60,H,Dentist,500,360,
+58,H,ENT Specialist,300,546,99%
+60,H,Dentist,500,415,
+66,H,Dermatologists,250,190,100%
+39,H,Dermatologists,400,382,
+69,H,Homeopath,100,250,
+60,H,Ayurveda,800,568,
+41,H,Homeopath,40,2,
+59,H,Ayurveda,700,262,
+64,H,General Medicine,200,521,
+69,H,Dentist,100,540,
+69,H,ENT Specialist,200,213,95%
+68,H,Dentist,300,440,
+37,H,Dermatologists,200,490,100%
+53,H,Dermatologists,500,599,100%
+41,H,General Medicine,500,150,100%
+39,H,Dentist,500,315,
+55,H,Ayurveda,200,76,83%
+62,H,Dermatologists,500,153,100%
+53,H,Homeopath,500,327,
+56,H,Dermatologists,300,73,97%
+70,H,ENT Specialist,800,96,84%
+59,H,Homeopath,300,544,
+70,H,Homeopath,150,114,
+66,H,ENT Specialist,350,495,
+30,H,General Medicine,200,256,
+37,H,Homeopath,100,562,71%
+61,H,Dentist,150,458,
+46,H,Dentist,200,249,96%
+38,H,General Medicine,500,409,97%
+68,H,Dentist,300,240,100%
+62,H,Homeopath,200,266,99%
+58,H,Dentist,150,214,
+60,H,Dentist,100,280,
+45,H,Dentist,100,254,100%
+48,H,Dermatologists,300,578,98%
+44,H,Dermatologists,350,134,95%
+30,H,General Medicine,800,364,91%
+58,H,Homeopath,100,147,95%
+31,H,Dentist,400,141,
+40,H,General Medicine,100,71,
+56,H,General Medicine,500,583,100%
+56,H,General Medicine,200,150,
+58,H,Dermatologists,50,55,
+31,H,Dentist,500,203,
+64,H,Dentist,200,543,100%
+44,H,Dermatologists,100,334,95%
+49,H,General Medicine,100,30,94%
+59,H,General Medicine,800,120,77%
+33,H,General Medicine,600,487,84%
+60,H,Dentist,50,240,
+70,H,ENT Specialist,100,595,
+64,H,Dermatologists,400,312,98%
+70,H,ENT Specialist,700,84,96%
+40,H,General Medicine,600,556,
+39,H,Homeopath,250,448,
+55,H,Dermatologists,300,473,95%
+42,H,Dentist,500,571,100%
+34,H,Ayurveda,500,343,
+41,H,Homeopath,150,413,88%
+64,H,General Medicine,450,573,
+70,H,General Medicine,500,561,
+38,H,Dermatologists,750,265,99%
+70,H,General Medicine,100,366,96%
+58,H,Dentist,150,394,
+67,H,Dentist,500,396,98%
+44,H,Dentist,500,569,100%
+66,H,Dermatologists,100,160,96%
+61,H,Dermatologists,500,493,95%
+50,H,Homeopath,400,322,
+32,H,Dentist,900,6,98%
+30,H,Dentist,100,46,
+43,H,Dentist,500,381,94%
+48,H,Ayurveda,100,534,
+61,H,ENT Specialist,250,383,
+41,H,ENT Specialist,350,384,
+35,H,Dermatologists,700,160,93%
+47,H,Ayurveda,600,110,80%
+51,H,General Medicine,200,103,
+70,H,Ayurveda,500,600,96%
+67,H,ENT Specialist,600,215,91%
+57,H,General Medicine,100,345,98%
+52,H,Homeopath,400,4,
+56,H,Dentist,500,474,
+39,H,ENT Specialist,200,410,97%
+58,H,General Medicine,100,530,
+43,H,Homeopath,100,544,95%
+42,H,Dentist,500,561,
+31,H,Dermatologists,500,540,
+45,H,Dermatologists,600,110,100%
+59,H,ENT Specialist,400,399,
+45,H,Ayurveda,350,502,82%
+37,H,Dermatologists,500,586,97%
+48,H,General Medicine,500,81,99%
+40,H,Homeopath,100,20,
+42,H,ENT Specialist,100,578,100%
+55,H,Ayurveda,250,587,60%
+30,H,Dentist,500,433,96%
+65,H,Homeopath,500,478,99%
+67,H,Dentist,250,127,
+32,H,ENT Specialist,150,580,99%
+30,H,General Medicine,500,492,94%
+33,H,Dentist,300,441,100%
+53,H,Dermatologists,300,330,
+61,H,Dentist,300,242,97%
+57,H,Dermatologists,100,385,98%
+69,H,General Medicine,400,541,
+58,H,General Medicine,100,143,
+39,H,Dermatologists,100,346,
+50,H,General Medicine,100,62,
+50,H,Ayurveda,300,306,
+53,H,General Medicine,30,129,
+59,H,Dermatologists,100,137,100%
+30,H,Dentist,350,263,92%
+40,H,ENT Specialist,150,134,
+46,H,Homeopath,100,19,91%
+31,H,Dermatologists,500,115,100%
+47,H,Dentist,650,467,96%
+43,H,Dentist,150,317,92%
+61,H,Dentist,300,136,
+41,H,Dentist,150,259,
+35,H,ENT Specialist,200,64,100%
+63,H,Ayurveda,700,218,
+68,H,Dentist,350,85,96%
+41,H,Ayurveda,200,337,98%
+44,H,General Medicine,100,328,
+35,H,Dermatologists,300,200,98%
+65,H,ENT Specialist,300,360,
+59,H,Dentist,400,434,
+40,H,Dermatologists,100,368,
+50,H,Dermatologists,500,324,96%
+56,H,General Medicine,100,155,96%
+42,H,General Medicine,100,445,
+30,H,Dermatologists,100,451,7%
+63,H,ENT Specialist,400,191,99%
+31,H,Dermatologists,800,556,
+40,H,Dentist,400,486,100%
+69,H,Dermatologists,100,520,100%
+65,H,General Medicine,400,542,97%
+34,H,Homeopath,100,552,
+48,H,Homeopath,100,582,95%
+59,H,General Medicine,200,459,97%
+49,H,Homeopath,600,403,
+32,H,Dentist,700,202,98%
+68,H,Homeopath,500,573,100%
+50,H,Dentist,200,517,
+35,H,ENT Specialist,100,531,97%
+68,H,General Medicine,200,316,
+33,H,Ayurveda,150,467,
+42,H,General Medicine,100,475,
+42,H,Homeopath,80,236,
+43,H,General Medicine,300,140,
+70,H,Ayurveda,100,564,
+33,H,Dermatologists,100,124,
+70,H,ENT Specialist,500,577,
+63,H,General Medicine,500,561,100%
+45,H,ENT Specialist,300,104,
+61,H,Dentist,100,61,
+49,H,Dermatologists,200,419,100%
+62,H,General Medicine,600,82,97%
+37,H,General Medicine,100,73,
+62,H,Dermatologists,300,415,
+34,H,General Medicine,650,502,100%
+62,H,Homeopath,250,414,100%
+61,H,Dermatologists,100,105,
+67,H,General Medicine,700,464,100%
+59,H,Dermatologists,400,509,
+38,H,General Medicine,600,123,97%
+48,H,Ayurveda,200,177,100%
+67,H,Dentist,50,243,
+69,H,General Medicine,200,159,93%
+57,H,Homeopath,900,572,
+48,H,ENT Specialist,450,204,
+63,H,Dermatologists,250,478,
+53,H,General Medicine,450,561,
+51,H,Dermatologists,600,259,
+51,H,Dentist,700,11,100%
+70,H,ENT Specialist,400,462,100%
+36,H,General Medicine,150,96,
+61,H,General Medicine,500,28,
+32,H,Dentist,150,31,
+39,H,ENT Specialist,250,16,
+51,H,Homeopath,400,98,
+50,H,General Medicine,100,198,98%
+69,H,ENT Specialist,300,463,
+43,H,Ayurveda,100,244,
+46,H,Dentist,200,422,
+70,H,General Medicine,250,46,
+60,H,Homeopath,100,162,
+63,H,Ayurveda,200,129,
+60,H,Dentist,500,600,
+47,H,ENT Specialist,200,577,
+55,H,General Medicine,800,54,
+68,H,General Medicine,100,590,
+50,H,Dermatologists,500,472,74%
+61,H,Ayurveda,400,102,95%
+62,H,ENT Specialist,150,506,
+68,H,ENT Specialist,400,317,94%
+43,H,Ayurveda,550,119,
+41,H,Dermatologists,300,42,100%
+67,H,General Medicine,350,2,
+55,H,General Medicine,800,381,100%
+53,H,General Medicine,100,426,
+58,H,Dentist,300,467,
+49,H,General Medicine,100,501,99%
+58,H,General Medicine,500,481,100%
+60,H,General Medicine,450,582,
+66,H,Ayurveda,300,388,
+53,H,Ayurveda,100,562,
+47,H,Homeopath,350,27,97%
+39,H,Dentist,500,198,
+69,H,ENT Specialist,250,357,
+70,H,General Medicine,100,590,98%
+60,H,General Medicine,150,336,
+63,H,Ayurveda,400,110,96%
+66,H,Dentist,100,17,
+68,H,Dentist,100,12,
+37,H,Dermatologists,100,124,100%
+47,H,General Medicine,300,6,78%
+43,H,Dentist,200,239,87%
+65,H,ENT Specialist,500,146,98%
+67,H,ENT Specialist,100,80,
+38,H,Homeopath,700,220,
+33,H,General Medicine,50,507,
+70,H,Ayurveda,500,306,
+30,H,Ayurveda,300,173,
+51,H,Dentist,200,560,
+67,H,Dentist,100,404,100%
+30,H,Homeopath,100,31,
+31,H,Ayurveda,300,425,88%
+63,H,Ayurveda,100,145,
+53,H,ENT Specialist,100,200,
+55,H,Dermatologists,250,41,
+62,H,Dentist,350,314,96%
+36,H,ENT Specialist,100,581,
+58,H,Homeopath,100,194,
+57,H,Dentist,300,559,
+43,H,Homeopath,200,307,100%
+55,H,Dermatologists,150,583,
+35,H,Ayurveda,300,182,98%
+58,H,General Medicine,300,202,
+59,H,Dentist,400,569,
+35,H,Dermatologists,200,94,94%
+69,H,General Medicine,500,91,91%
+42,H,Dermatologists,600,356,
+67,H,Homeopath,100,160,100%
+59,H,ENT Specialist,300,205,
+65,H,Dentist,350,23,
+59,H,Dentist,200,545,98%
+62,H,Dermatologists,200,315,100%
+36,H,General Medicine,200,112,
+49,H,Dermatologists,100,429,
+44,H,ENT Specialist,500,410,100%
+54,H,Dermatologists,300,297,
+56,H,General Medicine,600,551,
+47,H,Dermatologists,450,350,
+36,H,Dermatologists,900,13,97%
+56,H,Dentist,500,348,100%
+67,H,Dentist,100,92,98%
+65,H,Dermatologists,300,192,96%
+34,H,Homeopath,700,288,
+60,H,Dentist,100,37,
+48,H,Dermatologists,150,543,
+32,H,General Medicine,500,519,63%
+55,H,ENT Specialist,350,251,
+40,H,Dentist,500,531,
+32,H,Dentist,500,65,
+46,H,ENT Specialist,200,273,100%
+60,H,General Medicine,300,50,
+33,H,Dentist,800,142,
+49,H,ENT Specialist,200,90,93%
+65,H,Dermatologists,300,316,
+35,H,Dentist,500,488,
+56,H,Dermatologists,100,487,100%
+42,H,Dentist,800,11,73%
+40,H,Ayurveda,300,247,99%
+67,H,General Medicine,500,1,
+56,H,General Medicine,100,460,
+37,H,General Medicine,400,23,
+51,H,Dentist,500,225,100%
+44,H,ENT Specialist,500,388,100%
+57,H,Dentist,250,549,95%
+40,H,Homeopath,500,148,100%
+38,H,ENT Specialist,400,391,
+46,H,Ayurveda,400,157,
+68,H,Dermatologists,200,158,
+49,H,Ayurveda,400,0,75%
+57,H,General Medicine,80,454,
+49,H,General Medicine,100,173,95%
+50,H,Homeopath,400,452,
+59,H,Ayurveda,100,542,
+45,H,Dentist,50,442,
+55,H,Dentist,200,188,100%
+69,H,Ayurveda,100,548,
+33,H,Dermatologists,100,527,
+46,H,Ayurveda,500,594,
+52,H,Dentist,150,254,
+63,H,Dermatologists,500,447,100%
+61,H,Homeopath,500,181,
+34,H,Ayurveda,300,455,
+38,H,Ayurveda,300,298,
+63,H,Dentist,500,187,100%
+66,H,Homeopath,200,148,
+30,H,Dentist,150,529,99%
+50,H,Dermatologists,100,595,100%
+55,H,Homeopath,100,241,
+34,H,General Medicine,200,521,75%
+63,H,ENT Specialist,100,442,
+32,H,General Medicine,500,105,
+68,H,General Medicine,250,235,
+56,H,General Medicine,500,91,
+36,H,Dermatologists,600,246,
+66,H,Ayurveda,350,185,
+62,H,Dermatologists,200,74,
+47,H,Dentist,600,383,85%
+45,H,Ayurveda,200,418,
+37,H,Ayurveda,200,42,100%
+55,H,Ayurveda,300,111,85%
+70,H,Ayurveda,300,470,
+65,H,Ayurveda,100,562,
+34,H,Dentist,400,374,95%
+30,H,Homeopath,100,89,96%
+44,H,General Medicine,500,347,83%
+38,H,Dentist,350,364,
+32,H,Dentist,100,44,
+54,H,ENT Specialist,100,223,100%
+58,H,Dermatologists,500,184,94%
+33,H,Homeopath,400,473,
+55,H,General Medicine,100,315,99%
+59,H,Dentist,400,289,
+45,H,General Medicine,300,369,
+40,H,Ayurveda,250,120,100%
+69,H,General Medicine,50,463,
+66,H,Dentist,500,268,
+43,H,Homeopath,200,187,
+66,H,General Medicine,350,112,100%
+70,H,General Medicine,100,18,
+58,H,Dentist,100,508,100%
+35,H,Ayurveda,200,355,100%
+58,H,Homeopath,150,18,
+43,H,Dentist,100,66,
+70,H,Dentist,500,416,100%
+46,H,ENT Specialist,200,128,97%
+42,H,General Medicine,350,402,88%
+52,H,ENT Specialist,500,495,
+59,H,Homeopath,250,358,
+49,H,Ayurveda,300,373,
+53,H,Dentist,250,341,
+40,H,ENT Specialist,100,448,96%
+67,H,ENT Specialist,300,317,92%
+69,H,Dentist,600,312,
+54,H,ENT Specialist,100,93,100%
+36,H,General Medicine,700,106,98%
+43,H,General Medicine,200,583,
+63,H,Dermatologists,200,433,
+39,H,ENT Specialist,500,34,98%
+63,H,ENT Specialist,250,549,95%
+44,H,Dentist,500,19,95%
+55,H,Homeopath,300,37,95%
+47,H,General Medicine,400,52,
+54,H,General Medicine,300,587,
+68,H,ENT Specialist,350,234,
+42,H,Dentist,150,324,
+42,H,ENT Specialist,300,126,100%
+32,H,General Medicine,200,70,
+44,H,General Medicine,100,143,
+52,H,Dermatologists,100,303,
+55,H,Ayurveda,100,159,86%
+36,H,ENT Specialist,100,186,
+35,H,Dentist,100,196,
+44,H,Dermatologists,200,538,98%
+32,H,General Medicine,500,583,98%
+70,H,General Medicine,400,74,
+35,H,ENT Specialist,100,458,95%
+38,H,Dermatologists,800,166,
+58,H,General Medicine,400,261,96%
+52,H,Dermatologists,100,544,90%
+70,H,Dentist,350,515,71%
+68,H,General Medicine,150,474,98%
+55,H,Dentist,100,521,
+32,H,Dermatologists,100,253,98%
+49,H,Dentist,100,286,71%
+64,H,Homeopath,100,401,
+39,H,Dentist,500,163,99%
+60,H,Dermatologists,150,316,98%
+30,H,Dermatologists,100,354,
+52,H,Dentist,700,138,100%
+46,H,General Medicine,100,150,100%
+44,H,ENT Specialist,400,245,97%
+54,H,Ayurveda,200,361,
+34,H,Homeopath,200,12,
+34,H,ENT Specialist,300,581,
+37,H,General Medicine,100,49,98%
+36,H,General Medicine,300,252,
+50,H,General Medicine,200,264,
+64,H,Dentist,100,353,
+30,H,Dentist,100,373,100%
+65,H,Dentist,100,145,95%
+51,H,Homeopath,200,528,95%
+35,H,General Medicine,200,198,
+60,H,ENT Specialist,200,494,
+57,H,Dentist,200,296,
+39,H,General Medicine,100,516,
+66,H,Dermatologists,600,583,97%
+64,H,Dentist,700,122,94%
+67,H,ENT Specialist,300,327,97%
+57,H,General Medicine,200,420,
+31,H,Dermatologists,700,111,
+62,H,Ayurveda,800,308,
+47,H,Homeopath,300,149,
+46,H,Dermatologists,200,585,
+63,H,Homeopath,600,30,89%
+45,H,Homeopath,300,91,
+67,H,Dentist,100,426,
+42,H,Dentist,100,56,94%
+42,H,Dentist,100,150,
+60,H,Ayurveda,200,118,99%
+59,H,Homeopath,500,68,
+63,H,General Medicine,400,562,92%
+54,H,Dentist,100,494,
+66,H,General Medicine,100,282,
+52,H,General Medicine,200,473,
+43,H,General Medicine,300,5,90%
+45,H,Dentist,500,101,
+32,H,Ayurveda,200,188,90%
+60,H,Dentist,300,322,
+42,H,ENT Specialist,200,203,94%
+66,H,ENT Specialist,500,498,
+31,H,Dermatologists,100,14,99%
+54,H,Dentist,100,231,
+33,H,Ayurveda,250,65,
+65,H,ENT Specialist,200,316,
+49,H,Homeopath,250,156,
+40,H,Homeopath,100,10,80%
+55,H,Homeopath,150,210,
+40,H,Homeopath,400,374,99%
+40,H,Dentist,200,293,94%
+69,H,Ayurveda,200,463,97%
+31,H,Dermatologists,200,39,
+70,H,Dentist,300,462,93%
+30,H,Dermatologists,100,408,97%
+32,H,Ayurveda,100,242,
+56,H,Ayurveda,150,479,
+40,H,ENT Specialist,100,70,
+49,H,ENT Specialist,800,421,96%
+33,H,Homeopath,250,133,
+35,H,ENT Specialist,300,154,
+59,H,Dentist,450,190,97%
+55,H,ENT Specialist,300,376,
+68,H,Ayurveda,300,148,
+70,H,ENT Specialist,200,93,
+59,H,Homeopath,600,242,
+34,H,General Medicine,600,118,98%
+69,H,Ayurveda,700,195,
+37,H,General Medicine,100,382,
+37,H,Ayurveda,100,218,98%
+57,H,Dentist,300,300,94%
+45,H,Dermatologists,200,15,
+30,H,Dentist,250,503,100%
+65,H,Homeopath,200,221,
+62,H,Dentist,100,569,100%
+39,H,Dentist,200,70,93%
+37,H,Homeopath,200,462,
+38,H,Dentist,500,486,
+32,H,Dentist,100,378,98%
+31,H,General Medicine,100,557,99%
+59,H,Homeopath,150,443,
+44,H,Dermatologists,350,462,
+44,H,Dentist,800,137,
+45,H,Homeopath,100,430,
+54,H,General Medicine,200,491,
+32,H,Homeopath,300,172,
+36,H,Dermatologists,500,219,100%
+66,H,General Medicine,400,428,83%
+49,H,Ayurveda,400,530,
+36,H,General Medicine,700,141,
+51,H,Dermatologists,100,475,
+40,H,ENT Specialist,100,395,85%
+54,H,General Medicine,400,570,
+50,H,General Medicine,100,311,
+32,H,Dermatologists,250,183,100%
+54,H,Dentist,500,287,
+47,H,Homeopath,300,99,89%
+46,H,ENT Specialist,300,485,99%
+39,H,Dermatologists,500,218,
+31,H,ENT Specialist,400,90,99%
+45,H,Dermatologists,250,507,93%
+69,H,Dermatologists,800,493,100%
+43,H,Homeopath,700,82,96%
+52,H,General Medicine,300,37,
+51,H,Ayurveda,200,76,
+55,H,Ayurveda,50,327,
+39,H,Dentist,500,522,
+36,H,Dermatologists,150,314,
+50,H,Homeopath,500,284,
+36,H,Dentist,500,338,
+53,H,Dermatologists,200,265,96%
+30,H,Ayurveda,100,421,100%
+61,H,Homeopath,500,425,
+46,H,Ayurveda,100,510,100%
+60,H,Dermatologists,300,193,
+61,H,Dentist,300,328,
+49,H,Dentist,100,190,
+47,H,General Medicine,250,397,
+35,H,General Medicine,550,32,100%
+48,H,ENT Specialist,300,371,100%
+61,H,Ayurveda,800,271,
+32,H,Homeopath,300,40,
+47,H,Dentist,450,361,
+30,H,ENT Specialist,550,130,94%
+48,H,General Medicine,800,333,67%
+50,H,Dentist,200,77,
+43,H,Ayurveda,300,587,98%
+54,H,Homeopath,100,270,
+54,H,General Medicine,300,161,
+66,H,Homeopath,750,566,95%
+70,H,Dentist,200,580,
+48,H,Homeopath,100,426,
+48,H,Ayurveda,300,16,
+46,H,General Medicine,100,284,
+33,H,Dentist,300,288,
+41,H,ENT Specialist,300,466,86%
+33,H,Homeopath,500,111,
+35,H,General Medicine,200,25,
+61,H,Dentist,500,376,91%
+40,H,General Medicine,250,187,
+46,H,Ayurveda,200,219,99%
+59,H,Dentist,50,140,
+35,H,Homeopath,100,271,99%
+43,H,Dentist,400,240,
+35,H,Dentist,200,185,
+62,H,Dermatologists,250,335,
+37,H,Dentist,400,371,
+45,H,ENT Specialist,300,507,98%
+37,H,General Medicine,100,521,98%
+66,H,Homeopath,250,323,96%
+52,H,Ayurveda,250,440,
+64,H,Ayurveda,200,367,
+56,H,General Medicine,50,353,
+30,H,Dentist,350,109,67%
+35,H,Homeopath,400,225,97%
+57,H,Dentist,100,230,
+59,H,ENT Specialist,200,13,100%
+56,H,Dentist,300,78,93%
+70,H,Dermatologists,250,476,100%
+53,H,ENT Specialist,500,226,95%
+61,H,General Medicine,450,297,95%
+36,H,Dermatologists,350,490,
+30,H,General Medicine,150,560,
+52,H,Dermatologists,600,425,
+69,H,Homeopath,450,268,98%
+30,H,General Medicine,100,44,98%
+39,H,Dermatologists,250,311,
+47,H,Dermatologists,200,42,98%
+40,H,Ayurveda,800,426,100%
+64,H,Dermatologists,100,119,
+50,H,General Medicine,500,584,100%
+62,H,Dermatologists,100,493,
+40,H,Dermatologists,500,403,93%
+36,H,Ayurveda,700,438,90%
+54,H,General Medicine,250,470,
+50,H,ENT Specialist,100,0,100%
+46,H,Dentist,500,101,
+53,H,Dentist,200,143,
+57,H,Homeopath,200,140,96%
+42,H,Homeopath,700,332,
+51,H,Ayurveda,100,561,100%
+70,H,Dermatologists,200,119,
+38,H,General Medicine,100,37,95%
+31,H,Dentist,150,267,
+63,H,Dermatologists,200,208,
+30,H,Dermatologists,250,178,99%
+57,H,Ayurveda,400,343,
+41,H,Homeopath,60,135,
+30,H,General Medicine,100,273,
+61,H,Homeopath,400,45,81%
+46,H,General Medicine,200,344,
+61,H,Dermatologists,500,543,
+70,H,Dermatologists,350,281,97%
+68,H,Ayurveda,100,504,100%
+64,H,Homeopath,100,257,
+48,H,Dermatologists,100,464,
+67,H,ENT Specialist,400,151,84%
+35,H,ENT Specialist,500,39,
+54,H,ENT Specialist,700,405,97%
+55,H,Dentist,100,310,93%
+58,H,ENT Specialist,100,219,100%
+38,H,Homeopath,250,32,98%
+30,H,Ayurveda,100,593,
+59,H,Homeopath,150,181,
+56,H,ENT Specialist,500,225,96%
+47,H,Dermatologists,500,226,
+33,H,Dentist,100,387,
+34,H,Dentist,300,146,99%
+51,H,Homeopath,100,333,
+64,H,Dentist,300,387,
+56,H,Dentist,200,502,97%
+53,H,Dentist,200,136,99%
+56,H,Dentist,100,473,
+33,H,Dentist,100,493,
+41,H,ENT Specialist,200,17,98%
+56,H,General Medicine,100,532,
+41,H,Dentist,200,260,
+45,H,Dentist,300,181,97%
+42,H,General Medicine,200,71,91%
+48,H,Dermatologists,500,346,
+32,H,ENT Specialist,400,354,99%
+53,H,Dentist,250,300,
+57,H,Dentist,300,572,
+51,H,General Medicine,200,188,98%
+45,H,General Medicine,100,164,
+34,H,Homeopath,500,286,100%
+70,H,Dentist,300,47,
+70,H,Homeopath,200,395,100%
+70,H,General Medicine,100,536,86%
+54,H,Homeopath,400,59,99%
+70,H,General Medicine,350,257,
+69,H,ENT Specialist,600,193,
+64,H,General Medicine,500,249,97%
+51,H,Dermatologists,300,46,
+48,H,Dermatologists,450,327,96%
+53,H,Dentist,300,165,93%
+63,H,General Medicine,150,388,98%
+48,H,Dermatologists,800,39,83%
+36,H,Dermatologists,100,473,90%
+41,H,General Medicine,300,48,93%
+62,H,Ayurveda,500,241,100%
+40,H,Dermatologists,500,89,
+57,H,General Medicine,500,412,
+56,H,Ayurveda,800,478,
+54,H,Dentist,60,216,
+51,H,Homeopath,100,452,96%
+46,H,ENT Specialist,200,360,
+54,H,Ayurveda,650,60,91%
+47,H,General Medicine,500,418,88%
+45,H,General Medicine,300,460,81%
+46,H,General Medicine,100,195,82%
+53,H,Dermatologists,500,223,
+60,H,Dentist,500,440,
+42,H,Dentist,150,216,
+55,H,Dermatologists,200,51,
+53,H,Dentist,800,264,75%
+65,H,Dentist,100,128,99%
+45,H,Dermatologists,100,286,100%
+41,H,Homeopath,500,212,98%
+46,H,ENT Specialist,200,160,
+41,H,Dermatologists,200,180,
+64,H,Dentist,100,326,
+63,H,Homeopath,100,144,92%
+48,H,Homeopath,100,149,93%
+32,H,Homeopath,500,572,
+48,H,Homeopath,600,273,
+36,H,Dermatologists,450,38,
+47,H,Ayurveda,500,209,86%
+35,H,Dentist,250,207,100%
+69,H,General Medicine,100,34,98%
+39,H,Ayurveda,100,278,
+61,H,General Medicine,300,413,
+50,H,Dermatologists,800,247,
+52,H,General Medicine,500,582,93%
+39,H,Dermatologists,300,141,
+50,H,ENT Specialist,100,417,97%
+56,H,Ayurveda,450,191,92%
+35,H,Dentist,100,313,
+69,H,Dentist,200,530,
+30,H,Ayurveda,200,470,96%
+57,H,Dermatologists,150,193,
+45,H,ENT Specialist,100,58,
+41,H,Dentist,350,76,75%
+49,H,General Medicine,100,19,99%
+65,H,Homeopath,350,171,97%
+41,H,Homeopath,100,278,
+42,H,General Medicine,250,238,
+46,H,ENT Specialist,100,122,
+52,H,Homeopath,800,592,48%
+48,H,Dermatologists,400,26,
+55,H,General Medicine,150,66,
+37,H,Homeopath,200,90,
+47,H,General Medicine,300,452,
+55,H,Dentist,200,536,83%
+57,H,Homeopath,100,226,
+48,H,Homeopath,150,100,
+54,H,ENT Specialist,300,38,96%
+65,H,Dentist,800,190,
+65,H,ENT Specialist,100,495,100%
+58,H,Homeopath,800,547,90%
+47,H,Homeopath,450,87,
+67,H,Dentist,800,529,
+39,H,Homeopath,200,546,100%
+39,H,Ayurveda,100,436,100%
+58,H,Dermatologists,200,430,
+49,H,General Medicine,200,39,90%
+43,H,General Medicine,150,27,60%
+47,H,Homeopath,300,259,
+55,H,Dermatologists,350,22,92%
+47,H,Dentist,300,258,
+43,H,Dentist,400,371,99%
+42,H,Dentist,100,214,100%
+44,H,Ayurveda,300,450,100%
+32,H,Homeopath,500,385,
+34,H,Homeopath,450,204,
+37,H,Dentist,150,128,
+40,H,Ayurveda,100,532,
+30,H,General Medicine,100,124,
+62,H,Homeopath,400,418,
+52,H,General Medicine,400,341,
+45,H,General Medicine,150,20,
+32,H,Homeopath,100,566,
+48,H,Dentist,500,554,
+54,H,Homeopath,500,526,100%
+60,H,Homeopath,250,314,
+51,H,ENT Specialist,100,134,
+64,H,Dentist,700,12,
+65,H,Ayurveda,200,490,98%
+30,H,Dentist,250,23,
+55,H,Homeopath,100,319,
+51,H,Dentist,300,34,
+55,H,Ayurveda,100,570,98%
+70,H,Dentist,500,163,85%
+64,H,Dentist,100,305,
+45,H,General Medicine,200,352,99%
+69,H,General Medicine,150,418,
+68,H,Dentist,200,74,
+65,H,Ayurveda,200,568,93%
+32,H,Homeopath,100,446,
+61,H,Dentist,200,278,
+43,H,Dentist,300,6,99%
+36,H,General Medicine,300,466,98%
+30,H,ENT Specialist,200,309,
+67,H,ENT Specialist,800,414,98%
+41,H,Dentist,600,571,
+36,H,Dermatologists,100,45,99%
+67,H,Dermatologists,800,409,
+66,H,Homeopath,500,456,98%
+68,H,Dermatologists,750,502,
+51,H,General Medicine,200,497,
+40,H,Ayurveda,100,466,96%
+63,H,Homeopath,100,238,
+70,H,Dermatologists,600,226,
+39,H,Dentist,500,266,95%
+46,H,Dentist,100,262,100%
+56,H,Dermatologists,300,408,100%
+47,H,Ayurveda,400,541,98%
+40,H,Dentist,300,145,100%
+57,H,Dermatologists,200,67,100%
+40,H,General Medicine,500,579,
+59,H,General Medicine,100,125,
+35,H,Homeopath,100,192,
+31,H,Ayurveda,500,495,100%
+58,H,General Medicine,500,267,
+30,H,Dentist,350,350,
+57,H,ENT Specialist,500,295,97%
+58,H,ENT Specialist,250,234,
+63,H,General Medicine,400,564,97%
+47,H,Homeopath,500,472,91%
+70,H,Homeopath,500,358,
+52,H,Dentist,300,428,
+32,H,Dentist,200,211,
+45,H,Homeopath,300,50,100%
+47,H,Homeopath,200,344,
+40,H,Dermatologists,500,253,94%
+30,H,Dermatologists,300,100,
+68,H,General Medicine,500,188,
+41,H,General Medicine,200,313,
+49,H,Homeopath,200,343,
+47,H,Ayurveda,500,370,
+40,H,General Medicine,200,139,
+69,H,Homeopath,100,157,
+63,H,ENT Specialist,100,173,100%
+67,H,Dermatologists,500,378,
+48,H,ENT Specialist,400,398,73%
+70,H,ENT Specialist,400,279,89%
+46,H,ENT Specialist,200,363,81%
+30,H,Dermatologists,500,138,
+70,H,Ayurveda,400,300,98%
+57,H,Dermatologists,350,589,
+68,H,Dentist,100,454,
+52,H,Homeopath,300,15,99%
+50,H,Dermatologists,100,367,
+38,H,Dentist,100,593,99%
+59,H,ENT Specialist,200,151,97%
+37,H,General Medicine,100,598,
+42,H,Homeopath,50,464,
+64,H,General Medicine,200,114,
+58,H,Homeopath,100,272,
+49,H,Dentist,100,350,100%
+50,H,Homeopath,200,316,
+32,H,Dermatologists,800,103,
+49,H,General Medicine,500,154,89%
+50,H,Dentist,200,367,
+46,H,Ayurveda,100,128,
+30,H,Dermatologists,500,483,97%
+52,H,General Medicine,400,380,
+43,H,Homeopath,200,333,
+37,H,Homeopath,500,494,88%
+30,H,ENT Specialist,100,429,
+63,H,Homeopath,250,206,
+59,H,Dentist,200,140,
+36,H,General Medicine,100,597,
+47,H,Dentist,350,459,
+45,H,Ayurveda,500,417,
+46,H,Ayurveda,50,353,
+55,H,ENT Specialist,500,136,67%
+32,H,Dentist,600,408,97%
+57,H,Ayurveda,800,348,
+47,H,Homeopath,200,582,
+50,H,Dentist,100,443,96%
+36,H,Homeopath,500,291,100%
+42,H,Homeopath,250,281,100%
+34,H,ENT Specialist,500,28,
+58,H,Homeopath,500,512,93%
+68,H,Dentist,100,528,
+39,H,Homeopath,200,357,
+42,H,Ayurveda,450,287,
+60,H,Dermatologists,500,58,
+61,H,Dermatologists,500,299,
+42,H,General Medicine,100,448,
+57,H,ENT Specialist,250,445,
+32,H,Dentist,700,599,71%
+55,H,ENT Specialist,500,362,
+30,H,Dermatologists,180,376,
+32,H,Dermatologists,300,166,
+62,H,General Medicine,300,487,
+46,H,Ayurveda,300,254,96%
+34,H,Homeopath,200,78,
+64,H,Homeopath,200,144,
+49,H,ENT Specialist,100,587,
+46,H,Dermatologists,300,458,95%
+68,H,Dentist,250,592,
+64,H,Dentist,500,417,97%
+42,H,Homeopath,300,88,98%
+37,H,Dentist,500,113,
+30,H,General Medicine,300,293,96%
+70,H,General Medicine,250,388,
+50,H,ENT Specialist,700,470,97%
+48,H,General Medicine,500,112,
+43,H,General Medicine,250,464,100%
+61,H,Homeopath,200,471,
+33,H,Dentist,300,487,100%
+69,H,Dentist,100,437,
+51,H,Homeopath,200,377,
+60,H,ENT Specialist,50,558,
+46,H,General Medicine,350,84,97%
+38,H,Dentist,600,116,79%
+35,H,General Medicine,300,229,99%
+57,H,Homeopath,100,186,
+67,H,ENT Specialist,500,238,93%
+58,H,Ayurveda,700,143,
+66,H,Dentist,100,120,
+49,H,Dentist,200,372,
+70,H,Dentist,150,92,
+42,H,ENT Specialist,10,273,
+30,H,General Medicine,100,207,
+42,H,Homeopath,200,66,
+39,H,ENT Specialist,400,573,
+62,H,General Medicine,300,393,
+48,H,General Medicine,150,519,
+51,H,Ayurveda,400,332,
+31,H,Ayurveda,200,364,100%
+40,H,Dentist,200,394,
+57,H,Dentist,200,153,98%
+66,H,Homeopath,300,125,99%
+53,H,General Medicine,100,36,100%
+58,H,Dentist,400,88,81%
+61,H,Ayurveda,250,245,97%
+64,H,General Medicine,300,156,
+46,H,Homeopath,400,16,83%
+58,H,Dermatologists,500,426,100%
+61,H,Ayurveda,500,75,
+34,H,Dentist,50,474,
+32,H,Homeopath,150,25,
+38,H,ENT Specialist,600,422,96%
+68,H,Dentist,100,198,90%
+57,H,Ayurveda,250,516,
+36,H,Dentist,100,402,
+55,H,Ayurveda,500,332,99%
+63,H,General Medicine,60,443,
+42,H,General Medicine,350,564,
+68,H,Dentist,500,592,
+39,H,Dermatologists,500,320,98%
+42,H,ENT Specialist,700,14,98%
+30,H,Ayurveda,300,336,76%
+63,H,Ayurveda,150,570,94%
+45,H,Ayurveda,200,335,100%
+62,H,Dentist,100,343,
+69,H,Dentist,200,376,100%
+38,H,Dermatologists,300,406,99%
+48,H,Ayurveda,800,313,94%
+64,H,Dentist,500,95,90%
+44,H,General Medicine,150,358,93%
+46,H,Dentist,500,282,99%
+43,H,General Medicine,200,177,
+55,H,ENT Specialist,100,43,81%
+54,H,Homeopath,400,474,
+34,H,General Medicine,100,462,
+68,H,Dentist,100,236,
+57,H,Dentist,150,510,97%
+67,H,ENT Specialist,200,61,100%
+30,H,Dentist,500,439,91%
+46,H,Dentist,250,149,
+43,H,Dentist,200,19,100%
+59,H,Dermatologists,300,224,97%
+47,H,Dermatologists,250,21,89%
+33,H,ENT Specialist,300,574,
+59,H,ENT Specialist,300,213,
+59,H,Dentist,100,186,92%
+54,H,Dermatologists,150,54,95%
+56,H,Dermatologists,300,332,98%
+70,H,Dentist,300,136,88%
+34,H,Ayurveda,400,432,95%
+58,H,Dentist,500,43,96%
+62,H,Dermatologists,200,261,100%
+53,H,Homeopath,300,103,100%
+68,H,ENT Specialist,920,548,95%
+58,H,ENT Specialist,300,232,
+52,H,Dermatologists,600,528,77%
+50,H,Homeopath,500,42,92%
+57,H,Dermatologists,300,175,95%
+37,H,General Medicine,500,168,95%
+35,H,Dentist,300,300,97%
+31,H,Dermatologists,200,561,93%
+41,H,General Medicine,500,463,
+62,H,General Medicine,300,73,
+55,H,Dentist,100,266,
+49,H,Ayurveda,300,74,96%
+41,H,General Medicine,200,149,
+65,H,General Medicine,250,590,
+66,H,Dentist,200,374,
+33,H,Dermatologists,450,422,100%
+41,H,Homeopath,500,233,92%
+68,H,General Medicine,100,3,
+47,H,General Medicine,100,271,
+43,H,Homeopath,100,458,97%
+62,H,Homeopath,100,498,
+69,H,Dentist,250,409,
+51,H,Dermatologists,200,544,100%
+42,H,Homeopath,500,241,
+33,H,General Medicine,500,86,96%
+64,H,Dentist,600,10,99%
+59,H,Dermatologists,300,392,98%
+53,H,Dermatologists,600,200,100%
+44,H,Ayurveda,450,497,96%
+43,H,General Medicine,150,594,
+55,H,Homeopath,100,112,
+51,H,Dermatologists,500,285,95%
+30,H,Homeopath,400,421,87%
+37,H,Homeopath,500,498,
+65,H,Dentist,750,590,
+70,H,Dermatologists,150,374,
+32,H,Dentist,100,259,100%
+33,H,Dentist,100,364,92%
+40,H,Homeopath,100,518,97%
+43,H,ENT Specialist,200,14,94%
+70,H,Dentist,600,555,
+45,H,Ayurveda,500,316,100%
+50,H,Dentist,100,393,
+54,H,Dentist,200,145,99%
+36,H,General Medicine,100,179,
+45,H,Dermatologists,100,418,
+37,H,ENT Specialist,400,363,97%
+36,H,Ayurveda,250,46,
+49,H,Dentist,100,176,
+44,H,General Medicine,600,274,98%
+57,H,Dentist,300,29,89%
+53,H,Homeopath,300,239,98%
+37,H,Dermatologists,50,472,
+59,H,General Medicine,100,354,
+33,H,General Medicine,300,180,85%
+66,H,Homeopath,250,223,
+39,H,Dentist,500,81,
+32,H,Dermatologists,200,486,
+54,H,ENT Specialist,800,208,97%
+47,H,ENT Specialist,100,181,
+50,H,ENT Specialist,500,187,
+55,H,General Medicine,500,493,98%
+44,H,Dentist,300,331,
+32,H,Ayurveda,300,393,95%
+55,H,Dentist,100,596,
+68,H,ENT Specialist,250,276,100%
+42,H,Ayurveda,100,76,
+60,H,General Medicine,100,30,
+51,H,Dermatologists,300,53,
+64,H,Dermatologists,500,460,
+61,H,Dentist,100,132,97%
+59,H,Homeopath,600,286,
+40,H,ENT Specialist,300,189,
+38,H,Homeopath,600,3,90%
+38,H,ENT Specialist,300,247,
+46,H,ENT Specialist,800,265,88%
+48,H,Dentist,800,497,92%
+35,H,Dermatologists,500,320,
+61,H,Ayurveda,100,379,
+69,H,Ayurveda,500,590,
+62,H,Homeopath,100,93,
+56,H,Homeopath,600,349,
+68,H,Dermatologists,300,600,97%
+68,H,Dentist,100,548,
+70,H,Dermatologists,200,138,
+34,H,Dermatologists,300,211,
+70,H,Dentist,300,588,
+48,H,Dentist,200,446,97%
+32,H,Dermatologists,100,213,
+60,H,General Medicine,500,388,
+52,H,Dermatologists,100,325,
+42,H,ENT Specialist,500,394,93%
+68,H,Ayurveda,500,249,
+68,H,ENT Specialist,100,501,
+39,H,Dermatologists,100,238,
+35,H,General Medicine,500,311,96%
+45,H,ENT Specialist,150,214,
+31,H,Dermatologists,300,487,100%
+44,H,Dentist,100,338,76%
+55,H,Homeopath,100,352,
+51,H,Homeopath,200,372,
+32,H,Dermatologists,100,61,99%
+30,H,Dentist,300,403,
+35,H,Dermatologists,200,59,
+32,H,Homeopath,400,491,
+37,H,Dentist,250,99,
+30,H,Dermatologists,200,97,100%
+68,H,Ayurveda,400,196,99%
+66,H,General Medicine,300,86,
+57,H,Ayurveda,100,228,
+58,H,Dermatologists,150,334,
+67,H,Ayurveda,250,137,87%
+45,H,General Medicine,200,421,
+58,H,General Medicine,100,132,
+66,H,Homeopath,300,467,98%
+60,H,Homeopath,150,180,
+42,H,Dentist,500,449,
+37,H,ENT Specialist,200,3,
+62,H,Homeopath,600,456,90%
+52,H,Dermatologists,750,111,
+53,H,Dentist,300,457,
+30,H,Dentist,100,222,99%
+36,H,Dermatologists,300,490,
+57,H,Ayurveda,100,406,100%
+56,H,Dentist,500,564,92%
+59,H,General Medicine,200,243,100%
+40,H,Dentist,200,583,100%
+68,H,General Medicine,200,56,
+53,H,Homeopath,200,302,
+34,H,Homeopath,200,19,
+64,H,Dentist,450,53,
+40,H,General Medicine,200,473,100%
+59,H,Dermatologists,150,167,
+46,H,Ayurveda,100,429,98%
+69,H,Ayurveda,30,437,
+52,H,Dentist,100,136,
+51,H,Dentist,200,276,94%
+56,H,Dermatologists,100,566,
+53,H,Dentist,450,232,95%
+59,H,Dentist,600,288,95%
+64,H,Dermatologists,100,306,99%
+32,H,General Medicine,300,512,
+54,H,Dentist,500,399,
+66,H,ENT Specialist,200,400,
+37,H,General Medicine,100,542,
+40,H,Dentist,50,550,
+30,H,Dermatologists,250,564,99%
+53,H,ENT Specialist,700,257,
+54,H,Ayurveda,750,363,
+42,H,Dermatologists,100,467,
+51,H,ENT Specialist,500,413,
+66,H,Dermatologists,100,217,100%
+65,H,Ayurveda,400,397,
+64,H,ENT Specialist,300,232,
+58,H,Dentist,300,129,
+39,H,Homeopath,200,185,
+33,H,Dermatologists,750,382,97%
+45,H,General Medicine,300,111,96%
+34,H,Dentist,500,317,
+33,H,Dermatologists,200,352,98%
+50,H,Dermatologists,200,532,
+46,H,Dermatologists,600,24,74%
+69,H,Ayurveda,500,528,
+35,H,Dermatologists,300,221,
+30,H,Dentist,700,332,100%
+31,H,General Medicine,100,423,90%
+43,H,Homeopath,500,489,94%
+51,H,Dentist,250,514,
+32,H,Dermatologists,100,311,
+33,H,Ayurveda,300,62,
+62,H,Dentist,500,291,
+33,H,ENT Specialist,150,32,
+50,H,Ayurveda,500,419,69%
+46,H,General Medicine,100,285,96%
+43,H,Dermatologists,800,528,93%
+66,H,Homeopath,500,462,94%
+62,H,Dentist,500,457,99%
+49,H,Ayurveda,200,406,99%
+69,H,Dentist,70,49,
+32,H,Dermatologists,250,433,98%
+41,H,General Medicine,700,518,99%
+55,H,Dentist,300,236,99%
+35,H,Dermatologists,100,448,
+58,H,General Medicine,100,235,90%
+61,H,Dentist,100,299,
+66,H,Dermatologists,100,47,
+56,H,General Medicine,100,291,93%
+63,H,General Medicine,300,136,
+33,H,General Medicine,350,468,94%
+55,H,Homeopath,100,597,89%
+39,H,Dentist,500,551,100%
+38,H,Ayurveda,200,304,93%
+45,H,General Medicine,250,298,98%
+47,H,General Medicine,100,405,100%
+38,H,ENT Specialist,100,257,
+41,H,Homeopath,250,123,
+47,H,General Medicine,300,455,
+32,H,Ayurveda,700,487,
+33,H,Ayurveda,100,240,
+40,H,Homeopath,100,273,
+40,H,Dentist,300,457,
+45,H,Dermatologists,150,315,97%
+54,H,ENT Specialist,400,58,84%
+54,H,ENT Specialist,700,202,
+33,H,Dentist,300,592,100%
+60,H,Dentist,200,42,99%
+58,H,Ayurveda,200,364,85%
+37,H,Ayurveda,500,197,98%
+58,H,Dermatologists,400,379,
+49,H,Dentist,400,207,96%
+44,H,Homeopath,200,261,
+49,H,General Medicine,150,386,
+64,H,Ayurveda,500,120,97%
+40,H,Dentist,250,594,
+67,H,General Medicine,100,114,100%
+50,H,Dentist,100,322,88%
+33,H,Dentist,500,441,
+67,H,Dentist,300,315,99%
+66,H,Dermatologists,200,293,98%
+68,H,General Medicine,700,237,
+46,H,Ayurveda,500,33,
+70,H,Dermatologists,500,573,96%
+39,H,Ayurveda,500,468,100%
+33,H,Homeopath,50,313,
+63,H,Dentist,200,81,98%
+35,H,General Medicine,200,164,100%
+69,H,Dermatologists,100,427,
+64,H,Dermatologists,400,551,
+54,H,General Medicine,300,57,75%
+69,H,Homeopath,100,315,
+55,H,Dentist,50,584,
+39,H,Homeopath,200,120,
+38,H,Homeopath,150,398,
+49,H,Dermatologists,100,381,
+66,H,Homeopath,300,42,94%
+54,H,ENT Specialist,200,26,99%
+44,H,General Medicine,300,252,100%
+46,H,Ayurveda,150,173,100%
+67,H,General Medicine,150,90,98%
+65,H,ENT Specialist,700,349,40%
+42,H,Homeopath,600,415,
+39,H,General Medicine,200,118,
+45,H,General Medicine,450,523,
+31,H,ENT Specialist,200,234,
+50,H,General Medicine,700,396,
+39,H,General Medicine,100,350,
+69,H,Ayurveda,500,468,100%
+58,H,Dentist,500,563,
+55,H,General Medicine,200,85,
+36,H,Dermatologists,300,569,
+69,H,Ayurveda,500,449,68%
+53,H,Ayurveda,150,75,
+49,H,Ayurveda,500,358,99%
+60,H,Homeopath,60,286,
+66,H,Dermatologists,100,26,
+42,H,Ayurveda,500,68,100%
+61,H,Dentist,500,179,
+50,H,Dentist,100,450,94%
+63,H,General Medicine,200,476,
+33,H,General Medicine,300,590,96%
+49,H,Ayurveda,600,295,
+65,H,ENT Specialist,100,540,
+63,H,ENT Specialist,700,393,68%
+56,H,Ayurveda,300,54,91%
+43,H,Dentist,400,258,
+61,H,Homeopath,150,186,
+40,H,Ayurveda,200,343,98%
+45,H,Dermatologists,400,177,
+53,H,Homeopath,400,253,86%
+49,H,General Medicine,500,164,
+45,H,Dermatologists,500,351,
+52,H,General Medicine,600,402,99%
+46,H,Dentist,100,589,95%
+49,H,Homeopath,500,505,98%
+64,H,Dermatologists,100,45,
+55,H,ENT Specialist,800,260,92%
+52,H,Homeopath,300,67,93%
+38,H,Dermatologists,200,28,
+37,H,Homeopath,500,162,93%
+45,H,ENT Specialist,400,85,
+52,H,Ayurveda,100,384,100%
+38,H,Dentist,100,422,
+50,H,Homeopath,300,524,95%
+34,H,Dentist,200,449,
+31,H,Homeopath,300,309,100%
+63,H,Ayurveda,100,162,
+32,H,ENT Specialist,400,157,100%
+55,H,Dermatologists,800,302,
+65,H,Dentist,250,170,
+45,H,Dermatologists,500,247,100%
+33,H,Ayurveda,600,110,100%
+67,H,Dentist,500,256,
+49,H,Dermatologists,200,485,96%
+34,H,Ayurveda,300,318,
+64,H,Dermatologists,500,501,
+38,H,General Medicine,800,384,99%
+57,H,Dermatologists,500,154,67%
+55,H,General Medicine,350,383,99%
+48,H,Homeopath,200,151,
+70,H,ENT Specialist,200,188,
+38,H,Dentist,200,382,82%
+54,H,Dentist,300,239,96%
+69,H,Dentist,100,154,
+38,H,Dermatologists,400,103,96%
+59,H,General Medicine,100,307,
+47,H,Dentist,100,448,
+45,H,Homeopath,100,394,99%
+70,H,ENT Specialist,500,526,100%
+44,H,ENT Specialist,100,165,
+63,H,General Medicine,150,525,
+46,H,ENT Specialist,250,205,
+30,H,Dentist,500,2,76%
+34,H,ENT Specialist,200,218,
+51,H,Dermatologists,500,77,
+58,H,Dentist,500,409,
+39,H,Dentist,300,585,98%
+68,H,Dentist,200,529,97%
+67,H,Dermatologists,300,464,100%
+42,H,Dermatologists,300,86,100%
+62,H,General Medicine,500,442,94%
+37,H,Dentist,250,478,
+56,H,Dermatologists,200,171,
+49,H,Ayurveda,500,243,90%
+47,H,General Medicine,100,101,90%
+42,H,General Medicine,200,562,
+60,H,Dermatologists,650,511,79%
+68,H,Dentist,600,152,100%
+56,H,General Medicine,500,200,91%
+50,H,Dentist,150,203,
+47,H,Dermatologists,100,38,
+40,H,Dermatologists,250,309,
+42,H,Ayurveda,400,418,93%
+45,H,Dentist,200,488,
+30,H,Ayurveda,500,147,100%
+67,H,Homeopath,300,480,
+30,H,ENT Specialist,350,472,
+58,H,Dentist,700,307,99%
+67,H,Dentist,200,312,95%
+66,H,ENT Specialist,300,589,98%
+69,H,Dermatologists,500,365,
+30,H,Dentist,300,292,100%
+44,H,Ayurveda,300,492,95%
+46,H,ENT Specialist,200,45,
+58,H,Dentist,600,550,97%
+43,H,Dermatologists,200,265,98%
+51,H,Dentist,500,536,
+44,H,General Medicine,300,59,
+64,H,Ayurveda,350,232,86%
+48,H,Homeopath,500,488,
+46,H,ENT Specialist,300,144,98%
+61,H,Ayurveda,500,548,100%
+54,H,Dentist,500,534,
+30,H,ENT Specialist,100,12,
+60,H,Homeopath,300,591,82%
+59,H,ENT Specialist,500,124,
+46,H,Dentist,400,17,
+58,H,Ayurveda,200,118,100%
+58,H,Dentist,350,264,97%
+63,H,Homeopath,500,171,95%
+58,H,Homeopath,100,325,
+37,H,Ayurveda,750,299,
+69,H,General Medicine,200,166,
+37,H,ENT Specialist,300,315,94%
+45,H,General Medicine,800,36,
+36,H,Ayurveda,50,343,
+63,H,Dermatologists,150,116,94%
+38,H,Dentist,500,353,
+59,H,Dermatologists,150,516,94%
+44,H,General Medicine,450,389,96%
+36,H,Dentist,600,586,
+54,H,ENT Specialist,150,456,100%
+60,H,Dentist,200,518,
+57,H,General Medicine,200,436,100%
+34,H,Dermatologists,200,453,
+31,H,Ayurveda,500,137,
+47,H,Dentist,50,345,
+63,H,General Medicine,800,277,
+47,H,Dermatologists,500,86,
+69,H,Dermatologists,500,154,100%
+68,H,General Medicine,100,543,
+61,H,Dermatologists,100,568,
+55,H,Ayurveda,300,174,99%
+57,H,ENT Specialist,100,190,
+46,H,Homeopath,200,500,
+57,H,ENT Specialist,200,293,
+46,H,ENT Specialist,100,517,
+67,H,Dermatologists,500,270,89%
+67,H,ENT Specialist,300,285,
+43,H,Homeopath,150,228,
+67,H,ENT Specialist,300,160,100%
+64,H,Ayurveda,550,519,
+50,H,Dermatologists,60,194,
+35,H,Dermatologists,400,452,98%
+31,H,Dentist,300,598,
+64,H,Ayurveda,200,520,
+58,H,Homeopath,100,16,
+59,H,Dermatologists,300,365,
+30,H,General Medicine,500,533,
+57,H,Homeopath,100,503,
+55,H,Ayurveda,200,149,
+65,H,ENT Specialist,200,43,
+67,H,Dentist,100,252,70%
+46,H,Dentist,200,356,
+39,H,General Medicine,200,80,100%
+43,H,Ayurveda,100,525,
+67,H,Dermatologists,200,347,
+32,H,Dentist,200,387,98%
+34,H,General Medicine,300,260,97%
+51,H,Ayurveda,200,336,100%
+50,H,Dermatologists,350,361,100%
+55,H,Dentist,500,277,96%
+65,H,Dentist,200,217,97%
+47,H,Dentist,200,436,99%
+32,H,Dermatologists,100,557,96%
+42,H,Dentist,300,215,98%
+38,H,Dentist,300,9,100%
+44,H,Ayurveda,100,453,
+69,H,General Medicine,150,10,
+50,H,Dentist,100,131,76%
+63,H,General Medicine,100,321,
+65,H,Dermatologists,500,187,
+49,H,General Medicine,600,78,
+36,H,Dentist,200,588,
+38,H,Homeopath,300,84,
+39,H,Dentist,100,444,
+53,H,Dermatologists,200,566,99%
+44,H,Homeopath,750,207,99%
+52,H,General Medicine,500,268,
+49,H,General Medicine,600,222,
+36,H,General Medicine,200,363,
+60,H,General Medicine,500,133,
+60,H,Homeopath,200,552,
+60,H,ENT Specialist,300,419,100%
+49,H,Homeopath,300,470,
+44,H,Ayurveda,300,314,100%
+52,H,Dermatologists,300,582,
+43,H,General Medicine,100,40,96%
+50,H,Dermatologists,200,445,
+65,H,Dermatologists,500,560,85%
+51,H,Homeopath,100,211,
+62,H,Dermatologists,300,515,
+49,H,Dentist,150,492,90%
+39,H,ENT Specialist,500,105,
+57,H,General Medicine,500,550,100%
+64,H,Homeopath,100,277,92%
+40,H,Dentist,300,556,100%
+66,H,Dermatologists,500,55,100%
+66,H,General Medicine,500,445,96%
+38,H,ENT Specialist,100,172,94%
+37,H,Dentist,200,265,
+60,H,Homeopath,200,303,
+36,H,General Medicine,250,579,
+57,H,ENT Specialist,100,174,
+33,H,Dentist,400,570,94%
+62,H,General Medicine,300,306,99%
+38,H,Homeopath,500,508,68%
+65,H,Ayurveda,100,438,
+66,H,Homeopath,50,22,
+45,H,General Medicine,500,270,
+49,H,Ayurveda,500,484,
+45,H,ENT Specialist,100,469,
+45,H,Dermatologists,100,412,99%
+40,H,Dermatologists,500,503,98%
+58,H,Dermatologists,500,240,96%
+69,H,Homeopath,300,456,88%
+70,H,Dermatologists,300,446,97%
+53,H,Dentist,100,440,100%
+60,H,General Medicine,200,105,100%
+66,H,ENT Specialist,500,238,90%
+41,H,General Medicine,450,467,95%
+66,H,ENT Specialist,250,324,
+37,H,Dentist,250,237,
+42,H,Dermatologists,300,453,
+64,H,Ayurveda,100,47,
+63,H,General Medicine,350,122,
+47,H,ENT Specialist,250,305,95%
+39,H,Homeopath,500,337,97%
+44,H,General Medicine,100,476,
+48,H,Homeopath,250,297,93%
+57,H,Homeopath,100,473,
+38,H,Dentist,400,305,
+44,H,ENT Specialist,100,103,
+60,H,Ayurveda,150,366,
+54,H,Dentist,100,422,
+39,H,Homeopath,500,399,100%
+70,H,Dentist,100,252,
+63,H,Dermatologists,200,131,100%
+32,H,Dermatologists,400,14,
+55,H,ENT Specialist,800,177,89%
+35,H,Dentist,100,364,91%
+49,H,Ayurveda,100,247,100%
+59,H,Ayurveda,250,373,
+40,H,Dermatologists,250,151,95%
+42,H,Homeopath,500,46,99%
+53,H,Dentist,350,243,97%
+53,H,ENT Specialist,100,542,
+44,H,Homeopath,500,324,64%
+58,H,Dermatologists,300,432,
+32,H,General Medicine,400,366,85%
+68,H,ENT Specialist,200,190,94%
+52,H,ENT Specialist,100,529,91%
+49,H,General Medicine,600,121,95%
+39,H,ENT Specialist,250,122,
+44,H,ENT Specialist,600,596,
+37,H,Dentist,400,122,100%
+61,H,Ayurveda,100,511,99%
+40,H,ENT Specialist,300,20,100%
+32,H,Dentist,600,247,80%
+35,H,Dentist,200,269,98%
+34,H,ENT Specialist,100,546,99%
+69,H,Ayurveda,500,358,
+53,H,General Medicine,300,91,
+49,H,ENT Specialist,200,182,
+39,H,ENT Specialist,100,160,
+59,H,Homeopath,100,3,94%
+56,H,Dentist,300,59,
+39,H,ENT Specialist,300,598,98%
+46,H,ENT Specialist,200,460,
+50,H,ENT Specialist,100,427,
+50,H,Dentist,550,355,
+65,H,Dermatologists,500,461,95%
+48,H,Dermatologists,200,286,
+59,H,ENT Specialist,600,378,89%
+41,H,General Medicine,300,69,
+35,H,Dentist,250,143,
+34,H,Ayurveda,100,584,96%
+44,H,Dentist,100,374,100%
+45,H,Ayurveda,200,68,
+37,H,General Medicine,500,356,100%
+45,H,Dermatologists,800,395,
+64,H,Dentist,800,457,100%
+32,H,Dentist,300,87,
+68,H,Dermatologists,300,498,95%
+36,H,Dentist,500,385,
+31,H,General Medicine,200,130,100%
+40,H,General Medicine,600,37,
+31,H,Homeopath,300,53,83%
+39,H,Homeopath,300,109,96%
+59,H,Dermatologists,500,403,97%
+45,H,ENT Specialist,700,159,98%
+59,H,Homeopath,400,225,94%
+57,H,General Medicine,500,229,
+47,H,Dentist,500,306,
+45,H,Homeopath,300,348,100%
+60,H,General Medicine,450,434,
+56,H,General Medicine,200,415,
+61,H,Ayurveda,100,116,
+46,H,Dentist,100,412,
+45,H,Dermatologists,100,440,
+60,H,Ayurveda,300,207,96%
+52,H,Dentist,100,247,
+32,H,Ayurveda,200,562,96%
+56,H,ENT Specialist,600,357,
+58,H,General Medicine,500,531,
+65,H,General Medicine,700,126,97%
+70,H,ENT Specialist,200,336,
+48,H,General Medicine,300,139,95%
+69,H,Homeopath,200,19,
+63,H,Dentist,300,464,98%
+50,H,Dentist,500,528,100%
+44,H,Dentist,500,89,100%
+70,H,Dermatologists,200,345,98%
+37,H,Dentist,600,144,95%
+58,H,Ayurveda,100,302,97%
+57,H,ENT Specialist,300,469,100%
+66,H,Dentist,500,59,
+35,H,Dermatologists,500,397,94%
+39,H,Dermatologists,100,378,
+41,H,General Medicine,300,501,
+51,H,ENT Specialist,650,517,96%
+49,H,Dermatologists,250,191,
+59,H,General Medicine,100,66,
+60,H,ENT Specialist,500,264,
+51,H,Ayurveda,600,401,100%
+56,H,Ayurveda,250,270,
+43,H,Dentist,200,110,
+56,H,ENT Specialist,100,488,
+42,H,Dermatologists,100,374,88%
+57,H,General Medicine,200,242,96%
+42,H,Dentist,300,209,95%
+47,H,Homeopath,350,196,92%
+56,H,ENT Specialist,250,316,100%
+45,H,Homeopath,200,4,
+33,H,Dermatologists,450,334,
+31,H,General Medicine,500,121,98%
+56,H,Dentist,300,177,95%
+56,H,Homeopath,100,476,99%
+48,H,Dentist,100,464,
+50,H,Ayurveda,300,172,96%
+35,H,Homeopath,50,196,
+43,H,Dentist,250,484,
+51,H,ENT Specialist,100,562,
+55,H,Dermatologists,500,59,86%
+56,H,ENT Specialist,800,590,92%
+45,H,General Medicine,500,599,100%
+65,H,Dentist,100,503,
+60,H,General Medicine,500,123,100%
+50,H,Dentist,800,553,
+40,H,ENT Specialist,200,21,100%
+66,H,ENT Specialist,700,591,91%
+32,H,ENT Specialist,400,119,100%
+55,H,General Medicine,650,415,91%
+62,H,General Medicine,200,234,
+40,H,General Medicine,800,370,
+62,H,Ayurveda,100,52,
+44,H,Dentist,600,206,
+65,H,Dermatologists,100,348,99%
+51,H,Dentist,300,589,100%
+43,H,General Medicine,250,241,
+70,H,Dentist,400,307,
+49,H,General Medicine,100,460,100%
+59,H,General Medicine,125,103,89%
+30,H,Homeopath,400,592,
+33,H,Dentist,100,100,
+52,H,Dentist,100,146,
+65,H,General Medicine,250,294,
+59,H,General Medicine,800,327,
+66,H,Homeopath,70,213,
+48,H,Dentist,100,57,100%
+34,H,Homeopath,100,26,
+43,H,Homeopath,500,560,100%
+56,H,Dentist,700,177,
+44,H,Homeopath,200,495,98%
+39,H,Ayurveda,300,242,95%
+30,H,Dermatologists,200,199,99%
+44,H,General Medicine,300,282,
+69,H,Ayurveda,200,165,
+48,H,General Medicine,100,433,
+31,H,Dentist,200,226,100%
+37,H,Dentist,100,336,100%
+49,H,Homeopath,400,571,100%
+34,H,Ayurveda,100,452,
+32,H,Dermatologists,200,118,
+30,H,Dentist,100,160,
+64,H,Dentist,300,218,
+52,H,Dentist,100,370,93%
+59,H,ENT Specialist,250,316,
+54,H,Ayurveda,400,452,95%
+35,H,Dermatologists,100,19,
+45,H,Dentist,100,37,
+61,H,General Medicine,300,495,
+31,H,ENT Specialist,100,57,
+64,H,General Medicine,500,55,89%
+60,H,Homeopath,400,224,93%
+45,H,ENT Specialist,500,147,
+30,H,Ayurveda,100,413,
+31,H,Dentist,200,245,87%
+39,H,Dermatologists,500,535,96%
+30,H,General Medicine,300,511,
+55,H,Dermatologists,350,49,
+65,H,ENT Specialist,750,236,93%
+68,H,Homeopath,200,390,
+50,H,Ayurveda,300,207,100%
+43,H,Dermatologists,150,185,
+45,H,Dermatologists,700,402,100%
+61,H,General Medicine,400,201,98%
+46,H,Dermatologists,200,177,
+63,H,Dentist,400,263,94%
+58,H,Homeopath,200,250,99%
+43,H,Homeopath,300,2,
+66,H,General Medicine,300,28,
+33,H,Dentist,300,578,
+62,H,Ayurveda,300,64,98%
+40,H,Dentist,250,89,100%
+35,H,Ayurveda,200,391,96%
+54,H,General Medicine,100,135,97%
+56,H,ENT Specialist,500,121,
+51,H,Homeopath,500,578,
+35,H,Homeopath,200,88,100%
+61,H,General Medicine,300,422,
+57,H,Dentist,300,81,99%
+69,H,ENT Specialist,200,389,
+46,H,Homeopath,300,52,
+70,H,General Medicine,500,409,97%
+34,H,General Medicine,150,442,
+62,H,ENT Specialist,900,370,
+38,H,General Medicine,400,321,
+61,H,ENT Specialist,600,357,95%
+69,H,Homeopath,800,231,
+63,H,ENT Specialist,300,585,
+61,H,Ayurveda,100,437,
+67,H,ENT Specialist,150,396,
+30,H,Dentist,500,543,91%
+51,H,General Medicine,200,175,
+62,H,General Medicine,100,144,
+34,H,Ayurveda,200,594,
+61,H,Dermatologists,500,274,
+35,H,Dentist,600,158,79%
+52,H,Ayurveda,150,171,96%
+58,H,ENT Specialist,300,542,
+45,H,General Medicine,500,516,78%
+43,H,General Medicine,300,4,
+33,H,Dermatologists,200,167,
+55,H,Homeopath,200,231,70%
+35,H,General Medicine,200,193,
+43,H,Dermatologists,400,142,84%
+61,H,General Medicine,500,342,
+57,H,Homeopath,100,306,92%
+53,H,General Medicine,500,458,
+39,H,Homeopath,300,287,
+40,H,Dentist,150,28,92%
+38,H,Dentist,200,401,99%
+45,H,Dermatologists,200,516,
+52,H,Dermatologists,500,344,100%
+45,H,Homeopath,500,308,
+47,H,ENT Specialist,200,149,96%
+33,H,ENT Specialist,100,376,89%
+49,H,Homeopath,450,322,
+63,H,Dentist,700,268,
+30,H,Dentist,300,338,
+37,H,Homeopath,300,63,95%
+69,H,General Medicine,400,89,96%
+37,H,Ayurveda,50,385,
+69,H,General Medicine,50,478,
+65,H,Dentist,800,39,
+41,H,Ayurveda,200,187,100%
+57,H,Dentist,100,523,
+34,H,Ayurveda,200,511,98%
+53,H,Dentist,250,99,
+47,H,General Medicine,100,215,99%
+57,H,Homeopath,400,259,95%
+39,H,ENT Specialist,200,331,100%
+57,H,Dermatologists,400,456,95%
+52,H,ENT Specialist,300,99,
+53,H,Dentist,300,466,87%
+66,H,Dermatologists,600,570,
+30,H,Dentist,500,320,89%
+30,H,Dermatologists,300,390,
+70,H,Dentist,400,64,96%
+31,H,Dermatologists,300,80,97%
+47,H,Dentist,700,501,92%
+34,H,Dermatologists,200,270,100%
+51,H,General Medicine,500,223,90%
+44,H,General Medicine,150,34,
+48,H,General Medicine,600,14,
+55,H,Ayurveda,400,468,
+47,H,General Medicine,80,586,
+31,H,Dentist,400,495,
+56,H,General Medicine,200,5,96%
+31,H,Dentist,400,65,
+40,H,Ayurveda,700,201,86%
+45,H,Ayurveda,50,180,
+35,H,Dermatologists,400,102,88%
+59,H,Homeopath,200,349,
+46,H,Dermatologists,450,434,
+41,H,Dentist,800,541,96%
+62,H,Dentist,200,358,
+48,H,Dentist,100,536,
+31,H,Dentist,200,251,96%
+56,H,Dentist,200,469,100%
+53,H,Ayurveda,150,482,98%
+53,H,Homeopath,300,243,
+66,H,Ayurveda,450,46,
+68,H,Dentist,200,136,
+35,H,Homeopath,200,446,99%
+37,H,Ayurveda,200,17,
+45,H,ENT Specialist,50,534,
+69,H,General Medicine,100,110,
+61,H,ENT Specialist,500,108,
+44,H,ENT Specialist,250,70,
+51,H,Dermatologists,600,213,91%
+32,H,Ayurveda,500,379,89%
+66,H,Dermatologists,200,0,
+40,H,ENT Specialist,300,1,
+48,H,ENT Specialist,600,35,
+54,H,General Medicine,300,400,88%
+32,H,Dentist,200,577,100%
+34,H,Homeopath,500,352,97%
+41,H,Ayurveda,300,370,
+48,H,ENT Specialist,500,81,
+39,H,Dentist,400,577,67%
+32,H,Dentist,200,231,96%
+50,H,General Medicine,100,296,
+66,H,Dentist,100,230,
+56,H,Homeopath,200,394,
+51,H,Dermatologists,100,580,
+31,H,Ayurveda,300,264,
+52,H,Ayurveda,250,99,95%
+40,H,Ayurveda,100,341,
+69,H,General Medicine,300,570,
+62,H,Homeopath,100,167,90%
+49,H,Dentist,200,498,
+70,H,ENT Specialist,800,5,100%
+47,H,Dermatologists,500,298,100%
+31,H,Homeopath,800,561,
+31,H,Dentist,400,424,
+55,H,Dermatologists,100,95,97%
+34,H,Homeopath,600,597,
+54,H,Homeopath,100,51,100%
+69,H,General Medicine,200,267,
+52,H,Dentist,400,392,92%
+35,H,General Medicine,250,257,99%
+66,H,Ayurveda,100,468,
+41,H,Dentist,150,501,
+70,H,ENT Specialist,500,427,98%
+30,H,Ayurveda,300,520,85%
+68,H,Dermatologists,300,23,
+53,H,Dermatologists,600,409,100%
+41,H,General Medicine,200,83,
+47,H,Dentist,200,378,100%
+47,H,General Medicine,200,183,99%
+56,H,Ayurveda,400,58,
+65,H,Ayurveda,100,383,
+61,H,Dermatologists,500,251,98%
+37,H,Dentist,700,192,83%
+32,H,Dentist,100,0,96%
+42,H,General Medicine,200,289,98%
+63,H,General Medicine,600,596,
+65,H,General Medicine,100,304,
+68,H,Dentist,100,236,76%
+48,H,General Medicine,100,533,
+42,H,General Medicine,400,422,
+58,H,Dentist,100,463,
+60,H,General Medicine,100,124,
+36,H,Dermatologists,200,240,
+55,H,General Medicine,400,405,99%
+53,H,Dermatologists,100,342,
+51,H,ENT Specialist,600,575,87%
+68,H,General Medicine,400,541,97%
+31,H,Ayurveda,400,399,
+44,H,Homeopath,200,132,
+37,H,Homeopath,500,272,97%
+40,H,Dentist,200,172,
+65,H,General Medicine,500,251,98%
+33,H,Ayurveda,600,551,88%
+58,H,Dermatologists,150,303,
+31,H,General Medicine,100,283,100%
+36,H,Dentist,500,298,
+47,H,Dentist,200,550,
+46,H,Homeopath,200,50,
+46,H,Homeopath,500,458,
+57,H,Dentist,800,547,
+54,H,Homeopath,100,55,
+43,H,Dermatologists,250,530,96%
+37,H,Ayurveda,500,215,
+43,H,ENT Specialist,100,26,
+30,H,General Medicine,200,166,
+39,H,Ayurveda,700,436,99%
+39,H,General Medicine,500,573,
+65,H,Ayurveda,300,572,
+52,H,Dermatologists,250,32,97%
+69,H,Ayurveda,300,566,
+37,H,Ayurveda,100,8,96%
+58,H,Ayurveda,500,368,
+46,H,ENT Specialist,100,390,
+67,H,General Medicine,350,188,93%
+38,H,General Medicine,300,316,
+38,H,Dentist,200,559,76%
+36,H,Dermatologists,500,585,98%
+53,H,ENT Specialist,400,43,95%
+39,H,General Medicine,300,205,97%
+33,H,Dermatologists,500,517,
+60,H,Dermatologists,700,317,
+47,H,ENT Specialist,350,303,85%
+37,H,ENT Specialist,800,275,69%
+55,H,ENT Specialist,300,481,96%
+41,H,Ayurveda,500,83,
+68,H,General Medicine,100,151,
+37,H,Dentist,100,152,
+51,H,Dermatologists,200,74,
+33,H,General Medicine,200,446,
+65,H,Homeopath,250,347,96%
+34,H,General Medicine,100,149,90%
+61,H,Dentist,500,205,99%
+53,H,Dermatologists,200,256,99%
+69,H,Ayurveda,500,183,
+53,H,Ayurveda,100,159,
+36,H,General Medicine,300,489,93%
+42,H,Dermatologists,200,593,
+50,H,General Medicine,300,114,
+33,H,ENT Specialist,300,217,
+68,H,Dermatologists,450,580,
+46,H,Dermatologists,100,27,98%
+43,H,Homeopath,300,550,
+40,H,ENT Specialist,50,282,
+62,H,Dentist,400,351,
+51,H,Dermatologists,500,428,
+56,H,Dentist,500,592,100%
+65,H,Ayurveda,100,432,
+51,H,Homeopath,250,367,
+47,H,General Medicine,250,501,97%
+68,H,Homeopath,400,550,95%
+50,H,Homeopath,700,464,
+46,H,Dentist,500,566,
+40,H,Dermatologists,400,15,95%
+31,H,General Medicine,100,473,97%
+35,H,General Medicine,100,444,96%
+36,H,Dermatologists,100,411,
+33,H,Dentist,300,161,92%
+70,H,General Medicine,500,263,96%
+30,H,Ayurveda,300,79,
+45,H,General Medicine,500,6,
+49,H,Dentist,100,209,
+30,H,Dentist,300,90,100%
+57,H,Ayurveda,400,425,
+44,H,Dermatologists,200,271,100%
+45,H,Dentist,400,469,98%
+67,H,Homeopath,300,466,97%
+32,H,Dermatologists,500,22,100%
+48,H,General Medicine,500,118,
+56,H,General Medicine,300,121,
+59,H,Homeopath,400,90,98%
+33,H,Dentist,450,487,95%
+70,H,General Medicine,500,327,98%
+68,H,ENT Specialist,300,310,
+30,H,Ayurveda,250,491,91%
+51,H,Dentist,150,530,
+58,H,Homeopath,200,298,
+69,H,General Medicine,500,32,
+68,H,Homeopath,100,268,
+41,H,Dermatologists,100,318,92%
+47,H,Dermatologists,300,185,
+38,H,General Medicine,200,328,
+42,H,Dentist,100,379,
+44,H,Dermatologists,50,135,
+48,H,Ayurveda,600,98,
+63,H,Dermatologists,300,376,
+38,H,Homeopath,200,430,
+67,H,Dermatologists,250,299,
+39,H,General Medicine,550,70,95%
+41,H,Dentist,300,177,
+34,H,Dentist,300,274,
+53,H,Homeopath,250,59,
+32,H,Homeopath,300,409,
+59,H,Ayurveda,100,32,100%
+70,H,Homeopath,30,289,
+68,H,Dermatologists,100,94,
+47,H,Dermatologists,600,288,100%
+67,H,General Medicine,100,475,
+36,H,ENT Specialist,400,543,
+40,H,Dermatologists,400,137,90%
+53,H,General Medicine,100,363,91%
+33,H,Dentist,100,253,
+38,H,Dentist,100,358,99%
+42,H,ENT Specialist,500,445,97%
+51,H,ENT Specialist,150,444,
+62,H,ENT Specialist,500,274,
+31,H,Ayurveda,400,563,
+30,H,Ayurveda,100,435,
+51,H,Homeopath,100,7,
+42,H,Dentist,500,442,89%
+60,H,General Medicine,200,462,100%
+62,H,Dermatologists,300,33,
+42,H,ENT Specialist,600,236,99%
+48,H,Homeopath,500,138,98%
+32,H,ENT Specialist,500,342,
+37,H,General Medicine,150,370,90%
+59,H,ENT Specialist,250,273,
+42,H,Dentist,300,442,96%
+43,H,Dermatologists,100,361,
+57,H,Dermatologists,500,88,
+61,H,General Medicine,400,365,91%
+66,H,Dermatologists,500,354,
+34,H,Dentist,500,373,99%
+55,H,Dermatologists,500,599,100%
+47,H,Homeopath,200,4,
+67,H,Homeopath,100,555,
+41,H,Dermatologists,500,99,100%
+46,H,Dentist,300,276,100%
+40,H,Dentist,150,560,
+32,H,Dermatologists,400,89,98%
+67,H,Dentist,250,577,98%
+48,H,ENT Specialist,600,550,90%
+46,H,Dentist,150,144,
+44,H,Dentist,200,226,
+56,H,Ayurveda,200,369,99%
+54,H,Dermatologists,50,193,
+65,H,ENT Specialist,300,330,
+42,H,Dermatologists,400,51,
+70,H,Dentist,300,114,96%
+60,H,Homeopath,200,536,94%
+54,H,General Medicine,300,544,
+34,H,Homeopath,400,197,100%
+31,H,General Medicine,100,279,
+46,H,Ayurveda,500,394,
+66,H,Homeopath,50,163,
+60,H,Ayurveda,150,403,
+52,H,ENT Specialist,100,104,
+54,H,General Medicine,500,61,
+70,H,General Medicine,100,382,
+68,H,General Medicine,100,294,
+66,H,Homeopath,100,514,
+67,H,Dermatologists,400,262,96%
+44,H,General Medicine,600,20,
+60,H,Dentist,450,566,
+67,H,Ayurveda,200,344,
+47,H,Dentist,100,485,96%
+56,H,ENT Specialist,300,66,100%
+46,H,Ayurveda,650,139,
+67,H,Dentist,100,264,
+32,H,Dentist,200,193,100%
+57,H,Dermatologists,150,280,99%
+53,H,General Medicine,100,577,
+49,H,Dentist,100,94,
+45,H,General Medicine,200,570,99%
+60,H,Dermatologists,300,125,90%
+41,H,Dermatologists,600,408,91%
+47,H,Homeopath,500,212,97%
+58,H,ENT Specialist,300,89,
+30,H,Dermatologists,300,87,
+69,H,General Medicine,100,4,87%
+53,H,Ayurveda,200,16,
+31,H,Dermatologists,600,73,95%
+65,H,Dentist,400,66,95%
+54,H,Dermatologists,300,275,99%
+65,H,General Medicine,350,569,93%
+49,H,General Medicine,70,573,
+36,H,Ayurveda,500,344,
+52,H,General Medicine,400,143,97%
+62,H,General Medicine,250,344,
+34,H,General Medicine,100,96,
+70,H,Dermatologists,800,268,
+42,H,Dermatologists,500,282,
+66,H,General Medicine,500,22,
+52,H,Dermatologists,400,532,
+64,H,ENT Specialist,300,476,100%
+53,H,General Medicine,100,572,85%
+52,H,General Medicine,500,256,98%
+32,H,ENT Specialist,150,142,
+66,H,Dermatologists,600,100,88%
+58,H,Ayurveda,100,544,95%
+54,H,General Medicine,100,345,
+63,H,Dentist,200,152,97%
+44,H,Dentist,150,235,
+39,H,ENT Specialist,150,355,
+68,H,Dentist,250,440,
+49,H,Dermatologists,100,168,
+63,H,Dentist,700,301,85%
+58,H,General Medicine,350,175,
+60,H,Homeopath,300,194,100%
+60,H,Ayurveda,200,4,100%
+38,H,General Medicine,150,7,
+64,H,ENT Specialist,600,192,
+48,H,Dermatologists,100,95,93%
+62,H,Dentist,100,121,83%
+54,H,Dermatologists,400,138,94%
+57,H,General Medicine,600,574,100%
+56,H,Homeopath,500,276,
+68,H,Ayurveda,300,369,
+36,H,General Medicine,150,41,100%
+56,H,ENT Specialist,850,589,
+39,H,Dermatologists,100,151,
+38,H,Dentist,300,400,92%
+67,H,Dermatologists,300,65,100%
+52,H,Homeopath,300,6,
+61,H,Homeopath,200,450,100%
+55,H,General Medicine,200,548,
+62,H,Homeopath,100,164,
+50,H,Dentist,100,416,
+44,H,Dentist,100,373,98%
+54,H,Ayurveda,300,37,100%
+66,H,General Medicine,300,176,
+65,H,Ayurveda,700,145,99%
+33,H,ENT Specialist,80,465,
+31,H,Ayurveda,100,451,91%
+70,H,Dentist,200,348,
+70,H,General Medicine,500,152,100%
+67,H,Ayurveda,50,45,
+61,H,Dentist,50,111,
+39,H,ENT Specialist,500,304,97%
+57,H,General Medicine,300,473,
+65,H,Dentist,150,375,
+58,H,ENT Specialist,100,473,
+68,H,Dermatologists,100,92,96%
+56,H,Dentist,100,370,
+52,H,Dentist,400,411,100%
+32,H,Homeopath,100,299,98%
+51,H,Dentist,50,435,
+35,H,Dermatologists,300,94,99%
+44,H,Dentist,100,220,96%
+54,H,ENT Specialist,200,585,99%
+58,H,ENT Specialist,600,367,
+66,H,Dermatologists,100,587,97%
+56,H,Ayurveda,250,477,
+62,H,General Medicine,500,593,
+64,H,Dentist,200,95,
+60,H,Dentist,300,532,
+62,H,Dentist,250,134,
+46,H,General Medicine,200,507,98%
+41,H,Ayurveda,300,326,100%
+54,H,Ayurveda,500,287,94%
+60,H,Ayurveda,100,578,
+43,H,Homeopath,300,556,
+47,H,General Medicine,200,196,100%
+51,H,Homeopath,350,467,
+65,H,Dermatologists,200,125,
+70,H,ENT Specialist,250,575,93%
+35,H,Dentist,100,422,
+48,H,ENT Specialist,500,483,98%
+38,H,Dentist,300,288,
+31,H,Ayurveda,100,352,
+48,H,Dentist,100,500,
+69,H,General Medicine,100,452,100%
+58,H,Dermatologists,200,547,
+38,H,Dermatologists,600,470,70%
+58,H,Dermatologists,800,271,86%
+49,H,Dermatologists,500,175,96%
+69,H,Dermatologists,250,374,94%
+51,H,Homeopath,400,187,97%
+46,H,Dermatologists,500,437,
+60,H,Ayurveda,300,35,
+30,H,Homeopath,300,307,
+63,H,Dentist,100,276,100%
+47,H,Ayurveda,250,469,100%
+43,H,General Medicine,500,407,94%
+55,H,Dermatologists,800,434,
+61,H,General Medicine,500,33,
+68,H,Ayurveda,150,158,
+70,H,Dermatologists,100,16,
+56,H,Dentist,300,170,71%
+61,H,Dermatologists,800,311,
+69,H,Dentist,100,92,
+54,H,General Medicine,100,317,
+62,H,Dentist,150,370,71%
+50,H,Dermatologists,500,228,
+47,H,Dermatologists,800,364,
+58,H,General Medicine,500,210,
+48,H,ENT Specialist,200,367,
+33,H,Dermatologists,500,312,
+42,H,Ayurveda,400,341,96%
+41,H,Dermatologists,200,491,96%
+51,H,Homeopath,100,10,99%
+67,H,Dentist,150,536,
+37,H,Dermatologists,300,562,98%
+32,H,ENT Specialist,650,588,
+69,H,General Medicine,600,543,88%
+52,H,ENT Specialist,300,175,
+38,H,General Medicine,400,366,
+60,H,Homeopath,500,236,
+52,H,Dentist,150,582,
+56,H,ENT Specialist,300,55,98%
+34,H,General Medicine,400,589,95%
+70,H,Dentist,400,541,
+52,H,Homeopath,300,473,
+53,H,Homeopath,200,262,
+32,H,Ayurveda,300,394,
+41,H,Dermatologists,100,503,
+36,H,Dermatologists,100,73,92%
+60,H,Homeopath,500,332,98%
+34,H,ENT Specialist,300,300,
+46,H,Dermatologists,400,127,
+57,H,Ayurveda,100,489,83%
+38,H,Dentist,100,526,
+45,H,General Medicine,800,259,99%
+63,H,Dermatologists,500,102,62%
+46,H,General Medicine,200,34,
+52,H,ENT Specialist,400,293,92%
+44,H,General Medicine,300,54,
+64,H,ENT Specialist,100,4,93%
+67,H,Dermatologists,400,515,90%
+65,H,Dermatologists,700,59,100%
+52,H,General Medicine,350,77,
+32,H,Dermatologists,150,460,
+33,H,Ayurveda,600,559,
+69,H,ENT Specialist,300,234,
+65,H,Homeopath,800,496,
+50,H,Dentist,750,148,95%
+39,H,Ayurveda,100,273,97%
+45,H,Dentist,150,563,93%
+31,H,Dentist,200,254,100%
+40,H,Ayurveda,300,543,
+37,H,Homeopath,100,454,
+59,H,Dermatologists,200,411,100%
+56,H,Ayurveda,650,245,93%
+47,H,ENT Specialist,500,227,
+68,H,Dentist,250,572,
+57,H,Dentist,300,257,
+69,H,Dentist,200,229,99%
+55,H,Dentist,200,530,
+70,H,Dentist,500,533,
+37,H,Dentist,250,125,98%
+49,H,Dentist,500,581,99%
+65,H,Homeopath,200,425,
+58,H,Homeopath,100,387,
+62,H,ENT Specialist,350,467,100%
+33,H,ENT Specialist,350,39,
+48,H,Dentist,400,501,
+41,H,Ayurveda,200,308,
+37,H,Dermatologists,200,275,
+65,H,Homeopath,500,253,
+42,H,Ayurveda,500,509,
+57,H,ENT Specialist,100,165,
+49,H,Ayurveda,500,528,
+33,H,ENT Specialist,300,317,
+48,H,General Medicine,250,345,
+39,H,General Medicine,300,212,
+33,H,ENT Specialist,650,557,90%
+32,H,ENT Specialist,600,532,
+38,H,ENT Specialist,200,362,97%
+59,H,Dermatologists,400,207,98%
+68,H,Dermatologists,800,498,97%
+48,H,General Medicine,100,158,97%
+38,H,ENT Specialist,300,180,93%
+43,H,Dermatologists,100,460,90%
+32,H,Homeopath,250,51,
+58,H,Ayurveda,400,296,87%
+50,H,Ayurveda,500,511,97%
+65,H,ENT Specialist,300,27,
+44,H,ENT Specialist,500,540,100%
+52,H,Dermatologists,400,305,93%
+60,H,Dentist,350,143,
+46,H,ENT Specialist,200,562,97%
+68,H,General Medicine,250,416,95%
+58,H,Dermatologists,150,18,
+67,H,Ayurveda,300,106,
+55,H,Dentist,100,386,
+41,H,Dentist,150,154,
+44,H,ENT Specialist,200,331,
+59,H,Dermatologists,600,395,87%
+55,H,General Medicine,600,434,85%
+51,H,Dentist,250,429,82%
+43,H,Dentist,100,479,100%
+54,H,Ayurveda,300,265,
+52,H,General Medicine,200,448,96%
+40,H,Ayurveda,300,137,96%
+36,H,Ayurveda,400,544,97%
+70,H,Dentist,900,561,
+50,H,ENT Specialist,250,513,97%
+67,H,Dentist,450,545,100%
+34,H,Ayurveda,400,362,94%
+42,H,Dentist,100,555,
+38,H,ENT Specialist,200,403,
+44,H,Homeopath,300,180,
+61,H,Dentist,300,587,
+34,H,ENT Specialist,200,175,96%
+54,H,General Medicine,800,307,81%
+52,H,Dentist,500,577,94%
+44,H,Dermatologists,300,280,98%
+36,H,Homeopath,350,153,
+33,H,ENT Specialist,500,259,100%
+48,H,Ayurveda,350,442,
+41,H,Dentist,100,50,
+46,H,Dentist,100,518,
+50,H,Ayurveda,500,19,98%
+61,H,General Medicine,350,315,
+51,H,Dermatologists,300,540,94%
+42,H,Dentist,500,263,
+32,H,ENT Specialist,250,383,
+54,H,ENT Specialist,100,509,100%
+42,H,Dermatologists,350,152,
+51,H,Homeopath,200,68,100%
+46,H,Dentist,500,46,92%
+66,H,ENT Specialist,100,516,
+45,H,General Medicine,700,89,74%
+61,H,Ayurveda,100,210,75%
+33,H,Ayurveda,300,69,
+41,H,Homeopath,250,351,
+44,H,Dentist,500,511,76%
+52,H,Dermatologists,100,375,
+33,H,ENT Specialist,400,9,
+33,H,Dentist,500,463,
+42,H,General Medicine,250,41,
+43,H,General Medicine,600,203,
+68,H,Ayurveda,100,44,
+59,H,Ayurveda,500,500,100%
+50,H,Dentist,300,225,98%
+58,H,Homeopath,500,233,99%
+53,H,General Medicine,800,119,
+41,H,Dentist,300,404,
+43,H,ENT Specialist,200,3,
+63,H,Homeopath,500,445,
+38,H,Dentist,300,150,
+30,H,Dentist,500,424,97%
+32,H,Ayurveda,300,492,94%
+41,H,Dermatologists,200,374,
+32,H,Dermatologists,500,235,97%
+45,H,Homeopath,500,263,90%
+38,H,General Medicine,500,175,
+38,H,Dermatologists,500,187,
+62,H,Ayurveda,700,575,
+40,H,Dentist,300,391,
+35,H,General Medicine,100,335,
+45,H,General Medicine,500,243,
+62,H,Dermatologists,100,542,
+43,H,ENT Specialist,500,68,96%
+31,H,Dentist,500,49,94%
+45,H,Homeopath,200,561,97%
+61,H,General Medicine,500,63,
+70,H,ENT Specialist,400,144,
+61,H,Dentist,400,456,91%
+62,H,General Medicine,300,273,97%
+66,H,ENT Specialist,100,584,
+47,H,Ayurveda,300,40,
+58,H,Homeopath,100,247,
+54,H,Homeopath,450,393,
+40,H,Dentist,500,100,82%
+57,H,Ayurveda,250,134,99%
+37,H,ENT Specialist,300,198,91%
+34,H,Dentist,100,432,
+37,H,General Medicine,100,317,99%
+57,H,Dermatologists,400,150,
+41,H,ENT Specialist,700,404,96%
+64,H,Ayurveda,400,48,
+50,H,General Medicine,500,51,98%
+37,H,Dermatologists,150,258,
+57,H,Dentist,600,238,
+38,H,Dentist,200,380,100%
+33,H,Dentist,250,291,90%
+55,H,Ayurveda,100,528,
+43,H,Dermatologists,100,359,
+42,H,Homeopath,400,13,94%
+44,H,Dermatologists,100,567,
+36,H,Ayurveda,500,198,90%
+33,H,Dentist,100,97,
+47,H,General Medicine,300,296,100%
+59,H,Dermatologists,500,435,
+41,H,General Medicine,500,155,99%
+33,H,Dentist,400,420,
+64,H,Dermatologists,200,438,98%
+32,H,General Medicine,500,179,97%
+47,H,Dermatologists,100,578,90%
+65,H,Dentist,700,168,100%
+70,H,Homeopath,150,429,
+48,H,Homeopath,350,191,
+56,H,General Medicine,500,580,84%
+33,H,Homeopath,600,116,
+50,H,Dentist,50,41,
+59,H,Dermatologists,200,315,
+63,H,Dentist,300,44,86%
+53,H,General Medicine,100,203,100%
+44,H,General Medicine,400,378,83%
+60,H,Dentist,200,343,
+33,H,Dermatologists,100,423,99%
+33,H,General Medicine,650,63,90%
+63,H,Dentist,500,180,94%
+46,H,Dermatologists,100,550,
+38,H,Dentist,200,4,
+56,H,Dentist,250,21,90%
+67,H,General Medicine,250,341,
+45,H,Homeopath,250,154,91%
+57,H,Dentist,200,396,
+65,H,Dermatologists,300,469,98%
+30,H,Ayurveda,500,401,
+36,H,Homeopath,300,242,
+38,H,Ayurveda,200,205,100%
+63,H,Dermatologists,800,518,
+67,H,Dentist,300,575,
+59,H,Dentist,100,480,
+60,H,Ayurveda,100,82,
+35,H,Ayurveda,100,417,
+47,H,Dermatologists,300,133,
+32,H,Dentist,100,107,96%
+40,H,Homeopath,200,112,99%
+31,H,ENT Specialist,300,437,
+38,H,General Medicine,300,102,
+62,H,Dentist,300,453,
+48,H,Ayurveda,400,83,93%
+52,H,Homeopath,150,383,
+45,H,Ayurveda,200,446,100%
+50,H,Dentist,100,507,
+58,H,Dentist,200,308,100%
+67,H,Dentist,500,357,95%
+60,H,General Medicine,100,378,
+64,H,Ayurveda,500,557,
+50,H,Homeopath,100,153,
+34,H,Dentist,700,416,92%
+65,H,Ayurveda,200,513,95%
+33,H,Homeopath,200,389,
+62,H,Dentist,300,260,
+32,H,General Medicine,200,179,100%
+61,H,Dentist,250,187,
+64,H,General Medicine,100,127,100%
+60,H,Ayurveda,300,288,
+57,H,Dentist,150,579,97%
+56,H,Dermatologists,100,552,
+57,H,Dentist,900,88,
+64,H,General Medicine,300,171,95%
+50,H,Dentist,200,6,
+48,H,Dermatologists,50,483,
+31,H,Homeopath,400,258,100%
+55,H,Homeopath,300,162,
+63,H,Ayurveda,200,216,
+30,H,Homeopath,200,485,100%
+59,H,Homeopath,250,22,
+63,H,Ayurveda,200,587,
+45,H,Ayurveda,50,590,
+62,H,Dentist,200,513,93%
+37,H,Dentist,300,306,95%
+36,H,Ayurveda,200,480,
+68,H,Ayurveda,500,213,
+35,H,General Medicine,150,251,
+67,H,Ayurveda,200,520,
+37,H,General Medicine,250,451,98%
+70,H,Dentist,20,488,
+30,H,Dentist,200,577,98%
+53,H,Dentist,200,35,96%
+54,H,Dermatologists,500,549,97%
+44,H,Dentist,700,238,100%
+62,H,General Medicine,100,397,
+41,H,Homeopath,300,57,85%
+65,H,Dentist,100,178,
+60,H,ENT Specialist,100,439,96%
+38,H,Dermatologists,300,316,
+61,H,Homeopath,100,576,
+49,H,Dentist,800,15,
+70,H,Dentist,100,52,98%
+49,H,ENT Specialist,200,165,
+44,H,Dentist,500,377,
+70,H,Dentist,150,400,
+69,H,General Medicine,300,217,95%
+36,H,Dermatologists,100,515,99%
+58,H,Ayurveda,500,143,
+64,H,Dentist,400,387,
+37,H,Homeopath,200,473,98%
+57,H,Dentist,300,260,99%
+43,H,General Medicine,100,69,98%
+34,H,Ayurveda,500,595,100%
+31,H,Dermatologists,300,432,
+40,H,Dentist,750,2,
+56,H,General Medicine,100,443,99%
+32,H,Ayurveda,200,573,
+41,H,General Medicine,500,259,
+38,H,Dermatologists,600,173,98%
+30,H,General Medicine,550,562,93%
+37,H,General Medicine,250,223,
+66,H,Dentist,300,222,
+33,H,Dermatologists,300,541,99%
+51,H,General Medicine,500,485,94%
+65,H,Dentist,500,359,
+41,H,Dentist,100,370,97%
+70,H,Dentist,250,310,100%
+58,H,Homeopath,250,134,
+45,H,Ayurveda,450,116,
+68,H,Ayurveda,700,387,
+30,H,General Medicine,300,568,93%
+38,H,Homeopath,150,532,
+48,H,Dentist,500,497,
+55,H,Dermatologists,300,152,96%
+46,H,Dermatologists,500,464,98%
+58,H,General Medicine,800,226,93%
+66,H,Ayurveda,500,53,
+48,H,General Medicine,400,468,96%
+46,H,Homeopath,100,482,96%
+61,H,Ayurveda,300,139,
+44,H,Dentist,300,354,95%
+64,H,ENT Specialist,150,142,100%
+35,H,Dentist,400,599,
+53,H,ENT Specialist,100,381,94%
+55,H,ENT Specialist,200,542,
+39,H,General Medicine,300,260,95%
+47,H,Dentist,300,268,
+38,H,Dentist,200,500,100%
+55,H,General Medicine,100,380,
+56,H,Dentist,200,413,73%
+46,H,Dentist,300,62,98%
+36,H,Dermatologists,100,340,100%
+43,H,Homeopath,600,398,89%
+63,H,Dentist,350,596,
+36,H,General Medicine,500,116,89%
+49,H,Dermatologists,150,252,
+70,H,General Medicine,350,94,97%
+54,H,Dermatologists,100,532,82%
+34,H,Ayurveda,400,431,98%
+31,H,General Medicine,70,263,
+33,H,Ayurveda,600,529,92%
+53,H,Homeopath,400,146,100%
+51,H,ENT Specialist,300,597,98%
+66,H,Dermatologists,200,415,
+52,H,Dentist,150,586,
+39,H,General Medicine,200,186,99%
+63,H,General Medicine,100,569,65%
+39,H,Homeopath,450,546,96%
+52,H,General Medicine,450,387,
+44,H,Dentist,500,167,
+48,H,Homeopath,100,594,95%
+32,H,ENT Specialist,300,569,94%
+66,H,General Medicine,350,384,99%
+51,H,General Medicine,500,541,
+50,H,Dermatologists,400,235,
+61,H,Dermatologists,500,242,93%
+37,H,Ayurveda,900,529,97%
+43,H,Ayurveda,100,240,
+55,H,General Medicine,150,165,
+34,H,Ayurveda,500,26,89%
+36,H,Ayurveda,300,537,
+49,H,Dentist,200,64,
+68,H,Dermatologists,300,442,99%
+53,H,Dermatologists,600,109,
+58,H,General Medicine,400,474,77%
+35,H,General Medicine,100,116,
+62,H,Dermatologists,500,410,
+49,H,Dermatologists,150,566,100%
+54,H,Dentist,100,200,
+61,H,General Medicine,100,180,99%
+65,H,Homeopath,100,79,
+41,H,General Medicine,400,97,
+65,H,Homeopath,650,494,67%
+32,H,Ayurveda,700,134,91%
+49,H,Dentist,500,544,
+44,H,Dermatologists,200,95,99%
+56,H,General Medicine,700,48,96%
+63,H,Dentist,100,142,
+69,H,Dermatologists,300,138,
+36,H,Ayurveda,500,244,
+45,H,Dermatologists,500,416,
+44,H,Ayurveda,500,81,
+39,H,Dermatologists,300,18,99%
+36,H,Dentist,100,584,98%
+36,H,Dermatologists,200,451,100%
+69,H,Dermatologists,500,326,100%
+45,H,Dentist,150,286,94%
+46,H,Homeopath,70,40,
+35,H,General Medicine,500,290,
+54,H,Dentist,200,222,
+69,H,Dermatologists,100,102,
+58,H,Ayurveda,500,369,100%
+52,H,Dentist,100,181,
+50,H,General Medicine,500,262,95%
+38,H,Dentist,250,507,
+68,H,Dermatologists,500,103,100%
+64,H,Dentist,600,20,93%
+42,H,General Medicine,200,274,94%
+47,H,Dentist,300,358,
+30,H,General Medicine,150,86,97%
+36,H,Dermatologists,300,123,
+42,H,Dentist,500,496,68%
+69,H,Ayurveda,400,581,
+50,H,ENT Specialist,500,69,100%
+53,H,Dermatologists,700,384,
+48,H,Dermatologists,500,402,97%
+30,H,Ayurveda,100,476,
+69,H,ENT Specialist,250,249,99%
+30,H,Dentist,150,475,
+43,H,Homeopath,150,495,
+49,H,Dermatologists,500,548,100%
+42,H,ENT Specialist,350,529,99%
+46,H,ENT Specialist,380,22,92%
+58,H,Homeopath,400,597,81%
+55,H,Dentist,500,88,95%
+64,H,Dentist,300,64,97%
+46,H,Homeopath,250,142,100%
+35,H,General Medicine,300,203,
+36,H,Homeopath,400,21,100%
+53,H,Ayurveda,200,152,
+58,H,Dentist,200,471,
+40,H,ENT Specialist,200,172,100%
+69,H,Dentist,700,26,
+34,H,Dermatologists,100,77,96%
+46,H,General Medicine,300,243,
+55,H,Dentist,250,107,
+65,H,Dermatologists,300,561,99%
+36,H,Ayurveda,500,567,95%
+69,H,General Medicine,500,237,92%
+58,H,General Medicine,400,97,89%
+61,H,General Medicine,500,272,
+49,H,General Medicine,500,150,
+33,H,Dentist,600,507,
+53,H,General Medicine,250,209,97%
+70,H,ENT Specialist,500,223,99%
+40,H,Ayurveda,400,31,91%
+33,H,ENT Specialist,200,72,
+48,H,Dentist,400,79,100%
+67,H,General Medicine,200,92,
+48,H,Dentist,500,136,94%
+56,H,Dermatologists,200,380,97%
+57,H,Dermatologists,300,363,95%
+31,H,ENT Specialist,700,264,97%
+49,H,Dentist,250,211,
+45,H,Dentist,100,37,
+35,H,Homeopath,500,364,
+49,H,Dermatologists,300,350,
+61,H,Dermatologists,500,476,97%
+31,H,ENT Specialist,500,159,
+50,H,Dentist,300,470,
+69,H,ENT Specialist,100,157,
+39,H,Dermatologists,500,53,89%
+60,H,Homeopath,250,96,
+65,H,Dermatologists,200,403,
+33,H,Ayurveda,150,287,
+52,H,Dentist,400,257,95%
+68,H,Dentist,200,58,93%
+57,H,Dentist,200,195,
+65,H,ENT Specialist,200,482,92%
+41,H,ENT Specialist,500,273,
+65,H,Homeopath,100,156,
+48,H,ENT Specialist,500,214,
+35,H,General Medicine,400,240,90%
+62,H,Dentist,500,249,96%
+47,H,ENT Specialist,250,113,
+31,H,Dentist,500,491,
+68,H,Homeopath,200,342,
+58,H,Ayurveda,60,593,
+61,H,General Medicine,50,216,
+42,H,Dermatologists,200,526,
+46,H,Dentist,300,339,88%
+38,H,ENT Specialist,100,382,
+57,H,Dentist,100,95,94%
+35,H,Dentist,200,474,98%
+36,H,General Medicine,500,283,96%
+30,H,Homeopath,300,122,
+61,H,Homeopath,70,465,
+41,H,General Medicine,750,35,
+60,H,ENT Specialist,500,316,
+41,H,General Medicine,400,311,
+61,H,Homeopath,400,259,
+43,H,Homeopath,100,536,100%
+55,H,Dentist,500,502,100%
+33,H,Dermatologists,100,226,100%
+41,H,Dermatologists,100,157,93%
+49,H,Dermatologists,400,193,91%
+67,H,Dermatologists,500,163,94%
+67,H,Homeopath,100,580,98%
+44,H,ENT Specialist,300,427,
+51,H,Dentist,300,48,
+39,H,Ayurveda,100,273,100%
+39,H,Dermatologists,100,166,
+69,H,Homeopath,300,380,56%
+31,H,General Medicine,100,545,
+63,H,Dermatologists,350,236,
+32,H,Dentist,500,148,88%
+32,H,Ayurveda,100,27,99%
+40,H,Dentist,100,172,93%
+50,H,Dentist,200,84,96%
+60,H,Dermatologists,100,6,100%
+68,H,Dentist,200,322,97%
+49,H,General Medicine,100,535,
+65,H,Homeopath,250,300,99%
+39,H,Dermatologists,700,204,90%
+34,H,Dentist,500,434,
+36,H,Dentist,300,517,
+64,H,Ayurveda,250,1,
+53,H,Ayurveda,500,221,
+58,H,Ayurveda,100,453,
+54,H,ENT Specialist,300,583,
+67,H,General Medicine,700,534,
+58,H,Homeopath,100,203,
+46,H,General Medicine,100,368,
+66,H,Dermatologists,250,378,98%
+43,H,Dermatologists,400,233,87%
+64,H,Dermatologists,300,397,
+64,H,Homeopath,100,217,100%
+53,H,Dentist,500,36,100%
+61,H,Homeopath,100,515,98%
+47,H,ENT Specialist,800,166,
+39,H,Dentist,300,483,
+47,H,Homeopath,100,335,
+43,H,Dentist,500,598,
+65,H,Ayurveda,200,354,97%
+60,H,Dentist,150,409,96%
+63,H,Homeopath,100,184,
+65,H,General Medicine,700,410,
+70,H,Ayurveda,600,24,
+56,H,ENT Specialist,200,75,100%
+64,H,ENT Specialist,750,187,
+42,H,Dermatologists,100,392,
+62,H,Ayurveda,150,160,
+34,H,Dermatologists,350,5,
+59,H,Ayurveda,100,47,90%
+51,H,Ayurveda,400,145,100%
+58,H,Dentist,100,431,98%
+48,H,Ayurveda,100,477,
+55,H,Dermatologists,100,206,
+37,H,Dentist,100,115,
+48,H,Dermatologists,200,444,100%
+37,H,ENT Specialist,300,163,93%
+61,H,General Medicine,400,101,
+55,H,Dermatologists,150,81,
+63,H,Homeopath,100,201,
+52,H,General Medicine,300,355,
+66,H,Homeopath,250,274,
+42,H,Dentist,500,344,
+62,H,General Medicine,100,261,
+69,H,ENT Specialist,500,259,84%
+35,H,General Medicine,650,280,47%
+33,H,Dentist,100,161,95%
+33,H,Dentist,100,529,100%
+32,H,ENT Specialist,250,440,
+33,H,Dentist,100,63,
+47,H,ENT Specialist,250,116,90%
+62,H,Ayurveda,150,573,
+45,H,Ayurveda,100,486,
+51,H,Dentist,300,150,100%
+48,H,Ayurveda,50,402,
+57,H,Dentist,500,69,
+68,H,General Medicine,500,329,98%
+52,H,Dermatologists,100,2,86%
+40,H,Dentist,300,525,95%
+37,H,General Medicine,300,213,100%
+70,H,Ayurveda,100,46,
+49,H,Dermatologists,300,88,
+55,H,Dentist,700,600,100%
+69,H,ENT Specialist,400,95,100%
+48,H,Homeopath,600,12,
+61,H,ENT Specialist,400,233,99%
+57,H,Homeopath,350,259,
+42,H,Dentist,500,378,
+46,H,Dentist,250,308,
+48,H,Homeopath,100,109,
+38,H,Homeopath,200,362,
+57,H,Homeopath,100,48,100%
+58,H,Ayurveda,500,53,
+69,H,General Medicine,500,52,97%
+70,H,Dermatologists,100,33,
+53,H,Dentist,100,549,
+69,H,Dermatologists,500,94,
+47,H,Homeopath,100,150,
+55,H,Homeopath,100,432,99%
+37,H,ENT Specialist,100,519,
+44,H,Dentist,100,250,94%
+60,H,Homeopath,300,422,100%
+56,H,Homeopath,700,447,83%
+70,H,Homeopath,100,286,
+49,H,General Medicine,500,9,99%
+68,H,Dermatologists,600,388,
+50,H,Dermatologists,500,238,
+50,H,General Medicine,100,476,
+52,H,ENT Specialist,250,74,100%
+43,H,Ayurveda,200,268,
+69,H,ENT Specialist,100,273,
+39,H,Dentist,350,476,82%
+31,H,General Medicine,500,315,93%
+45,H,Dermatologists,500,223,
+68,H,Dentist,600,52,97%
+62,H,Dentist,500,309,100%
+65,H,Homeopath,250,112,100%
+56,H,Ayurveda,700,88,
+55,H,General Medicine,300,569,
+68,H,Dentist,100,396,
+57,H,General Medicine,100,346,100%
+61,H,Homeopath,200,94,99%
+36,H,Ayurveda,200,338,
+46,H,Dermatologists,100,540,100%
+41,H,Dermatologists,100,391,95%
+66,H,Homeopath,250,257,
+59,H,Ayurveda,100,408,
+50,H,Dentist,500,414,
+40,H,Dentist,300,521,82%
+50,H,Dermatologists,500,160,96%
+48,H,ENT Specialist,100,64,98%
+48,H,Homeopath,600,295,
+65,H,General Medicine,350,89,
+67,H,Dermatologists,250,324,96%
+54,H,ENT Specialist,100,153,96%
+50,H,ENT Specialist,500,181,
+47,H,Dentist,50,28,
+36,H,Ayurveda,100,131,99%
+44,H,Dentist,200,556,
+51,H,Ayurveda,250,453,
+61,H,Homeopath,500,448,
+67,H,General Medicine,350,569,
+48,H,Dentist,100,191,
+33,H,Homeopath,100,490,
+50,H,Homeopath,200,464,
+47,H,Dentist,150,78,
+62,H,Homeopath,200,83,100%
+46,H,General Medicine,50,138,
+52,H,Dermatologists,300,70,100%
+39,H,General Medicine,500,487,
+32,H,Dentist,250,284,
+48,H,Ayurveda,200,137,
+45,H,Homeopath,50,506,
+64,H,General Medicine,250,313,
+51,H,Homeopath,600,386,
+69,H,Dentist,50,277,98%
+50,H,Dermatologists,150,350,
+66,H,Dermatologists,400,315,
+70,H,General Medicine,500,600,100%
+41,H,Ayurveda,500,357,
+42,H,Dentist,100,326,
+43,H,Homeopath,200,554,100%
+55,H,Dermatologists,500,41,
+62,H,ENT Specialist,500,447,
+51,H,Ayurveda,650,403,33%
+43,H,Dentist,100,278,94%
+37,H,Dentist,100,316,97%
+70,H,Homeopath,200,202,
+46,H,ENT Specialist,500,187,
+41,H,ENT Specialist,400,98,
+49,H,Ayurveda,500,125,100%
+62,H,General Medicine,400,183,95%
+40,H,Homeopath,600,414,
+45,H,ENT Specialist,100,77,
+31,H,Dermatologists,350,384,
+40,H,Dentist,500,309,97%
+40,H,Dermatologists,150,332,99%
+60,H,Dentist,200,542,
+53,H,Homeopath,300,35,
+58,H,General Medicine,100,31,95%
+39,H,Dermatologists,700,532,
+36,H,General Medicine,700,449,
+30,H,Dermatologists,600,89,
+70,H,Dermatologists,250,390,95%
+57,H,General Medicine,350,83,100%
+34,H,ENT Specialist,100,449,
+69,H,General Medicine,300,386,
+30,H,General Medicine,100,69,97%
+59,H,General Medicine,200,306,
+32,H,Homeopath,500,264,96%
+58,H,Ayurveda,100,489,
+39,H,Ayurveda,200,509,
+68,H,Homeopath,200,588,
+65,H,Dentist,200,84,
+51,H,General Medicine,200,237,99%
+68,H,Homeopath,700,66,99%
+54,H,General Medicine,450,333,
+69,H,ENT Specialist,750,440,93%
+62,H,General Medicine,300,11,
+30,H,Dermatologists,300,216,
+46,H,General Medicine,100,454,
+61,H,Dentist,200,145,
+52,H,General Medicine,100,388,
+65,H,Homeopath,150,340,
+59,H,Ayurveda,300,145,
+57,H,Dermatologists,150,544,98%
+59,H,Dentist,400,49,
+37,H,Homeopath,100,271,
+57,H,Homeopath,100,553,
+67,H,General Medicine,200,177,
+63,H,General Medicine,100,345,
+58,H,General Medicine,200,510,
+52,H,Dermatologists,100,323,
+60,H,Dentist,500,39,99%
+51,H,Homeopath,100,81,96%
+48,H,Dermatologists,250,492,
+66,H,Dentist,600,528,97%
+30,H,Dermatologists,200,363,
+42,H,Ayurveda,600,117,94%
+34,H,Ayurveda,100,180,
+61,H,ENT Specialist,300,238,
+38,H,General Medicine,100,210,
+39,H,Ayurveda,400,462,
+40,H,Dermatologists,200,69,
+66,H,General Medicine,100,347,
+42,H,General Medicine,300,526,93%
+69,H,Dentist,500,509,100%
+48,H,Dermatologists,200,321,
+50,H,Ayurveda,200,96,100%
+38,H,Dentist,300,146,
+64,H,Ayurveda,200,246,
+32,H,ENT Specialist,70,270,
+57,H,Ayurveda,900,579,
+53,H,Homeopath,200,475,
+44,H,ENT Specialist,400,75,
+34,H,General Medicine,50,243,
+54,H,General Medicine,700,311,
+67,H,Dentist,350,409,
+63,H,ENT Specialist,200,97,100%
+49,H,General Medicine,300,79,
+43,H,ENT Specialist,50,493,
+40,H,General Medicine,400,553,
+32,H,General Medicine,500,57,98%
+56,H,Dentist,180,180,
+55,H,Dermatologists,400,319,98%
+60,H,Dentist,500,381,
+64,H,General Medicine,100,84,100%
+41,H,General Medicine,300,129,
+59,H,General Medicine,200,101,100%
+50,H,General Medicine,100,186,97%
+34,H,Dentist,650,8,100%
+45,H,Dentist,300,171,97%
+61,H,Homeopath,250,431,
+32,H,Homeopath,100,518,
+68,H,General Medicine,200,238,
+52,H,General Medicine,500,371,
+46,H,Dentist,350,297,
+59,H,Dentist,100,432,99%
+66,H,Homeopath,50,375,
+51,H,Dermatologists,300,527,
+58,H,Dentist,100,99,100%
+48,H,General Medicine,250,405,
+58,H,General Medicine,60,462,
+65,H,General Medicine,350,70,
+70,H,Ayurveda,500,528,
+52,H,ENT Specialist,300,388,
+59,H,Ayurveda,700,322,
+58,H,Dermatologists,300,175,
+67,H,General Medicine,100,264,96%
+53,H,General Medicine,750,216,95%
+45,H,General Medicine,50,241,
+57,H,ENT Specialist,500,200,99%
+42,H,Dentist,250,57,
+70,H,ENT Specialist,500,169,99%
+49,H,ENT Specialist,500,560,
+48,H,Homeopath,220,106,89%
+60,H,Homeopath,200,490,
+37,H,Homeopath,300,474,96%
+48,H,Dentist,450,359,
+70,H,Homeopath,200,234,
+31,H,ENT Specialist,200,460,94%
+57,H,Dentist,200,202,60%
+44,H,Dentist,150,577,98%
+56,H,Dermatologists,200,50,95%
+37,H,Dentist,200,574,
+45,H,Homeopath,500,594,98%
+55,H,General Medicine,800,305,67%
+39,H,Dentist,900,16,
+61,H,Dentist,200,247,
+32,H,General Medicine,500,140,97%
+59,H,Dermatologists,400,111,89%
+66,H,Dermatologists,350,149,
+47,H,Dermatologists,400,409,96%
+51,H,Homeopath,500,36,97%
+60,H,Dentist,300,333,100%
+65,H,Dermatologists,500,556,
+68,H,Ayurveda,500,122,95%
+55,H,Ayurveda,100,129,
+52,H,ENT Specialist,200,22,
+54,H,Dentist,700,584,78%
+34,H,Homeopath,150,290,
+62,H,General Medicine,800,549,100%
+45,H,Dermatologists,100,554,
+47,H,Dermatologists,100,165,100%
+45,H,ENT Specialist,800,284,
+35,H,Dermatologists,200,382,
+41,H,Dentist,500,351,94%
+50,H,ENT Specialist,100,219,99%
+52,H,ENT Specialist,70,274,
+60,H,General Medicine,300,156,
+42,H,Dentist,500,126,
+39,H,Homeopath,50,361,
+64,H,General Medicine,300,154,
+30,H,General Medicine,350,424,
+35,H,General Medicine,250,81,
+51,H,Homeopath,500,537,98%
+45,H,General Medicine,200,108,
+52,H,Dentist,100,463,
+42,H,Homeopath,200,16,99%
+47,H,ENT Specialist,100,561,
+47,H,Dentist,300,374,99%
+33,H,Ayurveda,100,5,100%
+70,H,ENT Specialist,100,516,
+63,H,Ayurveda,100,586,
+45,H,Ayurveda,150,350,
+68,H,Dermatologists,200,193,100%
+51,H,General Medicine,100,359,
+41,H,Ayurveda,200,545,
+38,H,Homeopath,400,526,
+39,H,Dentist,350,325,
+45,H,Ayurveda,250,381,
+36,H,General Medicine,100,146,
+44,H,Ayurveda,300,22,
+50,H,Homeopath,200,588,
+39,H,ENT Specialist,400,239,
+35,H,Dermatologists,700,187,71%
+35,H,Dentist,500,49,94%
+32,H,ENT Specialist,250,472,
+35,H,Ayurveda,300,377,
+52,H,Ayurveda,100,467,
+48,H,General Medicine,200,75,
+51,H,General Medicine,80,410,
+61,H,Dermatologists,350,453,85%
+33,H,Homeopath,500,156,
+51,H,Ayurveda,200,368,98%
+56,H,Dermatologists,100,172,
+54,H,Dentist,600,335,
+41,H,Dentist,200,11,92%
+57,H,Dermatologists,900,335,100%
+38,H,Dentist,500,3,98%
+66,H,Dermatologists,100,370,
+43,H,Dentist,300,403,96%
+49,H,Dermatologists,100,262,100%
+48,H,Dermatologists,500,317,77%
+46,H,Dermatologists,100,205,96%
+33,H,ENT Specialist,300,492,
+53,H,Dermatologists,700,462,
+59,H,Dentist,500,361,
+52,H,Dentist,300,365,
+47,H,General Medicine,100,152,
+58,H,General Medicine,100,595,
+41,H,Ayurveda,300,480,91%
+50,H,Ayurveda,400,501,100%
+61,H,Dermatologists,150,547,100%
+31,H,Ayurveda,500,463,95%
+33,H,Homeopath,200,10,100%
+43,H,Dentist,400,243,
+51,H,Ayurveda,100,361,
+39,H,Dentist,500,249,98%
+54,H,Dermatologists,500,353,98%
+46,H,Dentist,500,25,93%
+40,H,Dermatologists,200,428,98%
+42,H,General Medicine,750,190,93%
+69,H,General Medicine,600,340,
+33,H,Dermatologists,300,516,
+66,H,Dentist,400,187,93%
+36,H,Ayurveda,200,43,98%
+32,H,Dentist,100,248,
+65,H,Homeopath,200,37,
+34,H,Ayurveda,250,92,
+58,H,Ayurveda,500,485,95%
+30,H,Dentist,300,553,
+57,H,Dentist,600,58,
+36,H,ENT Specialist,500,342,98%
+30,H,Ayurveda,800,130,93%
+69,H,General Medicine,300,111,
+60,H,Dermatologists,300,26,
+69,H,General Medicine,400,583,
+63,H,Dentist,800,434,77%
+52,H,General Medicine,600,257,98%
+62,H,Homeopath,500,135,
+43,H,Homeopath,300,27,
+48,H,Dermatologists,500,383,
+61,H,General Medicine,400,259,
+45,H,Ayurveda,100,425,
+65,H,Dermatologists,300,475,98%
+39,H,Dentist,700,139,91%
+37,H,Dentist,300,182,86%
+40,H,General Medicine,100,458,99%
+68,H,Homeopath,400,49,80%
+63,H,Homeopath,300,209,
+30,H,Dermatologists,100,149,
+54,H,Dentist,400,125,
+45,H,Dentist,500,189,
+53,H,Homeopath,300,50,98%
+44,H,Homeopath,300,54,
+55,H,Ayurveda,300,525,
+37,H,Dermatologists,400,104,90%
+36,H,General Medicine,500,30,
+39,H,General Medicine,100,522,
+52,H,Homeopath,600,473,
+63,H,General Medicine,50,471,
+54,H,Homeopath,100,554,
+41,H,Homeopath,200,441,
+56,H,ENT Specialist,100,27,
+43,H,ENT Specialist,300,19,
+52,H,Homeopath,700,453,
+34,H,Ayurveda,450,195,
+64,H,Ayurveda,200,580,
+63,H,Dentist,100,157,
+57,H,Homeopath,200,44,93%
+35,H,Ayurveda,200,380,
+46,H,Dermatologists,300,578,97%
+45,H,Homeopath,300,380,95%
+66,H,General Medicine,300,437,99%
+36,H,ENT Specialist,100,139,
+40,H,Dentist,200,132,
+58,H,Dermatologists,300,60,98%
+36,H,General Medicine,700,564,99%
+65,H,Dentist,300,383,96%
+54,H,General Medicine,150,318,
+42,H,General Medicine,150,345,100%
+54,H,Homeopath,200,335,
+31,H,Dentist,400,484,
+46,H,Dentist,200,302,100%
+61,H,Dentist,200,209,
+60,H,Dentist,200,311,
+55,H,Dentist,100,449,
+65,H,Homeopath,100,474,100%
+40,H,General Medicine,800,517,
+67,H,Ayurveda,500,106,
+47,H,Ayurveda,70,58,
+68,H,General Medicine,100,351,
+30,H,Dermatologists,150,556,
+46,H,General Medicine,400,30,91%
+59,H,General Medicine,600,188,
+67,H,Dermatologists,400,354,82%
+42,H,Dentist,100,489,
+35,H,Ayurveda,200,543,95%
+51,H,ENT Specialist,200,162,
+47,H,General Medicine,500,27,91%
+37,H,Ayurveda,300,261,
+65,H,Dermatologists,100,143,
+57,H,Dermatologists,300,198,100%
+31,H,Dentist,400,336,97%
+38,H,Dermatologists,100,326,
+60,H,Homeopath,500,287,97%
+58,H,Dermatologists,100,336,
+55,H,ENT Specialist,300,384,89%
+48,H,General Medicine,550,115,58%
+31,H,Dentist,300,295,
+59,H,ENT Specialist,500,278,100%
+63,H,Dentist,500,41,
+54,H,Homeopath,100,193,96%
+45,H,Dermatologists,200,198,
+55,H,General Medicine,350,420,81%
+48,H,Dermatologists,500,153,
+69,H,General Medicine,500,151,
+37,H,General Medicine,500,48,96%
+66,H,Ayurveda,550,583,96%
+44,H,General Medicine,300,246,86%
+44,H,Dermatologists,100,354,
+41,H,Ayurveda,500,128,99%
+30,H,Homeopath,500,169,
+58,H,Dentist,300,25,
+61,H,Ayurveda,300,46,
+43,H,General Medicine,800,507,99%
+45,H,General Medicine,250,138,
+60,H,ENT Specialist,600,128,99%
+59,H,Dermatologists,500,121,
+60,H,ENT Specialist,500,356,98%
+50,H,General Medicine,250,181,
+63,H,Dermatologists,500,418,
+59,H,Dentist,300,196,85%
+60,H,Ayurveda,100,249,
+57,H,ENT Specialist,60,146,
+31,H,Dentist,400,306,91%
+68,H,Dermatologists,250,43,98%
+31,H,Dentist,500,17,95%
+46,H,Homeopath,300,508,98%
+61,H,Ayurveda,300,520,100%
+42,H,Ayurveda,300,533,
+31,H,Dermatologists,300,325,
+50,H,Dentist,500,491,
+45,H,Homeopath,100,26,
+65,H,Dermatologists,100,95,99%
+54,H,General Medicine,500,461,92%
+38,H,ENT Specialist,300,107,
+40,H,Ayurveda,500,27,56%
+40,H,Dermatologists,200,343,
+33,H,Ayurveda,550,324,
+59,H,Dentist,300,549,
+63,H,Ayurveda,150,552,100%
+44,H,Dermatologists,100,448,
+34,H,ENT Specialist,600,198,
+63,H,Dentist,100,451,
+32,H,Dentist,250,474,
+49,H,Dentist,100,175,100%
+61,H,Dentist,100,524,
+45,H,General Medicine,150,410,
+31,H,Dentist,200,498,100%
+56,H,General Medicine,100,165,97%
+62,H,ENT Specialist,100,94,
+49,H,Dentist,400,160,
+40,H,ENT Specialist,100,46,
+32,H,Dentist,700,215,
+45,H,Ayurveda,500,72,100%
+54,H,Ayurveda,200,467,100%
+39,H,Ayurveda,200,472,
+31,H,General Medicine,100,599,
+35,H,General Medicine,350,98,100%
+47,H,Homeopath,300,599,
+53,H,Homeopath,300,319,98%
+32,H,Ayurveda,800,87,
+33,H,Ayurveda,500,80,
+31,H,ENT Specialist,100,239,96%
+54,H,Dentist,250,240,
+61,H,Ayurveda,250,501,
+57,H,Dermatologists,100,54,
+63,H,Homeopath,100,536,
+41,H,Dentist,300,418,
+34,H,Dermatologists,250,444,
+50,H,General Medicine,250,237,
+51,H,Homeopath,300,519,100%
+68,H,Homeopath,200,420,
+50,H,Dermatologists,100,394,
+55,H,Dentist,300,510,90%
+61,H,Ayurveda,300,71,100%
+63,H,ENT Specialist,100,299,
+68,H,Dermatologists,500,584,77%
+59,H,Dentist,400,126,100%
+57,H,ENT Specialist,200,18,
+35,H,ENT Specialist,450,266,98%
+50,H,Dentist,400,121,95%
+63,H,Dermatologists,500,127,100%
+68,H,Dermatologists,700,177,89%
+40,H,General Medicine,100,313,
+63,H,Homeopath,100,265,
+65,H,Ayurveda,500,594,98%
+60,H,Dermatologists,150,105,
+64,H,ENT Specialist,400,447,93%
+54,H,ENT Specialist,100,274,
+49,H,Dermatologists,400,467,
+47,H,Dentist,400,505,
+45,H,Dentist,100,140,
+69,H,Dentist,200,124,
+50,H,ENT Specialist,500,135,
+32,H,Ayurveda,600,389,81%
+52,H,Ayurveda,100,218,
+57,H,ENT Specialist,100,374,
+34,H,Ayurveda,350,249,78%
+69,H,Ayurveda,600,22,
+61,H,ENT Specialist,100,22,
+45,H,Homeopath,100,378,
+63,H,Dentist,100,123,
+31,H,General Medicine,100,257,
+53,H,Homeopath,300,505,93%
+36,H,Dermatologists,500,307,
+67,H,Dentist,100,403,75%
+40,H,Homeopath,100,61,
+36,H,ENT Specialist,250,170,
+33,H,Homeopath,500,476,
+70,H,Dermatologists,100,587,93%
+60,H,General Medicine,300,481,
+60,H,Dentist,700,172,
+49,H,Dentist,200,354,100%
+61,H,General Medicine,350,281,
+40,H,Dermatologists,100,417,
+43,H,Homeopath,250,234,
+57,H,ENT Specialist,200,168,100%
+68,H,ENT Specialist,400,338,92%
+40,H,Dentist,200,517,
+42,H,Dermatologists,400,547,100%
+53,H,Ayurveda,500,263,93%
+52,H,ENT Specialist,300,315,
+33,H,Dermatologists,600,233,80%
+47,H,Ayurveda,500,116,100%
+67,H,Dermatologists,250,218,88%
+35,H,General Medicine,100,393,
+32,H,General Medicine,350,190,97%
+47,H,Dentist,200,229,
+58,H,Homeopath,400,222,96%
+32,H,General Medicine,200,520,
+39,H,Ayurveda,500,88,
+41,H,ENT Specialist,100,515,
+31,H,Homeopath,700,16,
+62,H,Dentist,350,6,
+33,H,Ayurveda,100,237,97%
+67,H,General Medicine,200,584,
+56,H,Ayurveda,100,301,100%
+38,H,General Medicine,50,152,
+61,H,Dentist,600,564,
+47,H,Dentist,250,520,
+57,H,Homeopath,100,220,
+62,H,Ayurveda,200,472,100%
+40,H,Dermatologists,80,282,
+36,H,Dentist,100,293,95%
+70,H,Dentist,500,60,99%
+60,H,Ayurveda,200,60,98%
+47,H,Dermatologists,100,163,
+37,H,ENT Specialist,300,314,95%
+67,H,ENT Specialist,100,373,
+61,H,Dermatologists,400,80,
+54,H,Homeopath,300,462,95%
+69,H,ENT Specialist,200,271,
+51,H,General Medicine,300,351,
+31,H,ENT Specialist,250,199,
+66,H,Dermatologists,700,348,100%
+55,H,Dentist,200,518,100%
+32,H,General Medicine,100,553,
+35,H,Dentist,300,375,
+62,H,Homeopath,300,17,98%
+56,H,Dermatologists,200,506,
+68,H,General Medicine,300,509,
+36,H,Homeopath,100,190,
+33,H,ENT Specialist,300,210,
+42,H,Homeopath,200,493,
+58,H,Ayurveda,500,97,100%
+66,H,ENT Specialist,500,24,97%
+70,H,General Medicine,260,458,
+53,H,Dentist,500,214,98%
+34,H,General Medicine,100,159,
+47,H,Homeopath,300,421,95%
+38,H,General Medicine,70,153,
+68,H,Dentist,600,417,95%
+36,H,Ayurveda,100,581,
+63,H,Dentist,100,332,
+46,H,Dentist,100,4,99%
+66,H,Dermatologists,200,435,
+32,H,Dermatologists,400,390,100%
+69,H,Dentist,400,200,88%
+44,H,ENT Specialist,200,478,97%
+38,H,Dentist,100,188,92%
+65,H,Dentist,100,594,98%
+57,H,Dermatologists,150,218,95%
+30,H,ENT Specialist,600,61,86%
+44,H,Homeopath,300,421,
+70,H,General Medicine,100,447,93%
+59,H,ENT Specialist,100,326,
+46,H,Dermatologists,400,396,67%
+30,H,Homeopath,500,69,82%
+40,H,General Medicine,200,573,100%
+46,H,Dentist,500,373,73%
+64,H,General Medicine,100,235,
+35,H,Dentist,400,295,94%
+56,H,Ayurveda,150,176,
+44,H,Homeopath,200,308,96%
+44,H,General Medicine,250,225,99%
+38,H,Dentist,350,70,95%
+63,H,General Medicine,200,33,97%
+34,H,Dentist,200,236,100%
+44,H,Dentist,200,352,98%
+35,H,General Medicine,200,266,99%
+39,H,Dentist,80,590,
+70,H,ENT Specialist,500,498,94%
+63,H,General Medicine,700,382,90%
+62,H,Ayurveda,300,582,
+63,H,General Medicine,100,461,96%
+61,H,Dentist,100,576,
+68,H,ENT Specialist,200,58,100%
+57,H,Ayurveda,800,507,
+52,H,Dermatologists,100,255,
+53,H,Dermatologists,100,291,
+37,H,General Medicine,100,161,78%
+51,H,Ayurveda,100,480,
+49,H,ENT Specialist,350,489,
+66,H,Dermatologists,500,176,
+51,H,General Medicine,250,301,96%
+47,H,ENT Specialist,200,446,
+42,H,General Medicine,800,296,
+58,H,Ayurveda,500,234,96%
+49,H,Homeopath,300,488,
+38,H,ENT Specialist,100,426,
+69,H,Ayurveda,400,422,
+37,H,Dentist,300,531,77%
+56,H,Dentist,200,575,99%
+30,H,Homeopath,500,140,97%
+55,H,Dentist,200,54,
+48,H,ENT Specialist,500,11,100%
+62,H,ENT Specialist,400,321,100%
+68,H,Homeopath,500,301,100%
+56,H,General Medicine,100,107,
+37,H,Dermatologists,100,84,
+54,H,Dentist,300,172,
+54,H,Dentist,200,352,100%
+39,H,Dermatologists,200,150,97%
+44,H,Ayurveda,100,345,97%
+53,H,Homeopath,150,360,
+47,H,Dentist,200,560,
+41,H,Dermatologists,100,46,97%
+32,H,General Medicine,500,70,64%
+60,H,Dermatologists,500,104,
+70,H,ENT Specialist,500,82,
+65,H,General Medicine,600,373,100%
+65,H,General Medicine,300,566,
+66,H,Homeopath,100,120,
+64,H,Dentist,200,461,
+53,H,Ayurveda,150,324,100%
+45,H,Dentist,100,428,100%
+33,H,Dermatologists,100,163,100%
+45,H,Dentist,500,246,
+53,H,ENT Specialist,100,9,
+65,H,Homeopath,400,101,100%
+64,H,General Medicine,300,224,100%
+43,H,Dentist,600,19,
+67,H,Dermatologists,100,282,
+30,H,ENT Specialist,500,328,
+52,H,General Medicine,100,430,
+64,H,ENT Specialist,200,255,
+48,H,Ayurveda,400,236,
+31,H,Dermatologists,150,196,98%
+39,H,Dermatologists,400,59,99%
+39,H,General Medicine,400,137,98%
+59,H,Dentist,150,234,97%
+52,H,ENT Specialist,200,402,98%
+56,H,ENT Specialist,200,315,
+46,H,Homeopath,100,301,
+63,H,General Medicine,500,294,
+63,H,Dermatologists,100,585,83%
+31,H,Dermatologists,500,221,100%
+51,H,ENT Specialist,800,539,
+61,H,Ayurveda,800,11,100%
+56,H,Dermatologists,300,372,
+54,H,Dentist,500,476,95%
+66,H,Ayurveda,250,570,
+49,H,Dermatologists,200,471,
+50,H,ENT Specialist,300,572,98%
+40,H,Ayurveda,300,120,
+46,H,General Medicine,100,426,
+57,H,Ayurveda,700,582,
+64,H,Dermatologists,30,411,
+54,H,General Medicine,400,350,91%
+49,H,ENT Specialist,200,557,94%
+52,H,General Medicine,300,532,96%
+33,H,General Medicine,200,134,98%
+48,H,ENT Specialist,200,128,
+64,H,Dermatologists,500,397,100%
+68,H,Ayurveda,300,124,
+49,H,Dermatologists,200,518,99%
+57,H,Homeopath,100,337,
+30,H,Dentist,100,303,
+46,H,Dermatologists,500,509,
+57,H,Dentist,100,294,
+57,H,ENT Specialist,300,479,100%
+48,H,General Medicine,200,541,
+66,H,Ayurveda,100,232,
+54,H,General Medicine,300,264,
+54,H,General Medicine,500,432,
+67,H,Dermatologists,100,395,100%
+61,H,Dermatologists,400,445,
+49,H,Dentist,100,409,
+54,H,Dentist,300,478,
+60,H,Ayurveda,200,377,94%
+56,H,Dermatologists,200,199,
+35,H,Ayurveda,200,68,
+62,H,Dermatologists,500,157,97%
+58,H,Dermatologists,200,409,
+38,H,ENT Specialist,500,250,95%
+64,H,General Medicine,100,394,83%
+57,H,ENT Specialist,100,150,
+40,H,Ayurveda,400,22,83%
+32,H,Dermatologists,100,569,
+30,H,ENT Specialist,300,17,
+39,H,General Medicine,200,482,89%
+57,H,Homeopath,100,521,
+64,H,Dentist,150,371,100%
+53,H,Dentist,200,127,99%
+41,H,Dentist,250,572,
+61,H,Dermatologists,250,120,98%
+50,H,Ayurveda,400,309,
+67,H,General Medicine,100,570,
+45,H,Ayurveda,300,484,97%
+48,H,Dentist,100,516,
+55,H,Dentist,100,69,
+52,H,Dentist,100,241,
+40,H,Ayurveda,400,490,100%
+63,H,Ayurveda,500,215,96%
+58,H,Ayurveda,100,296,
+30,H,Dentist,100,116,
+59,H,Homeopath,100,487,100%
+31,H,ENT Specialist,600,246,
+61,H,Dermatologists,800,79,
+50,H,ENT Specialist,700,574,
+49,H,Homeopath,600,200,92%
+42,H,Dentist,100,294,
+60,H,Ayurveda,300,187,
+39,H,ENT Specialist,200,170,
+55,H,Dentist,700,154,
+40,H,Dentist,300,380,100%
+35,H,Dermatologists,150,600,96%
+31,H,Dentist,250,119,94%
+53,H,Dentist,400,292,99%
+33,H,Dermatologists,100,144,
+61,H,Dermatologists,300,581,
+45,H,Homeopath,500,246,
+66,H,General Medicine,300,430,
+36,H,Homeopath,350,31,
+30,H,Dermatologists,300,541,100%
+30,H,Dermatologists,300,180,90%
+50,H,General Medicine,450,366,100%
+63,H,ENT Specialist,700,320,
+45,H,Dentist,100,455,
+59,H,Dermatologists,500,484,95%
+45,H,General Medicine,500,565,82%
+64,H,Ayurveda,100,11,
+39,H,General Medicine,500,158,
+67,H,Dentist,500,480,
+67,H,General Medicine,200,398,100%
+67,H,Dentist,100,421,97%
+62,H,Homeopath,100,376,
+61,H,Ayurveda,350,373,
+31,H,Homeopath,100,0,
+68,H,Ayurveda,50,352,
+41,H,Ayurveda,100,559,
+69,H,General Medicine,600,290,99%
+47,H,General Medicine,500,575,
+52,H,Dentist,100,435,
+63,H,General Medicine,200,216,
+57,H,Dentist,100,310,
+51,H,Dentist,100,225,
+50,H,General Medicine,200,493,100%
+66,H,General Medicine,100,256,
+30,H,Ayurveda,350,596,
+41,H,General Medicine,150,384,
+34,H,Dentist,600,205,
+49,H,Dentist,100,455,
+40,H,Homeopath,300,220,
+52,H,Dentist,300,595,98%
+45,H,Dentist,250,565,100%
+46,H,Dentist,100,355,98%
+38,H,Homeopath,500,447,100%
+69,H,ENT Specialist,400,197,99%
+37,H,ENT Specialist,300,283,95%
+50,H,General Medicine,800,230,
+54,H,Ayurveda,100,149,
+49,H,Dentist,200,174,
+52,H,General Medicine,300,123,100%
+36,H,Dentist,500,391,97%
+62,H,Ayurveda,200,530,99%
+48,H,Dentist,300,144,
+34,H,Homeopath,200,232,98%
+56,H,Homeopath,300,504,
+47,H,Ayurveda,350,277,
+34,H,Ayurveda,500,161,99%
+42,H,Homeopath,150,197,
+61,H,Homeopath,100,527,
+39,H,Dermatologists,100,323,
+62,H,General Medicine,500,278,94%
+49,H,Dermatologists,500,364,
+46,H,ENT Specialist,400,197,92%
+37,H,General Medicine,600,580,
+36,H,Dentist,300,63,
+43,H,Dermatologists,200,192,
+47,H,Dentist,100,98,96%
+63,H,General Medicine,600,527,
+51,H,Ayurveda,300,33,96%
+32,H,Homeopath,50,489,
+54,H,Dermatologists,150,10,100%
+58,H,General Medicine,500,180,
+49,H,Ayurveda,200,338,
+66,H,ENT Specialist,50,106,
+50,H,ENT Specialist,550,319,
+43,H,Homeopath,600,60,
+61,H,Ayurveda,200,562,
+47,H,General Medicine,100,112,
+48,H,Dermatologists,500,240,99%
+44,H,General Medicine,400,152,98%
+55,H,General Medicine,100,66,77%
+60,H,Dentist,150,226,
+51,H,Homeopath,100,121,
+35,H,General Medicine,500,300,
+33,H,Ayurveda,200,316,
+63,H,General Medicine,300,233,
+49,H,Dermatologists,200,12,
+43,H,Dermatologists,500,338,
+38,H,Dermatologists,600,482,
+69,H,Ayurveda,600,248,
+67,H,General Medicine,50,512,
+64,H,Dentist,200,561,
+41,H,Dermatologists,600,133,100%
+49,H,Dermatologists,200,427,99%
+70,H,Homeopath,500,349,
+58,H,Homeopath,100,276,96%
+36,H,Dermatologists,200,160,
+41,H,Homeopath,500,457,92%
+58,H,Ayurveda,500,94,95%
+51,H,Ayurveda,50,76,
+33,H,Homeopath,500,81,100%
+30,H,General Medicine,50,168,
+36,H,Dermatologists,100,415,70%
+52,H,General Medicine,300,189,94%
+30,H,Dermatologists,500,231,
+39,H,Dentist,100,75,89%
+65,H,ENT Specialist,100,498,99%
+38,H,Dentist,500,382,89%
+62,H,Ayurveda,400,236,96%
+47,H,Ayurveda,300,59,
+38,H,Dermatologists,100,157,
+44,H,Ayurveda,250,151,97%
+40,H,General Medicine,250,557,
+63,H,General Medicine,300,307,
+66,H,Homeopath,150,78,
+50,H,Dermatologists,100,137,
+41,H,ENT Specialist,300,195,
+46,H,Dentist,800,416,97%
+45,H,ENT Specialist,200,502,99%
+56,H,Ayurveda,100,504,85%
+53,H,Dentist,500,547,100%
+57,H,Dermatologists,250,436,97%
+63,H,Dentist,150,70,
+51,H,General Medicine,200,398,95%
+43,H,General Medicine,250,304,87%
+47,H,Dermatologists,200,573,
+46,H,Dermatologists,600,406,100%
+31,H,Ayurveda,400,273,100%
+47,H,Dermatologists,200,227,
+40,H,Homeopath,500,284,100%
+68,H,Ayurveda,600,600,
+68,H,Dermatologists,50,333,
+44,H,Dermatologists,100,262,53%
+48,H,Ayurveda,400,363,
+60,H,General Medicine,70,497,
+59,H,Dermatologists,100,564,
+56,H,ENT Specialist,100,21,98%
+62,H,ENT Specialist,500,429,
+44,H,Dentist,200,570,
+43,H,General Medicine,100,506,100%
+58,H,Dermatologists,800,228,82%
+58,H,General Medicine,300,141,100%
+52,H,Dentist,600,220,
+46,H,General Medicine,500,585,99%
+44,H,Dermatologists,100,455,
+47,H,ENT Specialist,300,92,
+56,H,Dermatologists,400,19,95%
+34,H,ENT Specialist,500,294,
+58,H,General Medicine,200,93,
+38,H,Homeopath,400,323,94%
+67,H,General Medicine,200,55,
+50,H,ENT Specialist,200,300,83%
+51,H,ENT Specialist,350,227,94%
+50,H,General Medicine,700,185,97%
+56,H,Homeopath,200,151,
+32,H,Ayurveda,300,517,
+50,H,Dentist,300,270,
+68,H,Dermatologists,200,430,
+68,H,General Medicine,500,64,97%
+65,H,Dermatologists,500,168,
+67,H,Dentist,100,553,
+43,H,Dentist,400,169,99%
+46,H,Dentist,500,89,95%
+42,H,Dentist,500,436,99%
+53,H,General Medicine,400,383,99%
+60,H,Dermatologists,100,94,94%
+31,H,Dermatologists,300,235,
+40,H,General Medicine,400,203,82%
+31,H,General Medicine,300,345,88%
+68,H,Homeopath,400,165,79%
+61,H,General Medicine,100,477,97%
+37,H,Dentist,300,118,99%
+70,H,Homeopath,100,138,
+48,H,Homeopath,500,348,96%
+32,H,Dentist,100,261,
+37,H,Homeopath,300,564,99%
+33,H,Homeopath,100,339,100%
+37,H,General Medicine,400,209,96%
+67,H,Homeopath,300,442,
+57,H,Dermatologists,400,16,
+34,H,Homeopath,800,115,80%
+33,H,General Medicine,300,65,
+46,H,Dentist,450,191,90%
+36,H,ENT Specialist,300,453,95%
+62,H,Dentist,200,176,
+50,H,Dentist,150,227,
+56,H,Homeopath,300,361,99%
+49,H,Ayurveda,100,285,
+43,H,Homeopath,100,532,
+45,H,Dermatologists,400,316,
+54,H,Dentist,350,513,100%
+66,H,General Medicine,200,405,
+57,H,Homeopath,100,499,
+63,H,Homeopath,100,520,92%
+51,H,Homeopath,300,557,
+30,H,ENT Specialist,300,291,
+38,H,General Medicine,300,400,98%
+38,H,General Medicine,100,15,
+51,H,General Medicine,600,211,97%
+34,H,Dentist,100,513,90%
+37,H,ENT Specialist,200,257,100%

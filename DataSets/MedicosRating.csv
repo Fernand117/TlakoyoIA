@@ -1,0 +1,5962 @@
+Id,Tipo,Especialidad, Puntuacion 
+1,Medico,Ayurveda, 9.0 
+2,Especialista,ENT Specialist, 9.0 
+3,Clinica,Ayurveda, 8.0 
+4,Hospital,Ayurveda, 8.0 
+5,ONG,Ayurveda, 9.0 
+6,Otro,Homeopath, 8.0 
+7,Medico,Dentist, 8.0 
+8,Especialista,General Medicine, 9.9 
+9,Clinica,Dentist, 8.0 
+10,Hospital,ENT Specialist, 8.0 
+11,ONG,Ayurveda, 8.0 
+12,Otro,Dentist, 8.0 
+13,Medico,Dentist, 9.8 
+14,Especialista,ENT Specialist, 8.0 
+15,Clinica,General Medicine, 8.0 
+16,Hospital,ENT Specialist, 8.0 
+17,ONG,Homeopath, 8.0 
+18,Otro,ENT Specialist, 8.0 
+19,Medico,General Medicine, 7.9 
+20,Especialista,Dentist, 10.0 
+21,Clinica,ENT Specialist, 10.0 
+22,Hospital,General Medicine, 8.0 
+23,ONG,General Medicine, 8.0 
+24,Otro,Dermatologists, 8.0 
+25,Medico,Dentist, 8.0 
+26,Especialista,General Medicine, 8.0 
+27,Clinica,General Medicine, 10.0 
+28,Hospital,Dentist, 9.5 
+29,ONG,Dermatologists, 8.0 
+30,Otro,Dermatologists, 9.7 
+31,Medico,Dentist, 9.7 
+32,Especialista,ENT Specialist, 8.0 
+33,Clinica,General Medicine, 9.4 
+34,Hospital,Ayurveda, 8.8 
+35,ONG,Dentist, 8.0 
+36,Otro,Dentist, 10.0 
+37,Medico,Homeopath, 8.0 
+38,Especialista,ENT Specialist, 9.0 
+39,Clinica,General Medicine, 8.0 
+40,Hospital,Dentist, 8.0 
+41,ONG,Homeopath, 10.0 
+42,Otro,Ayurveda, 10.0 
+43,Medico,Ayurveda, 10.0 
+44,Especialista,Homeopath, 8.0 
+45,Clinica,Dermatologists, 9.9 
+46,Hospital,Dentist, 8.0 
+47,ONG,General Medicine, 10.0 
+48,Otro,Dermatologists, 8.0 
+49,Medico,Dentist, 9.3 
+50,Especialista,General Medicine, 8.0 
+51,Clinica,Ayurveda, 8.0 
+52,Hospital,Dermatologists, 8.0 
+53,ONG,Dentist, 8.0 
+54,Otro,Ayurveda, 10.0 
+55,Medico,ENT Specialist, 10.0 
+56,Especialista,Dentist, 3.6 
+57,Clinica,Dermatologists, 10.0 
+58,Hospital,General Medicine, 9.7 
+59,ONG,General Medicine, 8.0 
+60,Otro,General Medicine, 9.9 
+61,Medico,Dentist, 8.0 
+62,Especialista,Dentist, 9.9 
+63,Clinica,Homeopath, 9.8 
+64,Hospital,Homeopath, 8.0 
+65,ONG,Homeopath, 8.0 
+66,Otro,Dentist, 10.0 
+67,Medico,Dermatologists, 10.0 
+68,Especialista,Homeopath, 7.8 
+69,Clinica,ENT Specialist, 8.0 
+70,Hospital,Dentist, 9.9 
+71,ONG,ENT Specialist, 9.3 
+72,Otro,Homeopath, 8.0 
+73,Medico,General Medicine, 8.0 
+74,Especialista,Dermatologists, 8.0 
+75,Clinica,General Medicine, 8.7 
+76,Hospital,Dentist, 9.3 
+77,ONG,Dentist, 8.0 
+78,Otro,Dermatologists, 9.8 
+79,Medico,Dentist, 9.7 
+80,Especialista,General Medicine, 8.0 
+81,Clinica,Dentist, 8.0 
+82,Hospital,Ayurveda, 8.0 
+83,ONG,Dermatologists, 8.0 
+84,Otro,Dentist, 9.9 
+85,Medico,General Medicine, 10.0 
+86,Especialista,Dentist, 8.0 
+87,Clinica,Dermatologists, 9.9 
+88,Hospital,Dermatologists, 8.0 
+89,ONG,General Medicine, 9.4 
+90,Otro,Ayurveda, 8.0 
+91,Medico,Dermatologists, 8.0 
+92,Especialista,Ayurveda, 8.0 
+93,Clinica,Dentist, 8.0 
+94,Hospital,Dentist, 10.0 
+95,ONG,Homeopath, 10.0 
+96,Otro,Dermatologists, 10.0 
+97,Medico,Dermatologists, 9.7 
+98,Especialista,Ayurveda, 8.0 
+99,Clinica,Dentist, 8.0 
+100,Hospital,Homeopath, 9.8 
+101,ONG,Dentist, 8.0 
+102,Otro,Dentist, 10.0 
+103,Medico,Dentist, 9.9 
+104,Especialista,Dentist, 10.0 
+105,Clinica,General Medicine, 9.8 
+106,Hospital,ENT Specialist, 8.0 
+107,ONG,Dentist, 9.0 
+108,Otro,Ayurveda, 8.0 
+109,Medico,Dentist, 10.0 
+110,Especialista,General Medicine, 8.0 
+111,Clinica,Ayurveda, 8.0 
+112,Hospital,Dermatologists, 9.6 
+113,ONG,Dentist, 9.0 
+114,Otro,Dentist, 10.0 
+115,Medico,General Medicine, 10.0 
+116,Especialista,Dentist, 8.0 
+117,Clinica,Dermatologists, 8.0 
+118,Hospital,Dentist, 9.5 
+119,ONG,Ayurveda, 8.0 
+120,Otro,Ayurveda, 8.0 
+121,Medico,Homeopath, 8.0 
+122,Especialista,Homeopath, 8.0 
+123,Clinica,Homeopath, 8.0 
+124,Hospital,ENT Specialist, 8.2 
+125,ONG,Dermatologists, 8.0 
+126,Otro,General Medicine, 9.5 
+127,Medico,Dentist, 8.0 
+128,Especialista,General Medicine, 10.0 
+129,Clinica,ENT Specialist, 8.0 
+130,Hospital,Dermatologists, 8.0 
+131,ONG,Dermatologists, 9.0 
+132,Otro,Dentist, 8.0 
+133,Medico,Homeopath, 9.8 
+134,Especialista,Dermatologists, 10.0 
+135,Clinica,General Medicine, 8.0 
+136,Hospital,Dermatologists, 8.0 
+137,ONG,Dermatologists, 8.0 
+138,Otro,General Medicine, 8.9 
+139,Medico,General Medicine, 8.9 
+140,Especialista,ENT Specialist, 10.0 
+141,Clinica,General Medicine, 7.4 
+142,Hospital,ENT Specialist, 9.6 
+143,ONG,ENT Specialist, 8.6 
+144,Otro,Homeopath, 10.0 
+145,Medico,ENT Specialist, 8.0 
+146,Especialista,Dermatologists, 10.0 
+147,Clinica,ENT Specialist, 8.9 
+148,Hospital,General Medicine, 8.0 
+149,ONG,Dentist, 8.0 
+150,Otro,Homeopath, 9.2 
+151,Medico,Dentist, 9.9 
+152,Especialista,Ayurveda, 10.0 
+153,Clinica,Homeopath, 10.0 
+154,Hospital,Ayurveda, 8.0 
+155,ONG,Homeopath, 8.0 
+156,Otro,ENT Specialist, 10.0 
+157,Medico,Dentist, 9.5 
+158,Especialista,Dentist, 8.0 
+159,Clinica,ENT Specialist, 10.0 
+160,Hospital,General Medicine, 10.0 
+161,ONG,Dentist, 9.5 
+162,Otro,Ayurveda, 9.4 
+163,Medico,Dentist, 8.0 
+164,Especialista,Dermatologists, 9.9 
+165,Clinica,Dermatologists, 8.0 
+166,Hospital,Dentist, 9.6 
+167,ONG,Dentist, 8.0 
+168,Otro,Ayurveda, 8.0 
+169,Medico,General Medicine, 8.0 
+170,Especialista,General Medicine, 9.5 
+171,Clinica,Homeopath, 8.3 
+172,Hospital,Ayurveda, 10.0 
+173,ONG,ENT Specialist, 8.0 
+174,Otro,Dentist, 9.6 
+175,Medico,Homeopath, 9.3 
+176,Especialista,Dentist, 10.0 
+177,Clinica,General Medicine, 9.8 
+178,Hospital,Dermatologists, 8.8 
+179,ONG,Ayurveda, 7.6 
+180,Otro,General Medicine, 8.0 
+181,Medico,Ayurveda, 8.0 
+182,Especialista,Homeopath, 8.0 
+183,Clinica,General Medicine, 8.0 
+184,Hospital,General Medicine, 9.2 
+185,ONG,Dentist, 8.5 
+186,Otro,Dentist, 8.0 
+187,Medico,Dermatologists, 10.0 
+188,Especialista,ENT Specialist, 8.0 
+189,Clinica,Dermatologists, 9.2 
+190,Hospital,General Medicine, 8.0 
+191,ONG,Dentist, 8.0 
+192,Otro,Homeopath, 9.5 
+193,Medico,Dermatologists, 8.0 
+194,Especialista,Ayurveda, 8.0 
+195,Clinica,ENT Specialist, 8.0 
+196,Hospital,Dermatologists, 9.5 
+197,ONG,Dentist, 9.6 
+198,Otro,Homeopath, 8.0 
+199,Medico,Ayurveda, 8.0 
+200,Especialista,Ayurveda, 8.0 
+201,Clinica,Ayurveda, 8.0 
+202,Hospital,ENT Specialist, 8.0 
+203,ONG,Ayurveda, 8.0 
+204,Otro,ENT Specialist, 8.0 
+205,Medico,Dentist, 9.7 
+206,Especialista,Dentist, 8.0 
+207,Clinica,Dermatologists, 9.8 
+208,Hospital,General Medicine, 8.0 
+209,ONG,General Medicine, 8.0 
+210,Otro,Dentist, 5.6 
+211,Medico,Dentist, 9.6 
+212,Especialista,Dermatologists, 8.0 
+213,Clinica,ENT Specialist, 9.7 
+214,Hospital,Ayurveda, 8.0 
+215,ONG,Homeopath, 8.0 
+216,Otro,Dermatologists, 8.0 
+217,Medico,Homeopath, 8.0 
+218,Especialista,General Medicine, 8.0 
+219,Clinica,Homeopath, 8.0 
+220,Hospital,Dentist, 10.0 
+221,ONG,ENT Specialist, 9.9 
+222,Otro,Dermatologists, 9.3 
+223,Medico,Dentist, 10.0 
+224,Especialista,Homeopath, 8.0 
+225,Clinica,General Medicine, 8.0 
+226,Hospital,Homeopath, 9.9 
+227,ONG,Dentist, 8.0 
+228,Otro,General Medicine, 8.0 
+229,Medico,Homeopath, 8.0 
+230,Especialista,Dentist, 8.0 
+231,Clinica,Homeopath, 8.0 
+232,Hospital,Homeopath, 8.0 
+233,ONG,Ayurveda, 8.0 
+234,Otro,ENT Specialist, 8.0 
+235,Medico,Dentist, 8.0 
+236,Especialista,General Medicine, 9.5 
+237,Clinica,ENT Specialist, 8.0 
+238,Hospital,Dermatologists, 9.8 
+239,ONG,Dermatologists, 8.0 
+240,Otro,Dentist, 9.4 
+241,Medico,General Medicine, 9.8 
+242,Especialista,Dentist, 8.0 
+243,Clinica,General Medicine, 9.7 
+244,Hospital,General Medicine, 8.0 
+245,ONG,Dentist, 8.0 
+246,Otro,Homeopath, 9.9 
+247,Medico,ENT Specialist, 9.7 
+248,Especialista,Ayurveda, 9.9 
+249,Clinica,Homeopath, 10.0 
+250,Hospital,Homeopath, 8.0 
+251,ONG,ENT Specialist, 8.0 
+252,Otro,General Medicine, 8.0 
+253,Medico,Dermatologists, 8.0 
+254,Especialista,General Medicine, 9.4 
+255,Clinica,Dentist, 8.0 
+256,Hospital,Homeopath, 8.0 
+257,ONG,ENT Specialist, 8.0 
+258,Otro,General Medicine, 8.0 
+259,Medico,Homeopath, 9.3 
+260,Especialista,ENT Specialist, 10.0 
+261,Clinica,General Medicine, 8.0 
+262,Hospital,ENT Specialist, 9.8 
+263,ONG,General Medicine, 8.0 
+264,Otro,ENT Specialist, 10.0 
+265,Medico,Dermatologists, 8.0 
+266,Especialista,Dentist, 10.0 
+267,Clinica,General Medicine, 9.9 
+268,Hospital,Dermatologists, 9.3 
+269,ONG,Dentist, 10.0 
+270,Otro,Homeopath, 9.7 
+271,Medico,Dentist, 10.0 
+272,Especialista,ENT Specialist, 8.0 
+273,Clinica,Homeopath, 9.0 
+274,Hospital,Dentist, 8.0 
+275,ONG,Dermatologists, 9.9 
+276,Otro,Dermatologists, 8.0 
+277,Medico,Homeopath, 9.6 
+278,Especialista,Dermatologists, 8.0 
+279,Clinica,Homeopath, 8.0 
+280,Hospital,Dentist, 9.6 
+281,ONG,ENT Specialist, 10.0 
+282,Otro,ENT Specialist, 8.0 
+283,Medico,General Medicine, 9.3 
+284,Especialista,General Medicine, 8.0 
+285,Clinica,General Medicine, 10.0 
+286,Hospital,Homeopath, 9.4 
+287,ONG,Ayurveda, 8.0 
+288,Otro,Dermatologists, 8.0 
+289,Medico,General Medicine, 9.7 
+290,Especialista,Dentist, 8.0 
+291,Clinica,Dentist, 8.0 
+292,Hospital,ENT Specialist, 9.4 
+293,ONG,General Medicine, 8.0 
+294,Otro,Ayurveda, 10.0 
+295,Medico,Dermatologists, 8.0 
+296,Especialista,Dentist, 8.0 
+297,Clinica,Dentist, 10.0 
+298,Hospital,Dermatologists, 8.0 
+299,ONG,Homeopath, 8.0 
+300,Otro,Dermatologists, 8.0 
+301,Medico,Ayurveda, 9.7 
+302,Especialista,Ayurveda, 8.0 
+303,Clinica,Ayurveda, 9.9 
+304,Hospital,General Medicine, 8.0 
+305,ONG,Ayurveda, 8.0 
+306,Otro,General Medicine, 8.0 
+307,Medico,Dentist, 8.0 
+308,Especialista,Homeopath, 10.0 
+309,Clinica,ENT Specialist, 8.0 
+310,Hospital,Dentist, 5.6 
+311,ONG,General Medicine, 9.5 
+312,Otro,Ayurveda, 8.0 
+313,Medico,Homeopath, 8.0 
+314,Especialista,Ayurveda, 8.0 
+315,Clinica,ENT Specialist, 8.0 
+316,Hospital,Dentist, 8.0 
+317,ONG,Homeopath, 8.0 
+318,Otro,General Medicine, 8.0 
+319,Medico,ENT Specialist, 8.0 
+320,Especialista,Homeopath, 8.0 
+321,Clinica,General Medicine, 8.0 
+322,Hospital,Dermatologists, 9.5 
+323,ONG,Dentist, 8.0 
+324,Otro,Ayurveda, 10.0 
+325,Medico,General Medicine, 9.5 
+326,Especialista,Homeopath, 8.0 
+327,Clinica,General Medicine, 8.0 
+328,Hospital,Dentist, 9.2 
+329,ONG,ENT Specialist, 10.0 
+330,Otro,Dermatologists, 8.0 
+331,Medico,General Medicine, 8.8 
+332,Especialista,ENT Specialist, 8.0 
+333,Clinica,Dermatologists, 8.0 
+334,Hospital,Homeopath, 6.8 
+335,ONG,Dermatologists, 10.0 
+336,Otro,General Medicine, 8.0 
+337,Medico,ENT Specialist, 8.0 
+338,Especialista,Dentist, 8.0 
+339,Clinica,Homeopath, 9.9 
+340,Hospital,Dentist, 10.0 
+341,ONG,ENT Specialist, 8.0 
+342,Otro,Ayurveda, 8.0 
+343,Medico,Homeopath, 8.0 
+344,Especialista,General Medicine, 8.0 
+345,Clinica,ENT Specialist, 8.0 
+346,Hospital,Dermatologists, 9.4 
+347,ONG,General Medicine, 9.0 
+348,Otro,Ayurveda, 8.0 
+349,Medico,Dermatologists, 8.0 
+350,Especialista,Dermatologists, 9.8 
+351,Clinica,Dentist, 9.6 
+352,Hospital,Dermatologists, 8.0 
+353,ONG,General Medicine, 8.0 
+354,Otro,General Medicine, 8.0 
+355,Medico,Dentist, 8.0 
+356,Especialista,Homeopath, 9.9 
+357,Clinica,Ayurveda, 8.0 
+358,Hospital,Ayurveda, 8.0 
+359,ONG,Homeopath, 8.0 
+360,Otro,Dentist, 8.0 
+361,Medico,Dermatologists, 8.0 
+362,Especialista,Dentist, 8.0 
+363,Clinica,Dentist, 9.6 
+364,Hospital,Dentist, 8.0 
+365,ONG,Dermatologists, 10.0 
+366,Otro,Homeopath, 8.0 
+367,Medico,Dermatologists, 10.0 
+368,Especialista,ENT Specialist, 9.8 
+369,Clinica,General Medicine, 8.0 
+370,Hospital,Dermatologists, 8.0 
+371,ONG,Dentist, 8.0 
+372,Otro,ENT Specialist, 9.7 
+373,Medico,Ayurveda, 8.0 
+374,Especialista,Ayurveda, 8.0 
+375,Clinica,Ayurveda, 9.6 
+376,Hospital,General Medicine, 8.0 
+377,ONG,ENT Specialist, 8.0 
+378,Otro,Ayurveda, 0.6 
+379,Medico,Dentist, 8.0 
+380,Especialista,ENT Specialist, 8.0 
+381,Clinica,Ayurveda, 8.0 
+382,Hospital,Homeopath, 8.0 
+383,ONG,Dentist, 8.0 
+384,Otro,Homeopath, 8.0 
+385,Medico,Dermatologists, 10.0 
+386,Especialista,Dermatologists, 8.0 
+387,Clinica,Dentist, 8.0 
+388,Hospital,General Medicine, 8.0 
+389,ONG,General Medicine, 8.8 
+390,Otro,General Medicine, 8.0 
+391,Medico,General Medicine, 8.0 
+392,Especialista,General Medicine, 8.0 
+393,Clinica,ENT Specialist, 8.0 
+394,Hospital,Dermatologists, 8.5 
+395,ONG,Ayurveda, 8.0 
+396,Otro,Dermatologists, 8.0 
+397,Medico,General Medicine, 8.0 
+398,Especialista,Ayurveda, 10.0 
+399,Clinica,Dentist, 8.0 
+400,Hospital,Ayurveda, 9.8 
+401,ONG,Dentist, 10.0 
+402,Otro,Dentist, 9.8 
+403,Medico,Homeopath, 8.0 
+404,Especialista,Ayurveda, 8.0 
+405,Clinica,General Medicine, 8.0 
+406,Hospital,Dermatologists, 10.0 
+407,ONG,Homeopath, 9.6 
+408,Otro,Ayurveda, 8.0 
+409,Medico,Dentist, 8.0 
+410,Especialista,Dentist, 8.0 
+411,Clinica,ENT Specialist, 9.3 
+412,Hospital,Dentist, 8.0 
+413,ONG,Dentist, 9.8 
+414,Otro,ENT Specialist, 9.6 
+415,Medico,Dermatologists, 8.3 
+416,Especialista,Ayurveda, 8.5 
+417,Clinica,Dermatologists, 8.0 
+418,Hospital,General Medicine, 10.0 
+419,ONG,Dermatologists, 8.0 
+420,Otro,General Medicine, 10.0 
+421,Medico,Homeopath, 8.0 
+422,Especialista,Dentist, 8.0 
+423,Clinica,Dermatologists, 10.0 
+424,Hospital,General Medicine, 8.0 
+425,ONG,General Medicine, 8.0 
+426,Otro,Ayurveda, 8.5 
+427,Medico,General Medicine, 10.0 
+428,Especialista,Dermatologists, 8.0 
+429,Clinica,General Medicine, 9.7 
+430,Hospital,Dentist, 9.3 
+431,ONG,Dermatologists, 8.0 
+432,Otro,General Medicine, 10.0 
+433,Medico,Dermatologists, 9.7 
+434,Especialista,Dentist, 9.7 
+435,Clinica,Dentist, 9.6 
+436,Hospital,Ayurveda, 9.7 
+437,ONG,General Medicine, 10.0 
+438,Otro,ENT Specialist, 8.0 
+439,Medico,Dermatologists, 8.0 
+440,Especialista,Dentist, 8.0 
+441,Clinica,General Medicine, 10.0 
+442,Hospital,Dentist, 8.0 
+443,ONG,Ayurveda, 9.0 
+444,Otro,Homeopath, 8.0 
+445,Medico,ENT Specialist, 8.0 
+446,Especialista,General Medicine, 9.9 
+447,Clinica,Homeopath, 8.0 
+448,Hospital,Dentist, 8.0 
+449,ONG,General Medicine, 10.0 
+450,Otro,General Medicine, 8.0 
+451,Medico,General Medicine, 10.0 
+452,Especialista,Dentist, 9.8 
+453,Clinica,General Medicine, 8.0 
+454,Hospital,General Medicine, 8.0 
+455,ONG,Ayurveda, 8.0 
+456,Otro,General Medicine, 8.8 
+457,Medico,Dentist, 10.0 
+458,Especialista,Dentist, 9.6 
+459,Clinica,ENT Specialist, 0.8 
+460,Hospital,Dentist, 8.0 
+461,ONG,ENT Specialist, 9.5 
+462,Otro,General Medicine, 8.0 
+463,Medico,General Medicine, 8.0 
+464,Especialista,General Medicine, 10.0 
+465,Clinica,Dermatologists, 8.0 
+466,Hospital,Dentist, 0.7 
+467,ONG,Dentist, 9.8 
+468,Otro,Dentist, 9.7 
+469,Medico,General Medicine, 8.0 
+470,Especialista,General Medicine, 8.0 
+471,Clinica,Dermatologists, 8.0 
+472,Hospital,Dermatologists, 9.2 
+473,ONG,Dentist, 9.3 
+474,Otro,Homeopath, 8.0 
+475,Medico,Ayurveda, 8.0 
+476,Especialista,Homeopath, 8.0 
+477,Clinica,Dentist, 8.0 
+478,Hospital,Dermatologists, 9.9 
+479,ONG,Ayurveda, 9.5 
+480,Otro,General Medicine, 8.0 
+481,Medico,Ayurveda, 8.0 
+482,Especialista,ENT Specialist, 8.0 
+483,Clinica,Dermatologists, 8.0 
+484,Hospital,Dentist, 8.0 
+485,ONG,Ayurveda, 8.0 
+486,Otro,Homeopath, 8.0 
+487,Medico,Homeopath, 8.0 
+488,Especialista,Homeopath, 9.4 
+489,Clinica,Homeopath, 10.0 
+490,Hospital,General Medicine, 9.8 
+491,ONG,Dentist, 8.0 
+492,Otro,General Medicine, 9.4 
+493,Medico,Dentist, 8.0 
+494,Especialista,Homeopath, 9.7 
+495,Clinica,Dentist, 8.0 
+496,Hospital,Dentist, 8.0 
+497,ONG,ENT Specialist, 10.0 
+498,Otro,Ayurveda, 8.0 
+499,Medico,Dentist, 8.0 
+500,Especialista,Homeopath, 8.0 
+501,Clinica,General Medicine, 8.0 
+502,Hospital,Dermatologists, 8.0 
+503,ONG,ENT Specialist, 8.0 
+504,Otro,ENT Specialist, 8.0 
+505,Medico,General Medicine, 8.0 
+506,Especialista,Dentist, 10.0 
+507,Clinica,Dermatologists, 8.0 
+508,Hospital,Dermatologists, 10.0 
+509,ONG,Ayurveda, 9.5 
+510,Otro,Dentist, 8.0 
+511,Medico,General Medicine, 8.0 
+512,Especialista,Homeopath, 8.0 
+513,Clinica,Homeopath, 9.7 
+514,Hospital,Ayurveda, 8.0 
+515,ONG,General Medicine, 8.0 
+516,Otro,Dentist, 8.0 
+517,Medico,Homeopath, 8.0 
+518,Especialista,General Medicine, 8.0 
+519,Clinica,Dentist, 8.0 
+520,Hospital,ENT Specialist, 8.0 
+521,ONG,Dentist, 8.0 
+522,Otro,Homeopath, 8.0 
+523,Medico,Homeopath, 8.0 
+524,Especialista,ENT Specialist, 8.0 
+525,Clinica,General Medicine, 8.0 
+526,Hospital,Dermatologists, 8.0 
+527,ONG,Dentist, 8.0 
+528,Otro,General Medicine, 9.7 
+529,Medico,ENT Specialist, 8.0 
+530,Especialista,Dermatologists, 9.3 
+531,Clinica,Dentist, 8.0 
+532,Hospital,Dentist, 10.0 
+533,ONG,General Medicine, 9.5 
+534,Otro,General Medicine, 9.3 
+535,Medico,ENT Specialist, 8.0 
+536,Especialista,Dermatologists, 8.0 
+537,Clinica,Dermatologists, 8.0 
+538,Hospital,Dentist, 8.0 
+539,ONG,ENT Specialist, 9.9 
+540,Otro,Homeopath, 8.0 
+541,Medico,Dentist, 8.0 
+542,Especialista,Dentist, 10.0 
+543,Clinica,Ayurveda, 9.8 
+544,Hospital,Dermatologists, 8.0 
+545,ONG,Dentist, 9.6 
+546,Otro,Ayurveda, 9.8 
+547,Medico,Dermatologists, 10.0 
+548,Especialista,ENT Specialist, 8.0 
+549,Clinica,Ayurveda, 9.8 
+550,Hospital,General Medicine, 9.6 
+551,ONG,Homeopath, 8.0 
+552,Otro,Dentist, 8.0 
+553,Medico,Ayurveda, 9.7 
+554,Especialista,Dermatologists, 8.0 
+555,Clinica,Dentist, 9.5 
+556,Hospital,ENT Specialist, 8.0 
+557,ONG,General Medicine, 8.0 
+558,Otro,General Medicine, 9.4 
+559,Medico,Dentist, 8.0 
+560,Especialista,Dermatologists, 9.2 
+561,Clinica,General Medicine, 10.0 
+562,Hospital,ENT Specialist, 8.0 
+563,ONG,Ayurveda, 9.5 
+564,Otro,Dermatologists, 8.0 
+565,Medico,General Medicine, 8.0 
+566,Especialista,Dermatologists, 8.0 
+567,Clinica,Ayurveda, 8.0 
+568,Hospital,Dermatologists, 8.0 
+569,ONG,Homeopath, 9.9 
+570,Otro,ENT Specialist, 8.0 
+571,Medico,Dentist, 8.0 
+572,Especialista,Homeopath, 10.0 
+573,Clinica,Homeopath, 8.0 
+574,Hospital,Dermatologists, 9.3 
+575,ONG,Homeopath, 9.6 
+576,Otro,Dentist, 8.0 
+577,Medico,General Medicine, 8.0 
+578,Especialista,Dentist, 8.0 
+579,Clinica,ENT Specialist, 8.0 
+580,Hospital,ENT Specialist, 9.2 
+581,ONG,Dentist, 8.0 
+582,Otro,Dentist, 8.0 
+583,Medico,Homeopath, 8.0 
+584,Especialista,General Medicine, 8.0 
+585,Clinica,General Medicine, 8.0 
+586,Hospital,Dentist, 0.7 
+587,ONG,Dentist, 8.0 
+588,Otro,ENT Specialist, 9.4 
+589,Medico,ENT Specialist, 8.0 
+590,Especialista,General Medicine, 8.0 
+591,Clinica,General Medicine, 0.7 
+592,Hospital,Dentist, 10.0 
+593,ONG,Ayurveda, 9.8 
+594,Otro,Dentist, 8.0 
+595,Medico,Dermatologists, 10.0 
+596,Especialista,General Medicine, 8.0 
+597,Clinica,General Medicine, 8.0 
+598,Hospital,General Medicine, 9.6 
+599,ONG,Dermatologists, 8.0 
+600,Otro,Ayurveda, 8.0 
+601,Medico,Dermatologists, 8.0 
+602,Especialista,Homeopath, 10.0 
+603,Clinica,Dentist, 8.0 
+604,Hospital,Dentist, 8.0 
+605,ONG,Dermatologists, 9.6 
+606,Otro,General Medicine, 8.0 
+607,Medico,Ayurveda, 8.0 
+608,Especialista,General Medicine, 8.0 
+609,Clinica,Dentist, 8.0 
+610,Hospital,Dentist, 10.0 
+611,ONG,General Medicine, 8.0 
+612,Otro,Homeopath, 8.0 
+613,Medico,Ayurveda, 8.0 
+614,Especialista,ENT Specialist, 8.0 
+615,Clinica,Dentist, 8.0 
+616,Hospital,Dermatologists, 8.0 
+617,ONG,Dentist, 8.9 
+618,Otro,Dermatologists, 9.8 
+619,Medico,Homeopath, 9.6 
+620,Especialista,Homeopath, 8.0 
+621,Clinica,Dermatologists, 8.0 
+622,Hospital,General Medicine, 8.0 
+623,ONG,Dermatologists, 8.0 
+624,Otro,Dentist, 8.0 
+625,Medico,Dentist, 9.8 
+626,Especialista,Dentist, 8.0 
+627,Clinica,Homeopath, 8.0 
+628,Hospital,ENT Specialist, 9.7 
+629,ONG,Homeopath, 9.9 
+630,Otro,Dentist, 9.9 
+631,Medico,General Medicine, 10.0 
+632,Especialista,Dermatologists, 8.0 
+633,Clinica,Dentist, 0.8 
+634,Hospital,Ayurveda, 9.8 
+635,ONG,General Medicine, 8.0 
+636,Otro,Dentist, 8.0 
+637,Medico,Ayurveda, 9.6 
+638,Especialista,Dentist, 9.6 
+639,Clinica,General Medicine, 8.0 
+640,Hospital,Ayurveda, 8.2 
+641,ONG,ENT Specialist, 8.0 
+642,Otro,Dentist, 8.0 
+643,Medico,Dentist, 8.0 
+644,Especialista,General Medicine, 10.0 
+645,Clinica,Ayurveda, 9.5 
+646,Hospital,Dentist, 9.5 
+647,ONG,Dermatologists, 8.0 
+648,Otro,Dermatologists, 8.0 
+649,Medico,ENT Specialist, 10.0 
+650,Especialista,General Medicine, 8.0 
+651,Clinica,Ayurveda, 9.8 
+652,Hospital,Homeopath, 9.8 
+653,ONG,Dermatologists, 9.8 
+654,Otro,ENT Specialist, 8.0 
+655,Medico,Dermatologists, 8.0 
+656,Especialista,ENT Specialist, 9.7 
+657,Clinica,ENT Specialist, 8.0 
+658,Hospital,General Medicine, 8.0 
+659,ONG,Dentist, 9.8 
+660,Otro,ENT Specialist, 8.0 
+661,Medico,Dermatologists, 9.9 
+662,Especialista,Dentist, 9.6 
+663,Clinica,Homeopath, 10.0 
+664,Hospital,Ayurveda, 8.0 
+665,ONG,Dentist, 10.0 
+666,Otro,Ayurveda, 9.9 
+667,Medico,Dermatologists, 8.0 
+668,Especialista,Dentist, 9.0 
+669,Clinica,Ayurveda, 9.8 
+670,Hospital,Dentist, 8.0 
+671,ONG,Ayurveda, 10.0 
+672,Otro,General Medicine, 9.8 
+673,Medico,Homeopath, 8.0 
+674,Especialista,Homeopath, 8.0 
+675,Clinica,Ayurveda, 9.7 
+676,Hospital,Ayurveda, 8.0 
+677,ONG,Dentist, 9.8 
+678,Otro,Dentist, 9.8 
+679,Medico,Dentist, 9.6 
+680,Especialista,Dermatologists, 10.0 
+681,Clinica,Ayurveda, 10.0 
+682,Hospital,Homeopath, 8.0 
+683,ONG,Homeopath, 8.5 
+684,Otro,General Medicine, 9.7 
+685,Medico,Ayurveda, 8.0 
+686,Especialista,Dentist, 8.0 
+687,Clinica,Ayurveda, 8.0 
+688,Hospital,General Medicine, 8.0 
+689,ONG,General Medicine, 8.0 
+690,Otro,General Medicine, 8.0 
+691,Medico,Homeopath, 9.8 
+692,Especialista,Dermatologists, 8.0 
+693,Clinica,ENT Specialist, 0.3 
+694,Hospital,Dentist, 8.0 
+695,ONG,Homeopath, 10.0 
+696,Otro,Dermatologists, 8.0 
+697,Medico,Dermatologists, 8.5 
+698,Especialista,Dentist, 9.3 
+699,Clinica,Ayurveda, 10.0 
+700,Hospital,Dentist, 8.0 
+701,ONG,Dentist, 9.9 
+702,Otro,Ayurveda, 9.8 
+703,Medico,General Medicine, 8.0 
+704,Especialista,Dentist, 8.0 
+705,Clinica,Dermatologists, 8.0 
+706,Hospital,General Medicine, 8.8 
+707,ONG,General Medicine, 8.0 
+708,Otro,Ayurveda, 9.7 
+709,Medico,Dentist, 8.0 
+710,Especialista,General Medicine, 9.8 
+711,Clinica,General Medicine, 8.0 
+712,Hospital,Dentist, 8.0 
+713,ONG,Homeopath, 9.8 
+714,Otro,Dentist, 9.8 
+715,Medico,Ayurveda, 8.0 
+716,Especialista,General Medicine, 9.8 
+717,Clinica,Dentist, 8.0 
+718,Hospital,Ayurveda, 8.0 
+719,ONG,Dermatologists, 10.0 
+720,Otro,Dentist, 8.0 
+721,Medico,Dermatologists, 9.9 
+722,Especialista,Dermatologists, 8.9 
+723,Clinica,Ayurveda, 8.8 
+724,Hospital,Dermatologists, 8.0 
+725,ONG,Dentist, 8.0 
+726,Otro,General Medicine, 9.9 
+727,Medico,General Medicine, 8.0 
+728,Especialista,General Medicine, 9.5 
+729,Clinica,Dermatologists, 8.0 
+730,Hospital,Dentist, 8.0 
+731,ONG,ENT Specialist, 10.0 
+732,Otro,Dentist, 0.6 
+733,Medico,Dermatologists, 8.0 
+734,Especialista,ENT Specialist, 9.5 
+735,Clinica,Ayurveda, 9.0 
+736,Hospital,Ayurveda, 8.0 
+737,ONG,General Medicine, 8.0 
+738,Otro,Dentist, 8.8 
+739,Medico,Ayurveda, 8.0 
+740,Especialista,Homeopath, 8.0 
+741,Clinica,ENT Specialist, 8.0 
+742,Hospital,ENT Specialist, 8.0 
+743,ONG,Dentist, 8.0 
+744,Otro,Dentist, 10.0 
+745,Medico,Dentist, 9.9 
+746,Especialista,General Medicine, 9.5 
+747,Clinica,Dentist, 8.0 
+748,Hospital,Dermatologists, 9.6 
+749,ONG,Dentist, 9.0 
+750,Otro,Homeopath, 9.5 
+751,Medico,ENT Specialist, 8.0 
+752,Especialista,Dentist, 8.0 
+753,Clinica,General Medicine, 9.0 
+754,Hospital,Homeopath, 8.0 
+755,ONG,Dermatologists, 9.8 
+756,Otro,General Medicine, 9.7 
+757,Medico,Dentist, 9.6 
+758,Especialista,Homeopath, 9.8 
+759,Clinica,Homeopath, 10.0 
+760,Hospital,Dentist, 10.0 
+761,ONG,Homeopath, 9.6 
+762,Otro,Dentist, 8.0 
+763,Medico,Dermatologists, 9.3 
+764,Especialista,Homeopath, 9.9 
+765,Clinica,Dentist, 9.7 
+766,Hospital,Ayurveda, 9.7 
+767,ONG,Dentist, 8.0 
+768,Otro,Dermatologists, 9.7 
+769,Medico,Homeopath, 9.4 
+770,Especialista,General Medicine, 8.0 
+771,Clinica,Homeopath, 8.0 
+772,Hospital,General Medicine, 8.0 
+773,ONG,Homeopath, 8.0 
+774,Otro,General Medicine, 8.0 
+775,Medico,Dentist, 8.0 
+776,Especialista,ENT Specialist, 9.7 
+777,Clinica,ENT Specialist, 8.0 
+778,Hospital,Homeopath, 8.0 
+779,ONG,ENT Specialist, 8.0 
+780,Otro,Homeopath, 8.0 
+781,Medico,Ayurveda, 8.0 
+782,Especialista,Ayurveda, 8.0 
+783,Clinica,General Medicine, 10.0 
+784,Hospital,Homeopath, 8.0 
+785,ONG,Ayurveda, 8.0 
+786,Otro,Homeopath, 8.0 
+787,Medico,General Medicine, 9.4 
+788,Especialista,General Medicine, 0.7 
+789,Clinica,General Medicine, 0.7 
+790,Hospital,Homeopath, 9.0 
+791,ONG,Homeopath, 8.0 
+792,Otro,Dentist, 8.0 
+793,Medico,General Medicine, 9.7 
+794,Especialista,General Medicine, 9.6 
+795,Clinica,Homeopath, 8.0 
+796,Hospital,Homeopath, 8.0 
+797,ONG,General Medicine, 8.0 
+798,Otro,Dermatologists, 8.0 
+799,Medico,General Medicine, 9.7 
+800,Especialista,General Medicine, 8.0 
+801,Clinica,Dermatologists, 8.0 
+802,Hospital,Dentist, 8.0 
+803,ONG,ENT Specialist, 9.9 
+804,Otro,Dermatologists, 9.3 
+805,Medico,Homeopath, 8.0 
+806,Especialista,Dermatologists, 9.3 
+807,Clinica,Dentist, 84.0 
+808,Hospital,Dentist, 10.0 
+809,ONG,Ayurveda, 9.8 
+810,Otro,General Medicine, 8.0 
+811,Medico,ENT Specialist, 7.9 
+812,Especialista,Homeopath, 9.2 
+813,Clinica,Homeopath, 8.0 
+814,Hospital,General Medicine, 10.0 
+815,ONG,General Medicine, 8.0 
+816,Otro,General Medicine, 7.4 
+817,Medico,Ayurveda, 8.0 
+818,Especialista,Dentist, 8.0 
+819,Clinica,Dentist, 8.0 
+820,Hospital,Dermatologists, 9.9 
+821,ONG,General Medicine, 9.9 
+822,Otro,General Medicine, 8.0 
+823,Medico,Ayurveda, 8.0 
+824,Especialista,Homeopath, 8.0 
+825,Clinica,Homeopath, 8.0 
+826,Hospital,Ayurveda, 8.0 
+827,ONG,Dentist, 9.8 
+828,Otro,Dentist, 9.7 
+829,Medico,ENT Specialist, 9.8 
+830,Especialista,Dentist, 8.0 
+831,Clinica,Dentist, 9.7 
+832,Hospital,Dermatologists, 9.7 
+833,ONG,Dentist, 8.0 
+834,Otro,Dermatologists, 10.0 
+835,Medico,Dentist, 8.9 
+836,Especialista,Dermatologists, 9.0 
+837,Clinica,General Medicine, 84.0 
+838,Hospital,Dentist, 9.9 
+839,ONG,Ayurveda, 9.8 
+840,Otro,General Medicine, 8.0 
+841,Medico,General Medicine, 8.0 
+842,Especialista,ENT Specialist, 8.0 
+843,Clinica,General Medicine, 9.3 
+844,Hospital,Ayurveda, 8.0 
+845,ONG,Dermatologists, 10.0 
+846,Otro,Dentist, 10.0 
+847,Medico,Ayurveda, 8.0 
+848,Especialista,Dermatologists, 8.0 
+849,Clinica,General Medicine, 8.0 
+850,Hospital,Ayurveda, 9.8 
+851,ONG,Dermatologists, 8.0 
+852,Otro,Ayurveda, 7.9 
+853,Medico,Homeopath, 8.0 
+854,Especialista,General Medicine, 10.0 
+855,Clinica,ENT Specialist, 8.3 
+856,Hospital,ENT Specialist, 10.0 
+857,ONG,Homeopath, 9.5 
+858,Otro,ENT Specialist, 8.0 
+859,Medico,Ayurveda, 8.0 
+860,Especialista,ENT Specialist, 8.0 
+861,Clinica,Homeopath, 8.0 
+862,Hospital,General Medicine, 8.0 
+863,ONG,Dentist, 8.3 
+864,Otro,General Medicine, 8.0 
+865,Medico,Dentist, 9.3 
+866,Especialista,Dentist, 9.7 
+867,Clinica,ENT Specialist, 8.0 
+868,Hospital,Dentist, 8.0 
+869,ONG,ENT Specialist, 8.0 
+870,Otro,General Medicine, 8.0 
+871,Medico,Dentist, 8.0 
+872,Especialista,ENT Specialist, 9.5 
+873,Clinica,ENT Specialist, 8.0 
+874,Hospital,ENT Specialist, 8.0 
+875,ONG,Dentist, 9.0 
+876,Otro,Homeopath, 10.0 
+877,Medico,Dermatologists, 8.0 
+878,Especialista,General Medicine, 9.8 
+879,Clinica,Homeopath, 8.0 
+880,Hospital,Homeopath, 8.0 
+881,ONG,Homeopath, 8.0 
+882,Otro,Dermatologists, 8.0 
+883,Medico,General Medicine, 10.0 
+884,Especialista,Dermatologists, 8.0 
+885,Clinica,Dermatologists, 8.0 
+886,Hospital,ENT Specialist, 8.0 
+887,ONG,Dentist, 10.0 
+888,Otro,Dentist, 8.0 
+889,Medico,Dermatologists, 8.0 
+890,Especialista,General Medicine, 9.6 
+891,Clinica,Dentist, 8.0 
+892,Hospital,General Medicine, 9.7 
+893,ONG,Homeopath, 8.0 
+894,Otro,Homeopath, 8.0 
+895,Medico,Dentist, 8.0 
+896,Especialista,Dermatologists, 8.0 
+897,Clinica,Dentist, 8.0 
+898,Hospital,General Medicine, 8.0 
+899,ONG,Homeopath, 8.0 
+900,Otro,Dentist, 8.0 
+901,Medico,ENT Specialist, 8.0 
+902,Especialista,General Medicine, 8.0 
+903,Clinica,Homeopath, 8.0 
+904,Hospital,Dentist, 8.0 
+905,ONG,Dermatologists, 8.0 
+906,Otro,ENT Specialist, 9.9 
+907,Medico,Ayurveda, 9.0 
+908,Especialista,Dermatologists, 8.0 
+909,Clinica,Ayurveda, 8.0 
+910,Hospital,Dermatologists, 8.0 
+911,ONG,Homeopath, 8.0 
+912,Otro,ENT Specialist, 0.5 
+913,Medico,Dermatologists, 9.9 
+914,Especialista,Dermatologists, 9.7 
+915,Clinica,Dentist, 10.0 
+916,Hospital,Dermatologists, 8.0 
+917,ONG,Homeopath, 8.0 
+918,Otro,ENT Specialist, 8.0 
+919,Medico,Dermatologists, 0.8 
+920,Especialista,ENT Specialist, 8.0 
+921,Clinica,Dermatologists, 8.0 
+922,Hospital,Dentist, 9.6 
+923,ONG,Ayurveda, 10.0 
+924,Otro,Homeopath, 9.2 
+925,Medico,Ayurveda, 8.0 
+926,Especialista,Dermatologists, 8.0 
+927,Clinica,Dentist, 8.0 
+928,Hospital,Dentist, 8.0 
+929,ONG,Ayurveda, 8.0 
+930,Otro,Dentist, 9.7 
+931,Medico,Dermatologists, 9.6 
+932,Especialista,Homeopath, 10.0 
+933,Clinica,Dentist, 8.0 
+934,Hospital,Dentist, 9.8 
+935,ONG,Dermatologists, 9.4 
+936,Otro,Dentist, 9.6 
+937,Medico,Dentist, 9.8 
+938,Especialista,ENT Specialist, 10.0 
+939,Clinica,Dentist, 8.0 
+940,Hospital,Dermatologists, 9.6 
+941,ONG,Dentist, 10.0 
+942,Otro,Dermatologists, 8.0 
+943,Medico,Dentist, 8.0 
+944,Especialista,Ayurveda, 10.0 
+945,Clinica,Ayurveda, 8.0 
+946,Hospital,Homeopath, 8.0 
+947,ONG,General Medicine, 8.0 
+948,Otro,Dentist, 9.4 
+949,Medico,General Medicine, 10.0 
+950,Especialista,Ayurveda, 8.0 
+951,Clinica,Homeopath, 8.0 
+952,Hospital,ENT Specialist, 8.0 
+953,ONG,Dentist, 8.0 
+954,Otro,General Medicine, 8.0 
+955,Medico,Dentist, 8.0 
+956,Especialista,Dentist, 9.7 
+957,Clinica,General Medicine, 10.0 
+958,Hospital,Dermatologists, 8.0 
+959,ONG,General Medicine, 9.6 
+960,Otro,ENT Specialist, 9.4 
+961,Medico,General Medicine, 9.0 
+962,Especialista,Ayurveda, 9.0 
+963,Clinica,General Medicine, 8.0 
+964,Hospital,Dentist, 8.0 
+965,ONG,Homeopath, 10.0 
+966,Otro,Dermatologists, 8.0 
+967,Medico,Dermatologists, 8.0 
+968,Especialista,General Medicine, 8.0 
+969,Clinica,General Medicine, 0.8 
+970,Hospital,Dermatologists, 8.0 
+971,ONG,Dermatologists, 8.8 
+972,Otro,Dentist, 9.2 
+973,Medico,General Medicine, 9.8 
+974,Especialista,ENT Specialist, 10.0 
+975,Clinica,Homeopath, 8.0 
+976,Hospital,General Medicine, 8.0 
+977,ONG,Dentist, 8.0 
+978,Otro,Dentist, 9.9 
+979,Medico,Dermatologists, 9.7 
+980,Especialista,Dentist, 0.6 
+981,Clinica,Homeopath, 9.3 
+982,Hospital,Dermatologists, 8.0 
+983,ONG,ENT Specialist, 9.5 
+984,Otro,Dermatologists, 9.0 
+985,Medico,Ayurveda, 9.4 
+986,Especialista,Dentist, 10.0 
+987,Clinica,ENT Specialist, 9.2 
+988,Hospital,Dentist, 9.3 
+989,ONG,Homeopath, 8.0 
+990,Otro,General Medicine, 8.0 
+991,Medico,Dentist, 0.7 
+992,Especialista,Homeopath, 8.0 
+993,Clinica,Dentist, 10.0 
+994,Hospital,Ayurveda, 9.5 
+995,ONG,General Medicine, 8.0 
+996,Otro,Homeopath, 8.0 
+997,Medico,Homeopath, 8.0 
+998,Especialista,General Medicine, 8.0 
+999,Clinica,General Medicine, 7.4 
+1000,Hospital,Ayurveda, 8.0 
+1001,ONG,Dentist, 8.0 
+1002,Otro,Dermatologists, 8.0 
+1003,Medico,Ayurveda, 8.0 
+1004,Especialista,ENT Specialist, 8.0 
+1005,Clinica,Homeopath, 8.0 
+1006,Hospital,Homeopath, 8.0 
+1007,ONG,Dermatologists, 8.0 
+1008,Otro,Homeopath, 10.0 
+1009,Medico,General Medicine, 8.0 
+1010,Especialista,ENT Specialist, 8.0 
+1011,Clinica,Dentist, 8.8 
+1012,Hospital,Homeopath, 9.9 
+1013,ONG,Homeopath, 10.0 
+1014,Otro,Homeopath, 8.0 
+1015,Medico,General Medicine, 10.0 
+1016,Especialista,Dermatologists, 8.0 
+1017,Clinica,ENT Specialist, 7.9 
+1018,Hospital,General Medicine, 8.6 
+1019,ONG,Dermatologists, 0.6 
+1020,Otro,General Medicine, 9.7 
+1021,Medico,Homeopath, 8.0 
+1022,Especialista,ENT Specialist, 8.0 
+1023,Clinica,General Medicine, 9.3 
+1024,Hospital,Homeopath, 8.0 
+1025,ONG,Dentist, 8.0 
+1026,Otro,Ayurveda, 8.0 
+1027,Medico,Dermatologists, 8.0 
+1028,Especialista,Ayurveda, 10.0 
+1029,Clinica,General Medicine, 10.0 
+1030,Hospital,ENT Specialist, 8.0 
+1031,ONG,Dermatologists, 8.0 
+1032,Otro,Ayurveda, 8.0 
+1033,Medico,Ayurveda, 8.0 
+1034,Especialista,ENT Specialist, 8.0 
+1035,Clinica,Dentist, 8.0 
+1036,Hospital,Dermatologists, 8.0 
+1037,ONG,Dentist, 9.7 
+1038,Otro,Dentist, 9.8 
+1039,Medico,ENT Specialist, 8.0 
+1040,Especialista,Dermatologists, 8.0 
+1041,Clinica,Dentist, 9.4 
+1042,Hospital,General Medicine, 9.6 
+1043,ONG,Dentist, 8.0 
+1044,Otro,Dentist, 9.4 
+1045,Medico,Dentist, 8.0 
+1046,Especialista,Homeopath, 8.0 
+1047,Clinica,Dentist, 8.0 
+1048,Hospital,Homeopath, 10.0 
+1049,ONG,Homeopath, 8.0 
+1050,Otro,Dermatologists, 10.0 
+1051,Medico,Dentist, 9.4 
+1052,Especialista,Dentist, 9.5 
+1053,Clinica,Dentist, 9.6 
+1054,Hospital,Dermatologists, 10.0 
+1055,ONG,Homeopath, 9.5 
+1056,Otro,Dentist, 8.0 
+1057,Medico,Ayurveda, 9.8 
+1058,Especialista,Ayurveda, 8.0 
+1059,Clinica,General Medicine, 10.0 
+1060,Hospital,General Medicine, 8.0 
+1061,ONG,Homeopath, 8.0 
+1062,Otro,Dentist, 9.8 
+1063,Medico,General Medicine, 9.8 
+1064,Especialista,Homeopath, 8.0 
+1065,Clinica,Dermatologists, 8.0 
+1066,Hospital,Homeopath, 9.3 
+1067,ONG,ENT Specialist, 8.0 
+1068,Otro,Ayurveda, 10.0 
+1069,Medico,General Medicine, 8.0 
+1070,Especialista,General Medicine, 9.7 
+1071,Clinica,General Medicine, 9.5 
+1072,Hospital,Dentist, 8.0 
+1073,ONG,Dermatologists, 8.0 
+1074,Otro,Dermatologists, 8.0 
+1075,Medico,Dentist, 10.0 
+1076,Especialista,General Medicine, 8.0 
+1077,Clinica,General Medicine, 9.2 
+1078,Hospital,Dentist, 8.0 
+1079,ONG,Dentist, 10.0 
+1080,Otro,Ayurveda, 8.0 
+1081,Medico,Homeopath, 8.0 
+1082,Especialista,Ayurveda, 8.0 
+1083,Clinica,Dermatologists, 8.0 
+1084,Hospital,Dentist, 8.0 
+1085,ONG,Ayurveda, 8.0 
+1086,Otro,Dentist, 8.0 
+1087,Medico,Homeopath, 10.0 
+1088,Especialista,Dermatologists, 8.0 
+1089,Clinica,Dermatologists, 9.9 
+1090,Hospital,Ayurveda, 9.7 
+1091,ONG,Ayurveda, 8.0 
+1092,Otro,Dentist, 8.0 
+1093,Medico,Dentist, 9.9 
+1094,Especialista,General Medicine, 9.3 
+1095,Clinica,Dermatologists, 8.0 
+1096,Hospital,General Medicine, 8.0 
+1097,ONG,Dentist, 8.0 
+1098,Otro,ENT Specialist, 10.0 
+1099,Medico,ENT Specialist, 8.0 
+1100,Especialista,General Medicine, 8.0 
+1101,Clinica,Ayurveda, 8.0 
+1102,Hospital,Dentist, 10.0 
+1103,ONG,Homeopath, 8.0 
+1104,Otro,Homeopath, 8.0 
+1105,Medico,Ayurveda, 8.0 
+1106,Especialista,Ayurveda, 8.0 
+1107,Clinica,Dentist, 8.0 
+1108,Hospital,ENT Specialist, 9.9 
+1109,ONG,Dentist, 8.0 
+1110,Otro,General Medicine, 8.0 
+1111,Medico,General Medicine, 8.0 
+1112,Especialista,General Medicine, 8.0 
+1113,Clinica,Homeopath, 8.0 
+1114,Hospital,Ayurveda, 8.0 
+1115,ONG,Dentist, 9.6 
+1116,Otro,General Medicine, 10.0 
+1117,Medico,Homeopath, 8.0 
+1118,Especialista,ENT Specialist, 10.0 
+1119,Clinica,Dentist, 8.0 
+1120,Hospital,Dermatologists, 10.0 
+1121,ONG,Homeopath, 8.7 
+1122,Otro,ENT Specialist, 10.0 
+1123,Medico,Dentist, 8.0 
+1124,Especialista,Ayurveda, 10.0 
+1125,Clinica,Dentist, 8.0 
+1126,Hospital,Dermatologists, 8.0 
+1127,ONG,Dentist, 8.0 
+1128,Otro,General Medicine, 8.0 
+1129,Medico,Dermatologists, 8.0 
+1130,Especialista,Ayurveda, 8.0 
+1131,Clinica,Homeopath, 8.0 
+1132,Hospital,Homeopath, 8.0 
+1133,ONG,General Medicine, 9.7 
+1134,Otro,General Medicine, 8.0 
+1135,Medico,ENT Specialist, 9.7 
+1136,Especialista,Dentist, 8.0 
+1137,Clinica,General Medicine, 8.0 
+1138,Hospital,Homeopath, 8.0 
+1139,ONG,General Medicine, 8.0 
+1140,Otro,Homeopath, 8.0 
+1141,Medico,ENT Specialist, 8.0 
+1142,Especialista,Dermatologists, 8.0 
+1143,Clinica,Dentist, 8.8 
+1144,Hospital,General Medicine, 8.0 
+1145,ONG,General Medicine, 8.0 
+1146,Otro,Homeopath, 8.0 
+1147,Medico,Homeopath, 8.0 
+1148,Especialista,ENT Specialist, 8.0 
+1149,Clinica,Dermatologists, 8.0 
+1150,Hospital,Dermatologists, 810.0 
+1151,ONG,Dentist, 10.0 
+1152,Otro,ENT Specialist, 8.0 
+1153,Medico,Dermatologists, 8.0 
+1154,Especialista,Homeopath, 10.0 
+1155,Clinica,Dermatologists, 8.0 
+1156,Hospital,Homeopath, 8.0 
+1157,ONG,Dentist, 8.0 
+1158,Otro,Dentist, 10.0 
+1159,Medico,General Medicine, 8.0 
+1160,Especialista,General Medicine, 8.0 
+1161,Clinica,Ayurveda, 8.0 
+1162,Hospital,General Medicine, 9.6 
+1163,ONG,Dentist, 8.0 
+1164,Otro,General Medicine, 10.0 
+1165,Medico,ENT Specialist, 8.0 
+1166,Especialista,Dentist, 8.0 
+1167,Clinica,Dermatologists, 9.6 
+1168,Hospital,Dermatologists, 9.7 
+1169,ONG,Dermatologists, 9.4 
+1170,Otro,Dermatologists, 9.6 
+1171,Medico,ENT Specialist, 5.6 
+1172,Especialista,Homeopath, 9.0 
+1173,Clinica,Homeopath, 8.0 
+1174,Hospital,Dentist, 8.0 
+1175,ONG,Dermatologists, 8.0 
+1176,Otro,ENT Specialist, 8.0 
+1177,Medico,Dentist, 10.0 
+1178,Especialista,ENT Specialist, 9.7 
+1179,Clinica,General Medicine, 9.4 
+1180,Hospital,Dermatologists, 9.6 
+1181,ONG,Dermatologists, 9.3 
+1182,Otro,General Medicine, 8.0 
+1183,Medico,Ayurveda, 8.0 
+1184,Especialista,Ayurveda, 810.0 
+1185,Clinica,Dermatologists, 8.0 
+1186,Hospital,ENT Specialist, 8.0 
+1187,ONG,ENT Specialist, 8.0 
+1188,Otro,Ayurveda, 8.0 
+1189,Medico,ENT Specialist, 8.0 
+1190,Especialista,ENT Specialist, 10.0 
+1191,Clinica,ENT Specialist, 8.0 
+1192,Hospital,Dermatologists, 9.4 
+1193,ONG,Homeopath, 9.4 
+1194,Otro,Dermatologists, 9.7 
+1195,Medico,Dermatologists, 8.0 
+1196,Especialista,Ayurveda, 8.0 
+1197,Clinica,Homeopath, 8.0 
+1198,Hospital,General Medicine, 8.0 
+1199,ONG,Dentist, 8.0 
+1200,Otro,ENT Specialist, 9.8 
+1201,Medico,Dentist, 9.8 
+1202,Especialista,Dermatologists, 8.0 
+1203,Clinica,Ayurveda, 9.5 
+1204,Hospital,Homeopath, 10.0 
+1205,ONG,Ayurveda, 8.0 
+1206,Otro,Ayurveda, 8.0 
+1207,Medico,General Medicine, 8.0 
+1208,Especialista,Dentist, 8.0 
+1209,Clinica,Ayurveda, 9.9 
+1210,Hospital,Dermatologists, 9.0 
+1211,ONG,ENT Specialist, 8.0 
+1212,Otro,General Medicine, 8.0 
+1213,Medico,Dentist, 10.0 
+1214,Especialista,General Medicine, 8.0 
+1215,Clinica,Dentist, 8.0 
+1216,Hospital,Dermatologists, 9.6 
+1217,ONG,Ayurveda, 8.0 
+1218,Otro,General Medicine, 8.0 
+1219,Medico,Dentist, 8.0 
+1220,Especialista,Dentist, 9.5 
+1221,Clinica,Dentist, 8.0 
+1222,Hospital,Dentist, 10.0 
+1223,ONG,Dermatologists, 10.0 
+1224,Otro,Ayurveda, 9.4 
+1225,Medico,Dentist, 8.0 
+1226,Especialista,Dermatologists, 9.7 
+1227,Clinica,Dentist, 8.0 
+1228,Hospital,Dermatologists, 8.0 
+1229,ONG,Dermatologists, 10.0 
+1230,Otro,Homeopath, 9.9 
+1231,Medico,Dermatologists, 8.0 
+1232,Especialista,General Medicine, 9.8 
+1233,Clinica,Dentist, 9.5 
+1234,Hospital,General Medicine, 10.0 
+1235,ONG,General Medicine, 9.7 
+1236,Otro,ENT Specialist, 8.0 
+1237,Medico,General Medicine, 8.0 
+1238,Especialista,Dentist, 8.0 
+1239,Clinica,General Medicine, 10.0 
+1240,Hospital,ENT Specialist, 8.0 
+1241,ONG,Dentist, 0.6 
+1242,Otro,Dentist, 9.9 
+1243,Medico,Dermatologists, 8.0 
+1244,Especialista,General Medicine, 10.0 
+1245,Clinica,General Medicine, 8.0 
+1246,Hospital,Dermatologists, 8.0 
+1247,ONG,General Medicine, 8.0 
+1248,Otro,General Medicine, 8.0 
+1249,Medico,General Medicine, 8.6 
+1250,Especialista,General Medicine, 9.2 
+1251,Clinica,Homeopath, 9.0 
+1252,Hospital,Dermatologists, 8.0 
+1253,ONG,General Medicine, 8.0 
+1254,Otro,ENT Specialist, 9.4 
+1255,Medico,General Medicine, 8.0 
+1256,Especialista,Dentist, 8.0 
+1257,Clinica,Homeopath, 9.8 
+1258,Hospital,Dentist, 8.0 
+1259,ONG,ENT Specialist, 8.0 
+1260,Otro,Dentist, 9.2 
+1261,Medico,Dermatologists, 9.7 
+1262,Especialista,General Medicine, 9.6 
+1263,Clinica,ENT Specialist, 8.0 
+1264,Hospital,Ayurveda, 8.0 
+1265,ONG,Dermatologists, 9.7 
+1266,Otro,Ayurveda, 9.7 
+1267,Medico,Dentist, 8.0 
+1268,Especialista,General Medicine, 8.0 
+1269,Clinica,Ayurveda, 10.0 
+1270,Hospital,Dermatologists, 8.0 
+1271,ONG,Ayurveda, 8.0 
+1272,Otro,Dentist, 9.6 
+1273,Medico,Dentist, 9.8 
+1274,Especialista,Ayurveda, 10.0 
+1275,Clinica,ENT Specialist, 8.0 
+1276,Hospital,Dentist, 9.6 
+1277,ONG,Ayurveda, 8.0 
+1278,Otro,General Medicine, 8.0 
+1279,Medico,Homeopath, 8.0 
+1280,Especialista,Dentist, 9.6 
+1281,Clinica,Dentist, 8.0 
+1282,Hospital,ENT Specialist, 9.7 
+1283,ONG,General Medicine, 8.0 
+1284,Otro,Ayurveda, 8.2 
+1285,Medico,Dentist, 8.0 
+1286,Especialista,Dentist, 9.8 
+1287,Clinica,General Medicine, 10.0 
+1288,Hospital,Dentist, 8.0 
+1289,ONG,Dentist, 9.9 
+1290,Otro,Dentist, 9.9 
+1291,Medico,Ayurveda, 8.0 
+1292,Especialista,Dentist, 8.0 
+1293,Clinica,ENT Specialist, 8.0 
+1294,Hospital,Ayurveda, 8.0 
+1295,ONG,Ayurveda, 8.0 
+1296,Otro,Dentist, 8.0 
+1297,Medico,Ayurveda, 8.0 
+1298,Especialista,ENT Specialist, 8.2 
+1299,Clinica,Dentist, 8.0 
+1300,Hospital,General Medicine, 9.5 
+1301,ONG,Dentist, 9.3 
+1302,Otro,Homeopath, 10.0 
+1303,Medico,ENT Specialist, 8.0 
+1304,Especialista,Dentist, 0.6 
+1305,Clinica,Ayurveda, 10.0 
+1306,Hospital,Homeopath, 8.0 
+1307,ONG,Homeopath, 8.0 
+1308,Otro,Ayurveda, 8.0 
+1309,Medico,Dentist, 8.0 
+1310,Especialista,General Medicine, 8.0 
+1311,Clinica,Homeopath, 9.3 
+1312,Hospital,Dentist, 8.0 
+1313,ONG,Dermatologists, 9.7 
+1314,Otro,General Medicine, 9.4 
+1315,Medico,General Medicine, 10.0 
+1316,Especialista,Ayurveda, 8.0 
+1317,Clinica,Dentist, 8.0 
+1318,Hospital,Dentist, 9.9 
+1319,ONG,Dermatologists, 9.8 
+1320,Otro,Dentist, 8.6 
+1321,Medico,General Medicine, 10.0 
+1322,Especialista,ENT Specialist, 9.7 
+1323,Clinica,ENT Specialist, 8.0 
+1324,Hospital,Homeopath, 10.0 
+1325,ONG,Dermatologists, 8.0 
+1326,Otro,Dentist, 9.9 
+1327,Medico,Dermatologists, 9.5 
+1328,Especialista,General Medicine, 9.7 
+1329,Clinica,Dentist, 9.6 
+1330,Hospital,Dentist, 8.0 
+1331,ONG,General Medicine, 8.0 
+1332,Otro,ENT Specialist, 8.0 
+1333,Medico,Ayurveda, 8.0 
+1334,Especialista,Dermatologists, 10.0 
+1335,Clinica,General Medicine, 8.9 
+1336,Hospital,General Medicine, 8.0 
+1337,ONG,Dentist, 8.0 
+1338,Otro,Dermatologists, 9.0 
+1339,Medico,Homeopath, 9.5 
+1340,Especialista,Homeopath, 9.6 
+1341,Clinica,ENT Specialist, 8.0 
+1342,Hospital,Homeopath, 8.0 
+1343,ONG,Dentist, 8.0 
+1344,Otro,Dentist, 9.4 
+1345,Medico,ENT Specialist, 10.0 
+1346,Especialista,ENT Specialist, 9.4 
+1347,Clinica,Dentist, 8.0 
+1348,Hospital,General Medicine, 9.9 
+1349,ONG,ENT Specialist, 8.0 
+1350,Otro,Dermatologists, 8.0 
+1351,Medico,ENT Specialist, 9.8 
+1352,Especialista,Dentist, 8.0 
+1353,Clinica,Dermatologists, 9.5 
+1354,Hospital,Homeopath, 10.0 
+1355,ONG,Dermatologists, 9.4 
+1356,Otro,Homeopath, 9.8 
+1357,Medico,ENT Specialist, 8.0 
+1358,Especialista,Dermatologists, 8.0 
+1359,Clinica,Dentist, 9.8 
+1360,Hospital,Dentist, 9.9 
+1361,ONG,Dentist, 9.5 
+1362,Otro,Ayurveda, 9.8 
+1363,Medico,Ayurveda, 8.0 
+1364,Especialista,Dentist, 8.0 
+1365,Clinica,Dentist, 8.0 
+1366,Hospital,Ayurveda, 8.0 
+1367,ONG,Ayurveda, 8.0 
+1368,Otro,Homeopath, 8.0 
+1369,Medico,Dermatologists, 8.0 
+1370,Especialista,Dentist, 9.2 
+1371,Clinica,Dermatologists, 8.0 
+1372,Hospital,Dentist, 8.0 
+1373,ONG,Dermatologists, 9.6 
+1374,Otro,ENT Specialist, 10.0 
+1375,Medico,ENT Specialist, 8.0 
+1376,Especialista,Homeopath, 9.5 
+1377,Clinica,ENT Specialist, 8.0 
+1378,Hospital,Homeopath, 8.0 
+1379,ONG,Ayurveda, 8.0 
+1380,Otro,Ayurveda, 8.0 
+1381,Medico,ENT Specialist, 8.0 
+1382,Especialista,Homeopath, 8.0 
+1383,Clinica,Dermatologists, 10.0 
+1384,Hospital,Dermatologists, 9.4 
+1385,ONG,General Medicine, 8.0 
+1386,Otro,Dermatologists, 8.0 
+1387,Medico,General Medicine, 9.9 
+1388,Especialista,Dermatologists, 8.0 
+1389,Clinica,Dentist, 9.7 
+1390,Hospital,General Medicine, 10.0 
+1391,ONG,General Medicine, 10.0 
+1392,Otro,Dermatologists, 8.0 
+1393,Medico,General Medicine, 0.8 
+1394,Especialista,Dentist, 8.0 
+1395,Clinica,Ayurveda, 9.7 
+1396,Hospital,Dermatologists, 8.0 
+1397,ONG,Homeopath, 9.6 
+1398,Otro,Ayurveda, 9.6 
+1399,Medico,Dermatologists, 8.0 
+1400,Especialista,Dentist, 9.3 
+1401,Clinica,ENT Specialist, 8.0 
+1402,Hospital,Dentist, 9.3 
+1403,ONG,Ayurveda, 10.0 
+1404,Otro,ENT Specialist, 8.0 
+1405,Medico,Ayurveda, 8.0 
+1406,Especialista,Dermatologists, 9.9 
+1407,Clinica,General Medicine, 9.5 
+1408,Hospital,Dentist, 8.0 
+1409,ONG,Homeopath, 9.8 
+1410,Otro,Ayurveda, 8.0 
+1411,Medico,General Medicine, 9.9 
+1412,Especialista,Dentist, 8.0 
+1413,Clinica,General Medicine, 9.7 
+1414,Hospital,Ayurveda, 8.0 
+1415,ONG,Dentist, 8.0 
+1416,Otro,ENT Specialist, 8.0 
+1417,Medico,Homeopath, 8.3 
+1418,Especialista,Dermatologists, 9.5 
+1419,Clinica,General Medicine, 9.3 
+1420,Hospital,ENT Specialist, 8.0 
+1421,ONG,General Medicine, 8.0 
+1422,Otro,Ayurveda, 8.0 
+1423,Medico,Dermatologists, 8.0 
+1424,Especialista,Ayurveda, 9.6 
+1425,Clinica,Dermatologists, 8.0 
+1426,Hospital,General Medicine, 0.8 
+1427,ONG,Dermatologists, 8.0 
+1428,Otro,Ayurveda, 8.0 
+1429,Medico,Ayurveda, 10.0 
+1430,Especialista,Dentist, 8.0 
+1431,Clinica,Dentist, 8.0 
+1432,Hospital,General Medicine, 9.8 
+1433,ONG,Dermatologists, 8.0 
+1434,Otro,Ayurveda, 0.8 
+1435,Medico,Dentist, 10.0 
+1436,Especialista,Dentist, 8.0 
+1437,Clinica,General Medicine, 8.8 
+1438,Hospital,General Medicine, 7.9 
+1439,ONG,Dentist, 10.0 
+1440,Otro,Homeopath, 9.6 
+1441,Medico,Homeopath, 8.0 
+1442,Especialista,General Medicine, 8.0 
+1443,Clinica,Dentist, 8.0 
+1444,Hospital,ENT Specialist, 9.8 
+1445,ONG,Dermatologists, 0.6 
+1446,Otro,General Medicine, 9.7 
+1447,Medico,General Medicine, 8.0 
+1448,Especialista,General Medicine, 10.0 
+1449,Clinica,Ayurveda, 8.0 
+1450,Hospital,Dentist, 8.0 
+1451,ONG,General Medicine, 9.6 
+1452,Otro,General Medicine, 8.0 
+1453,Medico,Homeopath, 8.0 
+1454,Especialista,Ayurveda, 8.0 
+1455,Clinica,Homeopath, 8.0 
+1456,Hospital,General Medicine, 10.0 
+1457,ONG,ENT Specialist, 8.0 
+1458,Otro,Dermatologists, 8.0 
+1459,Medico,Dentist, 9.8 
+1460,Especialista,Ayurveda, 8.0 
+1461,Clinica,General Medicine, 8.0 
+1462,Hospital,Dentist, 8.0 
+1463,ONG,Dermatologists, 10.0 
+1464,Otro,Ayurveda, 9.0 
+1465,Medico,ENT Specialist, 8.0 
+1466,Especialista,Homeopath, 8.0 
+1467,Clinica,Homeopath, 10.0 
+1468,Hospital,General Medicine, 8.0 
+1469,ONG,General Medicine, 8.0 
+1470,Otro,Dentist, 8.0 
+1471,Medico,Homeopath, 8.0 
+1472,Especialista,Ayurveda, 8.0 
+1473,Clinica,Homeopath, 8.0 
+1474,Hospital,Dentist, 8.0 
+1475,ONG,ENT Specialist, 9.8 
+1476,Otro,ENT Specialist, 7.4 
+1477,Medico,Dermatologists, 8.0 
+1478,Especialista,General Medicine, 9.7 
+1479,Clinica,Dermatologists, 9.0 
+1480,Hospital,Dermatologists, 9.9 
+1481,ONG,Dentist, 8.0 
+1482,Otro,Ayurveda, 9.9 
+1483,Medico,Dermatologists, 8.0 
+1484,Especialista,Ayurveda, 10.0 
+1485,Clinica,General Medicine, 8.0 
+1486,Hospital,ENT Specialist, 8.0 
+1487,ONG,Dentist, 8.0 
+1488,Otro,Homeopath, 8.0 
+1489,Medico,ENT Specialist, 8.0 
+1490,Especialista,Dermatologists, 8.0 
+1491,Clinica,ENT Specialist, 8.9 
+1492,Hospital,Dentist, 8.0 
+1493,ONG,Dentist, 9.7 
+1494,Otro,Ayurveda, 8.0 
+1495,Medico,Dermatologists, 9.6 
+1496,Especialista,Dentist, 9.5 
+1497,Clinica,Dentist, 8.0 
+1498,Hospital,Ayurveda, 8.0 
+1499,ONG,Ayurveda, 8.0 
+1500,Otro,Dermatologists, 8.0 
+1501,Medico,Dermatologists, 8.0 
+1502,Especialista,Dermatologists, 8.0 
+1503,Clinica,Dermatologists, 10.0 
+1504,Hospital,Ayurveda, 9.3 
+1505,ONG,General Medicine, 8.0 
+1506,Otro,General Medicine, 8.0 
+1507,Medico,Homeopath, 8.0 
+1508,Especialista,General Medicine, 9.4 
+1509,Clinica,Ayurveda, 9.7 
+1510,Hospital,ENT Specialist, 8.0 
+1511,ONG,Dentist, 8.0 
+1512,Otro,Ayurveda, 10.0 
+1513,Medico,Dermatologists, 8.0 
+1514,Especialista,General Medicine, 10.0 
+1515,Clinica,General Medicine, 9.8 
+1516,Hospital,General Medicine, 9.8 
+1517,ONG,Dermatologists, 8.0 
+1518,Otro,General Medicine, 8.0 
+1519,Medico,General Medicine, 9.9 
+1520,Especialista,Ayurveda, 9.6 
+1521,Clinica,Homeopath, 8.0 
+1522,Hospital,Ayurveda, 8.0 
+1523,ONG,Ayurveda, 8.0 
+1524,Otro,Homeopath, 8.0 
+1525,Medico,General Medicine, 8.0 
+1526,Especialista,Dentist, 8.0 
+1527,Clinica,Dentist, 8.0 
+1528,Hospital,ENT Specialist, 9.8 
+1529,ONG,Dermatologists, 8.0 
+1530,Otro,Homeopath, 9.8 
+1531,Medico,Ayurveda, 10.0 
+1532,Especialista,General Medicine, 10.0 
+1533,Clinica,Ayurveda, 10.0 
+1534,Hospital,Dermatologists, 8.0 
+1535,ONG,ENT Specialist, 9.8 
+1536,Otro,ENT Specialist, 8.0 
+1537,Medico,Dentist, 8.0 
+1538,Especialista,Homeopath, 10.0 
+1539,Clinica,Ayurveda, 8.0 
+1540,Hospital,Dentist, 9.3 
+1541,ONG,Dentist, 9.8 
+1542,Otro,Dermatologists, 8.0 
+1543,Medico,Homeopath, 10.0 
+1544,Especialista,General Medicine, 8.0 
+1545,Clinica,Homeopath, 8.0 
+1546,Hospital,Dermatologists, 10.0 
+1547,ONG,General Medicine, 9.7 
+1548,Otro,Ayurveda, 9.0 
+1549,Medico,Dentist, 8.0 
+1550,Especialista,Dentist, 10.0 
+1551,Clinica,Dermatologists, 8.0 
+1552,Hospital,Dermatologists, 9.6 
+1553,ONG,ENT Specialist, 8.0 
+1554,Otro,Dermatologists, 8.0 
+1555,Medico,Homeopath, 8.0 
+1556,Especialista,General Medicine, 8.0 
+1557,Clinica,Dermatologists, 8.0 
+1558,Hospital,General Medicine, 8.0 
+1559,ONG,Dentist, 8.0 
+1560,Otro,Dermatologists, 8.0 
+1561,Medico,Dermatologists, 8.0 
+1562,Especialista,Dermatologists, 10.0 
+1563,Clinica,Dentist, 9.8 
+1564,Hospital,Homeopath, 8.0 
+1565,ONG,Dermatologists, 9.4 
+1566,Otro,ENT Specialist, 8.0 
+1567,Medico,Ayurveda, 10.0 
+1568,Especialista,Dermatologists, 8.0 
+1569,Clinica,General Medicine, 9.5 
+1570,Hospital,Homeopath, 8.0 
+1571,ONG,Homeopath, 8.0 
+1572,Otro,Ayurveda, 8.0 
+1573,Medico,Dentist, 8.0 
+1574,Especialista,General Medicine, 9.5 
+1575,Clinica,Dentist, 9.7 
+1576,Hospital,Dentist, 8.0 
+1577,ONG,ENT Specialist, 9.6 
+1578,Otro,Ayurveda, 8.0 
+1579,Medico,Homeopath, 8.0 
+1580,Especialista,Ayurveda, 9.8 
+1581,Clinica,Dentist, 8.0 
+1582,Hospital,General Medicine, 10.0 
+1583,ONG,Dermatologists, 8.0 
+1584,Otro,General Medicine, 8.0 
+1585,Medico,Dentist, 8.0 
+1586,Especialista,General Medicine, 8.0 
+1587,Clinica,Dermatologists, 9.3 
+1588,Hospital,Dermatologists, 8.0 
+1589,ONG,Ayurveda, 8.0 
+1590,Otro,General Medicine, 8.0 
+1591,Medico,Homeopath, 8.0 
+1592,Especialista,Dermatologists, 8.0 
+1593,Clinica,Homeopath, 7.9 
+1594,Hospital,Dermatologists, 9.9 
+1595,ONG,Dentist, 0.7 
+1596,Otro,Homeopath, 9.9 
+1597,Medico,Dentist, 8.0 
+1598,Especialista,Dentist, 10.0 
+1599,Clinica,Dermatologists, 8.0 
+1600,Hospital,General Medicine, 9.6 
+1601,ONG,General Medicine, 8.0 
+1602,Otro,Dentist, 8.0 
+1603,Medico,Homeopath, 9.7 
+1604,Especialista,Homeopath, 8.0 
+1605,Clinica,ENT Specialist, 8.0 
+1606,Hospital,Homeopath, 8.0 
+1607,ONG,Dentist, 8.0 
+1608,Otro,General Medicine, 8.0 
+1609,Medico,Ayurveda, 8.0 
+1610,Especialista,Homeopath, 8.0 
+1611,Clinica,Dermatologists, 8.0 
+1612,Hospital,Dermatologists, 8.0 
+1613,ONG,Homeopath, 9.6 
+1614,Otro,General Medicine, 9.0 
+1615,Medico,Homeopath, 0.7 
+1616,Especialista,Dentist, 8.0 
+1617,Clinica,Ayurveda, 8.0 
+1618,Hospital,Homeopath, 8.0 
+1619,ONG,General Medicine, 8.0 
+1620,Otro,General Medicine, 8.0 
+1621,Medico,Dermatologists, 8.0 
+1622,Especialista,Ayurveda, 10.0 
+1623,Clinica,Dentist, 9.8 
+1624,Hospital,Ayurveda, 8.0 
+1625,ONG,Dentist, 8.0 
+1626,Otro,Ayurveda, 8.0 
+1627,Medico,Dentist, 8.0 
+1628,Especialista,Ayurveda, 9.9 
+1629,Clinica,General Medicine, 8.0 
+1630,Hospital,Ayurveda, 9.8 
+1631,ONG,Dermatologists, 8.0 
+1632,Otro,Ayurveda, 8.0 
+1633,Medico,Dentist, 8.0 
+1634,Especialista,General Medicine, 8.0 
+1635,Clinica,Dermatologists, 8.0 
+1636,Hospital,Dentist, 7.9 
+1637,ONG,Ayurveda, 10.0 
+1638,Otro,General Medicine, 8.0 
+1639,Medico,Dermatologists, 8.0 
+1640,Especialista,ENT Specialist, 8.0 
+1641,Clinica,Ayurveda, 8.0 
+1642,Hospital,Ayurveda, 8.0 
+1643,ONG,General Medicine, 8.0 
+1644,Otro,General Medicine, 10.0 
+1645,Medico,General Medicine, 8.0 
+1646,Especialista,Dermatologists, 10.0 
+1647,Clinica,General Medicine, 8.0 
+1648,Hospital,ENT Specialist, 9.8 
+1649,ONG,Ayurveda, 7.6 
+1650,Otro,Dentist, 8.0 
+1651,Medico,Dentist, 8.0 
+1652,Especialista,ENT Specialist, 10.0 
+1653,Clinica,Dentist, 9.5 
+1654,Hospital,Dermatologists, 8.0 
+1655,ONG,ENT Specialist, 10.0 
+1656,Otro,ENT Specialist, 8.0 
+1657,Medico,General Medicine, 8.0 
+1658,Especialista,Homeopath, 8.0 
+1659,Clinica,Dentist, 8.0 
+1660,Hospital,Dentist, 8.0 
+1661,ONG,General Medicine, 10.0 
+1662,Otro,Ayurveda, 9.0 
+1663,Medico,General Medicine, 10.0 
+1664,Especialista,Dentist, 8.0 
+1665,Clinica,Dentist, 8.0 
+1666,Hospital,Dentist, 10.0 
+1667,ONG,Dentist, 8.0 
+1668,Otro,Ayurveda, 9.9 
+1669,Medico,General Medicine, 9.7 
+1670,Especialista,ENT Specialist, 10.0 
+1671,Clinica,ENT Specialist, 8.0 
+1672,Hospital,Homeopath, 8.0 
+1673,ONG,Homeopath, 10.0 
+1674,Otro,Dermatologists, 10.0 
+1675,Medico,Dentist, 9.5 
+1676,Especialista,Dentist, 10.0 
+1677,Clinica,Dermatologists, 9.8 
+1678,Hospital,ENT Specialist, 8.0 
+1679,ONG,Homeopath, 8.0 
+1680,Otro,Dentist, 10.0 
+1681,Medico,General Medicine, 10.0 
+1682,Especialista,Dentist, 8.0 
+1683,Clinica,General Medicine, 10.0 
+1684,Hospital,General Medicine, 8.0 
+1685,ONG,Homeopath, 8.0 
+1686,Otro,Ayurveda, 10.0 
+1687,Medico,General Medicine, 8.0 
+1688,Especialista,Ayurveda, 8.0 
+1689,Clinica,Homeopath, 8.0 
+1690,Hospital,General Medicine, 8.0 
+1691,ONG,General Medicine, 8.0 
+1692,Otro,Dentist, 8.0 
+1693,Medico,Dentist, 10.0 
+1694,Especialista,Ayurveda, 8.0 
+1695,Clinica,General Medicine, 8.0 
+1696,Hospital,General Medicine, 9.0 
+1697,ONG,Dentist, 8.0 
+1698,Otro,ENT Specialist, 8.2 
+1699,Medico,ENT Specialist, 8.0 
+1700,Especialista,Dentist, 9.0 
+1701,Clinica,General Medicine, 9.7 
+1702,Hospital,General Medicine, 8.0 
+1703,ONG,General Medicine, 9.2 
+1704,Otro,General Medicine, 810.0 
+1705,Medico,ENT Specialist, 10.0 
+1706,Especialista,Dentist, 8.0 
+1707,Clinica,Dentist, 9.9 
+1708,Hospital,ENT Specialist, 10.0 
+1709,ONG,Dentist, 8.0 
+1710,Otro,Ayurveda, 9.7 
+1711,Medico,Homeopath, 8.0 
+1712,Especialista,Homeopath, 8.0 
+1713,Clinica,Dermatologists, 8.0 
+1714,Hospital,Homeopath, 10.0 
+1715,ONG,ENT Specialist, 8.0 
+1716,Otro,Ayurveda, 8.0 
+1717,Medico,ENT Specialist, 8.0 
+1718,Especialista,General Medicine, 0.6 
+1719,Clinica,Dentist, 8.0 
+1720,Hospital,Ayurveda, 10.0 
+1721,ONG,Dentist, 8.0 
+1722,Otro,Homeopath, 9.5 
+1723,Medico,Dentist, 8.0 
+1724,Especialista,Dermatologists, 9.9 
+1725,Clinica,Homeopath, 9.6 
+1726,Hospital,Dentist, 8.0 
+1727,ONG,Homeopath, 9.8 
+1728,Otro,Dermatologists, 8.0 
+1729,Medico,Dentist, 9.7 
+1730,Especialista,Dermatologists, 8.0 
+1731,Clinica,Homeopath, 9.3 
+1732,Hospital,Dermatologists, 8.0 
+1733,ONG,Dentist, 10.0 
+1734,Otro,Dermatologists, 9.9 
+1735,Medico,Dentist, 8.0 
+1736,Especialista,Dentist, 10.0 
+1737,Clinica,General Medicine, 10.0 
+1738,Hospital,Homeopath, 9.3 
+1739,ONG,Ayurveda, 8.0 
+1740,Otro,Dentist, 8.0 
+1741,Medico,ENT Specialist, 9.6 
+1742,Especialista,Ayurveda, 0.8 
+1743,Clinica,Dermatologists, 8.0 
+1744,Hospital,Dentist, 7.9 
+1745,ONG,General Medicine, 9.0 
+1746,Otro,Dermatologists, 8.0 
+1747,Medico,General Medicine, 9.4 
+1748,Especialista,ENT Specialist, 0.7 
+1749,Clinica,ENT Specialist, 8.0 
+1750,Hospital,ENT Specialist, 8.0 
+1751,ONG,General Medicine, 10.0 
+1752,Otro,Dentist, 8.0 
+1753,Medico,General Medicine, 9.8 
+1754,Especialista,Dermatologists, 8.0 
+1755,Clinica,Dermatologists, 8.0 
+1756,Hospital,General Medicine, 9.6 
+1757,ONG,Ayurveda, 8.0 
+1758,Otro,Dentist, 8.0 
+1759,Medico,General Medicine, 8.0 
+1760,Especialista,Ayurveda, 8.7 
+1761,Clinica,Dentist, 8.0 
+1762,Hospital,Homeopath, 9.9 
+1763,ONG,General Medicine, 10.0 
+1764,Otro,Dentist, 8.0 
+1765,Medico,Dermatologists, 10.0 
+1766,Especialista,Ayurveda, 8.0 
+1767,Clinica,Dermatologists, 9.6 
+1768,Hospital,Dermatologists, 8.0 
+1769,ONG,Ayurveda, 9.0 
+1770,Otro,Dermatologists, 8.0 
+1771,Medico,Homeopath, 9.6 
+1772,Especialista,Dentist, 8.0 
+1773,Clinica,Ayurveda, 10.0 
+1774,Hospital,Homeopath, 10.0 
+1775,ONG,General Medicine, 8.0 
+1776,Otro,Dermatologists, 8.0 
+1777,Medico,Ayurveda, 8.0 
+1778,Especialista,General Medicine, 8.8 
+1779,Clinica,Ayurveda, 0.6 
+1780,Hospital,ENT Specialist, 8.0 
+1781,ONG,General Medicine, 9.5 
+1782,Otro,General Medicine, 8.0 
+1783,Medico,Dentist, 8.0 
+1784,Especialista,Dermatologists, 9.9 
+1785,Clinica,ENT Specialist, 8.0 
+1786,Hospital,General Medicine, 8.0 
+1787,ONG,Dentist, 8.0 
+1788,Otro,Dentist, 10.0 
+1789,Medico,Ayurveda, 8.0 
+1790,Especialista,Homeopath, 8.0 
+1791,Clinica,Ayurveda, 10.0 
+1792,Hospital,Dentist, 8.0 
+1793,ONG,General Medicine, 8.0 
+1794,Otro,Dermatologists, 84.0 
+1795,Medico,Ayurveda, 8.0 
+1796,Especialista,ENT Specialist, 8.0 
+1797,Clinica,Dentist, 0.7 
+1798,Hospital,Dentist, 10.0 
+1799,ONG,Ayurveda, 8.0 
+1800,Otro,Dentist, 8.0 
+1801,Medico,Dermatologists, 9.8 
+1802,Especialista,Dermatologists, 8.0 
+1803,Clinica,Homeopath, 8.5 
+1804,Hospital,Dentist, 8.0 
+1805,ONG,Dermatologists, 9.9 
+1806,Otro,General Medicine, 8.0 
+1807,Medico,Dentist, 8.0 
+1808,Especialista,Ayurveda, 9.2 
+1809,Clinica,Dermatologists, 9.6 
+1810,Hospital,ENT Specialist, 8.0 
+1811,ONG,Dentist, 8.0 
+1812,Otro,ENT Specialist, 10.0 
+1813,Medico,Dermatologists, 8.0 
+1814,Especialista,Homeopath, 9.5 
+1815,Clinica,General Medicine, 9.9 
+1816,Hospital,Homeopath, 8.0 
+1817,ONG,General Medicine, 8.0 
+1818,Otro,Homeopath, 9.9 
+1819,Medico,General Medicine, 8.0 
+1820,Especialista,ENT Specialist, 9.9 
+1821,Clinica,Dentist, 9.8 
+1822,Hospital,Homeopath, 9.0 
+1823,ONG,Homeopath, 10.0 
+1824,Otro,ENT Specialist, 9.0 
+1825,Medico,Dentist, 8.0 
+1826,Especialista,Homeopath, 9.5 
+1827,Clinica,Dermatologists, 8.0 
+1828,Hospital,Dentist, 8.0 
+1829,ONG,Dentist, 8.0 
+1830,Otro,Dentist, 9.8 
+1831,Medico,General Medicine, 9.0 
+1832,Especialista,Dentist, 8.2 
+1833,Clinica,Dermatologists, 9.2 
+1834,Hospital,Homeopath, 8.0 
+1835,ONG,Homeopath, 8.0 
+1836,Otro,ENT Specialist, 8.0 
+1837,Medico,ENT Specialist, 8.0 
+1838,Especialista,General Medicine, 8.0 
+1839,Clinica,General Medicine, 8.0 
+1840,Hospital,Homeopath, 9.4 
+1841,ONG,Dentist, 10.0 
+1842,Otro,General Medicine, 8.0 
+1843,Medico,Dermatologists, 8.0 
+1844,Especialista,Dermatologists, 8.0 
+1845,Clinica,Dermatologists, 8.9 
+1846,Hospital,Dermatologists, 8.0 
+1847,ONG,General Medicine, 8.0 
+1848,Otro,Dentist, 8.0 
+1849,Medico,Dermatologists, 9.5 
+1850,Especialista,ENT Specialist, 8.0 
+1851,Clinica,Dermatologists, 8.0 
+1852,Hospital,General Medicine, 8.0 
+1853,ONG,Dentist, 0.7 
+1854,Otro,ENT Specialist, 8.0 
+1855,Medico,Dentist, 8.0 
+1856,Especialista,Homeopath, 10.0 
+1857,Clinica,General Medicine, 8.0 
+1858,Hospital,Dentist, 8.0 
+1859,ONG,Ayurveda, 10.0 
+1860,Otro,ENT Specialist, 8.0 
+1861,Medico,General Medicine, 9.3 
+1862,Especialista,Ayurveda, 8.0 
+1863,Clinica,Homeopath, 9.7 
+1864,Hospital,Dentist, 10.0 
+1865,ONG,General Medicine, 8.0 
+1866,Otro,Dermatologists, 8.0 
+1867,Medico,General Medicine, 10.0 
+1868,Especialista,Dermatologists, 8.0 
+1869,Clinica,Dentist, 9.8 
+1870,Hospital,Dermatologists, 8.0 
+1871,ONG,ENT Specialist, 9.0 
+1872,Otro,Homeopath, 8.0 
+1873,Medico,General Medicine, 8.0 
+1874,Especialista,General Medicine, 8.0 
+1875,Clinica,Dentist, 10.0 
+1876,Hospital,Dermatologists, 9.7 
+1877,ONG,ENT Specialist, 8.0 
+1878,Otro,Ayurveda, 0.7 
+1879,Medico,Dermatologists, 8.0 
+1880,Especialista,Dentist, 8.0 
+1881,Clinica,Dermatologists, 9.7 
+1882,Hospital,General Medicine, 8.0 
+1883,ONG,Dermatologists, 8.0 
+1884,Otro,ENT Specialist, 9.5 
+1885,Medico,General Medicine, 9.0 
+1886,Especialista,Dermatologists, 8.0 
+1887,Clinica,General Medicine, 9.9 
+1888,Hospital,General Medicine, 8.0 
+1889,ONG,Homeopath, 8.0 
+1890,Otro,Ayurveda, 9.9 
+1891,Medico,General Medicine, 8.0 
+1892,Especialista,General Medicine, 8.0 
+1893,Clinica,Homeopath, 8.0 
+1894,Hospital,Dentist, 9.9 
+1895,ONG,Ayurveda, 9.6 
+1896,Otro,Dermatologists, 8.0 
+1897,Medico,Dentist, 10.0 
+1898,Especialista,Dentist, 10.0 
+1899,Clinica,Dentist, 9.4 
+1900,Hospital,Dermatologists, 10.0 
+1901,ONG,Homeopath, 8.0 
+1902,Otro,ENT Specialist, 8.0 
+1903,Medico,Homeopath, 8.0 
+1904,Especialista,ENT Specialist, 8.0 
+1905,Clinica,Ayurveda, 8.0 
+1906,Hospital,Ayurveda, 8.0 
+1907,ONG,Ayurveda, 8.0 
+1908,Otro,Homeopath, 8.5 
+1909,Medico,Dentist, 8.0 
+1910,Especialista,Ayurveda, 8.0 
+1911,Clinica,ENT Specialist, 8.0 
+1912,Hospital,General Medicine, 9.7 
+1913,ONG,Homeopath, 9.2 
+1914,Otro,Homeopath, 9.8 
+1915,Medico,Ayurveda, 8.0 
+1916,Especialista,Ayurveda, 8.0 
+1917,Clinica,Dermatologists, 8.0 
+1918,Hospital,Ayurveda, 9.0 
+1919,ONG,Homeopath, 8.0 
+1920,Otro,Dentist, 9.2 
+1921,Medico,Dentist, 8.0 
+1922,Especialista,Homeopath, 10.0 
+1923,Clinica,Dentist, 9.0 
+1924,Hospital,General Medicine, 10.0 
+1925,ONG,General Medicine, 8.0 
+1926,Otro,ENT Specialist, 8.0 
+1927,Medico,Homeopath, 8.0 
+1928,Especialista,General Medicine, 8.0 
+1929,Clinica,Dermatologists, 8.0 
+1930,Hospital,Dentist, 9.8 
+1931,ONG,General Medicine, 8.0 
+1932,Otro,Ayurveda, 8.0 
+1933,Medico,Homeopath, 8.0 
+1934,Especialista,Dermatologists, 8.0 
+1935,Clinica,Dentist, 9.7 
+1936,Hospital,General Medicine, 9.9 
+1937,ONG,Dermatologists, 8.0 
+1938,Otro,Dentist, 7.9 
+1939,Medico,Dermatologists, 8.0 
+1940,Especialista,Dentist, 8.0 
+1941,Clinica,Dentist, 9.7 
+1942,Hospital,Ayurveda, 8.0 
+1943,ONG,Dermatologists, 9.8 
+1944,Otro,Homeopath, 9.9 
+1945,Medico,General Medicine, 8.0 
+1946,Especialista,Dermatologists, 9.4 
+1947,Clinica,General Medicine, 9.8 
+1948,Hospital,Ayurveda, 9.9 
+1949,ONG,General Medicine, 8.0 
+1950,Otro,Dentist, 8.0 
+1951,Medico,Dentist, 9.4 
+1952,Especialista,Dentist, 9.8 
+1953,Clinica,ENT Specialist, 8.0 
+1954,Hospital,General Medicine, 9.3 
+1955,ONG,Dentist, 8.0 
+1956,Otro,Dermatologists, 8.0 
+1957,Medico,Dentist, 9.2 
+1958,Especialista,General Medicine, 9.8 
+1959,Clinica,ENT Specialist, 8.0 
+1960,Hospital,General Medicine, 8.0 
+1961,ONG,Dentist, 8.0 
+1962,Otro,Dermatologists, 10.0 
+1963,Medico,Ayurveda, 9.7 
+1964,Especialista,General Medicine, 8.0 
+1965,Clinica,ENT Specialist, 8.0 
+1966,Hospital,Dermatologists, 9.7 
+1967,ONG,Dentist, 8.0 
+1968,Otro,Ayurveda, 8.0 
+1969,Medico,Ayurveda, 8.0 
+1970,Especialista,Ayurveda, 8.0 
+1971,Clinica,ENT Specialist, 9.3 
+1972,Hospital,ENT Specialist, 8.0 
+1973,ONG,Dermatologists, 8.0 
+1974,Otro,Dentist, 9.4 
+1975,Medico,Dentist, 8.0 
+1976,Especialista,Homeopath, 9.7 
+1977,Clinica,Dermatologists, 8.0 
+1978,Hospital,ENT Specialist, 9.8 
+1979,ONG,ENT Specialist, 8.0 
+1980,Otro,Homeopath, 9.9 
+1981,Medico,General Medicine, 8.0 
+1982,Especialista,Ayurveda, 8.0 
+1983,Clinica,Dermatologists, 8.0 
+1984,Hospital,Homeopath, 9.7 
+1985,ONG,ENT Specialist, 10.0 
+1986,Otro,General Medicine, 84.0 
+1987,Medico,ENT Specialist, 8.0 
+1988,Especialista,Homeopath, 9.6 
+1989,Clinica,Ayurveda, 8.0 
+1990,Hospital,Dermatologists, 8.0 
+1991,ONG,Homeopath, 9.0 
+1992,Otro,Ayurveda, 8.0 
+1993,Medico,General Medicine, 10.0 
+1994,Especialista,Dentist, 9.2 
+1995,Clinica,Homeopath, 10.0 
+1996,Hospital,Ayurveda, 9.9 
+1997,ONG,General Medicine, 8.0 
+1998,Otro,Dentist, 8.0 
+1999,Medico,Dermatologists, 9.0 
+2000,Especialista,Dermatologists, 9.5 
+2001,Clinica,General Medicine, 8.0 
+2002,Hospital,Dermatologists, 8.0 
+2003,ONG,Homeopath, 8.8 
+2004,Otro,Homeopath, 8.0 
+2005,Medico,Ayurveda, 8.0 
+2006,Especialista,Dentist, 8.0 
+2007,Clinica,ENT Specialist, 8.0 
+2008,Hospital,General Medicine, 8.0 
+2009,ONG,Dentist, 9.5 
+2010,Otro,General Medicine, 8.0 
+2011,Medico,Homeopath, 8.0 
+2012,Especialista,Dentist, 8.0 
+2013,Clinica,Dentist, 8.0 
+2014,Hospital,Dentist, 9.8 
+2015,ONG,General Medicine, 9.7 
+2016,Otro,Ayurveda, 9.5 
+2017,Medico,Homeopath, 8.0 
+2018,Especialista,Dermatologists, 10.0 
+2019,Clinica,Dentist, 9.5 
+2020,Hospital,Dentist, 9.9 
+2021,ONG,Dermatologists, 9.8 
+2022,Otro,General Medicine, 8.0 
+2023,Medico,General Medicine, 8.8 
+2024,Especialista,Homeopath, 8.0 
+2025,Clinica,Dermatologists, 8.0 
+2026,Hospital,General Medicine, 9.8 
+2027,ONG,ENT Specialist, 8.0 
+2028,Otro,General Medicine, 9.4 
+2029,Medico,Homeopath, 8.0 
+2030,Especialista,Homeopath, 9.8 
+2031,Clinica,Dermatologists, 8.0 
+2032,Hospital,Dentist, 8.0 
+2033,ONG,Dentist, 8.0 
+2034,Otro,General Medicine, 9.6 
+2035,Medico,Dentist, 9.4 
+2036,Especialista,Ayurveda, 9.7 
+2037,Clinica,Ayurveda, 10.0 
+2038,Hospital,Dentist, 8.0 
+2039,ONG,Homeopath, 9.7 
+2040,Otro,Dermatologists, 8.0 
+2041,Medico,Homeopath, 9.3 
+2042,Especialista,Dermatologists, 8.0 
+2043,Clinica,General Medicine, 8.0 
+2044,Hospital,General Medicine, 8.0 
+2045,ONG,ENT Specialist, 8.0 
+2046,Otro,General Medicine, 8.0 
+2047,Medico,General Medicine, 8.0 
+2048,Especialista,Dentist, 8.9 
+2049,Clinica,General Medicine, 10.0 
+2050,Hospital,General Medicine, 8.0 
+2051,ONG,General Medicine, 8.0 
+2052,Otro,Dentist, 8.0 
+2053,Medico,Dentist, 8.0 
+2054,Especialista,General Medicine, 9.8 
+2055,Clinica,Homeopath, 8.0 
+2056,Hospital,Dermatologists, 8.0 
+2057,ONG,Dermatologists, 8.0 
+2058,Otro,Dentist, 9.0 
+2059,Medico,Dentist, 9.0 
+2060,Especialista,General Medicine, 8.0 
+2061,Clinica,Dentist, 8.0 
+2062,Hospital,General Medicine, 9.9 
+2063,ONG,General Medicine, 8.0 
+2064,Otro,Dentist, 8.0 
+2065,Medico,Dermatologists, 9.9 
+2066,Especialista,Dentist, 9.6 
+2067,Clinica,Homeopath, 8.0 
+2068,Hospital,Dentist, 10.0 
+2069,ONG,Dermatologists, 10.0 
+2070,Otro,General Medicine, 9.7 
+2071,Medico,ENT Specialist, 8.0 
+2072,Especialista,Homeopath, 8.0 
+2073,Clinica,ENT Specialist, 8.0 
+2074,Hospital,Dermatologists, 8.6 
+2075,ONG,Dentist, 9.6 
+2076,Otro,Dermatologists, 10.0 
+2077,Medico,Dermatologists, 10.0 
+2078,Especialista,Dermatologists, 8.0 
+2079,Clinica,Dentist, 8.0 
+2080,Hospital,General Medicine, 10.0 
+2081,ONG,General Medicine, 9.8 
+2082,Otro,Homeopath, 10.0 
+2083,Medico,Homeopath, 8.0 
+2084,Especialista,General Medicine, 8.0 
+2085,Clinica,Homeopath, 8.0 
+2086,Hospital,Homeopath, 8.0 
+2087,ONG,Dentist, 10.0 
+2088,Otro,Homeopath, 8.0 
+2089,Medico,ENT Specialist, 8.0 
+2090,Especialista,Ayurveda, 0.6 
+2091,Clinica,Dermatologists, 8.0 
+2092,Hospital,Ayurveda, 9.5 
+2093,ONG,Dermatologists, 8.0 
+2094,Otro,Ayurveda, 9.6 
+2095,Medico,Dentist, 8.0 
+2096,Especialista,Homeopath, 9.6 
+2097,Clinica,Dentist, 8.0 
+2098,Hospital,General Medicine, 8.0 
+2099,ONG,Homeopath, 9.8 
+2100,Otro,General Medicine, 8.0 
+2101,Medico,ENT Specialist, 9.6 
+2102,Especialista,Dentist, 8.0 
+2103,Clinica,Dermatologists, 9.8 
+2104,Hospital,Homeopath, 9.8 
+2105,ONG,Dermatologists, 8.0 
+2106,Otro,Dentist, 10.0 
+2107,Medico,Ayurveda, 8.0 
+2108,Especialista,Dermatologists, 8.0 
+2109,Clinica,General Medicine, 9.6 
+2110,Hospital,ENT Specialist, 8.0 
+2111,ONG,General Medicine, 8.0 
+2112,Otro,General Medicine, 8.0 
+2113,Medico,Dermatologists, 8.0 
+2114,Especialista,Dermatologists, 8.8 
+2115,Clinica,Ayurveda, 9.7 
+2116,Hospital,ENT Specialist, 8.0 
+2117,ONG,Homeopath, 8.0 
+2118,Otro,ENT Specialist, 8.0 
+2119,Medico,Homeopath, 8.5 
+2120,Especialista,Homeopath, 10.0 
+2121,Clinica,Dentist, 9.9 
+2122,Hospital,Dentist, 9.9 
+2123,ONG,Ayurveda, 8.0 
+2124,Otro,Dentist, 8.0 
+2125,Medico,Dentist, 10.0 
+2126,Especialista,Dermatologists, 10.0 
+2127,Clinica,Dermatologists, 9.9 
+2128,Hospital,Dermatologists, 10.0 
+2129,ONG,Ayurveda, 8.9 
+2130,Otro,General Medicine, 8.0 
+2131,Medico,Dentist, 8.0 
+2132,Especialista,Dermatologists, 9.9 
+2133,Clinica,Homeopath, 8.0 
+2134,Hospital,Dermatologists, 10.0 
+2135,ONG,Ayurveda, 8.0 
+2136,Otro,Dermatologists, 8.8 
+2137,Medico,Dentist, 8.0 
+2138,Especialista,ENT Specialist, 10.0 
+2139,Clinica,ENT Specialist, 8.5 
+2140,Hospital,Ayurveda, 9.2 
+2141,ONG,Dermatologists, 8.0 
+2142,Otro,ENT Specialist, 10.0 
+2143,Medico,Ayurveda, 9.6 
+2144,Especialista,Homeopath, 10.0 
+2145,Clinica,Homeopath, 8.0 
+2146,Hospital,Homeopath, 8.0 
+2147,ONG,General Medicine, 8.0 
+2148,Otro,ENT Specialist, 8.0 
+2149,Medico,Homeopath, 8.9 
+2150,Especialista,Dentist, 9.7 
+2151,Clinica,Ayurveda, 9.6 
+2152,Hospital,Dentist, 8.0 
+2153,ONG,Homeopath, 10.0 
+2154,Otro,General Medicine, 8.0 
+2155,Medico,Dentist, 8.0 
+2156,Especialista,Ayurveda, 10.0 
+2157,Clinica,Dermatologists, 8.0 
+2158,Hospital,Dentist, 9.9 
+2159,ONG,Dentist, 9.9 
+2160,Otro,Dermatologists, 8.0 
+2161,Medico,General Medicine, 9.8 
+2162,Especialista,Dentist, 0.7 
+2163,Clinica,Dentist, 8.0 
+2164,Hospital,General Medicine, 10.0 
+2165,ONG,General Medicine, 8.0 
+2166,Otro,Dermatologists, 10.0 
+2167,Medico,Ayurveda, 8.0 
+2168,Especialista,Dermatologists, 8.0 
+2169,Clinica,Dentist, 8.0 
+2170,Hospital,ENT Specialist, 8.0 
+2171,ONG,Dermatologists, 8.0 
+2172,Otro,General Medicine, 10.0 
+2173,Medico,General Medicine, 8.0 
+2174,Especialista,Dentist, 8.0 
+2175,Clinica,Dentist, 8.0 
+2176,Hospital,Dermatologists, 8.0 
+2177,ONG,Dermatologists, 8.0 
+2178,Otro,Dermatologists, 9.0 
+2179,Medico,General Medicine, 8.0 
+2180,Especialista,Dermatologists, 8.0 
+2181,Clinica,Dentist, 8.0 
+2182,Hospital,Dentist, 9.3 
+2183,ONG,ENT Specialist, 8.0 
+2184,Otro,Ayurveda, 8.0 
+2185,Medico,General Medicine, 8.0 
+2186,Especialista,Dentist, 8.0 
+2187,Clinica,Homeopath, 9.9 
+2188,Hospital,Homeopath, 8.0 
+2189,ONG,Dermatologists, 8.0 
+2190,Otro,Ayurveda, 8.0 
+2191,Medico,Dermatologists, 8.0 
+2192,Especialista,ENT Specialist, 9.6 
+2193,Clinica,Dermatologists, 8.0 
+2194,Hospital,Homeopath, 9.7 
+2195,ONG,General Medicine, 8.0 
+2196,Otro,ENT Specialist, 10.0 
+2197,Medico,Homeopath, 9.9 
+2198,Especialista,ENT Specialist, 8.0 
+2199,Clinica,ENT Specialist, 8.0 
+2200,Hospital,Dermatologists, 8.0 
+2201,ONG,Dentist, 8.0 
+2202,Otro,General Medicine, 9.8 
+2203,Medico,General Medicine, 8.0 
+2204,Especialista,Homeopath, 8.0 
+2205,Clinica,ENT Specialist, 9.7 
+2206,Hospital,Ayurveda, 8.6 
+2207,ONG,Dentist, 8.0 
+2208,Otro,ENT Specialist, 9.9 
+2209,Medico,Dermatologists, 9.6 
+2210,Especialista,General Medicine, 9.0 
+2211,Clinica,General Medicine, 8.0 
+2212,Hospital,Dermatologists, 8.0 
+2213,ONG,Dermatologists, 8.0 
+2214,Otro,Ayurveda, 8.0 
+2215,Medico,Homeopath, 8.0 
+2216,Especialista,General Medicine, 8.0 
+2217,Clinica,ENT Specialist, 10.0 
+2218,Hospital,Dentist, 8.0 
+2219,ONG,Ayurveda, 8.0 
+2220,Otro,Homeopath, 8.0 
+2221,Medico,General Medicine, 8.0 
+2222,Especialista,Dermatologists, 8.0 
+2223,Clinica,Dermatologists, 10.0 
+2224,Hospital,General Medicine, 8.0 
+2225,ONG,Dentist, 8.0 
+2226,Otro,Ayurveda, 8.0 
+2227,Medico,Dentist, 8.0 
+2228,Especialista,Dentist, 9.8 
+2229,Clinica,Dentist, 10.0 
+2230,Hospital,Dermatologists, 9.8 
+2231,ONG,ENT Specialist, 9.9 
+2232,Otro,General Medicine, 9.7 
+2233,Medico,Dentist, 10.0 
+2234,Especialista,Dentist, 10.0 
+2235,Clinica,Dentist, 8.0 
+2236,Hospital,Dermatologists, 9.8 
+2237,ONG,Dermatologists, 8.2 
+2238,Otro,Homeopath, 9.0 
+2239,Medico,General Medicine, 8.0 
+2240,Especialista,Dentist, 9.2 
+2241,Clinica,ENT Specialist, 9.6 
+2242,Hospital,Dentist, 8.0 
+2243,ONG,Dentist, 10.0 
+2244,Otro,Dermatologists, 9.5 
+2245,Medico,Dentist, 9.8 
+2246,Especialista,Ayurveda, 10.0 
+2247,Clinica,Homeopath, 10.0 
+2248,Hospital,Homeopath, 8.0 
+2249,ONG,ENT Specialist, 8.0 
+2250,Otro,Dermatologists, 8.0 
+2251,Medico,General Medicine, 8.0 
+2252,Especialista,ENT Specialist, 8.0 
+2253,Clinica,Dentist, 9.5 
+2254,Hospital,Dentist, 9.0 
+2255,ONG,General Medicine, 9.8 
+2256,Otro,General Medicine, 9.3 
+2257,Medico,Dentist, 8.0 
+2258,Especialista,Dermatologists, 9.5 
+2259,Clinica,Dermatologists, 9.4 
+2260,Hospital,Dermatologists, 9.5 
+2261,ONG,Dentist, 8.0 
+2262,Otro,General Medicine, 9.6 
+2263,Medico,General Medicine, 8.0 
+2264,Especialista,ENT Specialist, 8.0 
+2265,Clinica,General Medicine, 8.0 
+2266,Hospital,Dentist, 8.0 
+2267,ONG,Homeopath, 8.0 
+2268,Otro,Dermatologists, 9.5 
+2269,Medico,Dermatologists, 8.0 
+2270,Especialista,ENT Specialist, 8.0 
+2271,Clinica,General Medicine, 9.8 
+2272,Hospital,Dermatologists, 8.0 
+2273,ONG,Dermatologists, 84.0 
+2274,Otro,Dentist, 8.6 
+2275,Medico,ENT Specialist, 9.6 
+2276,Especialista,Homeopath, 8.9 
+2277,Clinica,General Medicine, 8.0 
+2278,Hospital,Dentist, 0.7 
+2279,ONG,General Medicine, 10.0 
+2280,Otro,General Medicine, 10.0 
+2281,Medico,Ayurveda, 8.0 
+2282,Especialista,Dentist, 8.0 
+2283,Clinica,Dermatologists, 8.8 
+2284,Hospital,ENT Specialist, 8.0 
+2285,ONG,General Medicine, 8.0 
+2286,Otro,Dermatologists, 10.0 
+2287,Medico,General Medicine, 8.0 
+2288,Especialista,ENT Specialist, 8.0 
+2289,Clinica,Dentist, 8.9 
+2290,Hospital,Homeopath, 8.0 
+2291,ONG,General Medicine, 8.0 
+2292,Otro,General Medicine, 9.6 
+2293,Medico,Dentist, 8.0 
+2294,Especialista,Homeopath, 8.0 
+2295,Clinica,General Medicine, 9.8 
+2296,Hospital,Dermatologists, 9.4 
+2297,ONG,General Medicine, 8.8 
+2298,Otro,General Medicine, 8.0 
+2299,Medico,ENT Specialist, 8.0 
+2300,Especialista,Ayurveda, 8.0 
+2301,Clinica,ENT Specialist, 8.0 
+2302,Hospital,Dermatologists, 8.0 
+2303,ONG,Dentist, 10.0 
+2304,Otro,Dentist, 10.0 
+2305,Medico,Homeopath, 8.0 
+2306,Especialista,Homeopath, 8.0 
+2307,Clinica,Ayurveda, 9.2 
+2308,Hospital,ENT Specialist, 8.0 
+2309,ONG,ENT Specialist, 8.0 
+2310,Otro,Dentist, 0.8 
+2311,Medico,Dermatologists, 8.0 
+2312,Especialista,Dentist, 9.8 
+2313,Clinica,Homeopath, 9.5 
+2314,Hospital,Dermatologists, 10.0 
+2315,ONG,Homeopath, 8.0 
+2316,Otro,Homeopath, 8.0 
+2317,Medico,Ayurveda, 8.0 
+2318,Especialista,Ayurveda, 8.0 
+2319,Clinica,Dentist, 8.0 
+2320,Hospital,Dermatologists, 8.0 
+2321,ONG,General Medicine, 9.9 
+2322,Otro,Dentist, 8.0 
+2323,Medico,ENT Specialist, 9.5 
+2324,Especialista,Ayurveda, 0.7 
+2325,Clinica,Dermatologists, 9.7 
+2326,Hospital,Homeopath, 10.0 
+2327,ONG,General Medicine, 8.0 
+2328,Otro,Dermatologists, 8.0 
+2329,Medico,Dermatologists, 8.0 
+2330,Especialista,Homeopath, 9.0 
+2331,Clinica,Homeopath, 10.0 
+2332,Hospital,General Medicine, 10.0 
+2333,ONG,Dentist, 9.8 
+2334,Otro,Dentist, 8.0 
+2335,Medico,Ayurveda, 10.0 
+2336,Especialista,ENT Specialist, 8.0 
+2337,Clinica,Ayurveda, 8.0 
+2338,Hospital,Dentist, 9.0 
+2339,ONG,Ayurveda, 10.0 
+2340,Otro,Ayurveda, 8.0 
+2341,Medico,ENT Specialist, 8.0 
+2342,Especialista,ENT Specialist, 8.0 
+2343,Clinica,Dermatologists, 8.0 
+2344,Hospital,Homeopath, 9.6 
+2345,ONG,Dermatologists, 8.0 
+2346,Otro,General Medicine, 8.0 
+2347,Medico,Dentist, 8.0 
+2348,Especialista,ENT Specialist, 10.0 
+2349,Clinica,Dermatologists, 8.2 
+2350,Hospital,Ayurveda, 10.0 
+2351,ONG,General Medicine, 8.0 
+2352,Otro,General Medicine, 9.6 
+2353,Medico,Homeopath, 8.0 
+2354,Especialista,General Medicine, 8.0 
+2355,Clinica,Ayurveda, 8.0 
+2356,Hospital,ENT Specialist, 8.0 
+2357,ONG,Dermatologists, 8.0 
+2358,Otro,Dentist, 8.0 
+2359,Medico,Dentist, 10.0 
+2360,Especialista,Dermatologists, 9.6 
+2361,Clinica,General Medicine, 10.0 
+2362,Hospital,Ayurveda, 9.6 
+2363,ONG,Ayurveda, 8.0 
+2364,Otro,Dermatologists, 8.0 
+2365,Medico,General Medicine, 8.0 
+2366,Especialista,ENT Specialist, 8.0 
+2367,Clinica,Dentist, 8.0 
+2368,Hospital,Ayurveda, 8.0 
+2369,ONG,Dentist, 8.0 
+2370,Otro,Homeopath, 9.8 
+2371,Medico,Dentist, 8.0 
+2372,Especialista,Homeopath, 10.0 
+2373,Clinica,General Medicine, 8.0 
+2374,Hospital,Dentist, 9.6 
+2375,ONG,Dentist, 10.0 
+2376,Otro,General Medicine, 8.0 
+2377,Medico,Ayurveda, 8.0 
+2378,Especialista,ENT Specialist, 8.0 
+2379,Clinica,Dentist, 8.0 
+2380,Hospital,ENT Specialist, 10.0 
+2381,ONG,Homeopath, 9.4 
+2382,Otro,Dentist, 9.3 
+2383,Medico,Dentist, 8.0 
+2384,Especialista,Homeopath, 9.5 
+2385,Clinica,Dentist, 8.0 
+2386,Hospital,Dermatologists, 9.9 
+2387,ONG,General Medicine, 9.6 
+2388,Otro,General Medicine, 10.0 
+2389,Medico,General Medicine, 8.0 
+2390,Especialista,Homeopath, 8.0 
+2391,Clinica,General Medicine, 9.2 
+2392,Hospital,Dentist, 0.6 
+2393,ONG,Homeopath, 8.0 
+2394,Otro,Dermatologists, 10.0 
+2395,Medico,Dermatologists, 9.3 
+2396,Especialista,General Medicine, 9.8 
+2397,Clinica,ENT Specialist, 8.0 
+2398,Hospital,Dentist, 8.0 
+2399,ONG,ENT Specialist, 9.0 
+2400,Otro,Dentist, 8.0 
+2401,Medico,General Medicine, 9.5 
+2402,Especialista,Dentist, 8.0 
+2403,Clinica,Dentist, 10.0 
+2404,Hospital,Dermatologists, 8.8 
+2405,ONG,Dentist, 8.0 
+2406,Otro,Dentist, 10.0 
+2407,Medico,Dentist, 9.9 
+2408,Especialista,Ayurveda, 8.0 
+2409,Clinica,ENT Specialist, 8.0 
+2410,Hospital,Dermatologists, 8.0 
+2411,ONG,Dermatologists, 9.7 
+2412,Otro,ENT Specialist, 9.4 
+2413,Medico,Ayurveda, 8.2 
+2414,Especialista,Dentist, 8.0 
+2415,Clinica,ENT Specialist, 8.0 
+2416,Hospital,ENT Specialist, 9.9 
+2417,ONG,Homeopath, 8.0 
+2418,Otro,Ayurveda, 10.0 
+2419,Medico,Dentist, 8.0 
+2420,Especialista,Dentist, 10.0 
+2421,Clinica,Ayurveda, 8.0 
+2422,Hospital,Homeopath, 8.0 
+2423,ONG,ENT Specialist, 8.0 
+2424,Otro,ENT Specialist, 9.3 
+2425,Medico,ENT Specialist, 8.0 
+2426,Especialista,General Medicine, 84.0 
+2427,Clinica,Dermatologists, 8.0 
+2428,Hospital,Homeopath, 9.3 
+2429,ONG,Ayurveda, 8.0 
+2430,Otro,Dentist, 8.0 
+2431,Medico,Homeopath, 8.0 
+2432,Especialista,Dentist, 8.0 
+2433,Clinica,General Medicine, 8.0 
+2434,Hospital,Homeopath, 8.8 
+2435,ONG,Dentist, 8.0 
+2436,Otro,General Medicine, 8.0 
+2437,Medico,Dermatologists, 8.0 
+2438,Especialista,Homeopath, 8.0 
+2439,Clinica,General Medicine, 8.0 
+2440,Hospital,General Medicine, 8.0 
+2441,ONG,General Medicine, 8.0 
+2442,Otro,Dermatologists, 8.0 
+2443,Medico,General Medicine, 9.7 
+2444,Especialista,Dermatologists, 8.0 
+2445,Clinica,Dentist, 9.5 
+2446,Hospital,Dentist, 10.0 
+2447,ONG,ENT Specialist, 8.0 
+2448,Otro,Dentist, 8.0 
+2449,Medico,Homeopath, 9.7 
+2450,Especialista,Dentist, 8.0 
+2451,Clinica,General Medicine, 9.7 
+2452,Hospital,Homeopath, 9.7 
+2453,ONG,Dentist, 8.0 
+2454,Otro,ENT Specialist, 9.9 
+2455,Medico,Dentist, 8.0 
+2456,Especialista,Dermatologists, 10.0 
+2457,Clinica,Dermatologists, 8.0 
+2458,Hospital,Homeopath, 8.0 
+2459,ONG,Ayurveda, 8.0 
+2460,Otro,Homeopath, 8.0 
+2461,Medico,Ayurveda, 8.0 
+2462,Especialista,General Medicine, 8.0 
+2463,Clinica,Dentist, 8.0 
+2464,Hospital,ENT Specialist, 9.5 
+2465,ONG,Dentist, 8.0 
+2466,Otro,Dermatologists, 10.0 
+2467,Medico,Dermatologists, 10.0 
+2468,Especialista,General Medicine, 10.0 
+2469,Clinica,Dentist, 8.0 
+2470,Hospital,Ayurveda, 8.3 
+2471,ONG,Dermatologists, 10.0 
+2472,Otro,Homeopath, 8.0 
+2473,Medico,Dermatologists, 9.7 
+2474,Especialista,ENT Specialist, 84.0 
+2475,Clinica,Homeopath, 8.0 
+2476,Hospital,Homeopath, 8.0 
+2477,ONG,ENT Specialist, 8.0 
+2478,Otro,General Medicine, 8.0 
+2479,Medico,Homeopath, 0.7 
+2480,Especialista,Dentist, 8.0 
+2481,Clinica,Dentist, 9.6 
+2482,Hospital,General Medicine, 9.7 
+2483,ONG,Dentist, 10.0 
+2484,Otro,Homeopath, 9.9 
+2485,Medico,Dentist, 8.0 
+2486,Especialista,Dentist, 8.0 
+2487,Clinica,Dentist, 10.0 
+2488,Hospital,Dermatologists, 9.8 
+2489,ONG,Dermatologists, 9.5 
+2490,Otro,General Medicine, 9.0 
+2491,Medico,Homeopath, 9.5 
+2492,Especialista,Dentist, 8.0 
+2493,Clinica,General Medicine, 8.0 
+2494,Hospital,General Medicine, 10.0 
+2495,ONG,General Medicine, 8.0 
+2496,Otro,Dermatologists, 8.0 
+2497,Medico,Dentist, 8.0 
+2498,Especialista,Dentist, 10.0 
+2499,Clinica,Dermatologists, 9.5 
+2500,Hospital,General Medicine, 9.4 
+2501,ONG,General Medicine, 0.8 
+2502,Otro,General Medicine, 84.0 
+2503,Medico,Dentist, 8.0 
+2504,Especialista,ENT Specialist, 8.0 
+2505,Clinica,Dermatologists, 9.8 
+2506,Hospital,ENT Specialist, 9.6 
+2507,ONG,General Medicine, 8.0 
+2508,Otro,Homeopath, 8.0 
+2509,Medico,Dermatologists, 9.5 
+2510,Especialista,Dentist, 10.0 
+2511,Clinica,Ayurveda, 8.0 
+2512,Hospital,Homeopath, 8.8 
+2513,ONG,General Medicine, 8.0 
+2514,Otro,General Medicine, 8.0 
+2515,Medico,Dermatologists, 9.9 
+2516,Especialista,General Medicine, 9.6 
+2517,Clinica,Dentist, 8.0 
+2518,Hospital,Dentist, 9.8 
+2519,ONG,Dentist, 10.0 
+2520,Otro,Dermatologists, 9.6 
+2521,Medico,Dermatologists, 9.5 
+2522,Especialista,Homeopath, 8.0 
+2523,Clinica,Dentist, 9.8 
+2524,Hospital,Dentist, 8.0 
+2525,ONG,Dentist, 9.4 
+2526,Otro,Ayurveda, 8.0 
+2527,Medico,ENT Specialist, 8.0 
+2528,Especialista,ENT Specialist, 8.0 
+2529,Clinica,Dermatologists, 9.3 
+2530,Hospital,Ayurveda, 8.0 
+2531,ONG,General Medicine, 8.0 
+2532,Otro,Ayurveda, 9.6 
+2533,Medico,ENT Specialist, 9.0 
+2534,Especialista,General Medicine, 9.8 
+2535,Clinica,Homeopath, 8.0 
+2536,Hospital,Dentist, 8.0 
+2537,ONG,ENT Specialist, 9.7 
+2538,Otro,General Medicine, 8.0 
+2539,Medico,Homeopath, 9.5 
+2540,Especialista,Dentist, 8.0 
+2541,Clinica,Dermatologists, 8.0 
+2542,Hospital,Dermatologists, 10.0 
+2543,ONG,ENT Specialist, 8.0 
+2544,Otro,Ayurveda, 8.2 
+2545,Medico,Dermatologists, 9.7 
+2546,Especialista,General Medicine, 9.9 
+2547,Clinica,Homeopath, 8.0 
+2548,Hospital,ENT Specialist, 10.0 
+2549,ONG,Ayurveda, 0.6 
+2550,Otro,Dentist, 9.6 
+2551,Medico,Homeopath, 9.9 
+2552,Especialista,Dentist, 8.0 
+2553,Clinica,ENT Specialist, 9.9 
+2554,Hospital,General Medicine, 9.4 
+2555,ONG,Dentist, 10.0 
+2556,Otro,Dermatologists, 8.0 
+2557,Medico,Dentist, 9.7 
+2558,Especialista,Dermatologists, 9.8 
+2559,Clinica,General Medicine, 8.0 
+2560,Hospital,General Medicine, 8.0 
+2561,ONG,Dermatologists, 8.0 
+2562,Otro,General Medicine, 8.0 
+2563,Medico,Ayurveda, 8.0 
+2564,Especialista,General Medicine, 8.0 
+2565,Clinica,Dermatologists, 10.0 
+2566,Hospital,Dentist, 9.2 
+2567,ONG,ENT Specialist, 8.0 
+2568,Otro,Homeopath, 9.0 
+2569,Medico,Dermatologists, 10.0 
+2570,Especialista,Dentist, 9.6 
+2571,Clinica,Dentist, 9.2 
+2572,Hospital,Dentist, 8.0 
+2573,ONG,Dentist, 8.0 
+2574,Otro,ENT Specialist, 10.0 
+2575,Medico,Ayurveda, 8.0 
+2576,Especialista,Dentist, 9.6 
+2577,Clinica,Ayurveda, 9.8 
+2578,Hospital,General Medicine, 8.0 
+2579,ONG,Dermatologists, 9.8 
+2580,Otro,ENT Specialist, 8.0 
+2581,Medico,Dentist, 8.0 
+2582,Especialista,Dermatologists, 8.0 
+2583,Clinica,Dermatologists, 9.6 
+2584,Hospital,General Medicine, 9.6 
+2585,ONG,General Medicine, 8.0 
+2586,Otro,Dermatologists, 0.1 
+2587,Medico,ENT Specialist, 9.9 
+2588,Especialista,Dermatologists, 8.0 
+2589,Clinica,Dentist, 10.0 
+2590,Hospital,Dermatologists, 10.0 
+2591,ONG,General Medicine, 9.7 
+2592,Otro,Homeopath, 8.0 
+2593,Medico,Homeopath, 9.5 
+2594,Especialista,General Medicine, 9.7 
+2595,Clinica,Homeopath, 8.0 
+2596,Hospital,Dentist, 9.8 
+2597,ONG,Homeopath, 10.0 
+2598,Otro,Dentist, 8.0 
+2599,Medico,ENT Specialist, 9.7 
+2600,Especialista,General Medicine, 8.0 
+2601,Clinica,Ayurveda, 8.0 
+2602,Hospital,General Medicine, 8.0 
+2603,ONG,Homeopath, 8.0 
+2604,Otro,General Medicine, 8.0 
+2605,Medico,Ayurveda, 8.0 
+2606,Especialista,Dermatologists, 8.0 
+2607,Clinica,ENT Specialist, 8.0 
+2608,Hospital,General Medicine, 10.0 
+2609,ONG,ENT Specialist, 8.0 
+2610,Otro,Dentist, 8.0 
+2611,Medico,Dermatologists, 10.0 
+2612,Especialista,General Medicine, 9.7 
+2613,Clinica,General Medicine, 8.0 
+2614,Hospital,Dermatologists, 8.0 
+2615,ONG,General Medicine, 10.0 
+2616,Otro,Homeopath, 10.0 
+2617,Medico,Dermatologists, 8.0 
+2618,Especialista,General Medicine, 10.0 
+2619,Clinica,Dermatologists, 8.0 
+2620,Hospital,General Medicine, 9.7 
+2621,ONG,Ayurveda, 10.0 
+2622,Otro,Dentist, 8.0 
+2623,Medico,General Medicine, 9.3 
+2624,Especialista,Homeopath, 8.0 
+2625,Clinica,ENT Specialist, 8.0 
+2626,Hospital,Dermatologists, 8.0 
+2627,ONG,General Medicine, 8.0 
+2628,Otro,Dermatologists, 8.0 
+2629,Medico,Dentist, 10.0 
+2630,Especialista,ENT Specialist, 10.0 
+2631,Clinica,General Medicine, 8.0 
+2632,Hospital,General Medicine, 8.0 
+2633,ONG,Dentist, 8.0 
+2634,Otro,ENT Specialist, 8.0 
+2635,Medico,Homeopath, 8.0 
+2636,Especialista,General Medicine, 9.8 
+2637,Clinica,ENT Specialist, 8.0 
+2638,Hospital,Ayurveda, 8.0 
+2639,ONG,Dentist, 8.0 
+2640,Otro,General Medicine, 8.0 
+2641,Medico,Homeopath, 8.0 
+2642,Especialista,Ayurveda, 8.0 
+2643,Clinica,Dentist, 8.0 
+2644,Hospital,ENT Specialist, 8.0 
+2645,ONG,General Medicine, 8.0 
+2646,Otro,General Medicine, 8.0 
+2647,Medico,Dermatologists, 7.4 
+2648,Especialista,Ayurveda, 9.5 
+2649,Clinica,ENT Specialist, 8.0 
+2650,Hospital,ENT Specialist, 9.4 
+2651,ONG,Ayurveda, 8.0 
+2652,Otro,Dermatologists, 10.0 
+2653,Medico,General Medicine, 8.0 
+2654,Especialista,General Medicine, 10.0 
+2655,Clinica,General Medicine, 8.0 
+2656,Hospital,Dentist, 8.0 
+2657,ONG,General Medicine, 9.9 
+2658,Otro,General Medicine, 10.0 
+2659,Medico,General Medicine, 8.0 
+2660,Especialista,Ayurveda, 8.0 
+2661,Clinica,Ayurveda, 8.0 
+2662,Hospital,Homeopath, 9.7 
+2663,ONG,Dentist, 8.0 
+2664,Otro,ENT Specialist, 8.0 
+2665,Medico,General Medicine, 9.8 
+2666,Especialista,General Medicine, 8.0 
+2667,Clinica,Ayurveda, 9.6 
+2668,Hospital,Dentist, 8.0 
+2669,ONG,Dentist, 8.0 
+2670,Otro,Dermatologists, 10.0 
+2671,Medico,General Medicine, 7.8 
+2672,Especialista,Dentist, 8.7 
+2673,Clinica,ENT Specialist, 9.8 
+2674,Hospital,ENT Specialist, 8.0 
+2675,ONG,Homeopath, 8.0 
+2676,Otro,General Medicine, 8.0 
+2677,Medico,Ayurveda, 8.0 
+2678,Especialista,Ayurveda, 8.0 
+2679,Clinica,Dentist, 8.0 
+2680,Hospital,Dentist, 10.0 
+2681,ONG,Homeopath, 8.0 
+2682,Otro,Ayurveda, 8.8 
+2683,Medico,Ayurveda, 8.0 
+2684,Especialista,ENT Specialist, 8.0 
+2685,Clinica,Dermatologists, 8.0 
+2686,Hospital,Dentist, 9.6 
+2687,ONG,ENT Specialist, 8.0 
+2688,Otro,Homeopath, 8.0 
+2689,Medico,Dentist, 8.0 
+2690,Especialista,Homeopath, 10.0 
+2691,Clinica,Dermatologists, 8.0 
+2692,Hospital,Ayurveda, 9.8 
+2693,ONG,General Medicine, 8.0 
+2694,Otro,Dentist, 8.0 
+2695,Medico,Dermatologists, 9.4 
+2696,Especialista,General Medicine, 9.0 
+2697,Clinica,Dermatologists, 8.0 
+2698,Hospital,Homeopath, 10.0 
+2699,ONG,ENT Specialist, 8.0 
+2700,Otro,Dentist, 8.0 
+2701,Medico,Dentist, 9.8 
+2702,Especialista,Dermatologists, 10.0 
+2703,Clinica,General Medicine, 8.0 
+2704,Hospital,Dermatologists, 8.0 
+2705,ONG,ENT Specialist, 10.0 
+2706,Otro,Dermatologists, 8.0 
+2707,Medico,General Medicine, 8.0 
+2708,Especialista,Dermatologists, 8.0 
+2709,Clinica,Dermatologists, 9.7 
+2710,Hospital,Dentist, 10.0 
+2711,ONG,Dentist, 9.8 
+2712,Otro,Dermatologists, 9.6 
+2713,Medico,Homeopath, 8.0 
+2714,Especialista,Dentist, 8.0 
+2715,Clinica,Dermatologists, 8.0 
+2716,Hospital,General Medicine, 0.6 
+2717,ONG,ENT Specialist, 8.0 
+2718,Otro,Dentist, 8.0 
+2719,Medico,Dentist, 8.0 
+2720,Especialista,ENT Specialist, 10.0 
+2721,Clinica,General Medicine, 8.0 
+2722,Hospital,Dentist, 8.0 
+2723,ONG,ENT Specialist, 9.3 
+2724,Otro,Dermatologists, 8.0 
+2725,Medico,Dentist, 8.0 
+2726,Especialista,Dermatologists, 10.0 
+2727,Clinica,Dentist, 0.7 
+2728,Hospital,Ayurveda, 9.9 
+2729,ONG,General Medicine, 8.0 
+2730,Otro,General Medicine, 8.0 
+2731,Medico,General Medicine, 8.0 
+2732,Especialista,Dentist, 10.0 
+2733,Clinica,ENT Specialist, 10.0 
+2734,Hospital,Dentist, 9.5 
+2735,ONG,Homeopath, 10.0 
+2736,Otro,ENT Specialist, 8.0 
+2737,Medico,Ayurveda, 8.0 
+2738,Especialista,Dermatologists, 8.0 
+2739,Clinica,Ayurveda, 0.8 
+2740,Hospital,General Medicine, 8.0 
+2741,ONG,General Medicine, 9.5 
+2742,Otro,Homeopath, 8.0 
+2743,Medico,Ayurveda, 8.0 
+2744,Especialista,Dentist, 8.0 
+2745,Clinica,Dentist, 10.0 
+2746,Hospital,Ayurveda, 8.0 
+2747,ONG,Dermatologists, 8.0 
+2748,Otro,Ayurveda, 8.0 
+2749,Medico,Dentist, 8.0 
+2750,Especialista,Dermatologists, 10.0 
+2751,Clinica,Homeopath, 8.0 
+2752,Hospital,Ayurveda, 8.0 
+2753,ONG,Ayurveda, 8.0 
+2754,Otro,Dentist, 10.0 
+2755,Medico,Homeopath, 8.0 
+2756,Especialista,Dentist, 9.9 
+2757,Clinica,Dermatologists, 10.0 
+2758,Hospital,Homeopath, 8.0 
+2759,ONG,General Medicine, 0.8 
+2760,Otro,ENT Specialist, 8.0 
+2761,Medico,General Medicine, 8.0 
+2762,Especialista,General Medicine, 8.0 
+2763,Clinica,General Medicine, 8.0 
+2764,Hospital,Dermatologists, 8.0 
+2765,ONG,Ayurveda, 8.0 
+2766,Otro,Dermatologists, 8.0 
+2767,Medico,Dentist, 8.5 
+2768,Especialista,Ayurveda, 8.0 
+2769,Clinica,Ayurveda, 10.0 
+2770,Hospital,Ayurveda, 8.5 
+2771,ONG,Ayurveda, 8.0 
+2772,Otro,Ayurveda, 8.0 
+2773,Medico,Dentist, 9.5 
+2774,Especialista,Homeopath, 9.6 
+2775,Clinica,General Medicine, 8.3 
+2776,Hospital,Dentist, 8.0 
+2777,ONG,Dentist, 8.0 
+2778,Otro,ENT Specialist, 10.0 
+2779,Medico,Dermatologists, 9.4 
+2780,Especialista,Homeopath, 8.0 
+2781,Clinica,General Medicine, 9.9 
+2782,Hospital,Dentist, 8.0 
+2783,ONG,General Medicine, 8.0 
+2784,Otro,Ayurveda, 10.0 
+2785,Medico,General Medicine, 8.0 
+2786,Especialista,Dentist, 8.0 
+2787,Clinica,Homeopath, 8.0 
+2788,Hospital,General Medicine, 10.0 
+2789,ONG,General Medicine, 8.0 
+2790,Otro,Dentist, 10.0 
+2791,Medico,Ayurveda, 10.0 
+2792,Especialista,Homeopath, 8.0 
+2793,Clinica,Dentist, 8.0 
+2794,Hospital,Dentist, 10.0 
+2795,ONG,ENT Specialist, 9.7 
+2796,Otro,General Medicine, 8.8 
+2797,Medico,ENT Specialist, 8.0 
+2798,Especialista,Homeopath, 8.0 
+2799,Clinica,Ayurveda, 8.0 
+2800,Hospital,Dentist, 8.0 
+2801,ONG,ENT Specialist, 9.6 
+2802,Otro,ENT Specialist, 9.2 
+2803,Medico,Dentist, 8.0 
+2804,Especialista,ENT Specialist, 10.0 
+2805,Clinica,General Medicine, 9.8 
+2806,Hospital,General Medicine, 8.0 
+2807,ONG,Dermatologists, 8.0 
+2808,Otro,ENT Specialist, 9.8 
+2809,Medico,ENT Specialist, 9.5 
+2810,Especialista,Dentist, 9.5 
+2811,Clinica,Homeopath, 9.5 
+2812,Hospital,General Medicine, 8.0 
+2813,ONG,General Medicine, 8.0 
+2814,Otro,ENT Specialist, 8.0 
+2815,Medico,Dentist, 8.0 
+2816,Especialista,ENT Specialist, 10.0 
+2817,Clinica,General Medicine, 8.0 
+2818,Hospital,General Medicine, 8.0 
+2819,ONG,Dermatologists, 8.0 
+2820,Otro,Ayurveda, 8.6 
+2821,Medico,ENT Specialist, 8.0 
+2822,Especialista,Dentist, 8.0 
+2823,Clinica,Dermatologists, 9.8 
+2824,Hospital,General Medicine, 9.8 
+2825,ONG,General Medicine, 8.0 
+2826,Otro,ENT Specialist, 9.5 
+2827,Medico,Dermatologists, 8.0 
+2828,Especialista,General Medicine, 9.6 
+2829,Clinica,Dermatologists, 9.0 
+2830,Hospital,Dentist, 0.7 
+2831,ONG,General Medicine, 9.8 
+2832,Otro,Dentist, 8.0 
+2833,Medico,Dermatologists, 9.8 
+2834,Especialista,Dentist, 0.7 
+2835,Clinica,Homeopath, 8.0 
+2836,Hospital,Dentist, 9.9 
+2837,ONG,Dermatologists, 9.8 
+2838,Otro,Dermatologists, 8.0 
+2839,Medico,Dentist, 10.0 
+2840,Especialista,General Medicine, 10.0 
+2841,Clinica,ENT Specialist, 9.7 
+2842,Hospital,Ayurveda, 8.0 
+2843,ONG,Homeopath, 8.0 
+2844,Otro,ENT Specialist, 8.0 
+2845,Medico,General Medicine, 9.8 
+2846,Especialista,General Medicine, 8.0 
+2847,Clinica,General Medicine, 8.0 
+2848,Hospital,Dentist, 8.0 
+2849,ONG,Dentist, 10.0 
+2850,Otro,Dentist, 9.5 
+2851,Medico,Homeopath, 9.5 
+2852,Especialista,General Medicine, 8.0 
+2853,Clinica,ENT Specialist, 8.0 
+2854,Hospital,Dentist, 8.0 
+2855,ONG,General Medicine, 8.0 
+2856,Otro,Dermatologists, 9.7 
+2857,Medico,Dentist, 9.4 
+2858,Especialista,ENT Specialist, 9.7 
+2859,Clinica,General Medicine, 8.0 
+2860,Hospital,Dermatologists, 8.0 
+2861,ONG,Ayurveda, 8.0 
+2862,Otro,Homeopath, 8.0 
+2863,Medico,Dermatologists, 8.0 
+2864,Especialista,Homeopath, 8.9 
+2865,Clinica,Homeopath, 8.0 
+2866,Hospital,Dentist, 8.0 
+2867,ONG,Dentist, 9.4 
+2868,Otro,Dentist, 8.0 
+2869,Medico,Ayurveda, 9.9 
+2870,Especialista,Homeopath, 8.0 
+2871,Clinica,General Medicine, 9.2 
+2872,Hospital,Dentist, 8.0 
+2873,ONG,General Medicine, 8.0 
+2874,Otro,General Medicine, 8.0 
+2875,Medico,General Medicine, 9.0 
+2876,Especialista,Dentist, 8.0 
+2877,Clinica,Ayurveda, 9.0 
+2878,Hospital,Dentist, 8.0 
+2879,ONG,ENT Specialist, 9.4 
+2880,Otro,ENT Specialist, 8.0 
+2881,Medico,Dermatologists, 9.9 
+2882,Especialista,Dentist, 8.0 
+2883,Clinica,Ayurveda, 8.0 
+2884,Hospital,ENT Specialist, 8.0 
+2885,ONG,Homeopath, 8.0 
+2886,Otro,Homeopath, 8.0 
+2887,Medico,Homeopath, 8.0 
+2888,Especialista,Homeopath, 9.9 
+2889,Clinica,Dentist, 9.4 
+2890,Hospital,Ayurveda, 9.7 
+2891,ONG,Dermatologists, 8.0 
+2892,Otro,Dentist, 9.3 
+2893,Medico,Dermatologists, 9.7 
+2894,Especialista,Ayurveda, 8.0 
+2895,Clinica,Ayurveda, 8.0 
+2896,Hospital,ENT Specialist, 8.0 
+2897,ONG,ENT Specialist, 9.6 
+2898,Otro,Homeopath, 8.0 
+2899,Medico,ENT Specialist, 8.0 
+2900,Especialista,Dentist, 9.7 
+2901,Clinica,ENT Specialist, 8.0 
+2902,Hospital,Ayurveda, 8.0 
+2903,ONG,ENT Specialist, 8.0 
+2904,Otro,Homeopath, 8.0 
+2905,Medico,General Medicine, 9.8 
+2906,Especialista,Ayurveda, 8.0 
+2907,Clinica,General Medicine, 8.0 
+2908,Hospital,Ayurveda, 9.8 
+2909,ONG,Dentist, 9.4 
+2910,Otro,Dermatologists, 8.0 
+2911,Medico,Dentist, 10.0 
+2912,Especialista,Homeopath, 8.0 
+2913,Clinica,Dentist, 10.0 
+2914,Hospital,Dentist, 9.3 
+2915,ONG,Homeopath, 8.0 
+2916,Otro,Dentist, 8.0 
+2917,Medico,Dentist, 9.8 
+2918,Especialista,General Medicine, 9.9 
+2919,Clinica,Homeopath, 8.0 
+2920,Hospital,Dermatologists, 8.0 
+2921,ONG,Dentist, 8.0 
+2922,Otro,Homeopath, 8.0 
+2923,Medico,General Medicine, 8.0 
+2924,Especialista,Homeopath, 8.0 
+2925,Clinica,Dermatologists, 10.0 
+2926,Hospital,General Medicine, 8.3 
+2927,ONG,Ayurveda, 8.0 
+2928,Otro,General Medicine, 8.0 
+2929,Medico,Dermatologists, 8.0 
+2930,Especialista,ENT Specialist, 8.5 
+2931,Clinica,General Medicine, 8.0 
+2932,Hospital,General Medicine, 8.0 
+2933,ONG,Dermatologists, 10.0 
+2934,Otro,Dentist, 8.0 
+2935,Medico,Homeopath, 8.9 
+2936,Especialista,ENT Specialist, 9.9 
+2937,Clinica,Dermatologists, 8.0 
+2938,Hospital,ENT Specialist, 9.9 
+2939,ONG,Dermatologists, 9.3 
+2940,Otro,Dermatologists, 10.0 
+2941,Medico,Homeopath, 9.6 
+2942,Especialista,General Medicine, 8.0 
+2943,Clinica,Ayurveda, 8.0 
+2944,Hospital,Ayurveda, 8.0 
+2945,ONG,Dentist, 8.0 
+2946,Otro,Dermatologists, 8.0 
+2947,Medico,Homeopath, 8.0 
+2948,Especialista,Dentist, 8.0 
+2949,Clinica,Dermatologists, 9.6 
+2950,Hospital,Ayurveda, 10.0 
+2951,ONG,Homeopath, 8.0 
+2952,Otro,Ayurveda, 10.0 
+2953,Medico,Dermatologists, 8.0 
+2954,Especialista,Dentist, 8.0 
+2955,Clinica,Dentist, 8.0 
+2956,Hospital,General Medicine, 8.0 
+2957,ONG,General Medicine, 10.0 
+2958,Otro,ENT Specialist, 10.0 
+2959,Medico,Ayurveda, 8.0 
+2960,Especialista,Homeopath, 8.0 
+2961,Clinica,Dentist, 8.0 
+2962,Hospital,ENT Specialist, 9.4 
+2963,ONG,General Medicine, 0.7 
+2964,Otro,Dentist, 8.0 
+2965,Medico,Ayurveda, 9.8 
+2966,Especialista,Homeopath, 8.0 
+2967,Clinica,General Medicine, 8.0 
+2968,Hospital,Homeopath, 9.5 
+2969,ONG,Dentist, 8.0 
+2970,Otro,Homeopath, 8.0 
+2971,Medico,Ayurveda, 8.0 
+2972,Especialista,General Medicine, 8.0 
+2973,Clinica,Dentist, 8.0 
+2974,Hospital,ENT Specialist, 8.6 
+2975,ONG,Homeopath, 8.0 
+2976,Otro,General Medicine, 8.0 
+2977,Medico,Dentist, 9.0 
+2978,Especialista,General Medicine, 8.0 
+2979,Clinica,Ayurveda, 9.9 
+2980,Hospital,Dentist, 8.0 
+2981,ONG,Homeopath, 9.9 
+2982,Otro,Dentist, 8.0 
+2983,Medico,Dentist, 8.0 
+2984,Especialista,Dermatologists, 8.0 
+2985,Clinica,Dentist, 8.0 
+2986,Hospital,ENT Specialist, 9.8 
+2987,ONG,General Medicine, 9.8 
+2988,Otro,Homeopath, 9.6 
+2989,Medico,Ayurveda, 8.0 
+2990,Especialista,Ayurveda, 8.0 
+2991,Clinica,General Medicine, 8.0 
+2992,Hospital,Dentist, 0.7 
+2993,ONG,Homeopath, 9.7 
+2994,Otro,Dentist, 8.0 
+2995,Medico,ENT Specialist, 10.0 
+2996,Especialista,Dentist, 9.3 
+2997,Clinica,Dermatologists, 10.0 
+2998,Hospital,ENT Specialist, 9.5 
+2999,ONG,General Medicine, 9.5 
+3000,Otro,Dermatologists, 8.0 
+3001,Medico,General Medicine, 8.0 
+3002,Especialista,Dermatologists, 8.0 
+3003,Clinica,Homeopath, 9.8 
+3004,Hospital,General Medicine, 9.8 
+3005,ONG,Dermatologists, 8.0 
+3006,Otro,Dermatologists, 9.8 
+3007,Medico,Ayurveda, 10.0 
+3008,Especialista,Dermatologists, 8.0 
+3009,Clinica,General Medicine, 10.0 
+3010,Hospital,Dermatologists, 8.0 
+3011,ONG,Dermatologists, 9.3 
+3012,Otro,Ayurveda, 9.0 
+3013,Medico,General Medicine, 8.0 
+3014,Especialista,ENT Specialist, 10.0 
+3015,Clinica,Dentist, 8.0 
+3016,Hospital,Dentist, 8.0 
+3017,ONG,Homeopath, 9.6 
+3018,Otro,Homeopath, 8.0 
+3019,Medico,Ayurveda, 10.0 
+3020,Especialista,Dermatologists, 8.0 
+3021,Clinica,General Medicine, 9.5 
+3022,Hospital,Dentist, 8.0 
+3023,ONG,Dermatologists, 8.0 
+3024,Otro,Dermatologists, 9.9 
+3025,Medico,Ayurveda, 8.0 
+3026,Especialista,Homeopath, 8.0 
+3027,Clinica,General Medicine, 8.0 
+3028,Hospital,Homeopath, 810.0 
+3029,ONG,General Medicine, 8.0 
+3030,Otro,Dermatologists, 8.0 
+3031,Medico,Dermatologists, 9.7 
+3032,Especialista,Ayurveda, 10.0 
+3033,Clinica,Homeopath, 8.0 
+3034,Hospital,Dermatologists, 8.0 
+3035,ONG,ENT Specialist, 84.0 
+3036,Otro,ENT Specialist, 8.0 
+3037,Medico,ENT Specialist, 9.7 
+3038,Especialista,Dentist, 9.3 
+3039,Clinica,ENT Specialist, 10.0 
+3040,Hospital,Homeopath, 9.8 
+3041,ONG,Ayurveda, 8.0 
+3042,Otro,Homeopath, 8.0 
+3043,Medico,ENT Specialist, 9.6 
+3044,Especialista,Dermatologists, 8.0 
+3045,Clinica,Dentist, 8.0 
+3046,Hospital,Dentist, 9.9 
+3047,ONG,Homeopath, 8.0 
+3048,Otro,Dentist, 8.0 
+3049,Medico,Dentist, 9.7 
+3050,Especialista,Dentist, 9.9 
+3051,Clinica,Dentist, 8.0 
+3052,Hospital,Dentist, 8.0 
+3053,ONG,ENT Specialist, 9.8 
+3054,Otro,General Medicine, 8.0 
+3055,Medico,Dentist, 8.0 
+3056,Especialista,Dentist, 9.7 
+3057,Clinica,General Medicine, 9.0 
+3058,Hospital,Dermatologists, 8.0 
+3059,ONG,ENT Specialist, 9.9 
+3060,Otro,Dentist, 8.0 
+3061,Medico,Dentist, 8.0 
+3062,Especialista,General Medicine, 9.8 
+3063,Clinica,General Medicine, 8.0 
+3064,Hospital,Homeopath, 10.0 
+3065,ONG,Dentist, 8.0 
+3066,Otro,Homeopath, 10.0 
+3067,Medico,General Medicine, 8.6 
+3068,Especialista,Homeopath, 9.9 
+3069,Clinica,General Medicine, 8.0 
+3070,Hospital,ENT Specialist, 8.0 
+3071,ONG,General Medicine, 9.7 
+3072,Otro,Dermatologists, 8.0 
+3073,Medico,Dermatologists, 9.6 
+3074,Especialista,Dentist, 9.3 
+3075,Clinica,General Medicine, 9.8 
+3076,Hospital,Dermatologists, 8.3 
+3077,ONG,Dermatologists, 9.0 
+3078,Otro,General Medicine, 9.3 
+3079,Medico,Ayurveda, 10.0 
+3080,Especialista,Dermatologists, 8.0 
+3081,Clinica,General Medicine, 8.0 
+3082,Hospital,Ayurveda, 8.0 
+3083,ONG,Dentist, 8.0 
+3084,Otro,Homeopath, 9.6 
+3085,Medico,ENT Specialist, 8.0 
+3086,Especialista,Ayurveda, 9.0 
+3087,Clinica,General Medicine, 8.8 
+3088,Hospital,General Medicine, 810.0 
+3089,ONG,General Medicine, 8.2 
+3090,Otro,Dermatologists, 8.0 
+3091,Medico,Dentist, 8.0 
+3092,Especialista,Dentist, 8.0 
+3093,Clinica,Dermatologists, 8.0 
+3094,Hospital,Dentist, 0.8 
+3095,ONG,Dentist, 9.9 
+3096,Otro,Dermatologists, 10.0 
+3097,Medico,Homeopath, 9.8 
+3098,Especialista,ENT Specialist, 8.0 
+3099,Clinica,Dermatologists, 8.0 
+3100,Hospital,Dentist, 8.0 
+3101,ONG,Homeopath, 9.2 
+3102,Otro,Homeopath, 9.3 
+3103,Medico,Homeopath, 8.0 
+3104,Especialista,Homeopath, 8.0 
+3105,Clinica,Dermatologists, 8.0 
+3106,Hospital,Ayurveda, 8.6 
+3107,ONG,Dentist, 10.0 
+3108,Otro,General Medicine, 9.8 
+3109,Medico,Ayurveda, 8.0 
+3110,Especialista,General Medicine, 8.0 
+3111,Clinica,Dermatologists, 8.0 
+3112,Hospital,General Medicine, 9.3 
+3113,ONG,Dermatologists, 8.0 
+3114,Otro,ENT Specialist, 9.7 
+3115,Medico,Ayurveda, 9.2 
+3116,Especialista,Dentist, 8.0 
+3117,Clinica,Dentist, 8.0 
+3118,Hospital,Ayurveda, 9.6 
+3119,ONG,Dermatologists, 8.0 
+3120,Otro,ENT Specialist, 8.0 
+3121,Medico,Dentist, 0.8 
+3122,Especialista,General Medicine, 9.9 
+3123,Clinica,Homeopath, 9.7 
+3124,Hospital,Homeopath, 8.0 
+3125,ONG,General Medicine, 8.0 
+3126,Otro,ENT Specialist, 8.0 
+3127,Medico,Homeopath, 0.5 
+3128,Especialista,Dermatologists, 8.0 
+3129,Clinica,General Medicine, 8.0 
+3130,Hospital,Homeopath, 8.0 
+3131,ONG,General Medicine, 8.0 
+3132,Otro,Dentist, 8.3 
+3133,Medico,Homeopath, 8.0 
+3134,Especialista,Homeopath, 8.0 
+3135,Clinica,ENT Specialist, 9.6 
+3136,Hospital,Dentist, 8.0 
+3137,ONG,ENT Specialist, 10.0 
+3138,Otro,Homeopath, 9.0 
+3139,Medico,Homeopath, 8.0 
+3140,Especialista,Dentist, 8.0 
+3141,Clinica,Homeopath, 10.0 
+3142,Hospital,Ayurveda, 10.0 
+3143,ONG,Dermatologists, 8.0 
+3144,Otro,General Medicine, 9.0 
+3145,Medico,General Medicine, 0.6 
+3146,Especialista,Homeopath, 8.0 
+3147,Clinica,Dermatologists, 9.2 
+3148,Hospital,Dentist, 8.0 
+3149,ONG,Dentist, 9.9 
+3150,Otro,Dentist, 10.0 
+3151,Medico,Ayurveda, 10.0 
+3152,Especialista,Homeopath, 8.0 
+3153,Clinica,Homeopath, 8.0 
+3154,Hospital,Dentist, 8.0 
+3155,ONG,Ayurveda, 8.0 
+3156,Otro,General Medicine, 8.0 
+3157,Medico,Homeopath, 8.0 
+3158,Especialista,General Medicine, 8.0 
+3159,Clinica,General Medicine, 8.0 
+3160,Hospital,Homeopath, 8.0 
+3161,ONG,Dentist, 8.0 
+3162,Otro,Homeopath, 10.0 
+3163,Medico,Homeopath, 8.0 
+3164,Especialista,ENT Specialist, 8.0 
+3165,Clinica,Dentist, 8.0 
+3166,Hospital,Ayurveda, 9.8 
+3167,ONG,Dentist, 8.0 
+3168,Otro,Homeopath, 8.0 
+3169,Medico,Dentist, 8.0 
+3170,Especialista,Ayurveda, 9.8 
+3171,Clinica,Dentist, 8.5 
+3172,Hospital,Dentist, 8.0 
+3173,ONG,General Medicine, 9.9 
+3174,Otro,General Medicine, 8.0 
+3175,Medico,Dentist, 8.0 
+3176,Especialista,Ayurveda, 9.3 
+3177,Clinica,Homeopath, 8.0 
+3178,Hospital,Dentist, 8.0 
+3179,ONG,Dentist, 9.9 
+3180,Otro,General Medicine, 9.8 
+3181,Medico,ENT Specialist, 8.0 
+3182,Especialista,ENT Specialist, 9.8 
+3183,Clinica,Dentist, 8.0 
+3184,Hospital,Dermatologists, 9.9 
+3185,ONG,Dermatologists, 8.0 
+3186,Otro,Homeopath, 9.8 
+3187,Medico,Dermatologists, 8.0 
+3188,Especialista,General Medicine, 8.0 
+3189,Clinica,Ayurveda, 9.6 
+3190,Hospital,Homeopath, 8.0 
+3191,ONG,Dermatologists, 8.0 
+3192,Otro,Dentist, 9.5 
+3193,Medico,Dentist, 10.0 
+3194,Especialista,Dermatologists, 10.0 
+3195,Clinica,Ayurveda, 9.8 
+3196,Hospital,Dentist, 10.0 
+3197,ONG,Dermatologists, 10.0 
+3198,Otro,General Medicine, 8.0 
+3199,Medico,General Medicine, 8.0 
+3200,Especialista,Homeopath, 8.0 
+3201,Clinica,Ayurveda, 10.0 
+3202,Hospital,General Medicine, 8.0 
+3203,ONG,Dentist, 8.0 
+3204,Otro,ENT Specialist, 9.7 
+3205,Medico,ENT Specialist, 8.0 
+3206,Especialista,General Medicine, 9.7 
+3207,Clinica,Homeopath, 9.0 
+3208,Hospital,Homeopath, 8.0 
+3209,ONG,Dentist, 8.0 
+3210,Otro,Dentist, 8.0 
+3211,Medico,Homeopath, 10.0 
+3212,Especialista,Homeopath, 8.0 
+3213,Clinica,Dermatologists, 9.4 
+3214,Hospital,Dermatologists, 8.0 
+3215,ONG,General Medicine, 8.0 
+3216,Otro,General Medicine, 8.0 
+3217,Medico,Homeopath, 8.0 
+3218,Especialista,Ayurveda, 8.0 
+3219,Clinica,General Medicine, 8.0 
+3220,Hospital,Homeopath, 8.0 
+3221,ONG,ENT Specialist, 10.0 
+3222,Otro,Dermatologists, 8.0 
+3223,Medico,ENT Specialist, 0.7 
+3224,Especialista,ENT Specialist, 8.9 
+3225,Clinica,ENT Specialist, 810.0 
+3226,Hospital,Dermatologists, 8.0 
+3227,ONG,Ayurveda, 9.8 
+3228,Otro,Dermatologists, 8.0 
+3229,Medico,Dentist, 8.0 
+3230,Especialista,Homeopath, 9.9 
+3231,Clinica,Dermatologists, 8.0 
+3232,Hospital,Dentist, 9.9 
+3233,ONG,ENT Specialist, 9.7 
+3234,Otro,General Medicine, 8.0 
+3235,Medico,Homeopath, 8.0 
+3236,Especialista,General Medicine, 8.0 
+3237,Clinica,Homeopath, 8.0 
+3238,Hospital,Dentist, 10.0 
+3239,ONG,Homeopath, 8.0 
+3240,Otro,Dermatologists, 8.0 
+3241,Medico,General Medicine, 8.9 
+3242,Especialista,Dentist, 8.0 
+3243,Clinica,Ayurveda, 8.0 
+3244,Hospital,Dermatologists, 9.7 
+3245,ONG,General Medicine, 8.0 
+3246,Otro,Homeopath, 8.0 
+3247,Medico,Homeopath, 8.8 
+3248,Especialista,ENT Specialist, 8.0 
+3249,Clinica,Homeopath, 8.0 
+3250,Hospital,Dentist, 8.0 
+3251,ONG,General Medicine, 8.0 
+3252,Otro,Dentist, 8.0 
+3253,Medico,Ayurveda, 8.0 
+3254,Especialista,Ayurveda, 8.0 
+3255,Clinica,ENT Specialist, 0.7 
+3256,Hospital,Dentist, 9.7 
+3257,ONG,Ayurveda, 8.0 
+3258,Otro,Homeopath, 8.0 
+3259,Medico,Dentist, 9.6 
+3260,Especialista,Homeopath, 10.0 
+3261,Clinica,Homeopath, 10.0 
+3262,Hospital,ENT Specialist, 8.0 
+3263,ONG,Homeopath, 9.3 
+3264,Otro,Dentist, 8.0 
+3265,Medico,Homeopath, 8.0 
+3266,Especialista,Ayurveda, 8.0 
+3267,Clinica,Dermatologists, 8.0 
+3268,Hospital,Dermatologists, 8.0 
+3269,ONG,General Medicine, 8.0 
+3270,Otro,ENT Specialist, 8.0 
+3271,Medico,Dentist, 0.7 
+3272,Especialista,ENT Specialist, 8.0 
+3273,Clinica,Dermatologists, 8.0 
+3274,Hospital,Dermatologists, 8.0 
+3275,ONG,General Medicine, 8.0 
+3276,Otro,Ayurveda, 9.6 
+3277,Medico,Homeopath, 8.0 
+3278,Especialista,Homeopath, 8.0 
+3279,Clinica,ENT Specialist, 8.0 
+3280,Hospital,Dermatologists, 9.5 
+3281,ONG,Dentist, 8.0 
+3282,Otro,Dentist, 9.7 
+3283,Medico,Homeopath, 9.8 
+3284,Especialista,Dentist, 8.0 
+3285,Clinica,General Medicine, 9.6 
+3286,Hospital,General Medicine, 8.0 
+3287,ONG,ENT Specialist, 9.7 
+3288,Otro,General Medicine, 8.0 
+3289,Medico,General Medicine, 10.0 
+3290,Especialista,Homeopath, 8.0 
+3291,Clinica,Dentist, 10.0 
+3292,Hospital,Dentist, 8.0 
+3293,ONG,Homeopath, 8.0 
+3294,Otro,ENT Specialist, 8.0 
+3295,Medico,General Medicine, 9.7 
+3296,Especialista,Dentist, 7.9 
+3297,Clinica,General Medicine, 9.9 
+3298,Hospital,Homeopath, 8.0 
+3299,ONG,ENT Specialist, 9.3 
+3300,Otro,Ayurveda, 8.0 
+3301,Medico,Dentist, 8.0 
+3302,Especialista,Dentist, 8.0 
+3303,Clinica,Dentist, 8.0 
+3304,Hospital,ENT Specialist, 8.0 
+3305,ONG,General Medicine, 8.0 
+3306,Otro,Homeopath, 8.0 
+3307,Medico,ENT Specialist, 8.0 
+3308,Especialista,General Medicine, 8.0 
+3309,Clinica,General Medicine, 8.0 
+3310,Hospital,Ayurveda, 8.0 
+3311,ONG,Ayurveda, 10.0 
+3312,Otro,Dentist, 8.0 
+3313,Medico,Dentist, 9.8 
+3314,Especialista,Homeopath, 9.9 
+3315,Clinica,General Medicine, 10.0 
+3316,Hospital,Dentist, 810.0 
+3317,ONG,Ayurveda, 9.7 
+3318,Otro,General Medicine, 8.0 
+3319,Medico,Homeopath, 8.3 
+3320,Especialista,Dermatologists, 10.0 
+3321,Clinica,Ayurveda, 8.0 
+3322,Hospital,Dentist, 8.0 
+3323,ONG,Homeopath, 8.0 
+3324,Otro,ENT Specialist, 9.6 
+3325,Medico,Dentist, 9.0 
+3326,Especialista,Ayurveda, 8.0 
+3327,Clinica,Dentist, 8.0 
+3328,Hospital,Ayurveda, 9.9 
+3329,ONG,General Medicine, 8.0 
+3330,Otro,General Medicine, 8.0 
+3331,Medico,Dentist, 8.0 
+3332,Especialista,Dermatologists, 9.8 
+3333,Clinica,ENT Specialist, 9.8 
+3334,Hospital,Ayurveda, 7.6 
+3335,ONG,Ayurveda, 9.4 
+3336,Otro,Ayurveda, 10.0 
+3337,Medico,Dentist, 8.0 
+3338,Especialista,Dentist, 10.0 
+3339,Clinica,Dermatologists, 9.9 
+3340,Hospital,Ayurveda, 9.4 
+3341,ONG,Dentist, 9.0 
+3342,Otro,General Medicine, 9.3 
+3343,Medico,Dentist, 9.9 
+3344,Especialista,General Medicine, 8.0 
+3345,Clinica,ENT Specialist, 810.0 
+3346,Hospital,Homeopath, 8.0 
+3347,ONG,General Medicine, 8.0 
+3348,Otro,Dentist, 8.0 
+3349,Medico,Dentist, 9.7 
+3350,Especialista,ENT Specialist, 10.0 
+3351,Clinica,Dentist, 9.0 
+3352,Hospital,Dentist, 8.0 
+3353,ONG,Dentist, 10.0 
+3354,Otro,Dermatologists, 9.7 
+3355,Medico,Dermatologists, 8.9 
+3356,Especialista,ENT Specialist, 8.0 
+3357,Clinica,ENT Specialist, 8.0 
+3358,Hospital,Dentist, 9.2 
+3359,ONG,Dermatologists, 9.5 
+3360,Otro,Dermatologists, 9.8 
+3361,Medico,Dentist, 8.8 
+3362,Especialista,Ayurveda, 9.5 
+3363,Clinica,Dentist, 9.6 
+3364,Hospital,Dermatologists, 10.0 
+3365,ONG,Homeopath, 10.0 
+3366,Otro,ENT Specialist, 9.5 
+3367,Medico,ENT Specialist, 8.0 
+3368,Especialista,Dermatologists, 0.8 
+3369,Clinica,Homeopath, 9.2 
+3370,Hospital,Dermatologists, 9.5 
+3371,ONG,General Medicine, 9.5 
+3372,Otro,Dentist, 9.7 
+3373,Medico,Dermatologists, 9.3 
+3374,Especialista,General Medicine, 8.0 
+3375,Clinica,General Medicine, 8.0 
+3376,Hospital,Dentist, 8.0 
+3377,ONG,Ayurveda, 9.6 
+3378,Otro,General Medicine, 8.0 
+3379,Medico,General Medicine, 8.0 
+3380,Especialista,Dentist, 8.0 
+3381,Clinica,Dermatologists, 10.0 
+3382,Hospital,Homeopath, 9.2 
+3383,ONG,General Medicine, 8.0 
+3384,Otro,General Medicine, 8.0 
+3385,Medico,Homeopath, 9.7 
+3386,Especialista,Homeopath, 8.0 
+3387,Clinica,Dentist, 8.0 
+3388,Hospital,Dermatologists, 10.0 
+3389,ONG,Homeopath, 8.0 
+3390,Otro,General Medicine, 9.6 
+3391,Medico,Dentist, 9.9 
+3392,Especialista,Dermatologists, 9.8 
+3393,Clinica,Dermatologists, 10.0 
+3394,Hospital,Ayurveda, 9.6 
+3395,ONG,General Medicine, 8.0 
+3396,Otro,Homeopath, 8.0 
+3397,Medico,Dermatologists, 9.5 
+3398,Especialista,Homeopath, 8.7 
+3399,Clinica,Homeopath, 8.0 
+3400,Hospital,Dentist, 8.0 
+3401,ONG,Dermatologists, 8.0 
+3402,Otro,Dentist, 10.0 
+3403,Medico,Dentist, 9.2 
+3404,Especialista,Homeopath, 9.7 
+3405,Clinica,ENT Specialist, 9.4 
+3406,Hospital,Dentist, 8.0 
+3407,ONG,Ayurveda, 10.0 
+3408,Otro,Dentist, 8.0 
+3409,Medico,Dentist, 9.9 
+3410,Especialista,General Medicine, 8.0 
+3411,Clinica,Dermatologists, 8.0 
+3412,Hospital,ENT Specialist, 9.7 
+3413,ONG,Ayurveda, 8.0 
+3414,Otro,Dentist, 8.0 
+3415,Medico,General Medicine, 9.8 
+3416,Especialista,Dentist, 8.9 
+3417,Clinica,Homeopath, 9.8 
+3418,Hospital,Dermatologists, 8.0 
+3419,ONG,General Medicine, 8.0 
+3420,Otro,General Medicine, 8.5 
+3421,Medico,Homeopath, 8.0 
+3422,Especialista,Dentist, 8.0 
+3423,Clinica,Dermatologists, 8.0 
+3424,Hospital,ENT Specialist, 9.7 
+3425,ONG,ENT Specialist, 8.0 
+3426,Otro,ENT Specialist, 8.0 
+3427,Medico,General Medicine, 9.8 
+3428,Especialista,Dentist, 8.0 
+3429,Clinica,Ayurveda, 9.5 
+3430,Hospital,Dentist, 8.0 
+3431,ONG,ENT Specialist, 10.0 
+3432,Otro,Ayurveda, 8.0 
+3433,Medico,General Medicine, 8.0 
+3434,Especialista,Dermatologists, 8.0 
+3435,Clinica,Dermatologists, 8.0 
+3436,Hospital,Dentist, 9.7 
+3437,ONG,Homeopath, 8.0 
+3438,Otro,ENT Specialist, 8.0 
+3439,Medico,Homeopath, 9.0 
+3440,Especialista,ENT Specialist, 8.0 
+3441,Clinica,ENT Specialist, 8.8 
+3442,Hospital,Dentist, 9.2 
+3443,ONG,Dermatologists, 8.0 
+3444,Otro,Ayurveda, 8.0 
+3445,Medico,Ayurveda, 8.0 
+3446,Especialista,Homeopath, 8.0 
+3447,Clinica,Homeopath, 8.0 
+3448,Hospital,Dermatologists, 9.7 
+3449,ONG,Dentist, 8.0 
+3450,Otro,Dermatologists, 8.0 
+3451,Medico,Dermatologists, 8.0 
+3452,Especialista,Dentist, 8.0 
+3453,Clinica,Dentist, 9.7 
+3454,Hospital,Dermatologists, 8.0 
+3455,ONG,General Medicine, 8.0 
+3456,Otro,Dermatologists, 8.0 
+3457,Medico,ENT Specialist, 9.3 
+3458,Especialista,Ayurveda, 8.0 
+3459,Clinica,ENT Specialist, 8.0 
+3460,Hospital,Dermatologists, 8.0 
+3461,ONG,General Medicine, 9.6 
+3462,Otro,ENT Specialist, 8.0 
+3463,Medico,Dermatologists, 10.0 
+3464,Especialista,Dentist, 7.6 
+3465,Clinica,Homeopath, 8.0 
+3466,Hospital,Homeopath, 8.0 
+3467,ONG,Dermatologists, 9.9 
+3468,Otro,Dentist, 8.0 
+3469,Medico,Dermatologists, 8.0 
+3470,Especialista,Homeopath, 8.0 
+3471,Clinica,Dentist, 8.0 
+3472,Hospital,Dermatologists, 10.0 
+3473,ONG,Ayurveda, 9.9 
+3474,Otro,General Medicine, 8.0 
+3475,Medico,Ayurveda, 8.0 
+3476,Especialista,Dermatologists, 8.0 
+3477,Clinica,Ayurveda, 8.7 
+3478,Hospital,General Medicine, 8.0 
+3479,ONG,General Medicine, 8.0 
+3480,Otro,Homeopath, 9.8 
+3481,Medico,Homeopath, 8.0 
+3482,Especialista,Dentist, 8.0 
+3483,Clinica,ENT Specialist, 8.0 
+3484,Hospital,Homeopath, 9.0 
+3485,ONG,Dermatologists, 8.0 
+3486,Otro,Dentist, 8.0 
+3487,Medico,Dentist, 9.9 
+3488,Especialista,Dermatologists, 8.0 
+3489,Clinica,Ayurveda, 10.0 
+3490,Hospital,Dentist, 9.2 
+3491,ONG,General Medicine, 10.0 
+3492,Otro,Dentist, 10.0 
+3493,Medico,General Medicine, 8.0 
+3494,Especialista,Homeopath, 8.0 
+3495,Clinica,Homeopath, 8.0 
+3496,Hospital,Dentist, 8.0 
+3497,ONG,General Medicine, 10.0 
+3498,Otro,Dermatologists, 8.0 
+3499,Medico,Ayurveda, 9.8 
+3500,Especialista,Ayurveda, 8.0 
+3501,Clinica,Dentist, 8.0 
+3502,Hospital,Dentist, 9.4 
+3503,ONG,Dermatologists, 8.0 
+3504,Otro,Dentist, 9.5 
+3505,Medico,Dentist, 9.5 
+3506,Especialista,Dermatologists, 9.9 
+3507,Clinica,General Medicine, 8.0 
+3508,Hospital,Dentist, 8.0 
+3509,ONG,ENT Specialist, 8.0 
+3510,Otro,General Medicine, 8.0 
+3511,Medico,Dentist, 8.0 
+3512,Especialista,Dermatologists, 9.9 
+3513,Clinica,ENT Specialist, 8.0 
+3514,Hospital,Ayurveda, 8.0 
+3515,ONG,Dermatologists, 8.0 
+3516,Otro,ENT Specialist, 8.0 
+3517,Medico,Dermatologists, 10.0 
+3518,Especialista,Ayurveda, 8.0 
+3519,Clinica,ENT Specialist, 8.0 
+3520,Hospital,Dentist, 8.0 
+3521,ONG,Homeopath, 8.0 
+3522,Otro,Dermatologists, 9.7 
+3523,Medico,General Medicine, 9.6 
+3524,Especialista,Dentist, 8.0 
+3525,Clinica,Dermatologists, 9.8 
+3526,Hospital,Dermatologists, 8.0 
+3527,ONG,Dermatologists, 7.4 
+3528,Otro,Ayurveda, 8.0 
+3529,Medico,Dermatologists, 8.0 
+3530,Especialista,Dentist, 10.0 
+3531,Clinica,General Medicine, 9.0 
+3532,Hospital,Homeopath, 9.4 
+3533,ONG,Dentist, 8.0 
+3534,Otro,Dermatologists, 8.0 
+3535,Medico,Ayurveda, 8.0 
+3536,Especialista,Dentist, 8.0 
+3537,Clinica,ENT Specialist, 8.0 
+3538,Hospital,Ayurveda, 0.7 
+3539,ONG,General Medicine, 9.6 
+3540,Otro,Dermatologists, 9.3 
+3541,Medico,Homeopath, 9.4 
+3542,Especialista,Dentist, 9.9 
+3543,Clinica,Ayurveda, 9.9 
+3544,Hospital,Dentist, 8.0 
+3545,ONG,Dermatologists, 9.8 
+3546,Otro,General Medicine, 9.9 
+3547,Medico,Dentist, 9.9 
+3548,Especialista,Dermatologists, 8.0 
+3549,Clinica,General Medicine, 9.0 
+3550,Hospital,Dentist, 8.0 
+3551,ONG,Dermatologists, 8.0 
+3552,Otro,General Medicine, 9.3 
+3553,Medico,General Medicine, 8.0 
+3554,Especialista,General Medicine, 9.4 
+3555,Clinica,Homeopath, 8.9 
+3556,Hospital,Dentist, 10.0 
+3557,ONG,Ayurveda, 9.3 
+3558,Otro,General Medicine, 9.8 
+3559,Medico,General Medicine, 10.0 
+3560,Especialista,ENT Specialist, 8.0 
+3561,Clinica,Homeopath, 8.0 
+3562,Hospital,General Medicine, 8.0 
+3563,ONG,Ayurveda, 8.0 
+3564,Otro,Ayurveda, 8.0 
+3565,Medico,Homeopath, 8.0 
+3566,Especialista,Dentist, 8.0 
+3567,Clinica,Dermatologists, 9.7 
+3568,Hospital,ENT Specialist, 84.0 
+3569,ONG,ENT Specialist, 8.0 
+3570,Otro,Dentist, 10.0 
+3571,Medico,Dentist, 9.9 
+3572,Especialista,Ayurveda, 8.5 
+3573,Clinica,Ayurveda, 9.8 
+3574,Hospital,Dermatologists, 8.0 
+3575,ONG,Dentist, 9.6 
+3576,Otro,Homeopath, 8.0 
+3577,Medico,General Medicine, 8.0 
+3578,Especialista,Ayurveda, 9.7 
+3579,Clinica,Dentist, 8.0 
+3580,Hospital,General Medicine, 10.0 
+3581,ONG,Dentist, 8.8 
+3582,Otro,Dentist, 8.0 
+3583,Medico,Dentist, 9.9 
+3584,Especialista,Dermatologists, 9.8 
+3585,Clinica,General Medicine, 8.0 
+3586,Hospital,Ayurveda, 8.0 
+3587,ONG,Dermatologists, 9.6 
+3588,Otro,Ayurveda, 10.0 
+3589,Medico,Homeopath, 8.0 
+3590,Especialista,Dentist, 9.8 
+3591,Clinica,General Medicine, 10.0 
+3592,Hospital,Dermatologists, 8.0 
+3593,ONG,Dermatologists, 8.0 
+3594,Otro,General Medicine, 0.8 
+3595,Medico,Homeopath, 8.0 
+3596,Especialista,Dentist, 8.0 
+3597,Clinica,Homeopath, 8.0 
+3598,Hospital,Homeopath, 8.0 
+3599,ONG,Dermatologists, 8.0 
+3600,Otro,Homeopath, 9.4 
+3601,Medico,ENT Specialist, 9.9 
+3602,Especialista,General Medicine, 10.0 
+3603,Clinica,Ayurveda, 10.0 
+3604,Hospital,General Medicine, 9.8 
+3605,ONG,ENT Specialist, 0.4 
+3606,Otro,Homeopath, 8.0 
+3607,Medico,General Medicine, 8.0 
+3608,Especialista,General Medicine, 8.0 
+3609,Clinica,ENT Specialist, 8.0 
+3610,Hospital,General Medicine, 8.0 
+3611,ONG,General Medicine, 8.0 
+3612,Otro,Ayurveda, 10.0 
+3613,Medico,Dentist, 8.0 
+3614,Especialista,General Medicine, 8.0 
+3615,Clinica,Dermatologists, 8.0 
+3616,Hospital,Ayurveda, 6.8 
+3617,ONG,Ayurveda, 8.0 
+3618,Otro,Ayurveda, 9.9 
+3619,Medico,Homeopath, 8.0 
+3620,Especialista,Dermatologists, 8.0 
+3621,Clinica,Ayurveda, 10.0 
+3622,Hospital,Dentist, 8.0 
+3623,ONG,Dentist, 9.4 
+3624,Otro,General Medicine, 8.0 
+3625,Medico,General Medicine, 9.6 
+3626,Especialista,Ayurveda, 8.0 
+3627,Clinica,ENT Specialist, 8.0 
+3628,Hospital,ENT Specialist, 6.8 
+3629,ONG,Ayurveda, 9.0 
+3630,Otro,Dentist, 8.0 
+3631,Medico,Homeopath, 8.0 
+3632,Especialista,Ayurveda, 9.8 
+3633,Clinica,Dermatologists, 8.0 
+3634,Hospital,Homeopath, 8.6 
+3635,ONG,General Medicine, 8.0 
+3636,Otro,Dermatologists, 8.0 
+3637,Medico,General Medicine, 9.9 
+3638,Especialista,Dentist, 9.5 
+3639,Clinica,Homeopath, 9.8 
+3640,Hospital,Dermatologists, 8.0 
+3641,ONG,ENT Specialist, 9.2 
+3642,Otro,Homeopath, 9.3 
+3643,Medico,Dermatologists, 8.0 
+3644,Especialista,Homeopath, 9.3 
+3645,Clinica,ENT Specialist, 8.0 
+3646,Hospital,Ayurveda, 10.0 
+3647,ONG,Dentist, 8.0 
+3648,Otro,Homeopath, 9.5 
+3649,Medico,Dentist, 8.0 
+3650,Especialista,Homeopath, 10.0 
+3651,Clinica,Ayurveda, 8.0 
+3652,Hospital,ENT Specialist, 10.0 
+3653,ONG,Dermatologists, 8.0 
+3654,Otro,Dentist, 8.0 
+3655,Medico,Dermatologists, 10.0 
+3656,Especialista,Ayurveda, 10.0 
+3657,Clinica,Dentist, 8.0 
+3658,Hospital,Dermatologists, 9.6 
+3659,ONG,Ayurveda, 8.0 
+3660,Otro,Dermatologists, 8.0 
+3661,Medico,General Medicine, 9.9 
+3662,Especialista,Dermatologists, 0.7 
+3663,Clinica,General Medicine, 9.9 
+3664,Hospital,Homeopath, 8.0 
+3665,ONG,ENT Specialist, 8.0 
+3666,Otro,Dentist, 8.2 
+3667,Medico,Dentist, 9.6 
+3668,Especialista,Dentist, 8.0 
+3669,Clinica,Dermatologists, 9.6 
+3670,Hospital,General Medicine, 8.0 
+3671,ONG,Dentist, 8.0 
+3672,Otro,Homeopath, 9.9 
+3673,Medico,ENT Specialist, 10.0 
+3674,Especialista,ENT Specialist, 8.0 
+3675,Clinica,General Medicine, 8.0 
+3676,Hospital,ENT Specialist, 8.0 
+3677,ONG,Dentist, 7.6 
+3678,Otro,ENT Specialist, 8.0 
+3679,Medico,Dermatologists, 8.0 
+3680,Especialista,Dentist, 8.0 
+3681,Clinica,Dentist, 9.8 
+3682,Hospital,Dentist, 9.7 
+3683,ONG,Dermatologists, 10.0 
+3684,Otro,Dermatologists, 10.0 
+3685,Medico,General Medicine, 9.4 
+3686,Especialista,Dentist, 8.0 
+3687,Clinica,Dermatologists, 8.0 
+3688,Hospital,Ayurveda, 9.0 
+3689,ONG,General Medicine, 9.0 
+3690,Otro,General Medicine, 8.0 
+3691,Medico,Dermatologists, 7.9 
+3692,Especialista,Dentist, 10.0 
+3693,Clinica,General Medicine, 9.0 
+3694,Hospital,Dentist, 8.0 
+3695,ONG,Dermatologists, 8.0 
+3696,Otro,Dermatologists, 8.0 
+3697,Medico,Ayurveda, 9.3 
+3698,Especialista,Dentist, 8.0 
+3699,Clinica,Ayurveda, 10.0 
+3700,Hospital,Homeopath, 8.0 
+3701,ONG,ENT Specialist, 8.0 
+3702,Otro,Dentist, 9.9 
+3703,Medico,Dentist, 9.5 
+3704,Especialista,ENT Specialist, 9.8 
+3705,Clinica,Dermatologists, 8.0 
+3706,Hospital,Dentist, 10.0 
+3707,ONG,Ayurveda, 9.5 
+3708,Otro,ENT Specialist, 8.0 
+3709,Medico,Dentist, 9.7 
+3710,Especialista,Dermatologists, 9.8 
+3711,Clinica,Dentist, 8.0 
+3712,Hospital,General Medicine, 8.0 
+3713,ONG,Ayurveda, 8.6 
+3714,Otro,Homeopath, 8.0 
+3715,Medico,ENT Specialist, 9.8 
+3716,Especialista,Ayurveda, 10.0 
+3717,Clinica,Dentist, 8.0 
+3718,Hospital,ENT Specialist, 8.0 
+3719,ONG,Homeopath, 8.2 
+3720,Otro,ENT Specialist, 8.0 
+3721,Medico,Dentist, 8.0 
+3722,Especialista,Ayurveda, 10.0 
+3723,Clinica,Dentist, 9.7 
+3724,Hospital,Homeopath, 9.5 
+3725,ONG,Homeopath, 8.0 
+3726,Otro,Ayurveda, 8.0 
+3727,Medico,General Medicine, 8.0 
+3728,Especialista,ENT Specialist, 9.4 
+3729,Clinica,General Medicine, 8.0 
+3730,Hospital,Ayurveda, 8.0 
+3731,ONG,Dermatologists, 9.4 
+3732,Otro,Dentist, 8.0 
+3733,Medico,Dermatologists, 9.4 
+3734,Especialista,General Medicine, 9.6 
+3735,Clinica,Dentist, 8.0 
+3736,Hospital,ENT Specialist, 10.0 
+3737,ONG,Dentist, 8.0 
+3738,Otro,General Medicine, 10.0 
+3739,Medico,Dermatologists, 8.0 
+3740,Especialista,Ayurveda, 8.0 
+3741,Clinica,Dentist, 8.0 
+3742,Hospital,General Medicine, 8.0 
+3743,ONG,Dermatologists, 8.0 
+3744,Otro,Dermatologists, 10.0 
+3745,Medico,General Medicine, 8.0 
+3746,Especialista,Dermatologists, 8.0 
+3747,Clinica,Ayurveda, 9.9 
+3748,Hospital,ENT Specialist, 8.0 
+3749,ONG,Homeopath, 8.0 
+3750,Otro,ENT Specialist, 8.0 
+3751,Medico,ENT Specialist, 8.0 
+3752,Especialista,Dermatologists, 8.9 
+3753,Clinica,ENT Specialist, 8.0 
+3754,Hospital,Homeopath, 8.0 
+3755,ONG,ENT Specialist, 10.0 
+3756,Otro,Ayurveda, 8.0 
+3757,Medico,Dermatologists, 8.0 
+3758,Especialista,Dermatologists, 9.8 
+3759,Clinica,Dentist, 8.0 
+3760,Hospital,Ayurveda, 8.0 
+3761,ONG,Homeopath, 8.0 
+3762,Otro,Dermatologists, 8.0 
+3763,Medico,General Medicine, 8.0 
+3764,Especialista,Homeopath, 8.0 
+3765,Clinica,Ayurveda, 8.0 
+3766,Hospital,ENT Specialist, 8.0 
+3767,ONG,Dentist, 0.7 
+3768,Otro,Dentist, 8.0 
+3769,Medico,General Medicine, 10.0 
+3770,Especialista,Ayurveda, 8.0 
+3771,Clinica,Dermatologists, 8.0 
+3772,Hospital,Dentist, 9.8 
+3773,ONG,General Medicine, 9.7 
+3774,Otro,Ayurveda, 10.0 
+3775,Medico,Dermatologists, 10.0 
+3776,Especialista,Dentist, 9.6 
+3777,Clinica,Dentist, 9.7 
+3778,Hospital,Dentist, 9.9 
+3779,ONG,Dermatologists, 9.6 
+3780,Otro,Dentist, 9.8 
+3781,Medico,Dentist, 10.0 
+3782,Especialista,Ayurveda, 8.0 
+3783,Clinica,General Medicine, 8.0 
+3784,Hospital,Dentist, 7.6 
+3785,ONG,General Medicine, 8.0 
+3786,Otro,Dermatologists, 8.0 
+3787,Medico,General Medicine, 8.0 
+3788,Especialista,Dentist, 8.0 
+3789,Clinica,Homeopath, 8.0 
+3790,Hospital,Dentist, 8.0 
+3791,ONG,Dermatologists, 9.9 
+3792,Otro,Homeopath, 9.9 
+3793,Medico,General Medicine, 8.0 
+3794,Especialista,General Medicine, 8.0 
+3795,Clinica,General Medicine, 8.0 
+3796,Hospital,General Medicine, 8.0 
+3797,ONG,Homeopath, 8.0 
+3798,Otro,ENT Specialist, 10.0 
+3799,Medico,Homeopath, 8.0 
+3800,Especialista,Ayurveda, 10.0 
+3801,Clinica,Dermatologists, 8.0 
+3802,Hospital,General Medicine, 9.6 
+3803,ONG,Dermatologists, 8.0 
+3804,Otro,Dermatologists, 8.5 
+3805,Medico,Homeopath, 8.0 
+3806,Especialista,Dermatologists, 8.0 
+3807,Clinica,Dentist, 9.0 
+3808,Hospital,ENT Specialist, 8.0 
+3809,ONG,General Medicine, 10.0 
+3810,Otro,Homeopath, 9.2 
+3811,Medico,Dentist, 10.0 
+3812,Especialista,Dermatologists, 10.0 
+3813,Clinica,General Medicine, 9.6 
+3814,Hospital,ENT Specialist, 9.4 
+3815,ONG,Dentist, 8.0 
+3816,Otro,Homeopath, 8.0 
+3817,Medico,General Medicine, 8.0 
+3818,Especialista,ENT Specialist, 8.0 
+3819,Clinica,Dentist, 9.4 
+3820,Hospital,General Medicine, 9.9 
+3821,ONG,Homeopath, 6.8 
+3822,Otro,Ayurveda, 8.0 
+3823,Medico,Homeopath, 8.0 
+3824,Especialista,General Medicine, 8.0 
+3825,Clinica,Ayurveda, 8.0 
+3826,Hospital,ENT Specialist, 8.0 
+3827,ONG,Dermatologists, 9.9 
+3828,Otro,Dermatologists, 9.8 
+3829,Medico,Dermatologists, 9.6 
+3830,Especialista,Homeopath, 8.8 
+3831,Clinica,Dermatologists, 9.7 
+3832,Hospital,Dentist, 10.0 
+3833,ONG,General Medicine, 10.0 
+3834,Otro,ENT Specialist, 9.0 
+3835,Medico,General Medicine, 9.5 
+3836,Especialista,ENT Specialist, 8.0 
+3837,Clinica,Dentist, 8.0 
+3838,Hospital,Dermatologists, 8.0 
+3839,ONG,Ayurveda, 8.0 
+3840,Otro,General Medicine, 8.0 
+3841,Medico,ENT Specialist, 9.5 
+3842,Especialista,Homeopath, 9.7 
+3843,Clinica,General Medicine, 8.0 
+3844,Hospital,Homeopath, 9.3 
+3845,ONG,Homeopath, 8.0 
+3846,Otro,Dentist, 8.0 
+3847,Medico,ENT Specialist, 8.0 
+3848,Especialista,Ayurveda, 8.0 
+3849,Clinica,Dentist, 8.0 
+3850,Hospital,Homeopath, 10.0 
+3851,ONG,Dentist, 8.0 
+3852,Otro,Dermatologists, 10.0 
+3853,Medico,Dermatologists, 8.0 
+3854,Especialista,ENT Specialist, 8.9 
+3855,Clinica,Dentist, 9.0 
+3856,Hospital,Ayurveda, 10.0 
+3857,ONG,Ayurveda, 8.0 
+3858,Otro,Dermatologists, 9.5 
+3859,Medico,Homeopath, 9.9 
+3860,Especialista,Dentist, 9.7 
+3861,Clinica,ENT Specialist, 8.0 
+3862,Hospital,Homeopath, 6.4 
+3863,ONG,Dermatologists, 8.0 
+3864,Otro,General Medicine, 8.5 
+3865,Medico,ENT Specialist, 9.4 
+3866,Especialista,ENT Specialist, 9.0 
+3867,Clinica,General Medicine, 9.5 
+3868,Hospital,ENT Specialist, 8.0 
+3869,ONG,ENT Specialist, 8.0 
+3870,Otro,Dentist, 10.0 
+3871,Medico,Ayurveda, 9.9 
+3872,Especialista,ENT Specialist, 10.0 
+3873,Clinica,Dentist, 8.0 
+3874,Hospital,Dentist, 9.8 
+3875,ONG,ENT Specialist, 9.9 
+3876,Otro,Ayurveda, 8.0 
+3877,Medico,General Medicine, 8.0 
+3878,Especialista,ENT Specialist, 8.0 
+3879,Clinica,ENT Specialist, 8.0 
+3880,Hospital,Homeopath, 9.4 
+3881,ONG,Dentist, 8.0 
+3882,Otro,ENT Specialist, 9.8 
+3883,Medico,ENT Specialist, 8.0 
+3884,Especialista,ENT Specialist, 8.0 
+3885,Clinica,Dentist, 8.0 
+3886,Hospital,Dermatologists, 9.5 
+3887,ONG,Dermatologists, 8.0 
+3888,Otro,ENT Specialist, 8.9 
+3889,Medico,General Medicine, 8.0 
+3890,Especialista,Dentist, 8.0 
+3891,Clinica,Ayurveda, 9.6 
+3892,Hospital,Dentist, 10.0 
+3893,ONG,Ayurveda, 8.0 
+3894,Otro,General Medicine, 10.0 
+3895,Medico,Dermatologists, 8.0 
+3896,Especialista,Dentist, 10.0 
+3897,Clinica,Dentist, 8.0 
+3898,Hospital,Dermatologists, 9.5 
+3899,ONG,Dentist, 8.0 
+3900,Otro,General Medicine, 10.0 
+3901,Medico,General Medicine, 8.0 
+3902,Especialista,Homeopath, 8.3 
+3903,Clinica,Homeopath, 9.6 
+3904,Hospital,Dermatologists, 9.7 
+3905,ONG,ENT Specialist, 9.8 
+3906,Otro,Homeopath, 9.4 
+3907,Medico,General Medicine, 8.0 
+3908,Especialista,Dentist, 8.0 
+3909,Clinica,Homeopath, 10.0 
+3910,Hospital,General Medicine, 8.0 
+3911,ONG,General Medicine, 8.0 
+3912,Otro,Ayurveda, 8.0 
+3913,Medico,Dentist, 8.0 
+3914,Especialista,Dermatologists, 8.0 
+3915,Clinica,Ayurveda, 9.6 
+3916,Hospital,Dentist, 8.0 
+3917,ONG,Ayurveda, 9.6 
+3918,Otro,ENT Specialist, 8.0 
+3919,Medico,General Medicine, 8.0 
+3920,Especialista,General Medicine, 9.7 
+3921,Clinica,ENT Specialist, 8.0 
+3922,Hospital,General Medicine, 9.5 
+3923,ONG,Homeopath, 8.0 
+3924,Otro,Dentist, 9.8 
+3925,Medico,Dentist, 10.0 
+3926,Especialista,Dentist, 10.0 
+3927,Clinica,Dermatologists, 9.8 
+3928,Hospital,Dentist, 9.5 
+3929,ONG,Ayurveda, 9.7 
+3930,Otro,ENT Specialist, 10.0 
+3931,Medico,Dentist, 8.0 
+3932,Especialista,Dermatologists, 9.4 
+3933,Clinica,Dermatologists, 8.0 
+3934,Hospital,General Medicine, 8.0 
+3935,ONG,ENT Specialist, 9.6 
+3936,Otro,Dermatologists, 8.0 
+3937,Medico,General Medicine, 8.0 
+3938,Especialista,ENT Specialist, 8.0 
+3939,Clinica,Ayurveda, 10.0 
+3940,Hospital,Ayurveda, 8.0 
+3941,ONG,Dentist, 8.0 
+3942,Otro,ENT Specialist, 8.0 
+3943,Medico,Dermatologists, 8.8 
+3944,Especialista,General Medicine, 9.6 
+3945,Clinica,Dentist, 9.5 
+3946,Hospital,Homeopath, 9.2 
+3947,ONG,ENT Specialist, 10.0 
+3948,Otro,Homeopath, 8.0 
+3949,Medico,Dermatologists, 8.0 
+3950,Especialista,General Medicine, 9.8 
+3951,Clinica,Dentist, 9.5 
+3952,Hospital,Homeopath, 9.9 
+3953,ONG,Dentist, 8.0 
+3954,Otro,Ayurveda, 9.6 
+3955,Medico,Homeopath, 8.0 
+3956,Especialista,Dentist, 8.0 
+3957,Clinica,ENT Specialist, 8.0 
+3958,Hospital,Dermatologists, 8.6 
+3959,ONG,ENT Specialist, 9.2 
+3960,Otro,General Medicine, 10.0 
+3961,Medico,Dentist, 8.0 
+3962,Especialista,General Medicine, 10.0 
+3963,Clinica,Dentist, 8.0 
+3964,Hospital,ENT Specialist, 10.0 
+3965,ONG,ENT Specialist, 9.0 
+3966,Otro,ENT Specialist, 10.0 
+3967,Medico,General Medicine, 9.0 
+3968,Especialista,General Medicine, 8.0 
+3969,Clinica,General Medicine, 8.0 
+3970,Hospital,Ayurveda, 8.0 
+3971,ONG,Dentist, 8.0 
+3972,Otro,Dermatologists, 9.9 
+3973,Medico,Dentist, 10.0 
+3974,Especialista,General Medicine, 8.0 
+3975,Clinica,Dentist, 8.0 
+3976,Hospital,General Medicine, 10.0 
+3977,ONG,General Medicine, 8.9 
+3978,Otro,Homeopath, 8.0 
+3979,Medico,Dentist, 8.0 
+3980,Especialista,Dentist, 8.0 
+3981,Clinica,General Medicine, 8.0 
+3982,Hospital,General Medicine, 8.0 
+3983,ONG,Homeopath, 8.0 
+3984,Otro,Dentist, 10.0 
+3985,Medico,Homeopath, 8.0 
+3986,Especialista,Homeopath, 10.0 
+3987,Clinica,Dentist, 8.0 
+3988,Hospital,Homeopath, 9.8 
+3989,ONG,Ayurveda, 9.5 
+3990,Otro,Dermatologists, 9.9 
+3991,Medico,General Medicine, 8.0 
+3992,Especialista,Ayurveda, 8.0 
+3993,Clinica,General Medicine, 8.0 
+3994,Hospital,Dentist, 10.0 
+3995,ONG,Dentist, 10.0 
+3996,Otro,Homeopath, 10.0 
+3997,Medico,Ayurveda, 8.0 
+3998,Especialista,Dermatologists, 8.0 
+3999,Clinica,Dentist, 8.0 
+4000,Hospital,Dentist, 8.0 
+4001,ONG,Dentist, 9.3 
+4002,Otro,ENT Specialist, 8.0 
+4003,Medico,Ayurveda, 9.5 
+4004,Especialista,Dermatologists, 8.0 
+4005,Clinica,Dentist, 8.0 
+4006,Hospital,General Medicine, 8.0 
+4007,ONG,ENT Specialist, 8.0 
+4008,Otro,General Medicine, 8.9 
+4009,Medico,Homeopath, 9.3 
+4010,Especialista,ENT Specialist, 8.0 
+4011,Clinica,Ayurveda, 8.0 
+4012,Hospital,Dentist, 8.7 
+4013,ONG,Dermatologists, 9.6 
+4014,Otro,General Medicine, 8.0 
+4015,Medico,Dermatologists, 8.0 
+4016,Especialista,ENT Specialist, 9.3 
+4017,Clinica,Homeopath, 8.0 
+4018,Hospital,Ayurveda, 10.0 
+4019,ONG,Dermatologists, 8.0 
+4020,Otro,Dermatologists, 10.0 
+4021,Medico,General Medicine, 9.8 
+4022,Especialista,Dermatologists, 8.0 
+4023,Clinica,Dentist, 9.4 
+4024,Hospital,Homeopath, 9.9 
+4025,ONG,Homeopath, 8.0 
+4026,Otro,General Medicine, 8.0 
+4027,Medico,Dentist, 8.0 
+4028,Especialista,Ayurveda, 9.8 
+4029,Clinica,Dentist, 10.0 
+4030,Hospital,Ayurveda, 9.6 
+4031,ONG,General Medicine, 9.7 
+4032,Otro,ENT Specialist, 8.0 
+4033,Medico,Homeopath, 8.0 
+4034,Especialista,Homeopath, 10.0 
+4035,Clinica,General Medicine, 8.0 
+4036,Hospital,Dentist, 9.9 
+4037,ONG,ENT Specialist, 8.0 
+4038,Otro,Homeopath, 8.0 
+4039,Medico,General Medicine, 9.7 
+4040,Especialista,General Medicine, 8.0 
+4041,Clinica,ENT Specialist, 8.0 
+4042,Hospital,General Medicine, 8.0 
+4043,ONG,ENT Specialist, 9.5 
+4044,Otro,Homeopath, 8.0 
+4045,Medico,ENT Specialist, 8.0 
+4046,Especialista,Ayurveda, 8.0 
+4047,Clinica,ENT Specialist, 8.0 
+4048,Hospital,Dentist, 9.0 
+4049,ONG,General Medicine, 8.0 
+4050,Otro,General Medicine, 8.0 
+4051,Medico,Ayurveda, 8.0 
+4052,Especialista,Dermatologists, 8.0 
+4053,Clinica,Dentist, 7.9 
+4054,Hospital,Ayurveda, 9.6 
+4055,ONG,ENT Specialist, 8.0 
+4056,Otro,General Medicine, 7.8 
+4057,Medico,General Medicine, 8.0 
+4058,Especialista,Dermatologists, 8.0 
+4059,Clinica,Homeopath, 0.7 
+4060,Hospital,General Medicine, 8.0 
+4061,ONG,Dermatologists, 84.0 
+4062,Otro,General Medicine, 8.0 
+4063,Medico,Homeopath, 9.2 
+4064,Especialista,General Medicine, 8.0 
+4065,Clinica,Homeopath, 8.0 
+4066,Hospital,Dentist, 9.2 
+4067,ONG,Dentist, 9.9 
+4068,Otro,Dermatologists, 8.0 
+4069,Medico,Dermatologists, 10.0 
+4070,Especialista,Homeopath, 8.0 
+4071,Clinica,ENT Specialist, 9.6 
+4072,Hospital,ENT Specialist, 8.9 
+4073,ONG,Homeopath, 8.0 
+4074,Otro,Dentist, 8.0 
+4075,Medico,Dentist, 8.0 
+4076,Especialista,Homeopath, 9.5 
+4077,Clinica,General Medicine, 9.6 
+4078,Hospital,Ayurveda, 8.0 
+4079,ONG,General Medicine, 8.0 
+4080,Otro,Dentist, 8.0 
+4081,Medico,Ayurveda, 10.0 
+4082,Especialista,Dentist, 8.0 
+4083,Clinica,Ayurveda, 9.8 
+4084,Hospital,Dentist, 8.0 
+4085,ONG,General Medicine, 9.9 
+4086,Otro,Homeopath, 9.5 
+4087,Medico,ENT Specialist, 10.0 
+4088,Especialista,Dermatologists, 9.5 
+4089,Clinica,ENT Specialist, 8.0 
+4090,Hospital,Dentist, 8.7 
+4091,ONG,Dermatologists, 8.0 
+4092,Otro,Dentist, 8.9 
+4093,Medico,Dermatologists, 8.0 
+4094,Especialista,Dentist, 9.6 
+4095,Clinica,Dermatologists, 9.7 
+4096,Hospital,Dentist, 9.2 
+4097,ONG,Dermatologists, 10.0 
+4098,Otro,General Medicine, 9.0 
+4099,Medico,General Medicine, 8.0 
+4100,Especialista,General Medicine, 8.0 
+4101,Clinica,Ayurveda, 8.0 
+4102,Hospital,General Medicine, 8.0 
+4103,ONG,Dentist, 8.0 
+4104,Otro,General Medicine, 9.6 
+4105,Medico,Dentist, 8.0 
+4106,Especialista,Ayurveda, 8.6 
+4107,Clinica,Ayurveda, 8.0 
+4108,Hospital,Dermatologists, 8.8 
+4109,ONG,Homeopath, 8.0 
+4110,Otro,Dermatologists, 8.0 
+4111,Medico,Dentist, 9.6 
+4112,Especialista,Dentist, 8.0 
+4113,Clinica,Dentist, 8.0 
+4114,Hospital,Dentist, 9.6 
+4115,ONG,Dentist, 10.0 
+4116,Otro,Ayurveda, 9.8 
+4117,Medico,Homeopath, 8.0 
+4118,Especialista,Ayurveda, 8.0 
+4119,Clinica,Dentist, 8.0 
+4120,Hospital,Homeopath, 9.9 
+4121,ONG,Ayurveda, 8.0 
+4122,Otro,ENT Specialist, 8.0 
+4123,Medico,General Medicine, 8.0 
+4124,Especialista,ENT Specialist, 8.0 
+4125,Clinica,ENT Specialist, 8.0 
+4126,Hospital,Dermatologists, 9.0 
+4127,ONG,Ayurveda, 8.9 
+4128,Otro,Dermatologists, 8.0 
+4129,Medico,ENT Specialist, 8.0 
+4130,Especialista,ENT Specialist, 8.0 
+4131,Clinica,General Medicine, 8.8 
+4132,Hospital,Dentist, 10.0 
+4133,ONG,Homeopath, 9.7 
+4134,Otro,Ayurveda, 8.0 
+4135,Medico,ENT Specialist, 8.0 
+4136,Especialista,Dentist, 0.7 
+4137,Clinica,Dentist, 9.6 
+4138,Hospital,General Medicine, 8.0 
+4139,ONG,Dentist, 8.0 
+4140,Otro,Homeopath, 8.0 
+4141,Medico,Dermatologists, 8.0 
+4142,Especialista,Ayurveda, 8.0 
+4143,Clinica,Ayurveda, 9.5 
+4144,Hospital,Ayurveda, 8.0 
+4145,ONG,General Medicine, 8.0 
+4146,Otro,Homeopath, 9.0 
+4147,Medico,Dentist, 8.0 
+4148,Especialista,ENT Specialist, 10.0 
+4149,Clinica,Dermatologists, 10.0 
+4150,Hospital,Homeopath, 8.0 
+4151,ONG,Dentist, 8.0 
+4152,Otro,Dermatologists, 9.7 
+4153,Medico,Homeopath, 8.0 
+4154,Especialista,Homeopath, 10.0 
+4155,Clinica,General Medicine, 8.0 
+4156,Hospital,Dentist, 9.2 
+4157,ONG,General Medicine, 9.9 
+4158,Otro,Ayurveda, 8.0 
+4159,Medico,Dentist, 8.0 
+4160,Especialista,ENT Specialist, 9.8 
+4161,Clinica,Ayurveda, 8.5 
+4162,Hospital,Dermatologists, 8.0 
+4163,ONG,Dermatologists, 10.0 
+4164,Otro,General Medicine, 8.0 
+4165,Medico,Dentist, 10.0 
+4166,Especialista,General Medicine, 9.9 
+4167,Clinica,Ayurveda, 8.0 
+4168,Hospital,Ayurveda, 8.0 
+4169,ONG,Dermatologists, 9.8 
+4170,Otro,Dentist, 8.3 
+4171,Medico,Dentist, 9.6 
+4172,Especialista,General Medicine, 9.8 
+4173,Clinica,General Medicine, 8.0 
+4174,Hospital,General Medicine, 8.0 
+4175,ONG,Dentist, 7.6 
+4176,Otro,General Medicine, 8.0 
+4177,Medico,General Medicine, 8.0 
+4178,Especialista,Dentist, 8.0 
+4179,Clinica,General Medicine, 8.0 
+4180,Hospital,Dermatologists, 8.0 
+4181,ONG,General Medicine, 9.9 
+4182,Otro,Dermatologists, 8.0 
+4183,Medico,ENT Specialist, 8.7 
+4184,Especialista,General Medicine, 9.7 
+4185,Clinica,Ayurveda, 8.0 
+4186,Hospital,Homeopath, 8.0 
+4187,ONG,Homeopath, 9.7 
+4188,Otro,Dentist, 8.0 
+4189,Medico,General Medicine, 9.8 
+4190,Especialista,Ayurveda, 8.8 
+4191,Clinica,Dermatologists, 8.0 
+4192,Hospital,General Medicine, 10.0 
+4193,ONG,Dentist, 8.0 
+4194,Otro,Dentist, 8.0 
+4195,Medico,Homeopath, 8.0 
+4196,Especialista,Homeopath, 8.0 
+4197,Clinica,Dentist, 8.0 
+4198,Hospital,Homeopath, 8.0 
+4199,ONG,Dermatologists, 9.6 
+4200,Otro,Ayurveda, 8.0 
+4201,Medico,ENT Specialist, 8.0 
+4202,Especialista,General Medicine, 8.0 
+4203,Clinica,Ayurveda, 9.9 
+4204,Hospital,General Medicine, 8.0 
+4205,ONG,Ayurveda, 8.0 
+4206,Otro,Dermatologists, 9.7 
+4207,Medico,Ayurveda, 8.0 
+4208,Especialista,Ayurveda, 9.6 
+4209,Clinica,Ayurveda, 8.0 
+4210,Hospital,ENT Specialist, 8.0 
+4211,ONG,General Medicine, 9.3 
+4212,Otro,General Medicine, 8.0 
+4213,Medico,Dentist, 7.6 
+4214,Especialista,Dermatologists, 9.8 
+4215,Clinica,ENT Specialist, 9.5 
+4216,Hospital,General Medicine, 9.7 
+4217,ONG,Dermatologists, 8.0 
+4218,Otro,Dermatologists, 8.0 
+4219,Medico,ENT Specialist, 8.5 
+4220,Especialista,ENT Specialist, 0.7 
+4221,Clinica,ENT Specialist, 9.6 
+4222,Hospital,Ayurveda, 8.0 
+4223,ONG,General Medicine, 8.0 
+4224,Otro,Dentist, 8.0 
+4225,Medico,Dermatologists, 8.0 
+4226,Especialista,General Medicine, 8.0 
+4227,Clinica,Homeopath, 9.6 
+4228,Hospital,General Medicine, 9.0 
+4229,ONG,Dentist, 9.9 
+4230,Otro,Dermatologists, 9.9 
+4231,Medico,Ayurveda, 8.0 
+4232,Especialista,Ayurveda, 8.0 
+4233,Clinica,General Medicine, 9.3 
+4234,Hospital,Dermatologists, 8.0 
+4235,ONG,General Medicine, 8.0 
+4236,Otro,ENT Specialist, 8.0 
+4237,Medico,Dermatologists, 8.0 
+4238,Especialista,Dermatologists, 9.8 
+4239,Clinica,Homeopath, 8.0 
+4240,Hospital,ENT Specialist, 8.0 
+4241,ONG,Dentist, 8.0 
+4242,Otro,Dermatologists, 8.0 
+4243,Medico,Dentist, 10.0 
+4244,Especialista,Ayurveda, 8.0 
+4245,Clinica,Homeopath, 8.0 
+4246,Hospital,General Medicine, 9.7 
+4247,ONG,Homeopath, 9.5 
+4248,Otro,Homeopath, 8.0 
+4249,Medico,Dentist, 8.0 
+4250,Especialista,Dermatologists, 9.5 
+4251,Clinica,General Medicine, 9.7 
+4252,Hospital,General Medicine, 9.6 
+4253,ONG,Dermatologists, 8.0 
+4254,Otro,Dentist, 9.2 
+4255,Medico,General Medicine, 9.6 
+4256,Especialista,Ayurveda, 8.0 
+4257,Clinica,General Medicine, 8.0 
+4258,Hospital,Dentist, 8.0 
+4259,ONG,Dentist, 10.0 
+4260,Otro,Ayurveda, 8.0 
+4261,Medico,Dermatologists, 10.0 
+4262,Especialista,Dentist, 9.8 
+4263,Clinica,Homeopath, 9.7 
+4264,Hospital,Dermatologists, 10.0 
+4265,ONG,General Medicine, 8.0 
+4266,Otro,General Medicine, 8.0 
+4267,Medico,Homeopath, 9.8 
+4268,Especialista,Dentist, 9.5 
+4269,Clinica,General Medicine, 9.8 
+4270,Hospital,ENT Specialist, 8.0 
+4271,ONG,Ayurveda, 9.0 
+4272,Otro,Dentist, 8.0 
+4273,Medico,Homeopath, 8.0 
+4274,Especialista,General Medicine, 8.0 
+4275,Clinica,Homeopath, 8.0 
+4276,Hospital,Dermatologists, 9.2 
+4277,ONG,Dermatologists, 8.0 
+4278,Otro,General Medicine, 8.0 
+4279,Medico,Dentist, 8.0 
+4280,Especialista,Dermatologists, 8.0 
+4281,Clinica,Ayurveda, 8.0 
+4282,Hospital,Dermatologists, 8.0 
+4283,ONG,Homeopath, 8.0 
+4284,Otro,Dermatologists, 8.0 
+4285,Medico,General Medicine, 9.5 
+4286,Especialista,Dentist, 8.0 
+4287,Clinica,Dentist, 8.0 
+4288,Hospital,Homeopath, 8.0 
+4289,ONG,Homeopath, 8.0 
+4290,Otro,Ayurveda, 10.0 
+4291,Medico,Homeopath, 8.0 
+4292,Especialista,Dermatologists, 8.0 
+4293,Clinica,Dermatologists, 10.0 
+4294,Hospital,General Medicine, 8.0 
+4295,ONG,ENT Specialist, 8.0 
+4296,Otro,Dermatologists, 9.0 
+4297,Medico,General Medicine, 9.0 
+4298,Especialista,Dentist, 8.0 
+4299,Clinica,Dentist, 9.9 
+4300,Hospital,ENT Specialist, 9.7 
+4301,ONG,ENT Specialist, 8.0 
+4302,Otro,ENT Specialist, 8.0 
+4303,Medico,Ayurveda, 8.0 
+4304,Especialista,Ayurveda, 8.0 
+4305,Clinica,Homeopath, 8.0 
+4306,Hospital,Dentist, 8.9 
+4307,ONG,General Medicine, 10.0 
+4308,Otro,Dermatologists, 8.0 
+4309,Medico,ENT Specialist, 9.9 
+4310,Especialista,Homeopath, 9.8 
+4311,Clinica,ENT Specialist, 8.0 
+4312,Hospital,General Medicine, 9.0 
+4313,ONG,ENT Specialist, 8.0 
+4314,Otro,Dentist, 9.6 
+4315,Medico,Dermatologists, 8.0 
+4316,Especialista,Dermatologists, 8.0 
+4317,Clinica,General Medicine, 9.0 
+4318,Hospital,Dermatologists, 8.0 
+4319,ONG,Dentist, 9.9 
+4320,Otro,Dermatologists, 10.0 
+4321,Medico,Homeopath, 8.0 
+4322,Especialista,Homeopath, 8.0 
+4323,Clinica,Dermatologists, 10.0 
+4324,Hospital,Dentist, 10.0 
+4325,ONG,Dentist, 8.0 
+4326,Otro,Dermatologists, 9.8 
+4327,Medico,Dentist, 9.8 
+4328,Especialista,ENT Specialist, 9.0 
+4329,Clinica,Dentist, 8.0 
+4330,Hospital,Dentist, 8.0 
+4331,ONG,Ayurveda, 9.9 
+4332,Otro,Dermatologists, 8.0 
+4333,Medico,ENT Specialist, 8.0 
+4334,Especialista,Dermatologists, 8.0 
+4335,Clinica,Dentist, 9.6 
+4336,Hospital,Homeopath, 9.4 
+4337,ONG,General Medicine, 8.0 
+4338,Otro,Homeopath, 10.0 
+4339,Medico,General Medicine, 8.0 
+4340,Especialista,Ayurveda, 8.0 
+4341,Clinica,Homeopath, 8.0 
+4342,Hospital,Ayurveda, 8.0 
+4343,ONG,ENT Specialist, 8.0 
+4344,Otro,General Medicine, 8.0 
+4345,Medico,General Medicine, 8.0 
+4346,Especialista,General Medicine, 8.0 
+4347,Clinica,Homeopath, 8.0 
+4348,Hospital,Dermatologists, 9.6 
+4349,ONG,General Medicine, 8.0 
+4350,Otro,Dentist, 8.0 
+4351,Medico,Ayurveda, 8.0 
+4352,Especialista,Dentist, 9.6 
+4353,Clinica,ENT Specialist, 10.0 
+4354,Hospital,Ayurveda, 8.0 
+4355,ONG,Dentist, 8.0 
+4356,Otro,Dentist, 10.0 
+4357,Medico,Dermatologists, 9.9 
+4358,Especialista,General Medicine, 8.0 
+4359,Clinica,Dentist, 8.0 
+4360,Hospital,General Medicine, 9.9 
+4361,ONG,Dermatologists, 9.0 
+4362,Otro,Dermatologists, 9.0 
+4363,Medico,Homeopath, 9.7 
+4364,Especialista,ENT Specialist, 8.0 
+4365,Clinica,Dermatologists, 8.0 
+4366,Hospital,General Medicine, 8.7 
+4367,ONG,Ayurveda, 8.0 
+4368,Otro,Dermatologists, 9.5 
+4369,Medico,Dentist, 9.5 
+4370,Especialista,Dermatologists, 9.9 
+4371,Clinica,General Medicine, 9.3 
+4372,Hospital,General Medicine, 8.0 
+4373,ONG,Ayurveda, 8.0 
+4374,Otro,General Medicine, 9.7 
+4375,Medico,General Medicine, 8.0 
+4376,Especialista,General Medicine, 8.0 
+4377,Clinica,Dermatologists, 8.0 
+4378,Hospital,Dermatologists, 8.0 
+4379,ONG,General Medicine, 8.0 
+4380,Otro,Dermatologists, 8.0 
+4381,Medico,ENT Specialist, 10.0 
+4382,Especialista,General Medicine, 8.5 
+4383,Clinica,General Medicine, 9.8 
+4384,Hospital,ENT Specialist, 8.0 
+4385,ONG,Dermatologists, 8.8 
+4386,Otro,Ayurveda, 9.5 
+4387,Medico,General Medicine, 8.0 
+4388,Especialista,Dentist, 9.7 
+4389,Clinica,Dentist, 8.0 
+4390,Hospital,ENT Specialist, 8.0 
+4391,ONG,Dentist, 8.0 
+4392,Otro,Dermatologists, 8.0 
+4393,Medico,Dentist, 8.5 
+4394,Especialista,General Medicine, 8.0 
+4395,Clinica,Homeopath, 10.0 
+4396,Hospital,Ayurveda, 10.0 
+4397,ONG,General Medicine, 8.0 
+4398,Otro,ENT Specialist, 8.0 
+4399,Medico,Dermatologists, 9.3 
+4400,Especialista,Dentist, 8.3 
+4401,Clinica,Dermatologists, 9.4 
+4402,Hospital,General Medicine, 10.0 
+4403,ONG,Homeopath, 8.0 
+4404,Otro,Ayurveda, 8.0 
+4405,Medico,General Medicine, 10.0 
+4406,Especialista,ENT Specialist, 8.0 
+4407,Clinica,Dermatologists, 8.0 
+4408,Hospital,Dentist, 9.2 
+4409,ONG,Dermatologists, 10.0 
+4410,Otro,Homeopath, 8.0 
+4411,Medico,Homeopath, 10.0 
+4412,Especialista,General Medicine, 8.0 
+4413,Clinica,Homeopath, 8.0 
+4414,Hospital,Dentist, 8.0 
+4415,ONG,Dentist, 9.8 
+4416,Otro,Ayurveda, 10.0 
+4417,Medico,General Medicine, 8.0 
+4418,Especialista,Ayurveda, 9.9 
+4419,Clinica,ENT Specialist, 8.0 
+4420,Hospital,Ayurveda, 9.0 
+4421,ONG,Dentist, 8.0 
+4422,Otro,General Medicine, 10.0 
+4423,Medico,Ayurveda, 8.0 
+4424,Especialista,Dentist, 8.0 
+4425,Clinica,ENT Specialist, 9.7 
+4426,Hospital,General Medicine, 8.0 
+4427,ONG,Dentist, 8.0 
+4428,Otro,ENT Specialist, 8.0 
+4429,Medico,Dermatologists, 9.6 
+4430,Especialista,Dentist, 8.0 
+4431,Clinica,Dentist, 10.0 
+4432,Hospital,Homeopath, 9.8 
+4433,ONG,Dentist, 8.0 
+4434,Otro,Dermatologists, 9.9 
+4435,Medico,Dentist, 9.6 
+4436,Especialista,ENT Specialist, 9.9 
+4437,Clinica,ENT Specialist, 8.0 
+4438,Hospital,Dermatologists, 9.7 
+4439,ONG,Ayurveda, 8.0 
+4440,Otro,General Medicine, 8.0 
+4441,Medico,Dentist, 8.0 
+4442,Especialista,Dentist, 8.0 
+4443,Clinica,Dentist, 8.0 
+4444,Hospital,General Medicine, 9.8 
+4445,ONG,Ayurveda, 10.0 
+4446,Otro,Ayurveda, 9.4 
+4447,Medico,Ayurveda, 8.0 
+4448,Especialista,Homeopath, 8.0 
+4449,Clinica,General Medicine, 10.0 
+4450,Hospital,Homeopath, 8.0 
+4451,ONG,Dermatologists, 8.0 
+4452,Otro,ENT Specialist, 9.3 
+4453,Medico,Dentist, 8.0 
+4454,Especialista,ENT Specialist, 9.8 
+4455,Clinica,Dentist, 8.0 
+4456,Hospital,Ayurveda, 8.0 
+4457,ONG,Dentist, 8.0 
+4458,Otro,General Medicine, 10.0 
+4459,Medico,Dermatologists, 8.0 
+4460,Especialista,Dermatologists, 0.7 
+4461,Clinica,Dermatologists, 8.6 
+4462,Hospital,Dermatologists, 9.6 
+4463,ONG,Dermatologists, 9.4 
+4464,Otro,Homeopath, 9.7 
+4465,Medico,Dermatologists, 8.0 
+4466,Especialista,Ayurveda, 8.0 
+4467,Clinica,Homeopath, 8.0 
+4468,Hospital,Dentist, 10.0 
+4469,ONG,Ayurveda, 10.0 
+4470,Otro,General Medicine, 9.4 
+4471,Medico,Dermatologists, 8.0 
+4472,Especialista,General Medicine, 8.0 
+4473,Clinica,Ayurveda, 8.0 
+4474,Hospital,Dermatologists, 8.0 
+4475,ONG,Dentist, 0.7 
+4476,Otro,Dermatologists, 8.0 
+4477,Medico,Dentist, 8.0 
+4478,Especialista,General Medicine, 8.0 
+4479,Clinica,Dentist, 0.7 
+4480,Hospital,Dermatologists, 8.0 
+4481,ONG,Dermatologists, 8.0 
+4482,Otro,General Medicine, 8.0 
+4483,Medico,ENT Specialist, 8.0 
+4484,Especialista,Dermatologists, 8.0 
+4485,Clinica,Ayurveda, 9.6 
+4486,Hospital,Dermatologists, 9.6 
+4487,ONG,Homeopath, 9.9 
+4488,Otro,Dentist, 8.0 
+4489,Medico,Dermatologists, 9.8 
+4490,Especialista,ENT Specialist, 8.0 
+4491,Clinica,General Medicine, 8.8 
+4492,Hospital,ENT Specialist, 8.0 
+4493,ONG,General Medicine, 8.0 
+4494,Otro,Homeopath, 8.0 
+4495,Medico,Dentist, 8.0 
+4496,Especialista,ENT Specialist, 9.8 
+4497,Clinica,General Medicine, 9.5 
+4498,Hospital,Dentist, 8.0 
+4499,ONG,Homeopath, 8.0 
+4500,Otro,Homeopath, 8.0 
+4501,Medico,Ayurveda, 8.0 
+4502,Especialista,Dermatologists, 8.0 
+4503,Clinica,Dermatologists, 9.2 
+4504,Hospital,Homeopath, 9.8 
+4505,ONG,ENT Specialist, 8.0 
+4506,Otro,Dermatologists, 8.0 
+4507,Medico,Ayurveda, 8.3 
+4508,Especialista,Dentist, 8.0 
+4509,Clinica,General Medicine, 9.9 
+4510,Hospital,Dermatologists, 0.6 
+4511,ONG,General Medicine, 8.0 
+4512,Otro,ENT Specialist, 9.2 
+4513,Medico,General Medicine, 8.0 
+4514,Especialista,ENT Specialist, 9.3 
+4515,Clinica,Dermatologists, 9.0 
+4516,Hospital,Dermatologists, 10.0 
+4517,ONG,General Medicine, 8.0 
+4518,Otro,Dermatologists, 8.0 
+4519,Medico,Ayurveda, 8.0 
+4520,Especialista,ENT Specialist, 8.0 
+4521,Clinica,Homeopath, 8.0 
+4522,Hospital,Dentist, 9.5 
+4523,ONG,Ayurveda, 9.7 
+4524,Otro,Dentist, 9.3 
+4525,Medico,Dentist, 10.0 
+4526,Especialista,Ayurveda, 8.0 
+4527,Clinica,Homeopath, 8.0 
+4528,Hospital,Dermatologists, 10.0 
+4529,ONG,Ayurveda, 9.3 
+4530,Otro,ENT Specialist, 8.0 
+4531,Medico,Dentist, 8.0 
+4532,Especialista,Dentist, 8.0 
+4533,Clinica,Dentist, 9.9 
+4534,Hospital,Dentist, 8.0 
+4535,ONG,Dentist, 8.0 
+4536,Otro,Dentist, 9.8 
+4537,Medico,Dentist, 9.9 
+4538,Especialista,Homeopath, 8.0 
+4539,Clinica,Homeopath, 8.0 
+4540,Hospital,ENT Specialist, 10.0 
+4541,ONG,ENT Specialist, 8.0 
+4542,Otro,Dentist, 8.0 
+4543,Medico,Ayurveda, 8.0 
+4544,Especialista,Dermatologists, 8.0 
+4545,Clinica,Homeopath, 8.0 
+4546,Hospital,Ayurveda, 8.0 
+4547,ONG,ENT Specialist, 8.0 
+4548,Otro,Ayurveda, 8.0 
+4549,Medico,ENT Specialist, 8.0 
+4550,Especialista,General Medicine, 8.0 
+4551,Clinica,General Medicine, 8.0 
+4552,Hospital,ENT Specialist, 9.0 
+4553,ONG,ENT Specialist, 8.0 
+4554,Otro,ENT Specialist, 9.7 
+4555,Medico,Dermatologists, 9.8 
+4556,Especialista,Dermatologists, 9.7 
+4557,Clinica,General Medicine, 9.7 
+4558,Hospital,ENT Specialist, 9.3 
+4559,ONG,Dermatologists, 9.0 
+4560,Otro,Homeopath, 8.0 
+4561,Medico,Ayurveda, 8.7 
+4562,Especialista,Ayurveda, 9.7 
+4563,Clinica,ENT Specialist, 8.0 
+4564,Hospital,ENT Specialist, 10.0 
+4565,ONG,Dermatologists, 9.3 
+4566,Otro,Dentist, 8.0 
+4567,Medico,ENT Specialist, 9.7 
+4568,Especialista,General Medicine, 9.5 
+4569,Clinica,Dermatologists, 8.0 
+4570,Hospital,Ayurveda, 8.0 
+4571,ONG,Dentist, 8.0 
+4572,Otro,Dentist, 8.0 
+4573,Medico,ENT Specialist, 8.0 
+4574,Especialista,Dermatologists, 8.7 
+4575,Clinica,General Medicine, 8.5 
+4576,Hospital,Dentist, 8.2 
+4577,ONG,Dentist, 10.0 
+4578,Otro,Ayurveda, 8.0 
+4579,Medico,General Medicine, 9.6 
+4580,Especialista,Ayurveda, 9.6 
+4581,Clinica,Ayurveda, 9.7 
+4582,Hospital,Dentist, 8.0 
+4583,ONG,ENT Specialist, 9.7 
+4584,Otro,Dentist, 10.0 
+4585,Medico,Ayurveda, 9.4 
+4586,Especialista,Dentist, 8.0 
+4587,Clinica,ENT Specialist, 8.0 
+4588,Hospital,Homeopath, 8.0 
+4589,ONG,Dentist, 8.0 
+4590,Otro,ENT Specialist, 9.6 
+4591,Medico,General Medicine, 810.0 
+4592,Especialista,Dentist, 9.4 
+4593,Clinica,Dermatologists, 9.8 
+4594,Hospital,Homeopath, 8.0 
+4595,ONG,ENT Specialist, 10.0 
+4596,Otro,Ayurveda, 8.0 
+4597,Medico,Dentist, 8.0 
+4598,Especialista,Dentist, 8.0 
+4599,Clinica,Ayurveda, 9.8 
+4600,Hospital,General Medicine, 8.0 
+4601,ONG,Dermatologists, 9.4 
+4602,Otro,Dentist, 8.0 
+4603,Medico,ENT Specialist, 8.0 
+4604,Especialista,ENT Specialist, 10.0 
+4605,Clinica,Dermatologists, 8.0 
+4606,Hospital,Homeopath, 10.0 
+4607,ONG,Dentist, 9.2 
+4608,Otro,ENT Specialist, 8.0 
+4609,Medico,General Medicine, 7.4 
+4610,Especialista,Ayurveda, 0.8 
+4611,Clinica,Ayurveda, 8.0 
+4612,Hospital,Homeopath, 8.0 
+4613,ONG,Dentist, 7.6 
+4614,Otro,Dermatologists, 8.0 
+4615,Medico,ENT Specialist, 8.0 
+4616,Especialista,Dentist, 8.0 
+4617,Clinica,General Medicine, 8.0 
+4618,Hospital,General Medicine, 8.0 
+4619,ONG,Ayurveda, 8.0 
+4620,Otro,Ayurveda, 10.0 
+4621,Medico,Dentist, 9.8 
+4622,Especialista,Homeopath, 9.9 
+4623,Clinica,General Medicine, 8.0 
+4624,Hospital,Dentist, 8.0 
+4625,ONG,ENT Specialist, 8.0 
+4626,Otro,Homeopath, 8.0 
+4627,Medico,Dentist, 8.0 
+4628,Especialista,Dentist, 9.7 
+4629,Clinica,Ayurveda, 9.4 
+4630,Hospital,Dermatologists, 8.0 
+4631,ONG,Dermatologists, 9.7 
+4632,Otro,Homeopath, 9.0 
+4633,Medico,General Medicine, 8.0 
+4634,Especialista,Dermatologists, 8.0 
+4635,Clinica,Ayurveda, 8.0 
+4636,Hospital,Dentist, 8.0 
+4637,ONG,General Medicine, 8.0 
+4638,Otro,General Medicine, 8.0 
+4639,Medico,Dermatologists, 8.0 
+4640,Especialista,ENT Specialist, 9.6 
+4641,Clinica,Dentist, 9.4 
+4642,Hospital,Homeopath, 9.7 
+4643,ONG,General Medicine, 8.0 
+4644,Otro,ENT Specialist, 8.0 
+4645,Medico,Dentist, 9.0 
+4646,Especialista,General Medicine, 9.7 
+4647,Clinica,ENT Specialist, 8.0 
+4648,Hospital,Ayurveda, 8.0 
+4649,ONG,Homeopath, 8.0 
+4650,Otro,Homeopath, 8.0 
+4651,Medico,Dentist, 8.2 
+4652,Especialista,Ayurveda, 9.9 
+4653,Clinica,ENT Specialist, 9.0 
+4654,Hospital,Dentist, 8.0 
+4655,ONG,General Medicine, 9.9 
+4656,Otro,Dermatologists, 8.0 
+4657,Medico,ENT Specialist, 9.6 
+4658,Especialista,Ayurveda, 8.0 
+4659,Clinica,General Medicine, 9.8 
+4660,Hospital,Dermatologists, 8.0 
+4661,ONG,Dentist, 8.0 
+4662,Otro,Dentist, 10.0 
+4663,Medico,Dentist, 9.0 
+4664,Especialista,Ayurveda, 8.0 
+4665,Clinica,Dermatologists, 8.0 
+4666,Hospital,Homeopath, 9.4 
+4667,ONG,Dermatologists, 8.0 
+4668,Otro,Ayurveda, 9.0 
+4669,Medico,Dentist, 8.0 
+4670,Especialista,General Medicine, 10.0 
+4671,Clinica,Dermatologists, 8.0 
+4672,Hospital,General Medicine, 9.9 
+4673,ONG,Dentist, 8.0 
+4674,Otro,Dermatologists, 9.8 
+4675,Medico,General Medicine, 9.7 
+4676,Especialista,Dermatologists, 9.0 
+4677,Clinica,Dentist, 10.0 
+4678,Hospital,Homeopath, 8.0 
+4679,ONG,Homeopath, 8.0 
+4680,Otro,General Medicine, 84.0 
+4681,Medico,Homeopath, 8.0 
+4682,Especialista,Dentist, 8.0 
+4683,Clinica,Dermatologists, 8.0 
+4684,Hospital,Dentist, 8.6 
+4685,ONG,General Medicine, 10.0 
+4686,Otro,General Medicine, 8.3 
+4687,Medico,Dentist, 8.0 
+4688,Especialista,Dermatologists, 9.9 
+4689,Clinica,General Medicine, 9.0 
+4690,Hospital,Dentist, 9.4 
+4691,ONG,Dermatologists, 8.0 
+4692,Otro,Dentist, 8.0 
+4693,Medico,Dentist, 9.0 
+4694,Especialista,General Medicine, 8.0 
+4695,Clinica,Homeopath, 9.0 
+4696,Hospital,Dentist, 8.0 
+4697,ONG,Dermatologists, 9.8 
+4698,Otro,Ayurveda, 8.0 
+4699,Medico,Homeopath, 8.0 
+4700,Especialista,Ayurveda, 10.0 
+4701,Clinica,Dermatologists, 8.0 
+4702,Hospital,Dentist, 8.0 
+4703,ONG,Dentist, 8.0 
+4704,Otro,Ayurveda, 8.0 
+4705,Medico,Ayurveda, 8.0 
+4706,Especialista,Dermatologists, 8.0 
+4707,Clinica,Dentist, 9.6 
+4708,Hospital,Homeopath, 9.9 
+4709,ONG,ENT Specialist, 8.0 
+4710,Otro,General Medicine, 8.0 
+4711,Medico,Dentist, 8.0 
+4712,Especialista,Ayurveda, 9.3 
+4713,Clinica,Homeopath, 8.0 
+4714,Hospital,Ayurveda, 10.0 
+4715,ONG,Dentist, 8.0 
+4716,Otro,Dentist, 10.0 
+4717,Medico,Dentist, 9.5 
+4718,Especialista,General Medicine, 8.0 
+4719,Clinica,Ayurveda, 8.0 
+4720,Hospital,Homeopath, 8.0 
+4721,ONG,Dentist, 9.2 
+4722,Otro,Ayurveda, 9.5 
+4723,Medico,Homeopath, 8.0 
+4724,Especialista,Dentist, 8.0 
+4725,Clinica,General Medicine, 10.0 
+4726,Hospital,Dentist, 8.0 
+4727,ONG,General Medicine, 10.0 
+4728,Otro,Ayurveda, 8.0 
+4729,Medico,Dentist, 9.7 
+4730,Especialista,Dermatologists, 8.0 
+4731,Clinica,Dentist, 8.0 
+4732,Hospital,General Medicine, 9.5 
+4733,ONG,Dentist, 8.0 
+4734,Otro,Dermatologists, 8.0 
+4735,Medico,Homeopath, 10.0 
+4736,Especialista,Homeopath, 8.0 
+4737,Clinica,Ayurveda, 8.0 
+4738,Hospital,Homeopath, 10.0 
+4739,ONG,Homeopath, 8.0 
+4740,Otro,Ayurveda, 8.0 
+4741,Medico,Ayurveda, 8.0 
+4742,Especialista,Dentist, 9.3 
+4743,Clinica,Dentist, 9.5 
+4744,Hospital,Ayurveda, 8.0 
+4745,ONG,Ayurveda, 8.0 
+4746,Otro,General Medicine, 8.0 
+4747,Medico,Ayurveda, 8.0 
+4748,Especialista,General Medicine, 9.8 
+4749,Clinica,Dentist, 8.0 
+4750,Hospital,Dentist, 9.8 
+4751,ONG,Dentist, 9.6 
+4752,Otro,Dermatologists, 9.7 
+4753,Medico,Dentist, 10.0 
+4754,Especialista,General Medicine, 8.0 
+4755,Clinica,Homeopath, 8.5 
+4756,Hospital,Dentist, 8.0 
+4757,ONG,ENT Specialist, 9.6 
+4758,Otro,Dermatologists, 8.0 
+4759,Medico,Homeopath, 8.0 
+4760,Especialista,Dentist, 8.0 
+4761,Clinica,Dentist, 9.8 
+4762,Hospital,ENT Specialist, 8.0 
+4763,ONG,Dentist, 8.0 
+4764,Otro,Dentist, 8.0 
+4765,Medico,General Medicine, 9.5 
+4766,Especialista,Dermatologists, 9.9 
+4767,Clinica,Ayurveda, 8.0 
+4768,Hospital,Dentist, 8.0 
+4769,ONG,Homeopath, 9.8 
+4770,Otro,Dentist, 9.9 
+4771,Medico,General Medicine, 9.8 
+4772,Especialista,Ayurveda, 10.0 
+4773,Clinica,Dermatologists, 8.0 
+4774,Hospital,Dentist, 8.0 
+4775,ONG,General Medicine, 9.9 
+4776,Otro,Ayurveda, 8.0 
+4777,Medico,General Medicine, 8.0 
+4778,Especialista,Dermatologists, 9.8 
+4779,Clinica,General Medicine, 9.3 
+4780,Hospital,General Medicine, 8.0 
+4781,ONG,Dentist, 8.0 
+4782,Otro,Dermatologists, 9.9 
+4783,Medico,General Medicine, 9.4 
+4784,Especialista,Dentist, 8.0 
+4785,Clinica,Dentist, 9.7 
+4786,Hospital,Dentist, 10.0 
+4787,ONG,Homeopath, 8.0 
+4788,Otro,Ayurveda, 8.0 
+4789,Medico,Ayurveda, 8.0 
+4790,Especialista,General Medicine, 9.3 
+4791,Clinica,Homeopath, 8.0 
+4792,Hospital,Dentist, 8.0 
+4793,ONG,Dermatologists, 9.6 
+4794,Otro,Dermatologists, 9.8 
+4795,Medico,General Medicine, 9.3 
+4796,Especialista,Ayurveda, 8.0 
+4797,Clinica,General Medicine, 9.6 
+4798,Hospital,Homeopath, 9.6 
+4799,ONG,Ayurveda, 8.0 
+4800,Otro,Dentist, 9.5 
+4801,Medico,ENT Specialist, 10.0 
+4802,Especialista,Dentist, 8.0 
+4803,Clinica,ENT Specialist, 9.4 
+4804,Hospital,ENT Specialist, 8.0 
+4805,ONG,General Medicine, 9.5 
+4806,Otro,Dentist, 8.0 
+4807,Medico,Dentist, 10.0 
+4808,Especialista,General Medicine, 8.0 
+4809,Clinica,Dentist, 0.7 
+4810,Hospital,Dentist, 9.8 
+4811,ONG,Dermatologists, 10.0 
+4812,Otro,Homeopath, 8.9 
+4813,Medico,Dentist, 8.0 
+4814,Especialista,General Medicine, 8.9 
+4815,Clinica,Dermatologists, 8.0 
+4816,Hospital,General Medicine, 9.7 
+4817,ONG,Dermatologists, 8.2 
+4818,Otro,Ayurveda, 9.8 
+4819,Medico,General Medicine, 8.0 
+4820,Especialista,Ayurveda, 9.2 
+4821,Clinica,Homeopath, 10.0 
+4822,Hospital,ENT Specialist, 9.8 
+4823,ONG,Dermatologists, 8.0 
+4824,Otro,Dentist, 8.0 
+4825,Medico,General Medicine, 9.9 
+4826,Especialista,General Medicine, 0.7 
+4827,Clinica,Homeopath, 9.6 
+4828,Hospital,General Medicine, 8.0 
+4829,ONG,Dentist, 8.0 
+4830,Otro,Homeopath, 9.5 
+4831,Medico,ENT Specialist, 9.4 
+4832,Especialista,General Medicine, 9.9 
+4833,Clinica,General Medicine, 8.0 
+4834,Hospital,Dermatologists, 8.0 
+4835,ONG,Dermatologists, 9.3 
+4836,Otro,Ayurveda, 9.7 
+4837,Medico,Ayurveda, 8.0 
+4838,Especialista,General Medicine, 8.0 
+4839,Clinica,Ayurveda, 8.9 
+4840,Hospital,Ayurveda, 8.0 
+4841,ONG,Dentist, 8.0 
+4842,Otro,Dermatologists, 9.9 
+4843,Medico,Dermatologists, 8.0 
+4844,Especialista,General Medicine, 0.8 
+4845,Clinica,General Medicine, 8.0 
+4846,Hospital,Dermatologists, 8.0 
+4847,ONG,Dermatologists, 10.0 
+4848,Otro,Dentist, 8.0 
+4849,Medico,General Medicine, 9.9 
+4850,Especialista,Homeopath, 8.0 
+4851,Clinica,General Medicine, 8.0 
+4852,Hospital,Homeopath, 0.7 
+4853,ONG,Ayurveda, 9.0 
+4854,Otro,Dentist, 8.0 
+4855,Medico,Dermatologists, 9.9 
+4856,Especialista,General Medicine, 9.6 
+4857,Clinica,Dentist, 8.0 
+4858,Hospital,Dermatologists, 8.0 
+4859,ONG,Ayurveda, 8.0 
+4860,Otro,Dermatologists, 8.0 
+4861,Medico,Ayurveda, 8.0 
+4862,Especialista,Dermatologists, 9.9 
+4863,Clinica,Dentist, 9.8 
+4864,Hospital,Dermatologists, 10.0 
+4865,ONG,Dermatologists, 10.0 
+4866,Otro,Dentist, 9.4 
+4867,Medico,Homeopath, 8.0 
+4868,Especialista,General Medicine, 8.0 
+4869,Clinica,Dentist, 8.0 
+4870,Hospital,Dermatologists, 8.0 
+4871,ONG,Ayurveda, 10.0 
+4872,Otro,Dentist, 8.0 
+4873,Medico,General Medicine, 9.5 
+4874,Especialista,Dentist, 8.0 
+4875,Clinica,Dermatologists, 10.0 
+4876,Hospital,Dentist, 9.3 
+4877,ONG,General Medicine, 9.4 
+4878,Otro,Dentist, 8.0 
+4879,Medico,General Medicine, 9.7 
+4880,Especialista,Dermatologists, 8.0 
+4881,Clinica,Dentist, 6.8 
+4882,Hospital,Ayurveda, 8.0 
+4883,ONG,ENT Specialist, 10.0 
+4884,Otro,Dermatologists, 8.0 
+4885,Medico,Dermatologists, 9.7 
+4886,Especialista,Ayurveda, 8.0 
+4887,Clinica,ENT Specialist, 9.9 
+4888,Hospital,Dentist, 8.0 
+4889,ONG,Homeopath, 8.0 
+4890,Otro,Dermatologists, 10.0 
+4891,Medico,ENT Specialist, 9.9 
+4892,Especialista,ENT Specialist, 9.2 
+4893,Clinica,Homeopath, 810.0 
+4894,Hospital,Dentist, 9.5 
+4895,ONG,Dentist, 9.7 
+4896,Otro,Homeopath, 10.0 
+4897,Medico,General Medicine, 8.0 
+4898,Especialista,Homeopath, 10.0 
+4899,Clinica,Ayurveda, 8.0 
+4900,Hospital,Dentist, 8.0 
+4901,ONG,ENT Specialist, 10.0 
+4902,Otro,Dentist, 8.0 
+4903,Medico,Dermatologists, 9.6 
+4904,Especialista,General Medicine, 8.0 
+4905,Clinica,Dentist, 8.0 
+4906,Hospital,Dermatologists, 9.9 
+4907,ONG,Ayurveda, 9.5 
+4908,Otro,General Medicine, 9.2 
+4909,Medico,General Medicine, 8.9 
+4910,Especialista,General Medicine, 8.0 
+4911,Clinica,General Medicine, 8.0 
+4912,Hospital,Dentist, 8.0 
+4913,ONG,General Medicine, 9.7 
+4914,Otro,ENT Specialist, 9.9 
+4915,Medico,Ayurveda, 9.0 
+4916,Especialista,ENT Specialist, 8.0 
+4917,Clinica,Dentist, 10.0 
+4918,Hospital,General Medicine, 8.0 
+4919,ONG,Dentist, 9.4 
+4920,Otro,Dermatologists, 9.7 
+4921,Medico,Dermatologists, 9.5 
+4922,Especialista,ENT Specialist, 9.7 
+4923,Clinica,Dentist, 8.0 
+4924,Hospital,Dentist, 8.0 
+4925,ONG,Homeopath, 8.0 
+4926,Otro,Dermatologists, 8.0 
+4927,Medico,Dermatologists, 9.7 
+4928,Especialista,ENT Specialist, 8.0 
+4929,Clinica,Dentist, 8.0 
+4930,Hospital,ENT Specialist, 8.0 
+4931,ONG,Dermatologists, 8.9 
+4932,Otro,Homeopath, 8.0 
+4933,Medico,Dermatologists, 8.0 
+4934,Especialista,Ayurveda, 8.0 
+4935,Clinica,Dentist, 9.5 
+4936,Hospital,Dentist, 9.3 
+4937,ONG,Dentist, 8.0 
+4938,Otro,ENT Specialist, 9.2 
+4939,Medico,ENT Specialist, 8.0 
+4940,Especialista,Homeopath, 8.0 
+4941,Clinica,ENT Specialist, 8.0 
+4942,Hospital,General Medicine, 9.0 
+4943,ONG,Dentist, 9.6 
+4944,Otro,ENT Specialist, 8.0 
+4945,Medico,Dentist, 8.0 
+4946,Especialista,Homeopath, 8.0 
+4947,Clinica,Ayurveda, 8.0 
+4948,Hospital,General Medicine, 8.0 
+4949,ONG,Dermatologists, 8.0 
+4950,Otro,Dentist, 8.8 
+4951,Medico,ENT Specialist, 8.0 
+4952,Especialista,Dentist, 9.4 
+4953,Clinica,Dentist, 9.8 
+4954,Hospital,General Medicine, 9.6 
+4955,ONG,Homeopath, 8.0 
+4956,Otro,Homeopath, 8.0 
+4957,Medico,General Medicine, 8.0 
+4958,Especialista,ENT Specialist, 8.0 
+4959,Clinica,General Medicine, 8.0 
+4960,Hospital,Homeopath, 8.0 
+4961,ONG,Homeopath, 10.0 
+4962,Otro,Dentist, 10.0 
+4963,Medico,Dermatologists, 10.0 
+4964,Especialista,Dermatologists, 9.3 
+4965,Clinica,Dermatologists, 9.0 
+4966,Hospital,Dermatologists, 9.4 
+4967,ONG,Homeopath, 9.8 
+4968,Otro,ENT Specialist, 8.0 
+4969,Medico,Dentist, 8.0 
+4970,Especialista,Ayurveda, 10.0 
+4971,Clinica,Dermatologists, 8.0 
+4972,Hospital,Homeopath, 5.6 
+4973,ONG,General Medicine, 8.0 
+4974,Otro,Dermatologists, 8.0 
+4975,Medico,Dentist, 8.8 
+4976,Especialista,Ayurveda, 9.9 
+4977,Clinica,Dentist, 9.3 
+4978,Hospital,Dentist, 9.6 
+4979,ONG,Dermatologists, 10.0 
+4980,Otro,Dentist, 9.7 
+4981,Medico,General Medicine, 8.0 
+4982,Especialista,Homeopath, 9.9 
+4983,Clinica,Dermatologists, 9.0 
+4984,Hospital,Dentist, 8.0 
+4985,ONG,Dentist, 8.0 
+4986,Otro,Ayurveda, 8.0 
+4987,Medico,Ayurveda, 8.0 
+4988,Especialista,Ayurveda, 8.0 
+4989,Clinica,ENT Specialist, 8.0 
+4990,Hospital,General Medicine, 8.0 
+4991,ONG,Homeopath, 8.0 
+4992,Otro,General Medicine, 8.0 
+4993,Medico,Dermatologists, 9.8 
+4994,Especialista,Dermatologists, 8.7 
+4995,Clinica,Dermatologists, 8.0 
+4996,Hospital,Homeopath, 10.0 
+4997,ONG,Dentist, 10.0 
+4998,Otro,Homeopath, 9.8 
+4999,Medico,ENT Specialist, 8.0 
+5000,Especialista,Dentist, 8.0 
+5001,Clinica,Homeopath, 8.0 
+5002,Hospital,Dentist, 8.0 
+5003,ONG,Ayurveda, 9.7 
+5004,Otro,Dentist, 9.6 
+5005,Medico,Homeopath, 8.0 
+5006,Especialista,General Medicine, 8.0 
+5007,Clinica,Ayurveda, 8.0 
+5008,Hospital,ENT Specialist, 10.0 
+5009,ONG,ENT Specialist, 8.0 
+5010,Otro,Dermatologists, 8.0 
+5011,Medico,Ayurveda, 8.0 
+5012,Especialista,Dermatologists, 8.0 
+5013,Clinica,Ayurveda, 9.0 
+5014,Hospital,Ayurveda, 10.0 
+5015,ONG,Dentist, 9.8 
+5016,Otro,Ayurveda, 8.0 
+5017,Medico,Dermatologists, 8.0 
+5018,Especialista,Dentist, 8.0 
+5019,Clinica,Dermatologists, 10.0 
+5020,Hospital,ENT Specialist, 9.3 
+5021,ONG,General Medicine, 8.0 
+5022,Otro,Dermatologists, 8.0 
+5023,Medico,Homeopath, 8.0 
+5024,Especialista,General Medicine, 8.0 
+5025,Clinica,Homeopath, 8.0 
+5026,Hospital,Dentist, 8.0 
+5027,ONG,General Medicine, 8.0 
+5028,Otro,ENT Specialist, 84.0 
+5029,Medico,General Medicine, 0.5 
+5030,Especialista,Dentist, 9.5 
+5031,Clinica,Dentist, 10.0 
+5032,Hospital,ENT Specialist, 8.0 
+5033,ONG,Dentist, 8.0 
+5034,Otro,ENT Specialist, 9.0 
+5035,Medico,Ayurveda, 8.0 
+5036,Especialista,Ayurveda, 8.0 
+5037,Clinica,Dentist, 10.0 
+5038,Hospital,Ayurveda, 8.0 
+5039,ONG,Dentist, 8.0 
+5040,Otro,General Medicine, 9.8 
+5041,Medico,Dermatologists, 8.6 
+5042,Especialista,Dentist, 9.5 
+5043,Clinica,General Medicine, 10.0 
+5044,Hospital,Ayurveda, 8.0 
+5045,ONG,Dermatologists, 8.0 
+5046,Otro,Dentist, 10.0 
+5047,Medico,ENT Specialist, 10.0 
+5048,Especialista,Homeopath, 8.0 
+5049,Clinica,ENT Specialist, 9.9 
+5050,Hospital,Homeopath, 8.0 
+5051,ONG,Dentist, 8.0 
+5052,Otro,Dentist, 8.0 
+5053,Medico,Homeopath, 8.0 
+5054,Especialista,Homeopath, 8.0 
+5055,Clinica,Homeopath, 10.0 
+5056,Hospital,Ayurveda, 8.0 
+5057,ONG,General Medicine, 9.7 
+5058,Otro,Dermatologists, 8.0 
+5059,Medico,Dentist, 8.0 
+5060,Especialista,Dermatologists, 8.0 
+5061,Clinica,Homeopath, 8.0 
+5062,Hospital,Homeopath, 9.9 
+5063,ONG,ENT Specialist, 8.0 
+5064,Otro,Dentist, 9.4 
+5065,Medico,Homeopath, 10.0 
+5066,Especialista,Homeopath, 8.3 
+5067,Clinica,Homeopath, 8.0 
+5068,Hospital,General Medicine, 9.9 
+5069,ONG,Dermatologists, 8.0 
+5070,Otro,Dermatologists, 8.0 
+5071,Medico,General Medicine, 8.0 
+5072,Especialista,ENT Specialist, 10.0 
+5073,Clinica,Ayurveda, 8.0 
+5074,Hospital,ENT Specialist, 8.0 
+5075,ONG,Dentist, 8.2 
+5076,Otro,General Medicine, 9.3 
+5077,Medico,Dermatologists, 8.0 
+5078,Especialista,Dentist, 9.7 
+5079,Clinica,Dentist, 10.0 
+5080,Hospital,Homeopath, 10.0 
+5081,ONG,Ayurveda, 8.0 
+5082,Otro,General Medicine, 8.0 
+5083,Medico,Dentist, 8.0 
+5084,Especialista,General Medicine, 10.0 
+5085,Clinica,Homeopath, 9.9 
+5086,Hospital,Ayurveda, 8.0 
+5087,ONG,Dermatologists, 10.0 
+5088,Otro,Dermatologists, 9.5 
+5089,Medico,Homeopath, 8.0 
+5090,Especialista,Ayurveda, 8.0 
+5091,Clinica,Dentist, 8.0 
+5092,Hospital,Dentist, 8.2 
+5093,ONG,Dermatologists, 9.6 
+5094,Otro,ENT Specialist, 9.8 
+5095,Medico,Homeopath, 8.0 
+5096,Especialista,General Medicine, 8.0 
+5097,Clinica,Dermatologists, 9.6 
+5098,Hospital,ENT Specialist, 9.6 
+5099,ONG,ENT Specialist, 8.0 
+5100,Otro,Dentist, 8.0 
+5101,Medico,Ayurveda, 9.9 
+5102,Especialista,Dentist, 8.0 
+5103,Clinica,Ayurveda, 8.0 
+5104,Hospital,Homeopath, 8.0 
+5105,ONG,General Medicine, 8.0 
+5106,Otro,Dentist, 8.0 
+5107,Medico,Homeopath, 8.0 
+5108,Especialista,Homeopath, 8.0 
+5109,Clinica,Dentist, 8.0 
+5110,Hospital,Homeopath, 10.0 
+5111,ONG,General Medicine, 8.0 
+5112,Otro,Dermatologists, 10.0 
+5113,Medico,General Medicine, 8.0 
+5114,Especialista,Dentist, 8.0 
+5115,Clinica,Ayurveda, 8.0 
+5116,Hospital,Homeopath, 8.0 
+5117,ONG,General Medicine, 8.0 
+5118,Otro,Homeopath, 8.0 
+5119,Medico,Dentist, 9.8 
+5120,Especialista,Dermatologists, 8.0 
+5121,Clinica,Dermatologists, 8.0 
+5122,Hospital,General Medicine, 10.0 
+5123,ONG,Ayurveda, 8.0 
+5124,Otro,Dentist, 8.0 
+5125,Medico,Homeopath, 10.0 
+5126,Especialista,Dermatologists, 8.0 
+5127,Clinica,ENT Specialist, 8.0 
+5128,Hospital,Ayurveda, 0.3 
+5129,ONG,Dentist, 9.4 
+5130,Otro,Dentist, 9.7 
+5131,Medico,Homeopath, 8.0 
+5132,Especialista,ENT Specialist, 8.0 
+5133,Clinica,ENT Specialist, 8.0 
+5134,Hospital,Ayurveda, 10.0 
+5135,ONG,General Medicine, 9.5 
+5136,Otro,Homeopath, 8.0 
+5137,Medico,ENT Specialist, 8.0 
+5138,Especialista,Dermatologists, 8.0 
+5139,Clinica,Dentist, 9.7 
+5140,Hospital,Dermatologists, 9.9 
+5141,ONG,Dentist, 8.0 
+5142,Otro,Homeopath, 8.0 
+5143,Medico,General Medicine, 9.5 
+5144,Especialista,Dermatologists, 8.0 
+5145,Clinica,General Medicine, 8.0 
+5146,Hospital,Dermatologists, 8.0 
+5147,ONG,Dermatologists, 9.5 
+5148,Otro,General Medicine, 10.0 
+5149,Medico,ENT Specialist, 8.0 
+5150,Especialista,General Medicine, 8.0 
+5151,Clinica,General Medicine, 9.7 
+5152,Hospital,General Medicine, 8.0 
+5153,ONG,Homeopath, 9.6 
+5154,Otro,Ayurveda, 8.0 
+5155,Medico,Ayurveda, 8.0 
+5156,Especialista,Homeopath, 8.0 
+5157,Clinica,Dentist, 8.0 
+5158,Hospital,General Medicine, 9.9 
+5159,ONG,Homeopath, 9.9 
+5160,Otro,General Medicine, 8.0 
+5161,Medico,ENT Specialist, 9.3 
+5162,Especialista,General Medicine, 8.0 
+5163,Clinica,Dermatologists, 8.0 
+5164,Hospital,General Medicine, 8.0 
+5165,ONG,Dentist, 8.0 
+5166,Otro,General Medicine, 8.0 
+5167,Medico,Homeopath, 8.0 
+5168,Especialista,Ayurveda, 8.0 
+5169,Clinica,Dermatologists, 9.8 
+5170,Hospital,Dentist, 8.0 
+5171,ONG,Homeopath, 8.0 
+5172,Otro,Homeopath, 8.0 
+5173,Medico,General Medicine, 8.0 
+5174,Especialista,General Medicine, 8.0 
+5175,Clinica,General Medicine, 8.0 
+5176,Hospital,Dermatologists, 8.0 
+5177,ONG,Dentist, 9.9 
+5178,Otro,Homeopath, 9.6 
+5179,Medico,Dermatologists, 8.0 
+5180,Especialista,Dentist, 9.7 
+5181,Clinica,Dermatologists, 8.0 
+5182,Hospital,Ayurveda, 9.4 
+5183,ONG,Ayurveda, 8.0 
+5184,Otro,ENT Specialist, 8.0 
+5185,Medico,General Medicine, 8.0 
+5186,Especialista,Ayurveda, 8.0 
+5187,Clinica,Dermatologists, 8.0 
+5188,Hospital,General Medicine, 8.0 
+5189,ONG,General Medicine, 9.3 
+5190,Otro,Dentist, 10.0 
+5191,Medico,Dermatologists, 8.0 
+5192,Especialista,Ayurveda, 10.0 
+5193,Clinica,Dentist, 8.0 
+5194,Hospital,Ayurveda, 8.0 
+5195,ONG,ENT Specialist, 8.0 
+5196,Otro,Ayurveda, 8.0 
+5197,Medico,Homeopath, 8.0 
+5198,Especialista,ENT Specialist, 8.0 
+5199,Clinica,General Medicine, 8.0 
+5200,Hospital,General Medicine, 8.0 
+5201,ONG,Dentist, 8.0 
+5202,Otro,ENT Specialist, 10.0 
+5203,Medico,General Medicine, 8.0 
+5204,Especialista,ENT Specialist, 8.0 
+5205,Clinica,General Medicine, 8.0 
+5206,Hospital,General Medicine, 9.8 
+5207,ONG,Dentist, 8.0 
+5208,Otro,Dermatologists, 9.8 
+5209,Medico,Dentist, 8.0 
+5210,Especialista,General Medicine, 10.0 
+5211,Clinica,General Medicine, 8.0 
+5212,Hospital,General Medicine, 10.0 
+5213,ONG,General Medicine, 9.7 
+5214,Otro,Dentist, 10.0 
+5215,Medico,Dentist, 9.7 
+5216,Especialista,Homeopath, 8.0 
+5217,Clinica,Homeopath, 8.0 
+5218,Hospital,General Medicine, 8.0 
+5219,ONG,General Medicine, 8.0 
+5220,Otro,Dentist, 8.0 
+5221,Medico,Dentist, 9.9 
+5222,Especialista,Homeopath, 8.0 
+5223,Clinica,Dermatologists, 8.0 
+5224,Hospital,Dentist, 10.0 
+5225,ONG,General Medicine, 8.0 
+5226,Otro,General Medicine, 8.0 
+5227,Medico,General Medicine, 8.0 
+5228,Especialista,Ayurveda, 8.0 
+5229,Clinica,ENT Specialist, 8.0 
+5230,Hospital,Ayurveda, 8.0 
+5231,ONG,Dermatologists, 8.0 
+5232,Otro,General Medicine, 9.6 
+5233,Medico,General Medicine, 9.5 
+5234,Especialista,General Medicine, 8.0 
+5235,Clinica,ENT Specialist, 9.9 
+5236,Hospital,Dentist, 8.0 
+5237,ONG,ENT Specialist, 9.9 
+5238,Otro,ENT Specialist, 8.0 
+5239,Medico,Homeopath, 8.9 
+5240,Especialista,Homeopath, 8.0 
+5241,Clinica,Homeopath, 9.6 
+5242,Hospital,Dentist, 8.0 
+5243,ONG,Homeopath, 8.0 
+5244,Otro,ENT Specialist, 9.4 
+5245,Medico,Dentist, 0.6 
+5246,Especialista,Dentist, 9.8 
+5247,Clinica,Dermatologists, 9.5 
+5248,Hospital,Dentist, 8.0 
+5249,ONG,Homeopath, 9.8 
+5250,Otro,General Medicine, 0.7 
+5251,Medico,Dentist, 8.0 
+5252,Especialista,Dentist, 8.0 
+5253,Clinica,General Medicine, 9.7 
+5254,Hospital,Dermatologists, 8.9 
+5255,ONG,Dermatologists, 8.0 
+5256,Otro,Dermatologists, 9.6 
+5257,Medico,Homeopath, 9.7 
+5258,Especialista,Dentist, 10.0 
+5259,Clinica,Dermatologists, 8.0 
+5260,Hospital,Ayurveda, 9.5 
+5261,ONG,Ayurveda, 8.0 
+5262,Otro,ENT Specialist, 8.0 
+5263,Medico,Dentist, 7.8 
+5264,Especialista,Homeopath, 8.0 
+5265,Clinica,General Medicine, 10.0 
+5266,Hospital,Dermatologists, 8.0 
+5267,ONG,Dermatologists, 10.0 
+5268,Otro,ENT Specialist, 8.0 
+5269,Medico,Dermatologists, 8.0 
+5270,Especialista,Dentist, 9.4 
+5271,Clinica,ENT Specialist, 9.9 
+5272,Hospital,ENT Specialist, 8.0 
+5273,ONG,General Medicine, 8.0 
+5274,Otro,Dentist, 8.0 
+5275,Medico,Homeopath, 8.0 
+5276,Especialista,General Medicine, 8.0 
+5277,Clinica,General Medicine, 8.0 
+5278,Hospital,General Medicine, 8.0 
+5279,ONG,Homeopath, 9.8 
+5280,Otro,General Medicine, 8.0 
+5281,Medico,Dentist, 8.0 
+5282,Especialista,Homeopath, 9.9 
+5283,Clinica,ENT Specialist, 8.0 
+5284,Hospital,Dentist, 9.9 
+5285,ONG,Ayurveda, 10.0 
+5286,Otro,ENT Specialist, 8.0 
+5287,Medico,Ayurveda, 8.0 
+5288,Especialista,Ayurveda, 8.0 
+5289,Clinica,Dermatologists, 10.0 
+5290,Hospital,General Medicine, 8.0 
+5291,ONG,Ayurveda, 8.0 
+5292,Otro,Homeopath, 8.0 
+5293,Medico,Dentist, 8.0 
+5294,Especialista,Ayurveda, 8.0 
+5295,Clinica,General Medicine, 8.0 
+5296,Hospital,Ayurveda, 8.0 
+5297,ONG,Homeopath, 8.0 
+5298,Otro,ENT Specialist, 8.0 
+5299,Medico,Dermatologists, 0.7 
+5300,Especialista,Dentist, 9.4 
+5301,Clinica,ENT Specialist, 8.0 
+5302,Hospital,Ayurveda, 8.0 
+5303,ONG,Ayurveda, 8.0 
+5304,Otro,General Medicine, 8.0 
+5305,Medico,General Medicine, 8.0 
+5306,Especialista,Dermatologists, 8.5 
+5307,Clinica,Homeopath, 8.0 
+5308,Hospital,Ayurveda, 9.8 
+5309,ONG,Dermatologists, 8.0 
+5310,Otro,Dentist, 8.0 
+5311,Medico,Dentist, 9.2 
+5312,Especialista,Dermatologists, 10.0 
+5313,Clinica,Dentist, 9.8 
+5314,Hospital,Dermatologists, 8.0 
+5315,ONG,Dentist, 9.6 
+5316,Otro,Dermatologists, 10.0 
+5317,Medico,Dermatologists, 0.8 
+5318,Especialista,Dermatologists, 9.6 
+5319,Clinica,ENT Specialist, 8.0 
+5320,Hospital,Dermatologists, 8.0 
+5321,ONG,Dentist, 8.0 
+5322,Otro,Dentist, 8.0 
+5323,Medico,General Medicine, 8.0 
+5324,Especialista,General Medicine, 8.0 
+5325,Clinica,Ayurveda, 9.0 
+5326,Hospital,Ayurveda, 10.0 
+5327,ONG,Dermatologists, 10.0 
+5328,Otro,Ayurveda, 9.5 
+5329,Medico,Homeopath, 10.0 
+5330,Especialista,Dentist, 8.0 
+5331,Clinica,Ayurveda, 8.0 
+5332,Hospital,Dentist, 9.8 
+5333,ONG,Dermatologists, 9.8 
+5334,Otro,Dentist, 9.3 
+5335,Medico,Dermatologists, 9.8 
+5336,Especialista,General Medicine, 9.3 
+5337,Clinica,General Medicine, 8.0 
+5338,Hospital,Dermatologists, 8.0 
+5339,ONG,Dentist, 9.3 
+5340,Otro,Ayurveda, 9.8 
+5341,Medico,Dentist, 8.0 
+5342,Especialista,Homeopath, 8.0 
+5343,Clinica,Ayurveda, 8.0 
+5344,Hospital,Ayurveda, 9.5 
+5345,ONG,Dentist, 8.0 
+5346,Otro,Dentist, 8.0 
+5347,Medico,ENT Specialist, 9.8 
+5348,Especialista,Ayurveda, 9.3 
+5349,Clinica,General Medicine, 8.0 
+5350,Hospital,Dermatologists, 8.0 
+5351,ONG,General Medicine, 8.0 
+5352,Otro,Dentist, 0.8 
+5353,Medico,General Medicine, 9.8 
+5354,Especialista,Homeopath, 8.0 
+5355,Clinica,Homeopath, 8.0 
+5356,Hospital,Dermatologists, 8.0 
+5357,ONG,General Medicine, 8.0 
+5358,Otro,Ayurveda, 8.0 
+5359,Medico,Dermatologists, 9.8 
+5360,Especialista,Dentist, 9.0 
+5361,Clinica,Dentist, 8.6 
+5362,Hospital,General Medicine, 9.9 
+5363,ONG,Homeopath, 8.0 
+5364,Otro,Homeopath, 8.0 
+5365,Medico,Dermatologists, 8.0 
+5366,Especialista,Dentist, 8.0 
+5367,Clinica,Dentist, 8.0 
+5368,Hospital,Homeopath, 9.8 
+5369,ONG,Homeopath, 8.0 
+5370,Otro,Ayurveda, 8.0 
+5371,Medico,Dermatologists, 9.0 
+5372,Especialista,General Medicine, 8.0 
+5373,Clinica,General Medicine, 8.0 
+5374,Hospital,Homeopath, 8.0 
+5375,ONG,General Medicine, 8.0 
+5376,Otro,Homeopath, 8.0 
+5377,Medico,Homeopath, 8.0 
+5378,Especialista,ENT Specialist, 8.0 
+5379,Clinica,ENT Specialist, 8.0 
+5380,Hospital,Homeopath, 8.0 
+5381,ONG,Ayurveda, 8.0 
+5382,Otro,Ayurveda, 8.0 
+5383,Medico,Dentist, 8.0 
+5384,Especialista,Homeopath, 9.3 
+5385,Clinica,Ayurveda, 8.0 
+5386,Hospital,Dermatologists, 9.7 
+5387,ONG,Homeopath, 9.5 
+5388,Otro,General Medicine, 9.9 
+5389,Medico,ENT Specialist, 8.0 
+5390,Especialista,Dentist, 8.0 
+5391,Clinica,Dermatologists, 9.8 
+5392,Hospital,General Medicine, 9.9 
+5393,ONG,Dentist, 9.6 
+5394,Otro,General Medicine, 8.0 
+5395,Medico,General Medicine, 10.0 
+5396,Especialista,Homeopath, 8.0 
+5397,Clinica,Dentist, 8.0 
+5398,Hospital,Dentist, 10.0 
+5399,ONG,Dentist, 8.0 
+5400,Otro,Dentist, 8.0 
+5401,Medico,Dentist, 8.0 
+5402,Especialista,Homeopath, 10.0 
+5403,Clinica,General Medicine, 8.0 
+5404,Hospital,Ayurveda, 8.0 
+5405,ONG,Ayurveda, 8.0 
+5406,Otro,General Medicine, 8.0 
+5407,Medico,Dermatologists, 8.0 
+5408,Especialista,General Medicine, 9.0 
+5409,Clinica,General Medicine, 8.0 
+5410,Hospital,Dermatologists, 8.2 
+5411,ONG,Dentist, 8.0 
+5412,Otro,Ayurveda, 9.5 
+5413,Medico,ENT Specialist, 8.0 
+5414,Especialista,General Medicine, 9.0 
+5415,Clinica,Ayurveda, 8.0 
+5416,Hospital,Dermatologists, 8.0 
+5417,ONG,Dermatologists, 10.0 
+5418,Otro,Dentist, 9.7 
+5419,Medico,Dermatologists, 8.0 
+5420,Especialista,Homeopath, 9.7 
+5421,Clinica,Dermatologists, 8.0 
+5422,Hospital,ENT Specialist, 8.9 
+5423,ONG,General Medicine, 0.6 
+5424,Otro,Dentist, 8.0 
+5425,Medico,ENT Specialist, 10.0 
+5426,Especialista,Dentist, 8.0 
+5427,Clinica,Homeopath, 9.6 
+5428,Hospital,Dermatologists, 8.0 
+5429,ONG,General Medicine, 810.0 
+5430,Otro,Dermatologists, 8.0 
+5431,Medico,General Medicine, 8.0 
+5432,Especialista,General Medicine, 9.6 
+5433,Clinica,Ayurveda, 9.6 
+5434,Hospital,General Medicine, 8.6 
+5435,ONG,Dermatologists, 8.0 
+5436,Otro,Ayurveda, 9.9 
+5437,Medico,Homeopath, 8.0 
+5438,Especialista,Dentist, 8.0 
+5439,Clinica,Ayurveda, 8.0 
+5440,Hospital,General Medicine, 9.9 
+5441,ONG,General Medicine, 8.0 
+5442,Otro,ENT Specialist, 9.9 
+5443,Medico,Dermatologists, 8.0 
+5444,Especialista,ENT Specialist, 9.8 
+5445,Clinica,General Medicine, 8.0 
+5446,Hospital,Dermatologists, 8.0 
+5447,ONG,Dentist, 8.5 
+5448,Otro,Ayurveda, 8.0 
+5449,Medico,ENT Specialist, 8.0 
+5450,Especialista,Dentist, 9.0 
+5451,Clinica,Dermatologists, 9.8 
+5452,Hospital,Dentist, 9.5 
+5453,ONG,Homeopath, 9.8 
+5454,Otro,Ayurveda, 10.0 
+5455,Medico,Ayurveda, 8.0 
+5456,Especialista,Dermatologists, 8.0 
+5457,Clinica,Dentist, 8.0 
+5458,Hospital,Homeopath, 8.0 
+5459,ONG,Dermatologists, 9.9 
+5460,Otro,General Medicine, 9.2 
+5461,Medico,ENT Specialist, 8.0 
+5462,Especialista,Ayurveda, 5.6 
+5463,Clinica,Dermatologists, 8.0 
+5464,Hospital,Ayurveda, 8.0 
+5465,ONG,Dentist, 8.0 
+5466,Otro,Ayurveda, 10.0 
+5467,Medico,Dermatologists, 8.0 
+5468,Especialista,ENT Specialist, 8.0 
+5469,Clinica,Dentist, 8.0 
+5470,Hospital,Dentist, 8.0 
+5471,ONG,Dentist, 10.0 
+5472,Otro,Dentist, 8.0 
+5473,Medico,General Medicine, 8.0 
+5474,Especialista,Dentist, 10.0 
+5475,Clinica,General Medicine, 9.7 
+5476,Hospital,ENT Specialist, 8.0 
+5477,ONG,Dentist, 8.0 
+5478,Otro,ENT Specialist, 8.0 
+5479,Medico,Dentist, 8.0 
+5480,Especialista,Ayurveda, 10.0 
+5481,Clinica,Ayurveda, 10.0 
+5482,Hospital,Ayurveda, 8.0 
+5483,ONG,General Medicine, 8.0 
+5484,Otro,General Medicine, 10.0 
+5485,Medico,Homeopath, 8.0 
+5486,Especialista,Homeopath, 9.8 
+5487,Clinica,Ayurveda, 8.0 
+5488,Hospital,Ayurveda, 8.0 
+5489,ONG,ENT Specialist, 9.6 
+5490,Otro,Dentist, 8.0 
+5491,Medico,Ayurveda, 8.0 
+5492,Especialista,Dermatologists, 8.0 
+5493,Clinica,Homeopath, 8.0 
+5494,Hospital,Dentist, 8.0 
+5495,ONG,Dermatologists, 8.0 
+5496,Otro,General Medicine, 8.0 
+5497,Medico,Homeopath, 10.0 
+5498,Especialista,Homeopath, 8.0 
+5499,Clinica,Dermatologists, 8.0 
+5500,Hospital,Dentist, 9.0 
+5501,ONG,Ayurveda, 10.0 
+5502,Otro,ENT Specialist, 8.0 
+5503,Medico,Dermatologists, 0.8 
+5504,Especialista,Dentist, 10.0 
+5505,Clinica,ENT Specialist, 8.0 
+5506,Hospital,ENT Specialist, 9.8 
+5507,ONG,Dentist, 9.5 
+5508,Otro,Dermatologists, 10.0 
+5509,Medico,Dermatologists, 8.9 
+5510,Especialista,General Medicine, 8.0 
+5511,Clinica,Homeopath, 8.0 
+5512,Hospital,Ayurveda, 9.8 
+5513,ONG,Dermatologists, 8.0 
+5514,Otro,ENT Specialist, 9.3 
+5515,Medico,ENT Specialist, 8.0 
+5516,Especialista,Dermatologists, 8.0 
+5517,Clinica,Dentist, 8.0 
+5518,Hospital,Dentist, 8.0 
+5519,ONG,Dentist, 8.0 
+5520,Otro,ENT Specialist, 8.0 
+5521,Medico,Ayurveda, 810.0 
+5522,Especialista,Ayurveda, 8.0 
+5523,Clinica,ENT Specialist, 8.0 
+5524,Hospital,Ayurveda, 7.8 
+5525,ONG,Ayurveda, 8.0 
+5526,Otro,ENT Specialist, 8.0 
+5527,Medico,Homeopath, 8.0 
+5528,Especialista,Dentist, 8.0 
+5529,Clinica,General Medicine, 8.0 
+5530,Hospital,Homeopath, 9.3 
+5531,ONG,Dermatologists, 8.0 
+5532,Otro,Dentist, 0.8 
+5533,Medico,Homeopath, 8.0 
+5534,Especialista,ENT Specialist, 8.0 
+5535,Clinica,Homeopath, 8.0 
+5536,Hospital,Dermatologists, 9.3 
+5537,ONG,General Medicine, 8.0 
+5538,Otro,Dentist, 8.0 
+5539,Medico,Dentist, 10.0 
+5540,Especialista,General Medicine, 8.0 
+5541,Clinica,Dermatologists, 8.0 
+5542,Hospital,Homeopath, 8.0 
+5543,ONG,ENT Specialist, 10.0 
+5544,Otro,ENT Specialist, 9.2 
+5545,Medico,Dentist, 8.0 
+5546,Especialista,Dermatologists, 10.0 
+5547,Clinica,Ayurveda, 9.3 
+5548,Hospital,ENT Specialist, 8.0 
+5549,ONG,Dermatologists, 8.0 
+5550,Otro,Ayurveda, 10.0 
+5551,Medico,Dermatologists, 8.8 
+5552,Especialista,General Medicine, 8.0 
+5553,Clinica,General Medicine, 9.7 
+5554,Hospital,Dentist, 8.0 
+5555,ONG,Homeopath, 9.6 
+5556,Otro,General Medicine, 8.0 
+5557,Medico,Ayurveda, 8.0 
+5558,Especialista,ENT Specialist, 8.0 
+5559,Clinica,Homeopath, 8.0 
+5560,Hospital,Dentist, 8.0 
+5561,ONG,Ayurveda, 9.7 
+5562,Otro,General Medicine, 8.0 
+5563,Medico,Ayurveda, 10.0 
+5564,Especialista,General Medicine, 8.0 
+5565,Clinica,Dentist, 8.0 
+5566,Hospital,Dentist, 8.0 
+5567,ONG,Homeopath, 8.0 
+5568,Otro,Ayurveda, 10.0 
+5569,Medico,Dermatologists, 8.0 
+5570,Especialista,Dentist, 9.5 
+5571,Clinica,Dentist, 9.9 
+5572,Hospital,Ayurveda, 9.8 
+5573,ONG,Dermatologists, 8.0 
+5574,Otro,ENT Specialist, 9.5 
+5575,Medico,ENT Specialist, 8.0 
+5576,Especialista,Dermatologists, 8.0 
+5577,Clinica,Homeopath, 9.5 
+5578,Hospital,ENT Specialist, 8.0 
+5579,ONG,General Medicine, 8.0 
+5580,Otro,ENT Specialist, 8.0 
+5581,Medico,Dermatologists, 10.0 
+5582,Especialista,Dentist, 10.0 
+5583,Clinica,General Medicine, 8.0 
+5584,Hospital,Dentist, 8.0 
+5585,ONG,Homeopath, 9.8 
+5586,Otro,Dermatologists, 8.0 
+5587,Medico,General Medicine, 8.0 
+5588,Especialista,Homeopath, 8.0 
+5589,Clinica,ENT Specialist, 8.0 
+5590,Hospital,Homeopath, 8.0 
+5591,ONG,Ayurveda, 10.0 
+5592,Otro,ENT Specialist, 9.7 
+5593,Medico,General Medicine, 8.0 
+5594,Especialista,Dentist, 9.8 
+5595,Clinica,General Medicine, 8.0 
+5596,Hospital,Homeopath, 9.5 
+5597,ONG,General Medicine, 8.0 
+5598,Otro,Dentist, 9.5 
+5599,Medico,Ayurveda, 8.0 
+5600,Especialista,Dentist, 8.0 
+5601,Clinica,Dentist, 9.9 
+5602,Hospital,Dermatologists, 8.0 
+5603,ONG,Dermatologists, 10.0 
+5604,Otro,Dentist, 8.8 
+5605,Medico,ENT Specialist, 9.7 
+5606,Especialista,Dentist, 9.2 
+5607,Clinica,Dentist, 9.8 
+5608,Hospital,Dermatologists, 9.5 
+5609,ONG,ENT Specialist, 8.6 
+5610,Otro,Homeopath, 8.0 
+5611,Medico,General Medicine, 9.3 
+5612,Especialista,ENT Specialist, 8.0 
+5613,Clinica,Dermatologists, 0.7 
+5614,Hospital,Homeopath, 8.2 
+5615,ONG,General Medicine, 10.0 
+5616,Otro,Dentist, 0.7 
+5617,Medico,General Medicine, 8.0 
+5618,Especialista,Dentist, 9.4 
+5619,Clinica,Ayurveda, 8.0 
+5620,Hospital,Homeopath, 9.6 
+5621,ONG,General Medicine, 9.9 
+5622,Otro,Dentist, 9.5 
+5623,Medico,General Medicine, 9.7 
+5624,Especialista,Dentist, 10.0 
+5625,Clinica,Dentist, 9.8 
+5626,Hospital,General Medicine, 9.9 
+5627,ONG,Dentist, 8.0 
+5628,Otro,ENT Specialist, 9.4 
+5629,Medico,General Medicine, 9.0 
+5630,Especialista,Ayurveda, 8.0 
+5631,Clinica,General Medicine, 9.6 
+5632,Hospital,Dentist, 8.0 
+5633,ONG,ENT Specialist, 10.0 
+5634,Otro,Ayurveda, 8.0 
+5635,Medico,Dermatologists, 8.0 
+5636,Especialista,Dermatologists, 8.0 
+5637,Clinica,General Medicine, 7.8 
+5638,Hospital,Ayurveda, 8.0 
+5639,ONG,ENT Specialist, 8.0 
+5640,Otro,Dermatologists, 8.0 
+5641,Medico,General Medicine, 9.6 
+5642,Especialista,ENT Specialist, 8.0 
+5643,Clinica,General Medicine, 8.0 
+5644,Hospital,Ayurveda, 9.6 
+5645,ONG,Homeopath, 8.0 
+5646,Otro,ENT Specialist, 8.0 
+5647,Medico,Ayurveda, 8.0 
+5648,Especialista,Dentist, 0.8 
+5649,Clinica,Dentist, 9.9 
+5650,Hospital,Homeopath, 9.7 
+5651,ONG,Dentist, 8.0 
+5652,Otro,ENT Specialist, 10.0 
+5653,Medico,ENT Specialist, 10.0 
+5654,Especialista,Homeopath, 10.0 
+5655,Clinica,General Medicine, 8.0 
+5656,Hospital,Dermatologists, 8.0 
+5657,ONG,Dentist, 8.0 
+5658,Otro,Dentist, 10.0 
+5659,Medico,Dermatologists, 9.7 
+5660,Especialista,Ayurveda, 9.7 
+5661,Clinica,Homeopath, 8.0 
+5662,Hospital,Dentist, 8.0 
+5663,ONG,Dermatologists, 9.7 
+5664,Otro,General Medicine, 6.4 
+5665,Medico,Dermatologists, 8.0 
+5666,Especialista,ENT Specialist, 8.0 
+5667,Clinica,General Medicine, 10.0 
+5668,Hospital,General Medicine, 8.0 
+5669,ONG,Homeopath, 8.0 
+5670,Otro,Dentist, 8.0 
+5671,Medico,Ayurveda, 10.0 
+5672,Especialista,Dentist, 10.0 
+5673,Clinica,Dermatologists, 10.0 
+5674,Hospital,Dentist, 8.0 
+5675,ONG,ENT Specialist, 8.0 
+5676,Otro,Homeopath, 10.0 
+5677,Medico,General Medicine, 10.0 
+5678,Especialista,Dentist, 8.0 
+5679,Clinica,Dermatologists, 8.0 
+5680,Hospital,ENT Specialist, 8.0 
+5681,ONG,General Medicine, 8.0 
+5682,Otro,ENT Specialist, 8.0 
+5683,Medico,Ayurveda, 8.0 
+5684,Especialista,Dermatologists, 9.8 
+5685,Clinica,Dermatologists, 9.9 
+5686,Hospital,General Medicine, 9.8 
+5687,ONG,Dentist, 9.7 
+5688,Otro,ENT Specialist, 9.8 
+5689,Medico,ENT Specialist, 8.0 
+5690,Especialista,Homeopath, 8.0 
+5691,Clinica,General Medicine, 8.0 
+5692,Hospital,Dermatologists, 8.3 
+5693,ONG,Dermatologists, 10.0 
+5694,Otro,ENT Specialist, 8.0 
+5695,Medico,Ayurveda, 10.0 
+5696,Especialista,Dermatologists, 8.0 
+5697,Clinica,Dentist, 9.5 
+5698,Hospital,Ayurveda, 8.0 
+5699,ONG,Dermatologists, 8.0 
+5700,Otro,ENT Specialist, 9.8 
+5701,Medico,Ayurveda, 8.0 
+5702,Especialista,General Medicine, 8.0 
+5703,Clinica,Ayurveda, 8.0 
+5704,Hospital,Dermatologists, 8.0 
+5705,ONG,General Medicine, 9.0 
+5706,Otro,ENT Specialist, 9.4 
+5707,Medico,General Medicine, 9.6 
+5708,Especialista,General Medicine, 9.8 
+5709,Clinica,ENT Specialist, 8.0 
+5710,Hospital,Dermatologists, 10.0 
+5711,ONG,Ayurveda, 8.0 
+5712,Otro,Dermatologists, 9.9 
+5713,Medico,Homeopath, 8.0 
+5714,Especialista,Dentist, 8.0 
+5715,Clinica,Dermatologists, 8.0 
+5716,Hospital,Dentist, 8.0 
+5717,ONG,ENT Specialist, 10.0 
+5718,Otro,General Medicine, 8.0 
+5719,Medico,Ayurveda, 8.0 
+5720,Especialista,General Medicine, 8.0 
+5721,Clinica,General Medicine, 8.0 
+5722,Hospital,Dermatologists, 10.0 
+5723,ONG,Dermatologists, 8.0 
+5724,Otro,Dentist, 8.0 
+5725,Medico,Dentist, 8.0 
+5726,Especialista,Ayurveda, 9.4 
+5727,Clinica,Dermatologists, 8.0 
+5728,Hospital,Ayurveda, 8.0 
+5729,ONG,Dermatologists, 9.7 
+5730,Otro,Dermatologists, 8.0 
+5731,Medico,ENT Specialist, 9.5 
+5732,Especialista,General Medicine, 8.3 
+5733,Clinica,ENT Specialist, 8.0 
+5734,Hospital,Ayurveda, 8.3 
+5735,ONG,Dermatologists, 8.0 
+5736,Otro,ENT Specialist, 8.0 
+5737,Medico,General Medicine, 8.9 
+5738,Especialista,Homeopath, 8.0 
+5739,Clinica,Dentist, 10.0 
+5740,Hospital,Dentist, 9.9 
+5741,ONG,Dentist, 8.0 
+5742,Otro,Dermatologists, 9.8 
+5743,Medico,Ayurveda, 8.0 
+5744,Especialista,General Medicine, 8.0 
+5745,Clinica,Ayurveda, 9.7 
+5746,Hospital,Dentist, 8.0 
+5747,ONG,Dentist, 8.0 
+5748,Otro,Dentist, 8.0 
+5749,Medico,Ayurveda, 10.0 
+5750,Especialista,Ayurveda, 9.6 
+5751,Clinica,Ayurveda, 8.0 
+5752,Hospital,Dentist, 8.0 
+5753,ONG,Homeopath, 10.0 
+5754,Otro,ENT Specialist, 8.0 
+5755,Medico,Dermatologists, 8.0 
+5756,Especialista,ENT Specialist, 8.0 
+5757,Clinica,Homeopath, 9.2 
+5758,Hospital,Dentist, 8.0 
+5759,ONG,Ayurveda, 8.0 
+5760,Otro,ENT Specialist, 8.0 
+5761,Medico,Dentist, 8.0 
+5762,Especialista,Dentist, 10.0 
+5763,Clinica,Dermatologists, 9.6 
+5764,Hospital,Dentist, 9.4 
+5765,ONG,Dentist, 9.9 
+5766,Otro,Dermatologists, 8.0 
+5767,Medico,Dermatologists, 8.0 
+5768,Especialista,Homeopath, 8.0 
+5769,Clinica,General Medicine, 8.0 
+5770,Hospital,Homeopath, 8.0 
+5771,ONG,Dermatologists, 10.0 
+5772,Otro,Dermatologists, 9.0 
+5773,Medico,General Medicine, 10.0 
+5774,Especialista,ENT Specialist, 8.0 
+5775,Clinica,Dentist, 8.0 
+5776,Hospital,Dermatologists, 9.5 
+5777,ONG,General Medicine, 8.2 
+5778,Otro,Ayurveda, 8.0 
+5779,Medico,General Medicine, 8.0 
+5780,Especialista,Dentist, 8.0 
+5781,Clinica,General Medicine, 10.0 
+5782,Hospital,Dentist, 9.7 
+5783,ONG,Homeopath, 8.0 
+5784,Otro,Ayurveda, 8.0 
+5785,Medico,Homeopath, 8.0 
+5786,Especialista,Ayurveda, 8.0 
+5787,Clinica,Ayurveda, 8.0 
+5788,Hospital,General Medicine, 9.9 
+5789,ONG,General Medicine, 8.0 
+5790,Otro,Dentist, 8.0 
+5791,Medico,General Medicine, 8.0 
+5792,Especialista,Dentist, 8.0 
+5793,Clinica,Dentist, 8.0 
+5794,Hospital,General Medicine, 10.0 
+5795,ONG,General Medicine, 8.0 
+5796,Otro,Ayurveda, 8.0 
+5797,Medico,General Medicine, 8.0 
+5798,Especialista,Dentist, 8.0 
+5799,Clinica,Dentist, 8.0 
+5800,Hospital,Homeopath, 8.0 
+5801,ONG,Dentist, 9.8 
+5802,Otro,Dentist, 10.0 
+5803,Medico,Dentist, 9.8 
+5804,Especialista,Homeopath, 10.0 
+5805,Clinica,ENT Specialist, 9.9 
+5806,Hospital,ENT Specialist, 9.5 
+5807,ONG,General Medicine, 8.0 
+5808,Otro,Ayurveda, 8.0 
+5809,Medico,Dentist, 8.0 
+5810,Especialista,General Medicine, 10.0 
+5811,Clinica,Dentist, 9.7 
+5812,Hospital,Ayurveda, 9.9 
+5813,ONG,Dentist, 8.0 
+5814,Otro,Homeopath, 9.8 
+5815,Medico,Homeopath, 8.0 
+5816,Especialista,Ayurveda, 8.0 
+5817,Clinica,Ayurveda, 9.9 
+5818,Hospital,Homeopath, 8.0 
+5819,ONG,Homeopath, 8.0 
+5820,Otro,Dermatologists, 8.0 
+5821,Medico,General Medicine, 9.4 
+5822,Especialista,Dermatologists, 8.0 
+5823,Clinica,ENT Specialist, 9.2 
+5824,Hospital,General Medicine, 8.0 
+5825,ONG,Dentist, 8.0 
+5826,Otro,Dermatologists, 8.0 
+5827,Medico,Dentist, 9.6 
+5828,Especialista,General Medicine, 8.0 
+5829,Clinica,Ayurveda, 9.6 
+5830,Hospital,Homeopath, 8.0 
+5831,ONG,Dermatologists, 10.0 
+5832,Otro,General Medicine, 8.0 
+5833,Medico,Ayurveda, 8.0 
+5834,Especialista,ENT Specialist, 8.0 
+5835,Clinica,ENT Specialist, 8.0 
+5836,Hospital,Homeopath, 8.0 
+5837,ONG,Ayurveda, 8.0 
+5838,Otro,General Medicine, 8.0 
+5839,Medico,Dermatologists, 9.9 
+5840,Especialista,General Medicine, 9.8 
+5841,Clinica,General Medicine, 0.8 
+5842,Hospital,Dentist, 8.0 
+5843,ONG,Homeopath, 8.0 
+5844,Otro,General Medicine, 8.0 
+5845,Medico,Ayurveda, 8.0 
+5846,Especialista,General Medicine, 8.0 
+5847,Clinica,Dermatologists, 8.0 
+5848,Hospital,Dermatologists, 8.0 
+5849,ONG,Dermatologists, 8.0 
+5850,Otro,Ayurveda, 8.0 
+5851,Medico,General Medicine, 8.0 
+5852,Especialista,Dentist, 8.0 
+5853,Clinica,Dermatologists, 10.0 
+5854,Hospital,Dermatologists, 9.9 
+5855,ONG,Homeopath, 8.0 
+5856,Otro,Homeopath, 9.6 
+5857,Medico,Dermatologists, 8.0 
+5858,Especialista,Homeopath, 9.2 
+5859,Clinica,Ayurveda, 9.5 
+5860,Hospital,Ayurveda, 8.0 
+5861,ONG,Homeopath, 10.0 
+5862,Otro,General Medicine, 8.0 
+5863,Medico,Dermatologists, 0.7 
+5864,Especialista,General Medicine, 9.4 
+5865,Clinica,Dermatologists, 8.0 
+5866,Hospital,Dentist, 8.9 
+5867,ONG,ENT Specialist, 9.9 
+5868,Otro,Dentist, 8.9 
+5869,Medico,Ayurveda, 9.6 
+5870,Especialista,Ayurveda, 8.0 
+5871,Clinica,Dermatologists, 8.0 
+5872,Hospital,Ayurveda, 9.7 
+5873,ONG,General Medicine, 8.0 
+5874,Otro,General Medicine, 8.0 
+5875,Medico,Homeopath, 8.0 
+5876,Especialista,Dermatologists, 8.0 
+5877,Clinica,ENT Specialist, 8.0 
+5878,Hospital,Dentist, 9.7 
+5879,ONG,ENT Specialist, 9.9 
+5880,Otro,Ayurveda, 8.5 
+5881,Medico,Dentist, 10.0 
+5882,Especialista,Dermatologists, 9.7 
+5883,Clinica,Dentist, 8.0 
+5884,Hospital,General Medicine, 9.5 
+5885,ONG,General Medicine, 8.7 
+5886,Otro,Dermatologists, 8.0 
+5887,Medico,Dermatologists, 10.0 
+5888,Especialista,Ayurveda, 10.0 
+5889,Clinica,Dermatologists, 8.0 
+5890,Hospital,Homeopath, 10.0 
+5891,ONG,Ayurveda, 8.0 
+5892,Otro,Dermatologists, 8.0 
+5893,Medico,Dermatologists, 5.3 
+5894,Especialista,Ayurveda, 8.0 
+5895,Clinica,General Medicine, 8.0 
+5896,Hospital,Dermatologists, 8.0 
+5897,ONG,ENT Specialist, 9.8 
+5898,Otro,ENT Specialist, 8.0 
+5899,Medico,Dentist, 8.0 
+5900,Especialista,General Medicine, 10.0 
+5901,Clinica,Dermatologists, 8.2 
+5902,Hospital,General Medicine, 10.0 
+5903,ONG,Dentist, 8.0 
+5904,Otro,General Medicine, 9.9 
+5905,Medico,Dermatologists, 8.0 
+5906,Especialista,ENT Specialist, 8.0 
+5907,Clinica,Dermatologists, 9.5 
+5908,Hospital,ENT Specialist, 8.0 
+5909,ONG,General Medicine, 8.0 
+5910,Otro,Homeopath, 9.4 
+5911,Medico,General Medicine, 8.0 
+5912,Especialista,ENT Specialist, 8.3 
+5913,Clinica,ENT Specialist, 9.4 
+5914,Hospital,General Medicine, 9.7 
+5915,ONG,Homeopath, 8.0 
+5916,Otro,Ayurveda, 8.0 
+5917,Medico,Dentist, 8.0 
+5918,Especialista,Dermatologists, 8.0 
+5919,Clinica,General Medicine, 9.7 
+5920,Hospital,Dermatologists, 8.0 
+5921,ONG,Dentist, 8.0 
+5922,Otro,Dentist, 9.9 
+5923,Medico,Dentist, 9.5 
+5924,Especialista,Dentist, 9.9 
+5925,Clinica,General Medicine, 9.9 
+5926,Hospital,Dermatologists, 9.4 
+5927,ONG,Dermatologists, 8.0 
+5928,Otro,General Medicine, 8.2 
+5929,Medico,General Medicine, 8.8 
+5930,Especialista,Homeopath, 7.9 
+5931,Clinica,General Medicine, 9.7 
+5932,Hospital,Dentist, 9.9 
+5933,ONG,Homeopath, 8.0 
+5934,Otro,Homeopath, 9.6 
+5935,Medico,Dentist, 8.0 
+5936,Especialista,Homeopath, 9.9 
+5937,Clinica,Homeopath, 10.0 
+5938,Hospital,General Medicine, 9.6 
+5939,ONG,Homeopath, 8.0 
+5940,Otro,Dermatologists, 8.0 
+5941,Medico,Homeopath, 8.0 
+5942,Especialista,General Medicine, 8.0 
+5943,Clinica,Dentist, 9.0 
+5944,Hospital,ENT Specialist, 9.5 
+5945,ONG,Dentist, 8.0 
+5946,Otro,Dentist, 8.0 
+5947,Medico,Homeopath, 9.9 
+5948,Especialista,Ayurveda, 8.0 
+5949,Clinica,Homeopath, 8.0 
+5950,Hospital,Dermatologists, 8.0 
+5951,ONG,Dentist, 10.0 
+5952,Otro,General Medicine, 8.0 
+5953,Medico,Homeopath, 8.0 
+5954,Especialista,Homeopath, 9.2 
+5955,Clinica,Homeopath, 8.0 
+5956,Hospital,ENT Specialist, 8.0 
+5957,ONG,General Medicine, 9.8 
+5958,Otro,General Medicine, 8.0 
+5959,Medico,General Medicine, 9.7 
+5960,Especialista,Dentist, 9.0 
+5961,Clinica,ENT Specialist, 10.0 
