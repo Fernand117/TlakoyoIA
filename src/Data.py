@@ -1,10 +1,7 @@
 import pandas as pd
-from math import sqrt
-import numpy as np
-import matplotlib.pyplot as plt
 
 class Data():
-    def __init__(self) -> None:
+    def __init__(self):
         self.medicos = pd.read_csv('../DataSets/DatasetMedicos.csv')
         self.rating = pd.read_csv('../DataSets/MedicosRating.csv')
 
@@ -60,6 +57,7 @@ class Data():
         self.final = self.medicos.loc[self.medicos['Id'].isin(self.recomendaciones.head(5).keys())]
         self.nfinal = self.final[['Tipo'] + ['Especialidad']]
         print('Medicos recomendados: \n', self.nfinal)
+        return self.nfinal
 
 if __name__ == "__main__":
     d = Data()
