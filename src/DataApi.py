@@ -62,11 +62,13 @@ def getRecomendaciones():
 
         final = medicos.loc[medicos['Id'].isin(recomendaciones.head(5).keys())]
         nfinal = final[['Tipo'] + ['Especialidad']]
-        print('Medicos recomendados: \n', final)
+        print('Medicos recomendados: \n', nfinal)
 
         data = json.loads(final.to_json(orient='records'))
 
         resData = {
+            "Code" : 200,
+            "Mensaje" : "Lista de recomendaciones",
             "Recomendaciones" : data
         }
 
